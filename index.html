@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Korea News Reader</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="masthead">
+      <div class="utility-bar">
+        <span>Seoul Edition</span>
+        <span>English practice for Chinese speakers</span>
+        <span id="edition-count">0 editions</span>
+      </div>
+      <div class="brand-row">
+        <div>
+          <p class="eyebrow">Daily English News</p>
+          <h1>Korea News Reader</h1>
+        </div>
+        <div class="brand-actions">
+          <span id="edition-label">Today</span>
+          <a class="source-button" id="primary-source" href="#" target="_blank" rel="noreferrer">Sources</a>
+        </div>
+      </div>
+      <nav class="section-nav" aria-label="News sections">
+        <span>Politics</span>
+        <span>Economy</span>
+        <span>Society</span>
+        <span>Diplomacy</span>
+        <span>Weather</span>
+        <span>English Study</span>
+      </nav>
+    </header>
+
+    <main class="page">
+      <section class="issue" aria-live="polite">
+        <section class="issue-hero">
+          <div class="issue-copy">
+            <p class="eyebrow">Today in Simple English</p>
+            <h2 id="edition-title">Loading news...</h2>
+            <p id="daily-summary"></p>
+            <div class="issue-stats">
+              <span id="story-total">0 stories</span>
+              <span>Full reading inside</span>
+              <span>Dictionary ready</span>
+            </div>
+          </div>
+        </section>
+
+        <div class="content-layout">
+          <article class="article-stream">
+            <div class="stream-heading">
+              <p class="eyebrow">Read the news here</p>
+              <h2>Full Learner Edition</h2>
+              <p>These are original expanded readings based on the day’s main news, written for English practice.</p>
+            </div>
+            <section id="stories" class="stories"></section>
+          </article>
+
+          <aside class="side-rail" aria-label="Tools and archive">
+            <section class="tool-card dictionary-card">
+              <p class="eyebrow">Dictionary</p>
+              <h2>Look Up a Word</h2>
+              <form id="dictionary-form">
+                <label for="dictionary-input">English word or phrase</label>
+                <div class="lookup-row">
+                  <input id="dictionary-input" type="search" autocomplete="off" placeholder="e.g. inquiry">
+                  <button type="submit">Search</button>
+                </div>
+              </form>
+              <div class="dictionary-result" id="dictionary-result">
+                <p>Type a word, or select a word in the article.</p>
+              </div>
+              <div class="dictionary-links" id="dictionary-links">
+                <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/" target="_blank" rel="noreferrer">Cambridge 繁中</a>
+                <a href="https://translate.google.com/?sl=en&tl=zh-TW&op=translate" target="_blank" rel="noreferrer">Google 翻譯</a>
+              </div>
+              <p class="hint">Tip: select any English word in the article to search immediately.</p>
+            </section>
+
+            <section class="tool-card archive-card">
+              <p class="eyebrow">Archive</p>
+              <h2>Saved Days</h2>
+              <nav id="date-list"></nav>
+            </section>
+
+            <section class="tool-card study-panel">
+              <p class="eyebrow">Practice</p>
+              <h2>Read Like This</h2>
+              <ol>
+                <li><strong>Read</strong> one article slowly.</li>
+                <li><strong>Search</strong> unknown words.</li>
+                <li><strong>Write</strong> a three-sentence summary.</li>
+                <li><strong>Speak</strong> one paragraph aloud twice.</li>
+              </ol>
+            </section>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <div id="dictionary-popover" class="dictionary-popover" hidden>
+      <strong id="selected-word"></strong>
+      <div>
+        <a id="popover-cambridge" href="#" target="_blank" rel="noreferrer">Cambridge</a>
+        <a id="popover-translate" href="#" target="_blank" rel="noreferrer">翻譯</a>
+      </div>
+    </div>
+
+    <script src="news-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
