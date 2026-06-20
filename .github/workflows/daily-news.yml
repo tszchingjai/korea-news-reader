@@ -22,8 +22,6 @@ jobs:
 
       - name: Generate today news
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
           TZ: Asia/Seoul
         run: node scripts/update-news.mjs
 
