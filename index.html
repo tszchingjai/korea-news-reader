@@ -108,7 +108,9 @@
       </div>
     </div>
 
-    <script src="news-data.js"></script>
+    <script>
+      document.write(`<script src="news-data.js?v=${Date.now()}"><\/script>`);
+    </script>
     <script src="app.js"></script>
   </body>
 </html>
