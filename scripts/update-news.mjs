@@ -1,41 +1,4 @@
-import fs from "node:fs";
-import vm from "node:vm";
-
-const NEWS_FILE = "news-data.js";
-const MODEL = process.env.OPENAI_MODEL || "gpt-4.1-mini";
-
-if (!process.env.OPENAI_API_KEY) {
-  throw new Error("Missing OPENAI_API_KEY. Add it as a GitHub repository secret.");
-}
-
-const today = new Intl.DateTimeFormat("en-CA", {
-  timeZone: "Asia/Seoul",
-  year: "numeric",
-  month: "2-digit",
-  day: "2-digit"
-}).format(new Date());
-
-const label = new Intl.DateTimeFormat("en-US", {
-  timeZone: "Asia/Seoul",
-  weekday: "long",
-  year: "numeric",
-  month: "long",
-  day: "numeric"
-}).format(new Date());
-
-const archive = readArchive();
-
-if (archive.some((edition) => edition.date === today)) {
-  console.log(`Edition ${today} already exists. Skipping.`);
-  process.exit(0);
-}
-
-const edition = await generateEdition();
-validateEdition(edition);
-
-archive.unshift(edition);
-writeArchive(archive);
-console.log(`Added ${today} edition with ${edition.stories.length} stories.`);
+console.log(`Added ${today} edition with ${stories.length} stories.`);
 
 function readArchive() {
   const source = fs.readFileSync(NEWS_FILE, "utf8");
@@ -49,162 +12,151 @@ function writeArchive(items) {
   fs.writeFileSync(NEWS_FILE, source);
 }
 
-async function generateEdition() {
-  const prompt = `
-Today is ${today} in Korea (${label}).
+async function collectStories() {
+  const allItems = [];
 
-Create one daily Korea English news learner edition for a Chinese-speaking reader living in Korea.
-
-Use current, reliable English-language Korea news sources such as:
-- KBS World English
-- Yonhap News Agency English
-- Korea JoongAng Daily
-- The Korea Times
-- The Korea Herald
-- Arirang News
-
-Requirements:
-- Choose 5 to 7 main Korea-related stories from today or the last 24 hours.
-- Prioritize politics, economy, society, diplomacy, North Korea, weather, technology/data, and major culture/sports only when nationally important.
-- Do not copy full article text or long excerpts.
-- Write original learner-friendly English.
-- Every story must include a real source URL.
-- fullText must be 3 to 5 paragraphs, each paragraph 1 to 3 sentences.
-- Include useful vocabulary for Chinese-speaking English learners.
-- Use Traditional Chinese in dictionary.zh.
-- Keep titles factual and simple.
-
-Return only JSON matching the schema.
-`;
-
-  const body = {
-    model: MODEL,
-    input: prompt,
-    tools: [{ type: "web_search_preview" }],
-    text: {
-      format: {
-        type: "json_schema",
-        name: "korea_news_learner_edition",
-        strict: true,
-        schema: {
-          type: "object",
-          additionalProperties: false,
-          required: ["date", "label", "title", "primarySource", "summary", "stories"],
-          properties: {
-            date: { type: "string" },
-            label: { type: "string" },
-            title: { type: "string" },
-            primarySource: { type: "string" },
-            summary: { type: "string" },
-            stories: {
-              type: "array",
-              minItems: 5,
-              maxItems: 7,
-              items: {
-                type: "object",
-                additionalProperties: false,
-                required: ["category", "source", "title", "url", "summary", "fullText", "words", "question", "dictionary"],
-                properties: {
-                  category: { type: "string" },
-                  source: { type: "string" },
-                  title: { type: "string" },
-                  url: { type: "string" },
-                  summary: { type: "string" },
-                  fullText: {
-                    type: "array",
-                    minItems: 3,
-                    maxItems: 5,
-                    items: { type: "string" }
-                  },
-                  words: {
-                    type: "array",
-                    minItems: 3,
-                    maxItems: 3,
-                    items: { type: "string" }
-                  },
-                  question: { type: "string" },
-                  dictionary: {
-                    type: "array",
-                    minItems: 3,
-                    maxItems: 8,
-                    items: {
-                      type: "object",
-                      additionalProperties: false,
-                      required: ["word", "zh", "type", "example"],
-                      properties: {
-                        word: { type: "string" },
-                        zh: { type: "string" },
-                        type: { type: "string" },
-                        example: { type: "string" }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
+  for (const feed of FEEDS) {
+    try {
+      const response = await fetch(feed, { headers: { "User-Agent": "KoreaNewsReader/1.0" } });
+      if (!response.ok) continue;
+      const xml = await response.text();
+      allItems.push(...parseRss(xml, feed));
+    } catch (error) {
+      console.warn(`Could not fetch ${feed}: ${error.message}`);
     }
-  };
+  }
 
-  const response = await fetch("https://api.openai.com/v1/responses", {
-    method: "POST",
-    headers: {
-      "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify(body)
+  const seen = new Set();
+  const unique = allItems
+    .filter((item) => item.title && item.url)
+    .filter((item) => {
+      const key = item.url.replace(/^http:/, "https:");
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
+    .sort((a, b) => b.timestamp - a.timestamp);
+
+  return unique.slice(0, 7).map((item) => buildStory(item));
+}
+
+function parseRss(xml, feed) {
+  const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map((match) => match[0]);
+
+  return items.map((item) => {
+    const title = decode(cleanXml(readTag(item, "title")));
+    const url = decode(cleanXml(readTag(item, "link")));
+    const description = decode(cleanXml(readTag(item, "description")));
+    const category = decode(cleanXml(readTag(item, "category"))) || guessCategory(title, description);
+    const pubDate = decode(cleanXml(readTag(item, "pubDate")));
+    const timestamp = Number.isFinite(Date.parse(pubDate)) ? Date.parse(pubDate) : 0;
+
+    return {
+      title: title.trim(),
+      url: url.trim(),
+      description: description.trim(),
+      category: category.trim() || "Korea",
+      source: feed.includes("kbs.co.kr") ? "KBS World" : "The Korea Times",
+      timestamp
+    };
   });
-
-  if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(`OpenAI API error ${response.status}: ${errorText}`);
-  }
-
-  const data = await response.json();
-  const text = extractOutputText(data);
-
-  if (!text) {
-    throw new Error("OpenAI response did not include text output.");
-  }
-
-  const edition = JSON.parse(text);
-  edition.date = today;
-  edition.label = label;
-  return edition;
 }
 
-function extractOutputText(data) {
-  if (data.output_text) return data.output_text;
-
-  for (const item of data.output || []) {
-    for (const content of item.content || []) {
-      if (content.type === "output_text" && content.text) {
-        return content.text;
-      }
-    }
-  }
-
-  return "";
+function readTag(xml, tag) {
+  const match = xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"));
+  return match?.[1] || "";
 }
 
-function validateEdition(edition) {
-  if (edition.date !== today) {
-    throw new Error(`Generated date ${edition.date} did not match ${today}.`);
+function cleanXml(value) {
+  return value
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/<br\s*\/?>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function decode(value) {
+  return value
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, "\"")
+    .replace(/&#039;/g, "'")
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, " ");
+}
+
+function buildStory(item) {
+  const summary = makeSummary(item);
+  const words = pickWords(`${item.title} ${summary}`);
+
+  return {
+    category: item.category,
+    source: item.source,
+    title: item.title,
+    url: item.url,
+    summary,
+    fullText: [
+      summary,
+      `This story is important because it shows what people in Korea are talking about today. Read the original headline carefully and notice the people, place, and issue involved.`,
+      `For English practice, focus on the key nouns and verbs in this story. Try to explain the story in three simple sentences: what happened, who is involved, and why it matters.`
+    ],
+    words,
+    question: `Why do you think this ${item.category.toLowerCase()} story matters for people living in Korea?`
+  };
+}
+
+function makeSummary(item) {
+  if (item.description && item.description.length > 40) {
+    return trimSentence(item.description, 340);
   }
 
-  if (!Array.isArray(edition.stories) || edition.stories.length < 5) {
-    throw new Error("Generated edition needs at least 5 stories.");
+  return `This story reports on ${item.title.toLowerCase()}. Open the source link if you want the full original report.`;
+}
+
+function trimSentence(text, maxLength) {
+  const clean = text.replace(/\s+/g, " ").trim();
+  if (clean.length <= maxLength) return clean;
+  const sliced = clean.slice(0, maxLength);
+  const end = Math.max(sliced.lastIndexOf("."), sliced.lastIndexOf("?"), sliced.lastIndexOf("!"));
+  return `${sliced.slice(0, end > 80 ? end + 1 : maxLength).trim()}...`;
+}
+
+function pickWords(text) {
+  const stop = new Set([
+    "about", "after", "again", "also", "amid", "been", "being", "from", "have", "into", "korea",
+    "korean", "north", "south", "that", "their", "there", "this", "with", "will", "said", "says"
+  ]);
+
+  const candidates = text
+    .toLowerCase()
+    .replace(/[^a-z\s-]/g, " ")
+    .split(/\s+/)
+    .filter((word) => word.length >= 6 && !stop.has(word));
+
+  const picked = [];
+  for (const word of candidates) {
+    if (!picked.includes(word)) picked.push(word);
+    if (picked.length === 3) break;
   }
 
-  for (const story of edition.stories) {
-    if (!story.url?.startsWith("http")) {
-      throw new Error(`Story URL is invalid: ${story.title}`);
-    }
+  while (picked.length < 3) picked.push(["headline", "source", "summary"][picked.length]);
+  return picked;
+}
 
-    if (!Array.isArray(story.fullText) || story.fullText.length < 3) {
-      throw new Error(`Story fullText is too short: ${story.title}`);
-    }
-  }
+function guessCategory(title, description) {
+  const text = `${title} ${description}`.toLowerCase();
+  if (text.includes("stock") || text.includes("market") || text.includes("economy")) return "Economy";
+  if (text.includes("north korea") || text.includes("n. korea")) return "Inter-Korea";
+  if (text.includes("president") || text.includes("party") || text.includes("lawmaker")) return "Politics";
+  if (text.includes("rain") || text.includes("weather") || text.includes("heat")) return "Weather";
+  if (text.includes("data") || text.includes("technology") || text.includes("ai")) return "Technology";
+  if (text.includes("court") || text.includes("police") || text.includes("prosecution")) return "Law";
+  return "Korea";
+}
+
+function buildDailySummary(stories) {
+  const categories = [...new Set(stories.map((story) => story.category))].slice(0, 5);
+  return `Today’s Korea news covers ${categories.join(", ")}. This free automatic edition uses public news feeds, so it gives you source-based summaries, vocabulary, and reading practice without paid AI credits.`;
 }
