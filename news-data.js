@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-21",
+    "label": "Sunday, June 21, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Gyeonggi Province launches 1st survey of its 18,000 refugees",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260621/gyeonggi-province-launches-1st-survey-of-its-18000-refugees?utm_source=rss",
+        "summary": "Gyeonggi Province, the populous economic engine surrounding Seoul, has launched the first comprehensive provincial investigation into the living conditions of its refugee population. The initiative marks a significant shift in how Korean local governments manage forced migration, moving beyond generalized immigrant support systems to addr...",
+        "fullText": [
+          "Gyeonggi Province, the populous economic engine surrounding Seoul, has launched the first comprehensive provincial investigation into the living conditions of its refugee population. The initiative marks a significant shift in how Korean local governments manage forced migration, moving beyond generalized immigrant support systems to addr...",
+          "In simple English, this report is about a korea issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "This news story helps you understand one current issue in Korea. When you read it, look for the main event, the people or organizations involved, and the possible effect on society.",
+          "For English practice, pay attention to these useful words: gyeonggi, province, launches. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "gyeonggi",
+          "province",
+          "launches"
+        ],
+        "question": "Why does this korea story matter for people living in Korea?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul’s historic heart offers 11 ways to trace its history",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260621/seouls-historic-heart-offers-11-ways-to-trace-its-history?utm_source=rss",
+        "summary": "In a metropolis dominated by soaring glass towers and subterranean transit arteries, one downtown district is making a refreshing case for slowing down and traveling on foot. This season, the Jung District office in central Seoul is launching an expanded lineup of 11 curated walking tours designed to transform the city's historic core int...",
+        "fullText": [
+          "In a metropolis dominated by soaring glass towers and subterranean transit arteries, one downtown district is making a refreshing case for slowing down and traveling on foot. This season, the Jung District office in central Seoul is launching an expanded lineup of 11 curated walking tours designed to transform the city's historic core int...",
+          "In simple English, this report is about a economy issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "Economic news can affect jobs, prices, savings, and business confidence. When you read this kind of story, look for numbers, market changes, and whether the news is good for ordinary people or mainly for companies.",
+          "For English practice, pay attention to these useful words: historic, offers, history. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "historic",
+          "offers",
+          "history"
+        ],
+        "question": "Why does this economy story matter for people living in Korea?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US-Iran talks begin Sunday as Tehran closes strait over Lebanon fighting",
+        "url": "https://www.koreatimes.co.kr/world/20260621/us-iran-talks-begin-sunday-as-tehran-closes-strait-over-lebanon-fighting?utm_source=rss",
+        "summary": "TYRE, Lebanon — Iran on Saturday said it had closed the Strait of Hormuz because of Israel’s continued attacks on Lebanon and warned that while negotiators were going to Switzerland for talks with the United States on their interim agreement, not much likely will happen if the fighting doesn’t stop. Key mediator Pakistan said technical-le...",
+        "fullText": [
+          "TYRE, Lebanon — Iran on Saturday said it had closed the Strait of Hormuz because of Israel’s continued attacks on Lebanon and warned that while negotiators were going to Switzerland for talks with the United States on their interim agreement, not much likely will happen if the fighting doesn’t stop. Key mediator Pakistan said technical-le...",
+          "In simple English, this report is about a korea issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "This news story helps you understand one current issue in Korea. When you read it, look for the main event, the people or organizations involved, and the possible effect on society.",
+          "For English practice, pay attention to these useful words: us-iran, sunday, tehran. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "us-iran",
+          "sunday",
+          "tehran"
+        ],
+        "question": "Why does this korea story matter for people living in Korea?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US military 'vigilant' after Iran announces Hormuz closure",
+        "url": "https://www.koreatimes.co.kr/world/20260621/us-military-vigilant-after-iran-announces-hormuz-closure?utm_source=rss",
+        "summary": "WASHINGTON — The U.S. military said Saturday it remained \"present and vigilant\" in the Strait of Hormuz, shortly after Iran announced it was closing the critical shipping lane. \"US forces remain present and vigilant to ensure all aspects of the agreement with Iran are adhered to, obeyed, and in full force and effect,\" U.S. Central Command...",
+        "fullText": [
+          "WASHINGTON — The U.S. military said Saturday it remained \"present and vigilant\" in the Strait of Hormuz, shortly after Iran announced it was closing the critical shipping lane. \"US forces remain present and vigilant to ensure all aspects of the agreement with Iran are adhered to, obeyed, and in full force and effect,\" U.S. Central Command...",
+          "In simple English, this report is about a politics issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "Political news is important because government decisions and party conflicts can affect laws, public services, and daily life. When you read this kind of story, look for who has power, who disagrees, and what decision may come next.",
+          "For English practice, pay attention to these useful words: military, vigilant, announces. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "military",
+          "vigilant",
+          "announces"
+        ],
+        "question": "Why does this politics story matter for people living in Korea?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Iran says Strait of Hormuz closed again, citing Israeli attacks in Lebanon",
+        "url": "https://www.koreatimes.co.kr/world/20260621/iran-says-strait-of-hormuz-closed-again-citing-israeli-attacks-in-lebanon?utm_source=rss",
+        "summary": "DUBAI, United Arab Emirates — Iran’s joint military command said Saturday that the Strait of Hormuz has been closed again, citing Israeli attacks in Lebanon and U.S. “bad faith” and “its clear breach of its commitments” by failing to end the war. The statement on state television also warned that “if the aggression continues, subsequent s...",
+        "fullText": [
+          "DUBAI, United Arab Emirates — Iran’s joint military command said Saturday that the Strait of Hormuz has been closed again, citing Israeli attacks in Lebanon and U.S. “bad faith” and “its clear breach of its commitments” by failing to end the war. The statement on state television also warned that “if the aggression continues, subsequent s...",
+          "In simple English, this report is about a korea issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "This news story helps you understand one current issue in Korea. When you read it, look for the main event, the people or organizations involved, and the possible effect on society.",
+          "For English practice, pay attention to these useful words: strait, hormuz, closed. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "strait",
+          "hormuz",
+          "closed"
+        ],
+        "question": "Why does this korea story matter for people living in Korea?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Why Koreans are pouring their hearts out to a blunt TV grandmother",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260621/why-koreans-are-pouring-their-hearts-out-to-a-blunt-tv-grandmother?utm_source=rss",
+        "summary": "Kim, a woman in her 20s, turned to a grandmother for dating advice. This was not the gentle kind of grandmother who tells people what they want to hear. Her advice was blunt enough to serve as a wake-up call for Kim. Kim could not forget her first love, an ex-boyfriend. When she heard rumors that he might break up with his current girlfri...",
+        "fullText": [
+          "Kim, a woman in her 20s, turned to a grandmother for dating advice. This was not the gentle kind of grandmother who tells people what they want to hear. Her advice was blunt enough to serve as a wake-up call for Kim. Kim could not forget her first love, an ex-boyfriend. When she heard rumors that he might break up with his current girlfri...",
+          "In simple English, this report is about a korea issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "This news story helps you understand one current issue in Korea. When you read it, look for the main event, the people or organizations involved, and the possible effect on society.",
+          "For English practice, pay attention to these useful words: koreans, pouring, hearts. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "koreans",
+          "pouring",
+          "hearts"
+        ],
+        "question": "Why does this korea story matter for people living in Korea?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Mixed-race daughter Korea tried to send away is now helping adoptees return home",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260621/mixed-race-daughter-korea-tried-to-send-away-is-now-helping-adoptees-return-home?utm_source=rss",
+        "summary": "“578 Ganeung 3-dong, Uijeongbu, Gyeonggi Province. 3-tong, 2-ban,” she said in Korean. Meeky Woo Flippen, now 60, still has that address etched into her memory after more than 50 years. “My mother taught me the address when I was 5. ‘I’m not going anywhere,’ she told me. ‘So if someone kidnaps you, make sure you come back here.’” As she r...",
+        "fullText": [
+          "“578 Ganeung 3-dong, Uijeongbu, Gyeonggi Province. 3-tong, 2-ban,” she said in Korean. Meeky Woo Flippen, now 60, still has that address etched into her memory after more than 50 years. “My mother taught me the address when I was 5. ‘I’m not going anywhere,’ she told me. ‘So if someone kidnaps you, make sure you come back here.’” As she r...",
+          "In simple English, this report is about a korea issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "This news story helps you understand one current issue in Korea. When you read it, look for the main event, the people or organizations involved, and the possible effect on society.",
+          "For English practice, pay attention to these useful words: mixed-race, daughter, helping. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "mixed-race",
+          "daughter",
+          "helping"
+        ],
+        "question": "Why does this korea story matter for people living in Korea?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-20",
     "label": "Saturday, June 20, 2026",
     "title": "Korea News Brief",
