@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-22",
+    "label": "Monday, June 22, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Science, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Carmakers intensify rivalry in SDVs",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260622/carmakers-intensify-rivalry-in-sdvs?utm_source=rss",
+        "summary": "Global automakers are shifting the competitive battleground in Korea from traditional hardware to software-defined vehicles (SDVs), as cutting-edge operating systems and in-vehicle artificial intelligence (AI) functions emerge as key differentiators in an era of connected cars. The trend is visible, as a wave of new models launched this y...",
+        "fullText": [
+          "Global automakers are shifting the competitive battleground in Korea from traditional hardware to software-defined vehicles (SDVs), as cutting-edge operating systems and in-vehicle artificial intelligence (AI) functions emerge as key differentiators in an era of connected cars. The trend is visible, as a wave of new models launched this y...",
+          "In simple English, this report is about a economy issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "Economic news can affect jobs, prices, savings, and business confidence. When you read this kind of story, look for numbers, market changes, and whether the news is good for ordinary people or mainly for companies.",
+          "For English practice, pay attention to these useful words: carmakers, intensify, rivalry. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "carmakers",
+          "intensify",
+          "rivalry"
+        ],
+        "question": "Why does this economy story matter for people living in Korea?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea wants Jeju Forum to be global platform of peace, int'l cooperation: foreign minister",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260622/korea-wants-jeju-forum-to-be-global-platform-of-peace-intl-cooperation-foreign-minister?utm_source=rss",
+        "summary": "Someday, \"Jeju\" could carry the same global resonance as \"Davos,\" but as a name synonymous with peace, cooperation and dialogue rather than economic power. That is the ambition Foreign Minister Cho Hyun laid out for the 21st Jeju Forum for Peace and Prosperity, which will run this Wednesday to Friday on Korea's southern island. “As Davos,...",
+        "fullText": [
+          "Someday, \"Jeju\" could carry the same global resonance as \"Davos,\" but as a name synonymous with peace, cooperation and dialogue rather than economic power. That is the ambition Foreign Minister Cho Hyun laid out for the 21st Jeju Forum for Peace and Prosperity, which will run this Wednesday to Friday on Korea's southern island. “As Davos,...",
+          "In simple English, this report is about a korea issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "This news story helps you understand one current issue in Korea. When you read it, look for the main event, the people or organizations involved, and the possible effect on society.",
+          "For English practice, pay attention to these useful words: global, platform, cooperation. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "global",
+          "platform",
+          "cooperation"
+        ],
+        "question": "Why does this korea story matter for people living in Korea?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Cloudy Skies Expected Nationwide Monday with Isolated Showers",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202328",
+        "summary": "[Science] : Skies will be mostly cloudy across South Korea on Sunday, the summer solstice, with conditions expected to turn overcast nationwide overnight. Strong winds are forecast along the Gangwon mountainous region and the eastern coast through the afternoon. Cloudy conditions will continue nationwide Monday, ... [more...]",
+        "fullText": [
+          "[Science] : Skies will be mostly cloudy across South Korea on Sunday, the summer solstice, with conditions expected to turn overcast nationwide overnight. Strong winds are forecast along the Gangwon mountainous region and the eastern coast through the afternoon. Cloudy conditions will continue nationwide Monday, ... [more...]",
+          "In simple English, this report is about a science issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "This news story helps you understand one current issue in Korea. When you read it, look for the main event, the people or organizations involved, and the possible effect on society.",
+          "For English practice, pay attention to these useful words: cloudy, expected, nationwide. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "cloudy",
+          "expected",
+          "nationwide"
+        ],
+        "question": "Why does this science story matter for people living in Korea?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Prime Minister Suggests Public Deliberation on Constitutional Revision to Reform Election Watchdog",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202327",
+        "summary": "[Politics] : Prime Minister Kim Min‑seok said Sunday that a one‑point constitutional amendment to reform the National Election Commission could be pursued through public deliberation that goes beyond political divisions. Speaking at a civic forum in southern Seoul, Kim said the issue would be difficult to resolve ... [more...]",
+        "fullText": [
+          "[Politics] : Prime Minister Kim Min‑seok said Sunday that a one‑point constitutional amendment to reform the National Election Commission could be pursued through public deliberation that goes beyond political divisions. Speaking at a civic forum in southern Seoul, Kim said the issue would be difficult to resolve ... [more...]",
+          "In simple English, this report is about a politics issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "Political news is important because government decisions and party conflicts can affect laws, public services, and daily life. When you read this kind of story, look for who has power, who disagrees, and what decision may come next.",
+          "For English practice, pay attention to these useful words: minister, suggests, public. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "minister",
+          "suggests",
+          "public"
+        ],
+        "question": "Why does this politics story matter for people living in Korea?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Major Banks See Household Loans Surge by 6 Trillion won in 2 Months",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202326",
+        "summary": "[Economy] : Household loans at South Korea's five major commercial banks have surged by more than six trillion won, or about four billion U.S. dollars, in less than two months, driven by increased stock‑investment borrowing and housing‑related lending. According to data from the banks released Sunday, ... [more...]",
+        "fullText": [
+          "[Economy] : Household loans at South Korea's five major commercial banks have surged by more than six trillion won, or about four billion U.S. dollars, in less than two months, driven by increased stock‑investment borrowing and housing‑related lending. According to data from the banks released Sunday, ... [more...]",
+          "In simple English, this report is about a economy issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "Economic news can affect jobs, prices, savings, and business confidence. When you read this kind of story, look for numbers, market changes, and whether the news is good for ordinary people or mainly for companies.",
+          "For English practice, pay attention to these useful words: household, trillion, months. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "household",
+          "trillion",
+          "months"
+        ],
+        "question": "Why does this economy story matter for people living in Korea?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "S. Korea Sees Elderly Overtake Youth in Stable Jobs for First Time",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202325",
+        "summary": "[Economy] : State data shows that the share of older workers in stable employment has surpassed that of young people for the first time. According to an analysis of the economically active population released Sunday by the Ministry of Data and Statistics, the number of permanent workers aged 60 and older reached ... [more...]",
+        "fullText": [
+          "[Economy] : State data shows that the share of older workers in stable employment has surpassed that of young people for the first time. According to an analysis of the economically active population released Sunday by the Ministry of Data and Statistics, the number of permanent workers aged 60 and older reached ... [more...]",
+          "In simple English, this report is about a economy issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "Economic news can affect jobs, prices, savings, and business confidence. When you read this kind of story, look for numbers, market changes, and whether the news is good for ordinary people or mainly for companies.",
+          "For English practice, pay attention to these useful words: elderly, overtake, stable. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "elderly",
+          "overtake",
+          "stable"
+        ],
+        "question": "Why does this economy story matter for people living in Korea?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Semiconductor Boom Fuels Sharp Rise in Dongtan Apartment Prices, Deal Cancellations",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202324",
+        "summary": "[Economy] : Apartment prices in Dongtan, Gyeonggi Province, have surged amid a semiconductor‑driven boom, leading to a sharp rise in contract cancellations as some sellers seek higher resale prices. According to data from the Ministry of Land, Infrastructure and Transport released Sunday, one-thousand-355 apartment ... [more...]",
+        "fullText": [
+          "[Economy] : Apartment prices in Dongtan, Gyeonggi Province, have surged amid a semiconductor‑driven boom, leading to a sharp rise in contract cancellations as some sellers seek higher resale prices. According to data from the Ministry of Land, Infrastructure and Transport released Sunday, one-thousand-355 apartment ... [more...]",
+          "In simple English, this report is about a economy issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.",
+          "Economic news can affect jobs, prices, savings, and business confidence. When you read this kind of story, look for numbers, market changes, and whether the news is good for ordinary people or mainly for companies.",
+          "For English practice, pay attention to these useful words: semiconductor, dongtan, apartment. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.",
+          "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
+        ],
+        "words": [
+          "semiconductor",
+          "dongtan",
+          "apartment"
+        ],
+        "question": "Why does this economy story matter for people living in Korea?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-21",
     "label": "Sunday, June 21, 2026",
     "title": "Korea News Brief",
