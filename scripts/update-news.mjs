@@ -79,36 +79,27 @@ function clean(text) {
 }
 
 function buildStory(item) {
-  const summary = item.description.length > 40 ? trim(item.description, 340) : `This story reports on ${item.title.toLowerCase()}.`;
+  const summary = item.description.length > 40 ? trim(item.description, 900) : `This story reports on ${item.title.toLowerCase()}.`;
   const words = pickWords(`${item.title} ${summary}`);
-  const explainer = explainCategory(item.category);
   return {
     category: item.category,
     source: item.source,
     title: item.title,
     url: item.url,
     summary,
-    fullText: [
-      summary,
-      `In simple English, this report is about a ${item.category.toLowerCase()} issue connected to Korea. The headline gives you the main event, and the summary gives you the first details you need before reading more.`,
-      explainer,
-      `For English practice, pay attention to these useful words: ${words.join(", ")}. Try to notice how they are used in the headline and summary, because these words often appear in similar news stories.`,
-      "After reading, write three short sentences in your own words. First, say what happened. Second, say who is involved. Third, say why the story may matter for people living in Korea."
-    ],
+    fullText: splitIntoParagraphs(summary),
     words,
-    question: `Why does this ${item.category.toLowerCase()} story matter for people living in Korea?`
+    question: "What is the main point of this story?"
   };
 }
 
-function explainCategory(category) {
-  const key = category.toLowerCase();
-  if (key.includes("politics")) return "Political news is important because government decisions and party conflicts can affect laws, public services, and daily life. When you read this kind of story, look for who has power, who disagrees, and what decision may come next.";
-  if (key.includes("economy")) return "Economic news can affect jobs, prices, savings, and business confidence. When you read this kind of story, look for numbers, market changes, and whether the news is good for ordinary people or mainly for companies.";
-  if (key.includes("inter-korea") || key.includes("north")) return "Inter-Korean news is important because North Korea can affect security, diplomacy, and public feeling in South Korea. When you read this kind of story, look for whether the situation is becoming calmer or more tense.";
-  if (key.includes("weather")) return "Weather news is practical because it can affect transport, schools, flights, outdoor plans, and safety. When you read this kind of story, look for the place, the time, and what people are advised to do.";
-  if (key.includes("law")) return "Legal news often explains investigations, court decisions, or public accusations. When you read this kind of story, look for what the court decided, what law was involved, and whether the case may continue.";
-  if (key.includes("technology")) return "Technology news is important because digital services, data, and online security affect everyday life. When you read this kind of story, look for what changed, who is affected, and what users should do next.";
-  return "This news story helps you understand one current issue in Korea. When you read it, look for the main event, the people or organizations involved, and the possible effect on society.";
+function splitIntoParagraphs(text) {
+  const sentences = text.match(/[^.!?]+[.!?]+|[^.!?]+$/g)?.map((sentence) => sentence.trim()).filter(Boolean) || [text];
+  const paragraphs = [];
+  for (let index = 0; index < sentences.length; index += 2) {
+    paragraphs.push(sentences.slice(index, index + 2).join(" "));
+  }
+  return paragraphs.length ? paragraphs : [text];
 }
 
 function trim(text, max) {
