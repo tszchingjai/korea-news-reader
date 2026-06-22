@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-23",
+    "label": "Tuesday, June 23, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea vows to expand nuclear arsenal at key party meeting: KCNA",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260623/n-korea-vows-to-expand-nuclear-arsenal-at-key-party-meeting-kcna?utm_source=rss",
+        "summary": "North Korean leader Kim Jong-un has called for efforts to further increase his country's nuclear assets \"with a goal of overtaking the world,\" Pyongyang's state media reported Tuesday. According to the Korean Central News Agency (KCNA), the ruling Workers' Party of Korea (WPK) convened the second plenary meeting of its ninth central committee for three days from Saturday, presided over by leader Kim, to assess how the country's policies have fared in the first half of the year and review the agenda set at a major party congress in February. The meeting reaffirmed North Korea's commitment to expanding its nuclear forces, describing them as \"the core of the military sovereignty\" of the nation and \"the pivot of implementing the strategy for deterring or fighting a war.\" The report said the plenary session unanimously decided that \"to thoroughly exercise the position of a nuclear weapons sta...",
+        "fullText": [
+          "North Korean leader Kim Jong-un has called for efforts to further increase his country's nuclear assets \"with a goal of overtaking the world,\" Pyongyang's state media reported Tuesday. According to the Korean Central News Agency (KCNA), the ruling Workers' Party of Korea (WPK) convened the second plenary meeting of its ninth central committee for three days from Saturday, presided over by leader Kim, to assess how the country's policies have fared in the first half of the year and review the agenda set at a major party congress in February.",
+          "The meeting reaffirmed North Korea's commitment to expanding its nuclear forces, describing them as \"the core of the military sovereignty\" of the nation and \"the pivot of implementing the strategy for deterring or fighting a war. \" The report said the plenary session unanimously decided that \"to thoroughly exercise the position of a nuclear weapons sta..."
+        ],
+        "words": [
+          "expand",
+          "nuclear",
+          "arsenal"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Lionel Messi becomes top scorer in World Cup history with two more goals for Argentina",
+        "url": "https://www.koreatimes.co.kr/sports/20260623/lionel-messi-becomes-top-scorer-in-world-cup-history-with-two-more-goals-for-argentina?utm_source=rss",
+        "summary": "ARLINGTON, Texas — Scoring goals and breaking records is what Lionel Messi does, and he is already doing that again in his sixth World Cup . The Argentina captain now has the World Cup scoring record all to himself after another standout performance, one that began with frustration after missing a penalty kick and ended in pure elation with another victory. Messi, who many consider the greatest player of all time, scored both goals in his team’s 2-0 victory over Austria on Monday. That gave him 18, six days after his first-ever hat trick in the tournament had matched Germany striker Miroslav Klose's previous record of 16 World Cup goals. “Beyond anything I’m so happy for the win,” Messi said. “It was huge, tough and difficult. It would allow us to be relaxed to what’s ahead. All matches in this World Cup are very even, very intense. I’m enjoying this moment and craving to enjoy with my t...",
+        "fullText": [
+          "ARLINGTON, Texas — Scoring goals and breaking records is what Lionel Messi does, and he is already doing that again in his sixth World Cup . The Argentina captain now has the World Cup scoring record all to himself after another standout performance, one that began with frustration after missing a penalty kick and ended in pure elation with another victory.",
+          "Messi, who many consider the greatest player of all time, scored both goals in his team’s 2-0 victory over Austria on Monday. That gave him 18, six days after his first-ever hat trick in the tournament had matched Germany striker Miroslav Klose's previous record of 16 World Cup goals.",
+          "“Beyond anything I’m so happy for the win,” Messi said. “It was huge, tough and difficult.",
+          "It would allow us to be relaxed to what’s ahead. All matches in this World Cup are very even, very intense.",
+          "I’m enjoying this moment and craving to enjoy with my t..."
+        ],
+        "words": [
+          "lionel",
+          "becomes",
+          "scorer"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Consumer sentiment rises for 2nd month in June on strong exports, stock rally",
+        "url": "https://www.koreatimes.co.kr/economy/20260623/consumer-sentiment-rises-for-2nd-month-in-june-on-strong-exports-stock-rally?utm_source=rss",
+        "summary": "Consumer sentiment rose for the second consecutive month in June on strong exports and the stock market rally, the central bank said Tuesday. The composite consumer sentiment index (CCSI) stood at 106.6 this month, up 0.5 points from May, according to a survey by the Bank of Korea (BOK). It followed a 6.9-point gain in May, the sharpest on-month rise in a year, rebounding from a two-month losing streak in March and April. The index also stayed over the 100-point mark for the second straight month. A reading above 100 indicates that optimists outnumber pessimists, while a figure below 100 suggests the opposite. The subindex for people's assessment of current economic conditions came in at 86 in June, up 3 points from a month earlier. The index for people's outlook for future economic conditions fell 1 point to 92 over the same period. \"Despite slowing economic conditions stemming from ris...",
+        "fullText": [
+          "Consumer sentiment rose for the second consecutive month in June on strong exports and the stock market rally, the central bank said Tuesday. The composite consumer sentiment index (CCSI) stood at 106.",
+          "6 this month, up 0. 5 points from May, according to a survey by the Bank of Korea (BOK).",
+          "It followed a 6. 9-point gain in May, the sharpest on-month rise in a year, rebounding from a two-month losing streak in March and April.",
+          "The index also stayed over the 100-point mark for the second straight month. A reading above 100 indicates that optimists outnumber pessimists, while a figure below 100 suggests the opposite.",
+          "The subindex for people's assessment of current economic conditions came in at 86 in June, up 3 points from a month earlier. The index for people's outlook for future economic conditions fell 1 point to 92 over the same period.",
+          "\"Despite slowing economic conditions stemming from ris..."
+        ],
+        "words": [
+          "consumer",
+          "sentiment",
+          "strong"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Meet Korea’s pioneering ‘instant noodle critic’",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260623/meet-koreas-pioneering-instant-noodle-critic?utm_source=rss",
+        "summary": "For many, instant noodles are a quick, cheap meal designed for convenience. But for Ji Young-jun, Korea's pioneering \"ramyeon critic,\" they represent a lifetime of history, complex food science and a rapidly growing cultural phenomenon. Ji’s unconventional journey into the world of noodles began during a period of personal frustration. After enduring consecutive failures on Korea's grueling college entrance exam, he enlisted in the military. It was while wandering the aisles of the military commissary (PX) that he found an unexpected spark of inspiration. \"Before finishing my service, I set a humble goal for myself: 'Let’s taste every single instant noodle available here,'\" Ji recalls during an interview with The Korea Times, Monday. \"Astonishingly, that simple objective completely revitalized my military life and filled it with excitement. I wanted to carry this amazing energy into the...",
+        "fullText": [
+          "For many, instant noodles are a quick, cheap meal designed for convenience. But for Ji Young-jun, Korea's pioneering \"ramyeon critic,\" they represent a lifetime of history, complex food science and a rapidly growing cultural phenomenon.",
+          "Ji’s unconventional journey into the world of noodles began during a period of personal frustration. After enduring consecutive failures on Korea's grueling college entrance exam, he enlisted in the military.",
+          "It was while wandering the aisles of the military commissary (PX) that he found an unexpected spark of inspiration. \"Before finishing my service, I set a humble goal for myself: 'Let’s taste every single instant noodle available here,'\" Ji recalls during an interview with The Korea Times, Monday.",
+          "\"Astonishingly, that simple objective completely revitalized my military life and filled it with excitement. I wanted to carry this amazing energy into the..."
+        ],
+        "words": [
+          "pioneering",
+          "instant",
+          "noodle"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "How Korea can turn its chip boom into lasting strength",
+        "url": "https://www.koreatimes.co.kr/economy/20260623/how-korea-can-turn-its-chip-boom-into-lasting-strength?utm_source=rss",
+        "summary": "Artificial intelligence (AI) has been a bonanza for Korea's two chip giants, Samsung Electronics and SK hynix. Yet the very boom that has lifted profits, exports and investment is also reviving an old anxiety: Korea remains heavily exposed to an industry whose fortunes can turn with brutal speed. Leif Eskesen, chief economist at CLSA, warned that Korea's reliance on semiconductors could prove to be a double-edged sword, urging the country to preserve its competitive edge in memory chips through continued investment and innovation while also cultivating new growth engines beyond the semiconductor sector. \"It has been an important driver of growth in the past. It is an important driver of Korea's export and investment story, and it is one of the reasons why we think growth this year could come up in the neighborhood of 3 percent,\" Eskesen told The Korea Times in a recent interview. \"Howeve...",
+        "fullText": [
+          "Artificial intelligence (AI) has been a bonanza for Korea's two chip giants, Samsung Electronics and SK hynix. Yet the very boom that has lifted profits, exports and investment is also reviving an old anxiety: Korea remains heavily exposed to an industry whose fortunes can turn with brutal speed.",
+          "Leif Eskesen, chief economist at CLSA, warned that Korea's reliance on semiconductors could prove to be a double-edged sword, urging the country to preserve its competitive edge in memory chips through continued investment and innovation while also cultivating new growth engines beyond the semiconductor sector. \"It has been an important driver of growth in the past.",
+          "It is an important driver of Korea's export and investment story, and it is one of the reasons why we think growth this year could come up in the neighborhood of 3 percent,\" Eskesen told The Korea Times in a recent interview. \"Howeve..."
+        ],
+        "words": [
+          "lasting",
+          "strength",
+          "artificial"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "S&P 500, Nasdaq fall as megacap tech drags; Iran developments watched",
+        "url": "https://www.koreatimes.co.kr/world/20260623/sp-500-nasdaq-fall-as-megacap-tech-drags-iran-developments-watched?utm_source=rss",
+        "summary": "The S&P 500 and the Nasdaq fell on Monday, dragged lower by declines in megacap technology names including Alphabet, while investors also assessed developments in U.S.-Iran negotiations. AI-driven optimism has supported Wall Street's recent rally, but analysts note that investors are increasingly questioning lofty spending by hyperscalers, who are raising funds to support infrastructure expansion. Alphabet tumbled 6.1 percent, while Meta, Amazon and Microsoft fell between 2.3 percent and 4.3 percent. \"There's a distinguishing aspect in this market between those who are receiving the checks, like memory and DRAM names, and those who are writing the checks,\" said David Wagner, head of equity and portfolio manager at Aptus Capital Advisors. \"Those who are writing the checks, i.e., the hyperscalers, have underperformed for the majority part of this year.\" The S&P 500 communication services i...",
+        "fullText": [
+          "The S&P 500 and the Nasdaq fell on Monday, dragged lower by declines in megacap technology names including Alphabet, while investors also assessed developments in U. S.",
+          "-Iran negotiations. AI-driven optimism has supported Wall Street's recent rally, but analysts note that investors are increasingly questioning lofty spending by hyperscalers, who are raising funds to support infrastructure expansion.",
+          "Alphabet tumbled 6. 1 percent, while Meta, Amazon and Microsoft fell between 2.",
+          "3 percent and 4. 3 percent.",
+          "\"There's a distinguishing aspect in this market between those who are receiving the checks, like memory and DRAM names, and those who are writing the checks,\" said David Wagner, head of equity and portfolio manager at Aptus Capital Advisors. \"Those who are writing the checks, i.",
+          "e. , the hyperscalers, have underperformed for the majority part of this year.",
+          "\" The S&P 500 communication services i..."
+        ],
+        "words": [
+          "nasdaq",
+          "megacap",
+          "developments"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Bessent: Iran commits to 'free, open' Hormuz transit, IAEA inspections in talks",
+        "url": "https://www.koreatimes.co.kr/world/20260623/bessent-iran-commits-to-free-open-hormuz-transit-iaea-inspections-in-talks?utm_source=rss",
+        "summary": "WASHINGTON — Iran has committed to allow \"free and open\" transit in the crucial Strait of Hormuz and the return of International Atomic Energy Agency (IAEA) inspectors to the country, U.S. Treasury Secretary Scott Bessent said Monday, following negotiations between Washington and Tehran over the weekend. Bessent made the remarks in a social media post after the United States and Iran, along with Pakistani and Qatari mediators, held the first round of high-level talks to negotiate a final peace agreement in Switzerland on Sunday following their signing of a preliminary deal last week. \"In line with the ongoing productive talks in Switzerland, Iran has committed to free and open transit in the Strait of Hormuz and to permit International Atomic Energy Agency inspectors into their country,\" the secretary wrote on X. He added that the Treasury Department has issued a temporary 60-day general...",
+        "fullText": [
+          "WASHINGTON — Iran has committed to allow \"free and open\" transit in the crucial Strait of Hormuz and the return of International Atomic Energy Agency (IAEA) inspectors to the country, U. S.",
+          "Treasury Secretary Scott Bessent said Monday, following negotiations between Washington and Tehran over the weekend. Bessent made the remarks in a social media post after the United States and Iran, along with Pakistani and Qatari mediators, held the first round of high-level talks to negotiate a final peace agreement in Switzerland on Sunday following their signing of a preliminary deal last week.",
+          "\"In line with the ongoing productive talks in Switzerland, Iran has committed to free and open transit in the Strait of Hormuz and to permit International Atomic Energy Agency inspectors into their country,\" the secretary wrote on X. He added that the Treasury Department has issued a temporary 60-day general..."
+        ],
+        "words": [
+          "bessent",
+          "commits",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-22",
     "label": "Monday, June 22, 2026",
     "title": "Korea News Brief",
