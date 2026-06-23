@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-24",
+    "label": "Wednesday, June 24, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul Int'l Book Fair set to open amid 'text-hip' boom",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260624/seoul-intl-book-fair-set-to-open-amid-text-hip-boom?utm_source=rss",
+        "summary": "The Seoul International Book Fair, the country's largest literary event, is set to open Wednesday, with about 150,000 visitors expected as the \"text-hip\" trend -- with reading now stylish among younger generations -- continues. Some 538 publishers and industry organizations from 18 nations will take part in the 68th edition, which runs through Sunday at the COEX exhibition center in southern Seoul. A total of 326 authors and speakers from South Korea and abroad will also take part in the five-day event, with advance tickets already sold out. Under the theme \"Homo Duduri,\" this year's book fair seeks to navigate what it means to be human in the age of artificial intelligence (AI), according to the organizers. Duduri, an ancient name for a blacksmith, is the archetype of a \"dokkaebi,\" or goblin, that appears in old Korean texts. \"Today, the fire of AI blazes before us. No matter the questi...",
+        "fullText": [
+          "The Seoul International Book Fair, the country's largest literary event, is set to open Wednesday, with about 150,000 visitors expected as the \"text-hip\" trend -- with reading now stylish among younger generations -- continues. Some 538 publishers and industry organizations from 18 nations will take part in the 68th edition, which runs through Sunday at the COEX exhibition center in southern Seoul.",
+          "A total of 326 authors and speakers from South Korea and abroad will also take part in the five-day event, with advance tickets already sold out. Under the theme \"Homo Duduri,\" this year's book fair seeks to navigate what it means to be human in the age of artificial intelligence (AI), according to the organizers.",
+          "Duduri, an ancient name for a blacksmith, is the archetype of a \"dokkaebi,\" or goblin, that appears in old Korean texts. \"Today, the fire of AI blazes before us.",
+          "No matter the questi..."
+        ],
+        "words": [
+          "text-hip",
+          "international",
+          "country"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[RESTAURANT OF THE WEEK] Good night, Sweet Oak",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260624/restaurant-of-the-week-good-night-sweet-oak?utm_source=rss",
+        "summary": "WONJU, Gangwon Province — I drove out to the city of Wonju, in Gangwon Province, after I received some distressing news. The famed barbecue restaurant Sweet Oak will be going on an indefinite hiatus, starting from June 28. My wife and I have been coming here on an annual pilgrimage for the last five years, and we knew we had to come out to send it off before it closed. Gus Flores and Euna Kim opened the restaurant in 2015, and this isn't the first time it's shut down for a while. The married couple ended up in Korea in part because of Flores' Korean heritage. He previously visited in 2008 and enrolled in a language course in Seoul, before returning to the U.S. in 2013 to learn how to barbecue. He then went to culinary school in London, where he met Kim. Eventually they returned to Korea together, ending up in Wonju due to family connections on his mother’s side and the desire for somethi...",
+        "fullText": [
+          "WONJU, Gangwon Province — I drove out to the city of Wonju, in Gangwon Province, after I received some distressing news. The famed barbecue restaurant Sweet Oak will be going on an indefinite hiatus, starting from June 28.",
+          "My wife and I have been coming here on an annual pilgrimage for the last five years, and we knew we had to come out to send it off before it closed. Gus Flores and Euna Kim opened the restaurant in 2015, and this isn't the first time it's shut down for a while.",
+          "The married couple ended up in Korea in part because of Flores' Korean heritage. He previously visited in 2008 and enrolled in a language course in Seoul, before returning to the U.",
+          "S. in 2013 to learn how to barbecue.",
+          "He then went to culinary school in London, where he met Kim. Eventually they returned to Korea together, ending up in Wonju due to family connections on his mother’s side and the desire for somethi..."
+        ],
+        "words": [
+          "restaurant",
+          "gangwon",
+          "province"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US official cites network separation, data localization policies as 'barriers' to Korea's AI rise",
+        "url": "https://www.koreatimes.co.kr/world/20260624/us-official-cites-network-separation-data-localization-policies-as-barriers-to-koreas-ai-rise?utm_source=rss",
+        "summary": "WASHINGTON — A senior U.S. official on Tuesday cited South Korea's requirements for physical isolation of government servers and data localization policies as \"barriers\" to the rise of artificial intelligence (AI) in the Asian country, calling for a shift toward \"modernized\" digital regulations. Russ Headlee, senior bureau official for cyberspace and digital policy at the State Department, made the remarks during a forum in Washington, warning against \"appeals to digital sovereignty\" that are \"designed to discriminate against American companies.\" \"In the Republic of Korea (ROK), the rapid advancement of AI has hit barriers, including requirements for physical isolation of government servers and blanket data localization policies that, from our point of view, pose a significant risk for the ROK itself,\" he said during the forum hosted by the National Bureau of Asian Research. \"Our positio...",
+        "fullText": [
+          "WASHINGTON — A senior U. S.",
+          "official on Tuesday cited South Korea's requirements for physical isolation of government servers and data localization policies as \"barriers\" to the rise of artificial intelligence (AI) in the Asian country, calling for a shift toward \"modernized\" digital regulations. Russ Headlee, senior bureau official for cyberspace and digital policy at the State Department, made the remarks during a forum in Washington, warning against \"appeals to digital sovereignty\" that are \"designed to discriminate against American companies.",
+          "\" \"In the Republic of Korea (ROK), the rapid advancement of AI has hit barriers, including requirements for physical isolation of government servers and blanket data localization policies that, from our point of view, pose a significant risk for the ROK itself,\" he said during the forum hosted by the National Bureau of Asian Research. \"Our positio..."
+        ],
+        "words": [
+          "official",
+          "network",
+          "separation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Rubio says no country allowed to charge tolls on Strait of Hormuz",
+        "url": "https://www.koreatimes.co.kr/world/20260624/rubio-says-no-country-allowed-to-charge-tolls-on-strait-of-hormuz?utm_source=rss",
+        "summary": "WASHINGTON — U.S. Secretary of State Marco Rubio said Tuesday that no country is allowed to charge tolls on the crucial Strait of Hormuz, calling the channel an \"international waterway.\" Rubio made the remarks during a press availability in Abu Dhabi, amid concerns that Iran could charge a fee on ships transiting the strait in the future as last week's preliminary peace deal between Washington and Tehran stipulates safe passage of vessels through the waterway \"with no charge for 60 days only.\" \"It's an international waterway. No country is allowed to charge tolls or fees on an international waterway,\" the secretary said, referring to the Strait of Hormuz. \"That's existing international law. That's the way it is in international waters all over the world.\" South Korea and other countries have been closely watching developments in the negotiations between the U.S. and Iran, hoping that the...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "Secretary of State Marco Rubio said Tuesday that no country is allowed to charge tolls on the crucial Strait of Hormuz, calling the channel an \"international waterway. \" Rubio made the remarks during a press availability in Abu Dhabi, amid concerns that Iran could charge a fee on ships transiting the strait in the future as last week's preliminary peace deal between Washington and Tehran stipulates safe passage of vessels through the waterway \"with no charge for 60 days only.",
+          "\" \"It's an international waterway. No country is allowed to charge tolls or fees on an international waterway,\" the secretary said, referring to the Strait of Hormuz.",
+          "\"That's existing international law. That's the way it is in international waters all over the world.",
+          "\" South Korea and other countries have been closely watching developments in the negotiations between the U. S.",
+          "and Iran, hoping that the..."
+        ],
+        "words": [
+          "country",
+          "allowed",
+          "charge"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Nuclear inspection dispute clouds US-Iran deal to finalize war",
+        "url": "https://www.koreatimes.co.kr/world/20260624/nuclear-inspection-dispute-clouds-us-iran-deal-to-finalize-war?utm_source=rss",
+        "summary": "ISLAMABAD — The U.S. and Iran were in dispute Tuesday over whether Tehran had agreed to allow U.N. inspectors to view bombed Iranian nuclear sites, as officials mediated talks on a permanent end to their war and violence broke out again in Lebanon. The differing accounts came as Iran’s president met with Pakistani officials mediating negotiations and while technical teams were working on details following talks in Switzerland between the U.S. and Iran. Iran’s Foreign Ministry spokesperson Esmail Baghaei told reporters in Tehran that U.N. inspectors were not scheduled to examine the nuclear sites bombed by the U.S. last year, refuting comments made a day earlier by U.S. Vice President JD Vance. In response, President Donald Trump posted on social media that Iran had agreed to nuclear inspections long into the future, saying that without this concession “there would be no further negotiati...",
+        "fullText": [
+          "ISLAMABAD — The U. S.",
+          "and Iran were in dispute Tuesday over whether Tehran had agreed to allow U. N.",
+          "inspectors to view bombed Iranian nuclear sites, as officials mediated talks on a permanent end to their war and violence broke out again in Lebanon. The differing accounts came as Iran’s president met with Pakistani officials mediating negotiations and while technical teams were working on details following talks in Switzerland between the U.",
+          "S. and Iran.",
+          "Iran’s Foreign Ministry spokesperson Esmail Baghaei told reporters in Tehran that U. N.",
+          "inspectors were not scheduled to examine the nuclear sites bombed by the U. S.",
+          "last year, refuting comments made a day earlier by U. S.",
+          "Vice President JD Vance. In response, President Donald Trump posted on social media that Iran had agreed to nuclear inspections long into the future, saying that without this concession “there would be no further negotiati..."
+        ],
+        "words": [
+          "nuclear",
+          "inspection",
+          "dispute"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Scorching heat shuts Paris landmarks early as France swelters",
+        "url": "https://www.koreatimes.co.kr/world/20260624/scorching-heat-shuts-paris-landmarks-early-as-france-swelters?utm_source=rss",
+        "summary": "PARIS — The severe heatwave sweeping France has forced the early closures of top Paris tourist hotspots the Eiffel Tower and the Louvre museum, their respective managers said Tuesday. A deadly heatwave has battered France since last week, disrupting daily life as well as forcing school closures and train cancellations, with some of the most visited tourist sites in the world the latest to take precautionary measures. The operator of the Eiffel Tower, a monument made of latticed steel girders, said the site would \"exceptionally close\" early on Tuesday at 4 pm (1400 GMT). During the high season, starting in mid-June, the tower is open from 9 am to 12:45 am. \"Due to the high temperatures forecast, the Eiffel Tower will be adjusting its operations,\" said the operator. It is \"very likely\" that the monument will close again early on Wednesday, the operator said, adding that visitors would be r...",
+        "fullText": [
+          "PARIS — The severe heatwave sweeping France has forced the early closures of top Paris tourist hotspots the Eiffel Tower and the Louvre museum, their respective managers said Tuesday. A deadly heatwave has battered France since last week, disrupting daily life as well as forcing school closures and train cancellations, with some of the most visited tourist sites in the world the latest to take precautionary measures.",
+          "The operator of the Eiffel Tower, a monument made of latticed steel girders, said the site would \"exceptionally close\" early on Tuesday at 4 pm (1400 GMT). During the high season, starting in mid-June, the tower is open from 9 am to 12:45 am.",
+          "\"Due to the high temperatures forecast, the Eiffel Tower will be adjusting its operations,\" said the operator. It is \"very likely\" that the monument will close again early on Wednesday, the operator said, adding that visitors would be r..."
+        ],
+        "words": [
+          "scorching",
+          "landmarks",
+          "france"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Stem vs. leaf: Which part of kimchi is healthier?",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260624/stem-vs-leaf-which-part-of-kimchi-is-healthier?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. When it comes to napa cabbage kimchi, preferences often come down to texture. Some people pick out only the crunchy white stems, while others favor the softer leafy parts. While the difference may seem purely a matter of taste, the two parts also differ in their nutritional value. Depending on which part you eat, you may be getting more of certain nutrients than others. The thick white stem of napa cabbage contains more water and relatively higher amounts of dietary fiber. Its signature crunch comes from its firm cell structure. Dietary fiber helps promote healthy digestion and can increase feelings of fullness, making the stem a good choice for people trying to manage their weight. The stem also tends to contain more potassium, a mineral that helps the body eliminate excess sodium. This may be particularly beneficial for people who regularly...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "When it comes to napa cabbage kimchi, preferences often come down to texture. Some people pick out only the crunchy white stems, while others favor the softer leafy parts.",
+          "While the difference may seem purely a matter of taste, the two parts also differ in their nutritional value. Depending on which part you eat, you may be getting more of certain nutrients than others.",
+          "The thick white stem of napa cabbage contains more water and relatively higher amounts of dietary fiber. Its signature crunch comes from its firm cell structure.",
+          "Dietary fiber helps promote healthy digestion and can increase feelings of fullness, making the stem a good choice for people trying to manage their weight. The stem also tends to contain more potassium, a mineral that helps the body eliminate excess sodium.",
+          "This may be particularly beneficial for people who regularly..."
+        ],
+        "words": [
+          "kimchi",
+          "healthier",
+          "articles"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-23",
     "label": "Tuesday, June 23, 2026",
     "title": "Korea News Brief",
