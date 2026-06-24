@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-25",
+    "label": "Thursday, June 25, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Weather, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Positive outlook for Toyota, BYD's expansion in PHEV market",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260625/positive-outlook-for-toyota-byds-expansion-in-phev-market?utm_source=rss",
+        "summary": "Toyota and BYD are aggressively targeting Korea's niche plug-in hybrid electric vehicle (PHEV) market, a move experts and industry officials view as a highly viable strategy to capture transitional demand and capitalize on Hyundai Motor Group’s absence in the sector. Local customers have not favored PHEVs due largely to their vague positioning between traditional hybrid cars and all-electric vehicles. PHEVs are also excluded from government subsidies here, making them compete at a distinct price disadvantage against typical electric vehicles (EVs). While a standard hybrid self-charges and relies primarily on a gasoline engine, PHEVs utilize a larger battery that requires external charging to deliver all-electric driving. According to data from the Ministry of Trade, Industry and Resources, PHEVs accounted for just 0.7 percent of the Korean passenger vehicle market between January and May...",
+        "fullText": [
+          "Toyota and BYD are aggressively targeting Korea's niche plug-in hybrid electric vehicle (PHEV) market, a move experts and industry officials view as a highly viable strategy to capture transitional demand and capitalize on Hyundai Motor Group’s absence in the sector. Local customers have not favored PHEVs due largely to their vague positioning between traditional hybrid cars and all-electric vehicles.",
+          "PHEVs are also excluded from government subsidies here, making them compete at a distinct price disadvantage against typical electric vehicles (EVs). While a standard hybrid self-charges and relies primarily on a gasoline engine, PHEVs utilize a larger battery that requires external charging to deliver all-electric driving.",
+          "According to data from the Ministry of Trade, Industry and Resources, PHEVs accounted for just 0. 7 percent of the Korean passenger vehicle market between January and May..."
+        ],
+        "words": [
+          "positive",
+          "outlook",
+          "toyota"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "JoongAng Group's fate split between court, creditors",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260625/joongang-groups-fate-split-between-court-creditors?utm_source=rss",
+        "summary": "The fate of JTBC and other JoongAng Group affiliates now lies with the court amid their worsening liquidity problems, while the normalization of the group’s core company, JoongAng Ilbo, depends on its creditors, according to industry officials and analysts Wednesday. Five key affiliates, including broadcaster JTBC and holding company JoongAng Holdings, have recently filed for rehabilitation proceedings. Major newspaper JoongAng Ilbo has also formally applied for a workout with its lead creditor, Hana Bank, amid the group’s financial strain. The Seoul Bankruptcy Court held hearings with the representatives of the five companies on Tuesday, marking the start of a full-scale review of their rehabilitation cases. Executives who attended outlined the group’s debt exposure and proposed restructuring measures to the court. “I am sorry. We will fully comply with the court’s decision,” Hong Jeong...",
+        "fullText": [
+          "The fate of JTBC and other JoongAng Group affiliates now lies with the court amid their worsening liquidity problems, while the normalization of the group’s core company, JoongAng Ilbo, depends on its creditors, according to industry officials and analysts Wednesday. Five key affiliates, including broadcaster JTBC and holding company JoongAng Holdings, have recently filed for rehabilitation proceedings.",
+          "Major newspaper JoongAng Ilbo has also formally applied for a workout with its lead creditor, Hana Bank, amid the group’s financial strain. The Seoul Bankruptcy Court held hearings with the representatives of the five companies on Tuesday, marking the start of a full-scale review of their rehabilitation cases.",
+          "Executives who attended outlined the group’s debt exposure and proposed restructuring measures to the court. “I am sorry.",
+          "We will fully comply with the court’s decision,” Hong Jeong..."
+        ],
+        "words": [
+          "joongang",
+          "between",
+          "creditors"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean swimming culture explained: Guide to local pools and etiquette",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260625/korean-swimming-culture-explained-guide-to-local-pools-and-etiquette?utm_source=rss",
+        "summary": "Swimming in Korea is not just about finding a pool and diving in. For many locals and long-term residents, it means crash course in bureaucracy, unspoken rules and shared shower culture. As Seoul slips into summer, as the city begins to feel hotter and more crowded by the day, there's no better time to learn about Korea's rules for the pool. This guide brings together the experiences of Korean and foreign swimmers in Korea to help you navigate like a local, from registration and etiquette to a few recommended places to dip your toes. Why swimming in Korea feels confusing Compared with many countries, swimming in Korea comes with a noticeably high entry barrier. Fees can be steep, free-swim hours are limited and registration systems are often designed with Korean-speaking, tech-saavy users in mind. “Even Koreans struggle to find information about pools, free-swim slots and lessons. There’...",
+        "fullText": [
+          "Swimming in Korea is not just about finding a pool and diving in. For many locals and long-term residents, it means crash course in bureaucracy, unspoken rules and shared shower culture.",
+          "As Seoul slips into summer, as the city begins to feel hotter and more crowded by the day, there's no better time to learn about Korea's rules for the pool. This guide brings together the experiences of Korean and foreign swimmers in Korea to help you navigate like a local, from registration and etiquette to a few recommended places to dip your toes.",
+          "Why swimming in Korea feels confusing Compared with many countries, swimming in Korea comes with a noticeably high entry barrier. Fees can be steep, free-swim hours are limited and registration systems are often designed with Korean-speaking, tech-saavy users in mind.",
+          "“Even Koreans struggle to find information about pools, free-swim slots and lessons. There’..."
+        ],
+        "words": [
+          "swimming",
+          "culture",
+          "explained"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "The Grateful Camp reimagines what music festivals can be",
+        "url": "https://www.koreatimes.co.kr/entertainment/music/20260625/the-grateful-camp-reimagines-what-music-festivals-can-be?utm_source=rss",
+        "summary": "As music festivals in Korea continue to grow in size and scale, The Grateful Camp is going a different direction. The upcoming festival features at least 20 great local acts, including Galaxy Express, Seoul Electric Band, Windy City, Chang Kiha, Tiger Disco, CHS, hathaw9y and Radio Revolution, performing at at Jjangttungeo Beach in Sinan, South Jella Province, from Sept. 4 to 6. Rather than focusing only on bigger stages and larger lineups, The Grateful Camp aims to create a temporary world where music, nature and people come together. For the team behind the festival, the most important part is not what happens on stage, but what happens between people. The festival began in 2020, when tropical psychedelic groove band CHS held a small performance at a campsite in a forest in Gapyeong County, northeastern Gyeonggi Province. Surrounded by nature and a ree-spirited audience, the experience...",
+        "fullText": [
+          "As music festivals in Korea continue to grow in size and scale, The Grateful Camp is going a different direction. The upcoming festival features at least 20 great local acts, including Galaxy Express, Seoul Electric Band, Windy City, Chang Kiha, Tiger Disco, CHS, hathaw9y and Radio Revolution, performing at at Jjangttungeo Beach in Sinan, South Jella Province, from Sept.",
+          "4 to 6. Rather than focusing only on bigger stages and larger lineups, The Grateful Camp aims to create a temporary world where music, nature and people come together.",
+          "For the team behind the festival, the most important part is not what happens on stage, but what happens between people. The festival began in 2020, when tropical psychedelic groove band CHS held a small performance at a campsite in a forest in Gapyeong County, northeastern Gyeonggi Province.",
+          "Surrounded by nature and a ree-spirited audience, the experience..."
+        ],
+        "words": [
+          "grateful",
+          "reimagines",
+          "festivals"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] The day I crashed a Korean War commemorative event",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260625/morning-calm-tales-the-day-i-crashed-a-korean-war-commemorative-event?utm_source=rss",
+        "summary": "Seoul was already sweltering by midmorning on June 25, 2000. Heat rose in wavering sheets above the broad plaza outside the War Memorial of Korea as buses pulled up one after another, unloading elderly veterans of the Korean War (1950-53) alongside family members and foreign dignitaries arriving for the ceremony. Inside the memorial grounds, ushers guided guests toward rows of reserved seats while security personnel moved briskly through the growing crowd. Everywhere there were flags, cameras, police, military officers and the low murmur of Korean, English and a dozen other languages blending together in the heavy summer air. I was not supposed to be there. A month earlier, I had interviewed Gen. Paik Sun-yup for an article accompanying my review of his autobiography, \"From Pusan to Panmunjom.\" After the interview, I met several members of the 50th anniversary committee organizing the Ko...",
+        "fullText": [
+          "Seoul was already sweltering by midmorning on June 25, 2000. Heat rose in wavering sheets above the broad plaza outside the War Memorial of Korea as buses pulled up one after another, unloading elderly veterans of the Korean War (1950-53) alongside family members and foreign dignitaries arriving for the ceremony.",
+          "Inside the memorial grounds, ushers guided guests toward rows of reserved seats while security personnel moved briskly through the growing crowd. Everywhere there were flags, cameras, police, military officers and the low murmur of Korean, English and a dozen other languages blending together in the heavy summer air.",
+          "I was not supposed to be there. A month earlier, I had interviewed Gen.",
+          "Paik Sun-yup for an article accompanying my review of his autobiography, \"From Pusan to Panmunjom. \" After the interview, I met several members of the 50th anniversary committee organizing the Ko..."
+        ],
+        "words": [
+          "morning",
+          "crashed",
+          "commemorative"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Stray cats or endangered wildlife? YouTuber sparks debate by calling for cat euthanasia",
+        "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20260625/stray-cats-or-endangered-wildlife-youtuber-sparks-debate-by-calling-for-cat-euthanasia?utm_source=rss",
+        "summary": "A popular Korean wildlife YouTuber has reignited a long-standing debate over stray cats after arguing that euthanasia is necessary to reduce their population and protect native wildlife. The controversy began after YouTuber Korean Birder, known for content about Korean wildlife and ecosystems and followed by roughly 500,000 subscribers, uploaded a video on Saturday titled \"Cats, we have no choice but to kill them now.\" The video opens with footage of cats on Mara Island, a small island off Korea's southern coast, hunting a Crested Murrelet, a protected seabird designated as a Natural Monument and classified as an endangered species in Korea. The YouTuber argued that the problem extends far beyond Mara Island and has become a nationwide ecological issue, claiming that stray and feral cats are harming vulnerable wildlife across the country. He also criticized current cat management policie...",
+        "fullText": [
+          "A popular Korean wildlife YouTuber has reignited a long-standing debate over stray cats after arguing that euthanasia is necessary to reduce their population and protect native wildlife. The controversy began after YouTuber Korean Birder, known for content about Korean wildlife and ecosystems and followed by roughly 500,000 subscribers, uploaded a video on Saturday titled \"Cats, we have no choice but to kill them now.",
+          "\" The video opens with footage of cats on Mara Island, a small island off Korea's southern coast, hunting a Crested Murrelet, a protected seabird designated as a Natural Monument and classified as an endangered species in Korea. The YouTuber argued that the problem extends far beyond Mara Island and has become a nationwide ecological issue, claiming that stray and feral cats are harming vulnerable wildlife across the country.",
+          "He also criticized current cat management policie..."
+        ],
+        "words": [
+          "endangered",
+          "wildlife",
+          "youtuber"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Seoul ranks 17th in global quality of life ranking",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260625/seoul-ranks-17th-in-global-quality-of-life-ranking?utm_source=rss",
+        "summary": "Seoul placed 17th in Monocle magazine's 2026 Quality of Life Survey, the British lifestyle publication's annual ranking of the world's most livable cities, released Wednesday. Tokyo topped this year's list, followed by Copenhagen and Lisbon. Seoul was the highest-ranked city in Northeast Asia outside Japan. Monocle's survey, now in its 19th year, evaluates cities on criteria including safety, public transport, green space, governance, cultural offerings and nightlife, with the 2026 edition placing particular emphasis on civic vision and a city's ability to provide joy to its residents. The survey's assessment of Seoul highlighted the city's swift recovery from the political turmoil that followed former President Yoon Suk Yeol's declaration of martial law in December 2024 — for which he was subsequently impeached and sentenced to life imprisonment — calling it a reflection of \"the resilie...",
+        "fullText": [
+          "Seoul placed 17th in Monocle magazine's 2026 Quality of Life Survey, the British lifestyle publication's annual ranking of the world's most livable cities, released Wednesday. Tokyo topped this year's list, followed by Copenhagen and Lisbon.",
+          "Seoul was the highest-ranked city in Northeast Asia outside Japan. Monocle's survey, now in its 19th year, evaluates cities on criteria including safety, public transport, green space, governance, cultural offerings and nightlife, with the 2026 edition placing particular emphasis on civic vision and a city's ability to provide joy to its residents.",
+          "The survey's assessment of Seoul highlighted the city's swift recovery from the political turmoil that followed former President Yoon Suk Yeol's declaration of martial law in December 2024 — for which he was subsequently impeached and sentenced to life imprisonment — calling it a reflection of \"the resilie..."
+        ],
+        "words": [
+          "global",
+          "quality",
+          "ranking"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-24",
     "label": "Wednesday, June 24, 2026",
     "title": "Korea News Brief",
