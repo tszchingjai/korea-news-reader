@@ -1,5 +1,140 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-26",
+    "label": "Friday, June 26, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Science, Politics, Domestic. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "How one foreign entrepreneur is building a future in Korea — on his own terms",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260626/how-one-foreign-entrepreneur-is-building-a-future-in-korea-on-his-own-terms?utm_source=rss",
+        "summary": "Every summer, thousands of international students across Korea step off the stage at graduation and into a high-stakes countdown. With student visas ticking toward expiration, they find themselves in the race to secure full-time employment in a competitive job market. For many foreign graduates, the transition from campus life to a long-term career in Korea is far more complicated than they expect. While some pursue traditional corporate jobs, others are searching for different ways to build a future here. “There are a lot of talented foreigners in Korea,” said Casimir Agossou, a startup founder originally from the West African nation of Benin. “The challenge is helping people understand where they fit best and how they can contribute.” Agossou is the founder of Acafo, an artificial intelligence (AI)-based platform designed to help international job seekers better understand and navigate...",
+        "fullText": [
+          "Every summer, thousands of international students across Korea step off the stage at graduation and into a high-stakes countdown. With student visas ticking toward expiration, they find themselves in the race to secure full-time employment in a competitive job market.",
+          "For many foreign graduates, the transition from campus life to a long-term career in Korea is far more complicated than they expect. While some pursue traditional corporate jobs, others are searching for different ways to build a future here.",
+          "“There are a lot of talented foreigners in Korea,” said Casimir Agossou, a startup founder originally from the West African nation of Benin. “The challenge is helping people understand where they fit best and how they can contribute.",
+          "” Agossou is the founder of Acafo, an artificial intelligence (AI)-based platform designed to help international job seekers better understand and navigate..."
+        ],
+        "words": [
+          "foreign",
+          "entrepreneur",
+          "building"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[K-LIT REVIEW] Susan Choi’s family saga ‘Flashlight’ illuminates historical horrors",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20260626/k-lit-review-susan-chois-family-saga-flashlight-illuminates-historical-horrors?utm_source=rss",
+        "summary": "When a book starts with a mysterious disappearance into the sea, you can bet good money that the cause is more complicated than “he slipped and fell.” Precisely how complicated, how bleak and shattering the truth is, however, no reader of \"Flashlight\" could have prepared for. The sixth and longest of National Book Award winner Susan Choi’s novels, \"Flashlight\" was shortlisted for the 2025 Booker Prize and the 2026 Women’s Prize for Fiction. The multigenerational family saga flows from the 1940s to the 2000s and moves from Japan to the U.S. to South Korea. The story opens with the incomprehensible disappearance of Serk Kang, father of protagonist Louisa, when she is 9 years old. One pitch-black night in Japan, father and daughter are walking and chatting on the breakwater of a quiet beach. A flashlight falls. Her father’s tense grip crushes her small fingers. This tumble of hazy snatches...",
+        "fullText": [
+          "When a book starts with a mysterious disappearance into the sea, you can bet good money that the cause is more complicated than “he slipped and fell. ” Precisely how complicated, how bleak and shattering the truth is, however, no reader of \"Flashlight\" could have prepared for.",
+          "The sixth and longest of National Book Award winner Susan Choi’s novels, \"Flashlight\" was shortlisted for the 2025 Booker Prize and the 2026 Women’s Prize for Fiction. The multigenerational family saga flows from the 1940s to the 2000s and moves from Japan to the U.",
+          "S. to South Korea.",
+          "The story opens with the incomprehensible disappearance of Serk Kang, father of protagonist Louisa, when she is 9 years old. One pitch-black night in Japan, father and daughter are walking and chatting on the breakwater of a quiet beach.",
+          "A flashlight falls. Her father’s tense grip crushes her small fingers.",
+          "This tumble of hazy snatches..."
+        ],
+        "words": [
+          "review",
+          "family",
+          "flashlight"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Nationwide Showers Forecast through Friday Morning, with Gusts and Hail Risk",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202451",
+        "summary": "[Science] : Cloudy skies are expected nationwide Thursday night, with scattered showers continuing in some areas until late evening. Central parts of the country are expected to gradually clear starting Friday morning, while southern areas and Jeju Island will see mostly cloudy skies. Through Friday morning, ... [more...]",
+        "fullText": [
+          "[Science] : Cloudy skies are expected nationwide Thursday night, with scattered showers continuing in some areas until late evening. Central parts of the country are expected to gradually clear starting Friday morning, while southern areas and Jeju Island will see mostly cloudy skies.",
+          "Through Friday morning, ... [more...",
+          "]"
+        ],
+        "words": [
+          "nationwide",
+          "showers",
+          "forecast"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Lee Calls for Wider Distribution of Key Industries beyond Capital Region",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202450",
+        "summary": "[Politics] : President Lee Jae Myung says diversifying the geographic distribution of key strategic industries is essential if the country is to promote balanced regional growth and overcome a development structure that heavily favors the capital region. Presiding over a meeting of senior aides at the presidential ... [more...]",
+        "fullText": [
+          "[Politics] : President Lee Jae Myung says diversifying the geographic distribution of key strategic industries is essential if the country is to promote balanced regional growth and overcome a development structure that heavily favors the capital region. Presiding over a meeting of senior aides at the presidential ...",
+          "[more... ]"
+        ],
+        "words": [
+          "distribution",
+          "industries",
+          "beyond"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Summer Electricity Demand Forecast to Reach Record 98.8 Gigawatts",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202449",
+        "summary": "[Domestic] : The government expects summer electricity demand to reach a record high this year, with the demand likely to peak in the third week of August. The Ministry of Climate, Energy and Environment said Thursday that electricity demand is projected to reach between 94-point-one gigawatts and 98-point-eight ... [more...]",
+        "fullText": [
+          "[Domestic] : The government expects summer electricity demand to reach a record high this year, with the demand likely to peak in the third week of August. The Ministry of Climate, Energy and Environment said Thursday that electricity demand is projected to reach between 94-point-one gigawatts and 98-point-eight ...",
+          "[more... ]"
+        ],
+        "words": [
+          "summer",
+          "electricity",
+          "demand"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Special Counsel Again Seeks Death Penalty for Former President Yoon in Insurrection Case",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202448",
+        "summary": "[Politics] : A special counsel team has once again requested the death penalty for former President Yoon Suk Yeol as his appeals trial resumes in the insurrection case arising from his unsuccessful bid for martial law in 2024. Special Counsel Cho Eun-suk’s team filed the request with the Seoul High Court on ... [more...]",
+        "fullText": [
+          "[Politics] : A special counsel team has once again requested the death penalty for former President Yoon Suk Yeol as his appeals trial resumes in the insurrection case arising from his unsuccessful bid for martial law in 2024. Special Counsel Cho Eun-suk’s team filed the request with the Seoul High Court on ...",
+          "[more... ]"
+        ],
+        "words": [
+          "special",
+          "counsel",
+          "penalty"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Gov’t Decides to Scrap Prosecution’s Right to Conduct Supplementary Investigations",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202447",
+        "summary": "[Economy] : The government has concluded that the prosecution will not be granted the right to conduct supplementary investigations. Prime Minister Kim Min-seok informed reporters at a briefing on Thursday that the central principle of the Lee Jae Myung administration’s prosecution reform initiative is the separation ... [more...]",
+        "fullText": [
+          "[Economy] : The government has concluded that the prosecution will not be granted the right to conduct supplementary investigations. Prime Minister Kim Min-seok informed reporters at a briefing on Thursday that the central principle of the Lee Jae Myung administration’s prosecution reform initiative is the separation ...",
+          "[more... ]"
+        ],
+        "words": [
+          "decides",
+          "prosecution",
+          "conduct"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-25",
     "label": "Thursday, June 25, 2026",
     "title": "Korea News Brief",
