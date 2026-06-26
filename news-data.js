@@ -1,5 +1,140 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-27",
+    "label": "Saturday, June 27, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Weather, Sports, Science. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul anoints masters of quilting technique, silver inlaying to preserve traditional crafts",
+        "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260627/seoul-anoints-masters-of-quilting-technique-silver-inlaying-to-preserve-traditional-crafts?utm_source=rss",
+        "summary": "In a bid to safeguard Korea’s vanishing artisan heritage, the Seoul Metropolitan Government has designated two women to lifelong honors in the traditional crafts of geometric silk quilting and intricate metal inlaying, the city said Friday. Kim Yun-sun, a veteran artisan who has spent more than 40 years resurrecting a nearly forgotten textile art, was named as the city's first official master of \"saeksilnubi\" (colored thread quilting). Concurrently, Shin Seon-i, an internationally recognized metalworker, was appointed as a certified \"transmission educator\" for \"ipsajang\" (iron-inlaying), an elite status that tasks her with training the next generation in a craft whose survival remains economically precarious. Kim’s designation as a master — a title reserved for those who can flawlessly replicate historic techniques — recognizes a four-decade dedication that began in 1980, when she stumbl...",
+        "fullText": [
+          "In a bid to safeguard Korea’s vanishing artisan heritage, the Seoul Metropolitan Government has designated two women to lifelong honors in the traditional crafts of geometric silk quilting and intricate metal inlaying, the city said Friday. Kim Yun-sun, a veteran artisan who has spent more than 40 years resurrecting a nearly forgotten textile art, was named as the city's first official master of \"saeksilnubi\" (colored thread quilting).",
+          "Concurrently, Shin Seon-i, an internationally recognized metalworker, was appointed as a certified \"transmission educator\" for \"ipsajang\" (iron-inlaying), an elite status that tasks her with training the next generation in a craft whose survival remains economically precarious. Kim’s designation as a master — a title reserved for those who can flawlessly replicate historic techniques — recognizes a four-decade dedication that began in 1980, when she stumbl..."
+        ],
+        "words": [
+          "anoints",
+          "masters",
+          "quilting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Uncovering stories of Cheonggye Stream’s restoration",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260627/uncovering-stories-of-cheonggye-streams-restoration?utm_source=rss",
+        "summary": "At his final lecture for Royal Asiatic Society (RAS) Korea on Dec. 10, 2003, Horace Grant Underwood II shared stories of the past while discussing late Joseon-era and colonial-era photos. At one point, he came to a photo of Cheonggye Stream in the early 20th century and commented on the still-unrealized plan to uncover the waterway: “They say they want to return it to being a clean stream. It was never a clean stream!” Indeed, within a few decades of establishing Seoul as the capital in 1394, the newly founded Joseon government had come to rely on Cheonggye Stream as the city's principal conduit to flush waste out of the city. Attempts to cover the stream began during the 1910-45 Japanese colonial rule, but really took off in the late 1950s, when, over a period of two decades, the stream was covered in stages for a distance of 6 kilometers. Atop this was built an elevated expressway, the...",
+        "fullText": [
+          "At his final lecture for Royal Asiatic Society (RAS) Korea on Dec. 10, 2003, Horace Grant Underwood II shared stories of the past while discussing late Joseon-era and colonial-era photos.",
+          "At one point, he came to a photo of Cheonggye Stream in the early 20th century and commented on the still-unrealized plan to uncover the waterway: “They say they want to return it to being a clean stream. It was never a clean stream!",
+          "” Indeed, within a few decades of establishing Seoul as the capital in 1394, the newly founded Joseon government had come to rely on Cheonggye Stream as the city's principal conduit to flush waste out of the city. Attempts to cover the stream began during the 1910-45 Japanese colonial rule, but really took off in the late 1950s, when, over a period of two decades, the stream was covered in stages for a distance of 6 kilometers.",
+          "Atop this was built an elevated expressway, the..."
+        ],
+        "words": [
+          "uncovering",
+          "stories",
+          "cheonggye"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Pianist Cho Seong-jin's steady path to musical greatness",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260627/pianist-cho-seong-jins-steady-path-to-musical-greatness?utm_source=rss",
+        "summary": "In Korea's classical music scene, Cho Seong-jin has become a brand in his own right. When he was still in his 20s, he swept the country's three most prestigious classical music honors — the Samsung Ho-Am Prize in the Arts, the Grand Prize at the Daewon Music Awards and the Kumho Musician Award. Internationally, he has established himself as one of the most sought-after pianists of his generation. During the 2024–25 season, Cho served as artist-in-residence with the Berlin Philharmonic, and in 2025–26 he was selected as the London Symphony Orchestra's Artist Portrait. His 2025 Opus Klassik Award in Germany almost seemed overdue considering the reputation he had already built across Europe. In July, Cho will return to the stage as an in-house artist at Lotte Concert Hall, presenting both solo recitals and chamber performances. He is also scheduled to perform with Berlin Philharmonic member...",
+        "fullText": [
+          "In Korea's classical music scene, Cho Seong-jin has become a brand in his own right. When he was still in his 20s, he swept the country's three most prestigious classical music honors — the Samsung Ho-Am Prize in the Arts, the Grand Prize at the Daewon Music Awards and the Kumho Musician Award.",
+          "Internationally, he has established himself as one of the most sought-after pianists of his generation. During the 2024–25 season, Cho served as artist-in-residence with the Berlin Philharmonic, and in 2025–26 he was selected as the London Symphony Orchestra's Artist Portrait.",
+          "His 2025 Opus Klassik Award in Germany almost seemed overdue considering the reputation he had already built across Europe. In July, Cho will return to the stage as an in-house artist at Lotte Concert Hall, presenting both solo recitals and chamber performances.",
+          "He is also scheduled to perform with Berlin Philharmonic member..."
+        ],
+        "words": [
+          "pianist",
+          "seong-jin",
+          "steady"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Overcrowded and overheated, Korean prisons become intolerable for both inmates and officers",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260627/overcrowded-and-overheated-korean-prisons-become-intolerable-for-both-inmates-and-officers?utm_source=rss",
+        "summary": "With a metallic click, cold metal cuffs close around both wrists. “You are now in custody.” Suddenly, moving one’s arms freely becomes impossible. The discomfort sets in quickly, as even scratching one’s head becomes an awkward struggle inside the moving prison transport van. But after passing through a firmly shut iron gate and arriving at Cheongju Women’s Prison, where pale yellow buildings surround a small exercise yard, the handcuffs suddenly seem like the least of one’s problems. Inside one of the prison’s shared cells, the space is so cramped and crowded that there is barely enough room to stretch out an arm, even after the handcuffs are removed. The grim reality is that Cheongju Women’s Prison is considered to be in better condition than most prisons in the country. As Korea’s only correctional facility exclusively for women, it is generally regarded as one of the better-equipped...",
+        "fullText": [
+          "With a metallic click, cold metal cuffs close around both wrists. “You are now in custody.",
+          "” Suddenly, moving one’s arms freely becomes impossible. The discomfort sets in quickly, as even scratching one’s head becomes an awkward struggle inside the moving prison transport van.",
+          "But after passing through a firmly shut iron gate and arriving at Cheongju Women’s Prison, where pale yellow buildings surround a small exercise yard, the handcuffs suddenly seem like the least of one’s problems. Inside one of the prison’s shared cells, the space is so cramped and crowded that there is barely enough room to stretch out an arm, even after the handcuffs are removed.",
+          "The grim reality is that Cheongju Women’s Prison is considered to be in better condition than most prisons in the country. As Korea’s only correctional facility exclusively for women, it is generally regarded as one of the better-equipped..."
+        ],
+        "words": [
+          "overcrowded",
+          "overheated",
+          "prisons"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Sports",
+        "source": "KBS World",
+        "title": "S. Korea Awaits Fate as Head Coach Hong Admits He’s ‘Puzzled’ about Team’s Struggles",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202476",
+        "summary": "[Sports] : Anchor: After South Korea’s crushing 1-0 loss to South Africa in the final group stage match of the 2026 FIFA World Cup, head coach Hong Myung-bo says he still can’t pinpoint exactly why his team struggled so much, as the Taegeuk Warriors await the results of the tournament’s remaining matches to learn ... [more...]",
+        "fullText": [
+          "[Sports] : Anchor: After South Korea’s crushing 1-0 loss to South Africa in the final group stage match of the 2026 FIFA World Cup, head coach Hong Myung-bo says he still can’t pinpoint exactly why his team struggled so much, as the Taegeuk Warriors await the results of the tournament’s remaining matches to learn ... [more...",
+          "]"
+        ],
+        "words": [
+          "awaits",
+          "admits",
+          "puzzled"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Kakao Union to Proceed with Daylong Strike Monday as Labor Talks Stall",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202475",
+        "summary": "[Economy] : The labor union at Kakao, the operator of South Korea’s leading messaging service, will move forward with its one-day strike on Monday amid a lack of progress in wage negotiations with management. The union said Friday that the planned “log-off day” will proceed as scheduled, adding that while ... [more...]",
+        "fullText": [
+          "[Economy] : The labor union at Kakao, the operator of South Korea’s leading messaging service, will move forward with its one-day strike on Monday amid a lack of progress in wage negotiations with management. The union said Friday that the planned “log-off day” will proceed as scheduled, adding that while ...",
+          "[more... ]"
+        ],
+        "words": [
+          "proceed",
+          "daylong",
+          "strike"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Clear Skies Expected Nationwide over Weekend",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202474",
+        "summary": "[Science] : The country will be mostly clear on Saturday, though clouds are expected to pass through parts of the Gyeongsang region from time to time. Morning lows will range from 13 to 20 degrees Celsius nationwide, while afternoon highs will range from 23 to 32 degrees. Seoul is expected to see a low of 19 ... [more...]",
+        "fullText": [
+          "[Science] : The country will be mostly clear on Saturday, though clouds are expected to pass through parts of the Gyeongsang region from time to time. Morning lows will range from 13 to 20 degrees Celsius nationwide, while afternoon highs will range from 23 to 32 degrees.",
+          "Seoul is expected to see a low of 19 ... [more...",
+          "]"
+        ],
+        "words": [
+          "expected",
+          "nationwide",
+          "weekend"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "label": "Friday, June 26, 2026",
     "title": "Korea News Brief",
