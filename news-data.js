@@ -1,5 +1,151 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-28",
+    "label": "Sunday, June 28, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Weather, Korea, Politics, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Exiled Vietnamese prince sparks tourism push into rural Korea",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260628/exiled-vietnamese-prince-sparks-tourism-push-into-rural-korea?utm_source=rss",
+        "summary": "Looking to disperse international tourism beyond the crowded streets of Seoul, Korea is mining an ancient, forgotten royal connection to lure travelers from its top tourism market: Vietnam. The Ministry of Culture, Sports and Tourism announced on Friday a new initiative to develop historical travel routes centered around Bonghwa, a quiet mountainous county in North Gyeongsang Province. While seemingly an unlikely destination for international visitors, Bonghwa holds a unique position in regional diplomacy. It is the final resting place of Prince Ly Long Tuong, a scion of Vietnam’s Ly Dynasty who fled a palace coup in the 13th century, crossed the sea to the Goryeo Kingdom and established a lineage in Korea that survives to this day. Following a bilateral summit in April where Vietnamese officials highlighted Bonghwa as a symbol of shared history, Seoul is moving to institutionalize the n...",
+        "fullText": [
+          "Looking to disperse international tourism beyond the crowded streets of Seoul, Korea is mining an ancient, forgotten royal connection to lure travelers from its top tourism market: Vietnam. The Ministry of Culture, Sports and Tourism announced on Friday a new initiative to develop historical travel routes centered around Bonghwa, a quiet mountainous county in North Gyeongsang Province.",
+          "While seemingly an unlikely destination for international visitors, Bonghwa holds a unique position in regional diplomacy. It is the final resting place of Prince Ly Long Tuong, a scion of Vietnam’s Ly Dynasty who fled a palace coup in the 13th century, crossed the sea to the Goryeo Kingdom and established a lineage in Korea that survives to this day.",
+          "Following a bilateral summit in April where Vietnamese officials highlighted Bonghwa as a symbol of shared history, Seoul is moving to institutionalize the n..."
+        ],
+        "words": [
+          "exiled",
+          "vietnamese",
+          "prince"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Stitching Korean spirit: Costume designer reimagines hanbok for world stage",
+        "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260628/stitching-korean-spirit-costume-designer-reimagines-hanbok-for-world-stage?utm_source=rss",
+        "summary": "Lee Jin-hee, the mastermind behind the costume designs of countless dramas, films and theatrical productions, first encountered costume design during her studies at college, where she majored in stage design. Captivated by the spirit embedded in traditional Korean attire, she has carved out a distinguished career as a hanbok (traditional Korean clothing) designer. The designer, who is now teaching at the Korea National University of Arts, made a name for herself through her work on hit dramas such as \"Love in the Moonlight\" (2016) and \"My Dearest\" (2023), as well as films such as \"The Treacherous\" (2015) and \"The Great Battle\" (2018). In 2020, her artistry earned her the Costume Design Award at the Grand Bell Awards. In 2024, she held a solo exhibition by invitation at the Korean Cultural Center in New York, and last year, she unveiled 15 hanbok pieces integrating artificial intelligence...",
+        "fullText": [
+          "Lee Jin-hee, the mastermind behind the costume designs of countless dramas, films and theatrical productions, first encountered costume design during her studies at college, where she majored in stage design. Captivated by the spirit embedded in traditional Korean attire, she has carved out a distinguished career as a hanbok (traditional Korean clothing) designer.",
+          "The designer, who is now teaching at the Korea National University of Arts, made a name for herself through her work on hit dramas such as \"Love in the Moonlight\" (2016) and \"My Dearest\" (2023), as well as films such as \"The Treacherous\" (2015) and \"The Great Battle\" (2018). In 2020, her artistry earned her the Costume Design Award at the Grand Bell Awards.",
+          "In 2024, she held a solo exhibition by invitation at the Korean Cultural Center in New York, and last year, she unveiled 15 hanbok pieces integrating artificial intelligence..."
+        ],
+        "words": [
+          "stitching",
+          "spirit",
+          "costume"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "A mother's journey after her son's organ donation saved 3 lives",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260628/a-mothers-journey-after-her-sons-organ-donation-saved-3-lives?utm_source=rss",
+        "summary": "First came a thunderous crash. Then someone frantically calling emergency services. “It’s terrible. People are lying everywhere. You need to come now!” Choi Seo-young, 56, was inside a produce shop buying groceries for her husband’s birthday when she heard the sound. A terrible thought flashed through her mind — her son was standing outside the store. She rushed out. A scene of devastation unfolded before her eyes. Stalls had been smashed apart. Shards of glass lay scattered across the street. People were sprawled on the ground, some with limbs twisted at grotesque angles, bleeding and moaning in pain. Her 23-year-old son was nowhere to be seen. “Young-in, where are you?” Frantically calling his name, Choi rushed through the marketplace. She soon found her son lying outside a butcher shop two doors down from where he had been standing. His face was covered in blood; as were the cabbages...",
+        "fullText": [
+          "First came a thunderous crash. Then someone frantically calling emergency services.",
+          "“It’s terrible. People are lying everywhere.",
+          "You need to come now! ” Choi Seo-young, 56, was inside a produce shop buying groceries for her husband’s birthday when she heard the sound.",
+          "A terrible thought flashed through her mind — her son was standing outside the store. She rushed out.",
+          "A scene of devastation unfolded before her eyes. Stalls had been smashed apart.",
+          "Shards of glass lay scattered across the street. People were sprawled on the ground, some with limbs twisted at grotesque angles, bleeding and moaning in pain.",
+          "Her 23-year-old son was nowhere to be seen. “Young-in, where are you?",
+          "” Frantically calling his name, Choi rushed through the marketplace. She soon found her son lying outside a butcher shop two doors down from where he had been standing.",
+          "His face was covered in blood; as were the cabbages..."
+        ],
+        "words": [
+          "mother",
+          "journey",
+          "donation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean researchers seek opportunities overseas despite record funding",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260628/korean-researchers-seek-opportunities-overseas-despite-record-funding?utm_source=rss",
+        "summary": "When Choi Jae-hyung (a pseudonym), a 29-year-old doctoral student at the Massachusetts Institute of Technology, made a surprise visit to Korea in December, he attended a get-together with his former classmates. The regular group consisted of 10 alumni who entered Seoul National University’s Department of Mechanical Engineering the same year. But the mood that night was subdued. “Are you also not going to come back to Korea after getting your doctorate?” one classmate, who was working on his Ph.D., asked Choi. Choi hesitated, then nodded. “There are more opportunities, and the pay is better,” he said, comparing the United States with Korea. Another classmate, who listened quietly, asked, “Why did I go into engineering? I should have tried applying to medical school.” For Choi and his peers, staying in engineering once seemed natural. Even as half of their peers switched to medical school,...",
+        "fullText": [
+          "When Choi Jae-hyung (a pseudonym), a 29-year-old doctoral student at the Massachusetts Institute of Technology, made a surprise visit to Korea in December, he attended a get-together with his former classmates. The regular group consisted of 10 alumni who entered Seoul National University’s Department of Mechanical Engineering the same year.",
+          "But the mood that night was subdued. “Are you also not going to come back to Korea after getting your doctorate?",
+          "” one classmate, who was working on his Ph. D.",
+          ", asked Choi. Choi hesitated, then nodded.",
+          "“There are more opportunities, and the pay is better,” he said, comparing the United States with Korea. Another classmate, who listened quietly, asked, “Why did I go into engineering?",
+          "I should have tried applying to medical school. ” For Choi and his peers, staying in engineering once seemed natural.",
+          "Even as half of their peers switched to medical school,..."
+        ],
+        "words": [
+          "researchers",
+          "opportunities",
+          "overseas"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Chinese, Russian Military Planes Enter KADIZ During Joint Drill",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202485",
+        "summary": "[Politics] : More than ten Chinese and Russian military aircraft entered South Korea's Air Defense Identification Zone, or KADIZ, over the East Sea and the South Sea on Saturday. South Korea's Joint Chiefs of Staff said the aircraft sequentially entered and later exited the KADIZ. It added that none of them ... [more...]",
+        "fullText": [
+          "[Politics] : More than ten Chinese and Russian military aircraft entered South Korea's Air Defense Identification Zone, or KADIZ, over the East Sea and the South Sea on Saturday. South Korea's Joint Chiefs of Staff said the aircraft sequentially entered and later exited the KADIZ.",
+          "It added that none of them ... [more...",
+          "]"
+        ],
+        "words": [
+          "chinese",
+          "russian",
+          "military"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Vance Warns 'Violence Will Be Met with Violence' after Retaliatory Strikes on Iran",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202484",
+        "summary": "[International] : U.S. Vice President JD Vance has issued a stark warning for retaliation, after U.S. forces conducted strikes against Iran in response to an attack on a commercial vessel transiting the Strait of Hormuz. In a message on X on Friday, Vance said Iran has signed a ceasefire agreement and that the U.S. has ... [more...]",
+        "fullText": [
+          "[International] : U. S.",
+          "Vice President JD Vance has issued a stark warning for retaliation, after U. S.",
+          "forces conducted strikes against Iran in response to an attack on a commercial vessel transiting the Strait of Hormuz. In a message on X on Friday, Vance said Iran has signed a ceasefire agreement and that the U.",
+          "S. has ...",
+          "[more... ]"
+        ],
+        "words": [
+          "violence",
+          "retaliatory",
+          "strikes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "PPP Slams President Lee Over GPU Budget Remarks",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202483",
+        "summary": "[Politics] : The main opposition People Power Party has criticized President Lee Jae Myung over his remarks on the need for a supplementary budget to secure more graphics processing units, or GPUs, for artificial intelligence. In a statement on Saturday, the party's senior spokesperson Park Sung-hoon accused the ... [more...]",
+        "fullText": [
+          "[Politics] : The main opposition People Power Party has criticized President Lee Jae Myung over his remarks on the need for a supplementary budget to secure more graphics processing units, or GPUs, for artificial intelligence. In a statement on Saturday, the party's senior spokesperson Park Sung-hoon accused the ...",
+          "[more... ]"
+        ],
+        "words": [
+          "president",
+          "budget",
+          "remarks"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-27",
     "label": "Saturday, June 27, 2026",
     "title": "Korea News Brief",
