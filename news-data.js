@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-29",
+    "label": "Monday, June 29, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Weather, Science, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea's ETF market overtakes Kosdaq for 1st time",
+        "url": "https://www.koreatimes.co.kr/economy/20260629/koreas-etf-market-overtakes-kosdaq-for-1st-time?utm_source=rss",
+        "summary": "The domestic exchange-traded fund (ETF) market overtook the Kosdaq in market capitalization for the first time last week, data showed Sunday, ahead of the Kosdaq's 30th anniversary in July. The ETF market has grown rapidly this year, driven by increased participation from retail investors and strong interest in artificial intelligence-themed investments, while the Kosdaq has declined amid broad weakness in the index. According to the Korea Exchange, total net assets of domestic ETFs stood at 519.75 trillion won ($337.94 billion) as of Thursday, exceeding the Kosdaq’s market capitalization of 499.3 trillion won. Although Friday’s total net asset figure has yet to be finalized, industry officials estimate that ETF net assets continued to outpace the Kosdaq through Friday. It marked the first time that the domestic ETF market's net assets exceeded the Kosdaq's market capitalization since th...",
+        "fullText": [
+          "The domestic exchange-traded fund (ETF) market overtook the Kosdaq in market capitalization for the first time last week, data showed Sunday, ahead of the Kosdaq's 30th anniversary in July. The ETF market has grown rapidly this year, driven by increased participation from retail investors and strong interest in artificial intelligence-themed investments, while the Kosdaq has declined amid broad weakness in the index.",
+          "According to the Korea Exchange, total net assets of domestic ETFs stood at 519. 75 trillion won ($337.",
+          "94 billion) as of Thursday, exceeding the Kosdaq’s market capitalization of 499. 3 trillion won.",
+          "Although Friday’s total net asset figure has yet to be finalized, industry officials estimate that ETF net assets continued to outpace the Kosdaq through Friday. It marked the first time that the domestic ETF market's net assets exceeded the Kosdaq's market capitalization since th..."
+        ],
+        "words": [
+          "market",
+          "overtakes",
+          "kosdaq"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "10 years of Korea-UNDP cooperation on integrity and road ahead",
+        "url": "https://www.koreatimes.co.kr/opinion/20260629/10-years-of-korea-undp-cooperation-on-integrity-and-road-ahead?utm_source=rss",
+        "summary": "The level of social trust within a country is closely linked to its level of integrity. Corruption creates enormous social costs by undermining the foundations of public systems, deepening inequality and hindering the achievement of the Sustainable Development Goals (SDGs) adopted by the United Nations. To address these challenges, the Anti-Corruption and Civil Rights Commission (ACRC) and the United Nations Development Programme (UNDP) signed a memorandum of understanding in 2016 and have since shared Korea’s anti-corruption policies and institutional experiences with the international community. Over the past decade, the SDG Partnership Programme of the two institutions has evolved beyond a conventional aid-based model into a practical cooperation framework that supports meaningful institutional improvements in partner countries. Korea’s Comprehensive Integrity Assessment, Corruption I...",
+        "fullText": [
+          "The level of social trust within a country is closely linked to its level of integrity. Corruption creates enormous social costs by undermining the foundations of public systems, deepening inequality and hindering the achievement of the Sustainable Development Goals (SDGs) adopted by the United Nations.",
+          "To address these challenges, the Anti-Corruption and Civil Rights Commission (ACRC) and the United Nations Development Programme (UNDP) signed a memorandum of understanding in 2016 and have since shared Korea’s anti-corruption policies and institutional experiences with the international community. Over the past decade, the SDG Partnership Programme of the two institutions has evolved beyond a conventional aid-based model into a practical cooperation framework that supports meaningful institutional improvements in partner countries.",
+          "Korea’s Comprehensive Integrity Assessment, Corruption I..."
+        ],
+        "words": [
+          "korea-undp",
+          "cooperation",
+          "integrity"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "How to make noodle dishes healthier",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260629/how-to-make-noodle-dishes-healthier?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. When enjoying a Korean stew or hot pot, many people find it hard to resist adding noodles. Whether it's instant ramen or chewy glass noodles, the choice often comes down to taste. But for those trying to lose weight, the question naturally arises: Which is the less calorie-heavy option? Despite appearances, the two differ in their nutritional profiles and health considerations. Glass noodles, known as dangmyeon, are typically made from potato or sweet potato starch. A 100-gram serving of dried glass noodles contains roughly 340 to 370 calories, making them more calorie-dense than many people assume. They consist almost entirely of refined carbohydrates and contain relatively little protein or dietary fiber. Although they expand significantly when cooked — making portions appear larger — the total calorie intake remains substantial. While glass...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "When enjoying a Korean stew or hot pot, many people find it hard to resist adding noodles. Whether it's instant ramen or chewy glass noodles, the choice often comes down to taste.",
+          "But for those trying to lose weight, the question naturally arises: Which is the less calorie-heavy option? Despite appearances, the two differ in their nutritional profiles and health considerations.",
+          "Glass noodles, known as dangmyeon, are typically made from potato or sweet potato starch. A 100-gram serving of dried glass noodles contains roughly 340 to 370 calories, making them more calorie-dense than many people assume.",
+          "They consist almost entirely of refined carbohydrates and contain relatively little protein or dietary fiber. Although they expand significantly when cooked — making portions appear larger — the total calorie intake remains substantial.",
+          "While glass..."
+        ],
+        "words": [
+          "noodle",
+          "dishes",
+          "healthier"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Jane Austen's 'Emma' refuses to go out of style",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260629/jane-austens-emma-refuses-to-go-out-of-style?utm_source=rss",
+        "summary": "Emma Woodhouse is an enduring heroine. The main character of Jane Austen's 1815 novel \"Emma,\" which is being brought to the stage in Seoul by Get in the Van Productions, has enthralled audiences for centuries. \"She's quintessential relatable to MZ women,\" said the play's director, Holly Lana Wright, \"in a way that feels ancestral.\" Jessica Kwen, the actor who will be playing the titular character, praises Emma for being witty, but admitting her mistakes. Kwen attributes the character's interfering nature to the limited role of women in her society. \"She is not allowed to have an occupation and is restless from not being able to achieve her fullest potential,\" she said. The stage show is based on a 2022 script by Kate Hamill, an American playwright known for her contemporary theater adaptations of classic novels. Wright describes the script as \"utterly unruly, fourth wall breaking with a...",
+        "fullText": [
+          "Emma Woodhouse is an enduring heroine. The main character of Jane Austen's 1815 novel \"Emma,\" which is being brought to the stage in Seoul by Get in the Van Productions, has enthralled audiences for centuries.",
+          "\"She's quintessential relatable to MZ women,\" said the play's director, Holly Lana Wright, \"in a way that feels ancestral. \" Jessica Kwen, the actor who will be playing the titular character, praises Emma for being witty, but admitting her mistakes.",
+          "Kwen attributes the character's interfering nature to the limited role of women in her society. \"She is not allowed to have an occupation and is restless from not being able to achieve her fullest potential,\" she said.",
+          "The stage show is based on a 2022 script by Kate Hamill, an American playwright known for her contemporary theater adaptations of classic novels. Wright describes the script as \"utterly unruly, fourth wall breaking with a..."
+        ],
+        "words": [
+          "austen",
+          "refuses",
+          "woodhouse"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Hong Myung-bo steps down as Korea coach after World Cup early exit",
+        "url": "https://www.koreatimes.co.kr/sports/20260629/hong-myung-bo-steps-down-as-korea-coach-after-world-cup-early-exit?utm_source=rss",
+        "summary": "ZAPOPAN, Mexico — Hong Myung-bo resigned as head coach of the Korean men's national football team Sunday, a day after the country's elimination from the ongoing FIFA World Cup. Hong, 57, made the announcement at a press conference at the team's training site in Zapopan, western Mexico. He was hired in July 2024 for his second tour of duty and his contract was to run through the 2027 Asian Football Confederation Asian Cup, set to run from January to February next year. At the World Cup, Korea finished third in Group A with three points from a win and two losses. They harbored hopes of sneaking into the round of 32 as one of the eight best third-place teams, but fell out of the picture Saturday, the final day of the group stage. Hong also failed to get Korea past the group stage at his first World Cup as head coach in 2014.",
+        "fullText": [
+          "ZAPOPAN, Mexico — Hong Myung-bo resigned as head coach of the Korean men's national football team Sunday, a day after the country's elimination from the ongoing FIFA World Cup. Hong, 57, made the announcement at a press conference at the team's training site in Zapopan, western Mexico.",
+          "He was hired in July 2024 for his second tour of duty and his contract was to run through the 2027 Asian Football Confederation Asian Cup, set to run from January to February next year. At the World Cup, Korea finished third in Group A with three points from a win and two losses.",
+          "They harbored hopes of sneaking into the round of 32 as one of the eight best third-place teams, but fell out of the picture Saturday, the final day of the group stage. Hong also failed to get Korea past the group stage at his first World Cup as head coach in 2014."
+        ],
+        "words": [
+          "myung-bo",
+          "zapopan",
+          "mexico"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Showers Expected in Inland Areas Monday; Heat Above 30 Degrees to Persist",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202493",
+        "summary": "[Science] : Cloudy skies are expected nationwide Sunday, with showers forecast in inland regions. According to the Korea Meteorological Administration, central inland areas may see strong wind gusts, thunderstorms and even hail in some locations, with rainfall ranging from five to 30 millimeters. On Monday, the ... [more...]",
+        "fullText": [
+          "[Science] : Cloudy skies are expected nationwide Sunday, with showers forecast in inland regions. According to the Korea Meteorological Administration, central inland areas may see strong wind gusts, thunderstorms and even hail in some locations, with rainfall ranging from five to 30 millimeters.",
+          "On Monday, the ... [more...",
+          "]"
+        ],
+        "words": [
+          "showers",
+          "expected",
+          "inland"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Chinese Dissident Who Fled to S. Korea by Ginghy Arrives in Canada",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202492",
+        "summary": "[International] : A Chinese political dissident who was found adrift in a rubber boat off South Korea's west coast last month has arrived in Canada and reunited with his family. According to The New York Times on Saturday, Dong Guangping landed at Toronto Pearson International Airport the previous night, where he met his ... [more...]",
+        "fullText": [
+          "[International] : A Chinese political dissident who was found adrift in a rubber boat off South Korea's west coast last month has arrived in Canada and reunited with his family. According to The New York Times on Saturday, Dong Guangping landed at Toronto Pearson International Airport the previous night, where he met his ...",
+          "[more... ]"
+        ],
+        "words": [
+          "chinese",
+          "dissident",
+          "ginghy"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-28",
     "label": "Sunday, June 28, 2026",
     "title": "Korea News Brief",
