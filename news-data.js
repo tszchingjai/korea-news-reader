@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-06-30",
+    "label": "Tuesday, June 30, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "What's left to curb weak won?",
+        "url": "https://www.koreatimes.co.kr/economy/policy/20260630/whats-left-to-curb-weak-won?utm_source=rss",
+        "summary": "Market attention is increasingly focused on what, if anything, can reverse the won’s slide as the won-dollar exchange rate has remained above the psychologically important 1,500 won level for more than a month despite easing geopolitical tensions, according to industry analysts, Monday. With heavy foreign selling of Korean equities and a stronger U.S. dollar continuing to weigh on the won, concerns are growing that the currency’s weakness may be becoming structural rather than merely reflecting a temporary external shock. The analysts said the key variables that will determine the won’s direction in the second half include whether the pressure of foreign investors’ selling eases, whether the Bank of Korea (BOK) raises its benchmark interest rate and whether an expected influx of U.S. dollars from SK hynix’s $30 billion American depositary receipt (ADR) listing on the Nasdaq next month ma...",
+        "fullText": [
+          "Market attention is increasingly focused on what, if anything, can reverse the won’s slide as the won-dollar exchange rate has remained above the psychologically important 1,500 won level for more than a month despite easing geopolitical tensions, according to industry analysts, Monday. With heavy foreign selling of Korean equities and a stronger U.",
+          "S. dollar continuing to weigh on the won, concerns are growing that the currency’s weakness may be becoming structural rather than merely reflecting a temporary external shock.",
+          "The analysts said the key variables that will determine the won’s direction in the second half include whether the pressure of foreign investors’ selling eases, whether the Bank of Korea (BOK) raises its benchmark interest rate and whether an expected influx of U. S.",
+          "dollars from SK hynix’s $30 billion American depositary receipt (ADR) listing on the Nasdaq next month ma..."
+        ],
+        "words": [
+          "market",
+          "attention",
+          "increasingly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[K-pop Report Card] From meme hooks to industrial pop, here's what defined K-pop's wildest 2 months",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260630/k-pop-report-card-from-meme-hooks-to-industrial-pop-heres-what-defined-k-pops-wildest-2-months?utm_source=rss",
+        "summary": "For K-pop, May and June were gloriously messy. Over the past two months, artists bounced between internet memes and club sounds, nostalgia and reinvention, minimalist production and maximalist spectacle. Veteran acts proved they could still evolve without losing themselves, while younger groups continued searching for sounds they could truly call their own. Some experiments paid off. Others raised more questions than answers. Here's what stood out, or fell flat, in K-pop's latest wave of releases. BABYMONSTER, \"CHOOM\" EP — title track \"CHOOM,\" released May 4 Verdict: Nearly there BABYMONSTER deserves some credit for refusing to chase trends. The track is unmistakably YG: a throwback packed with production choices that recall the label's glory days, when BLACKPINK, or even 2NE1 before them, defined its identity. The instrumental, in particular, feels lifted from that era, and there's cert...",
+        "fullText": [
+          "For K-pop, May and June were gloriously messy. Over the past two months, artists bounced between internet memes and club sounds, nostalgia and reinvention, minimalist production and maximalist spectacle.",
+          "Veteran acts proved they could still evolve without losing themselves, while younger groups continued searching for sounds they could truly call their own. Some experiments paid off.",
+          "Others raised more questions than answers. Here's what stood out, or fell flat, in K-pop's latest wave of releases.",
+          "BABYMONSTER, \"CHOOM\" EP — title track \"CHOOM,\" released May 4 Verdict: Nearly there BABYMONSTER deserves some credit for refusing to chase trends. The track is unmistakably YG: a throwback packed with production choices that recall the label's glory days, when BLACKPINK, or even 2NE1 before them, defined its identity.",
+          "The instrumental, in particular, feels lifted from that era, and there's cert..."
+        ],
+        "words": [
+          "report",
+          "industrial",
+          "defined"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Photo of Gaya tombs wins top prize in UNESCO heritage photo contest",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260630/photo-of-gaya-tombs-wins-top-prize-in-unesco-heritage-photo-contest?utm_source=rss",
+        "summary": "A photograph of tombs from the Gaya Confederacy (42 B.C. – A.D. 562) in southeastern Korea won the Grand Prize in the Discover Korea's World Heritage Photo Contest, according to The Korea Times, Monday. The competition was hosted by The Korea Times in collaboration with the Korea Heritage Service (KHS) ahead of the 48th session of the UNESCO World Heritage Committee, which will be held in Busan from July 19 to 29. Korea is home to 17 UNESCO World Heritage sites and 12 tentative sites. Participants were invited to submit photographs featuring one of the country's World Heritage or tentative sites. From a total of 576 entries, The Korea Times and the KHS selected 60 winners. Grand Prize winner Tim Schilstra of Canada captured the Songhak-dong Tumuli in Goseong, South Gyeongsang Province, one of the seven burial sites that make up the Gaya Tumuli, which were inscribed on the UNESCO World He...",
+        "fullText": [
+          "A photograph of tombs from the Gaya Confederacy (42 B. C.",
+          "– A. D.",
+          "562) in southeastern Korea won the Grand Prize in the Discover Korea's World Heritage Photo Contest, according to The Korea Times, Monday. The competition was hosted by The Korea Times in collaboration with the Korea Heritage Service (KHS) ahead of the 48th session of the UNESCO World Heritage Committee, which will be held in Busan from July 19 to 29.",
+          "Korea is home to 17 UNESCO World Heritage sites and 12 tentative sites. Participants were invited to submit photographs featuring one of the country's World Heritage or tentative sites.",
+          "From a total of 576 entries, The Korea Times and the KHS selected 60 winners. Grand Prize winner Tim Schilstra of Canada captured the Songhak-dong Tumuli in Goseong, South Gyeongsang Province, one of the seven burial sites that make up the Gaya Tumuli, which were inscribed on the UNESCO World He..."
+        ],
+        "words": [
+          "unesco",
+          "heritage",
+          "contest"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Why 'Wild Thing' viewers can't stop talking about Oh Jung-se over lead actor",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260630/why-wild-thing-viewers-cant-stop-talking-about-oh-jung-se-over-lead-actor?utm_source=rss",
+        "summary": "The 2021 film \"I Don’t Fire Myself\" shines a spotlight on transmission tower workers, whose stories are rarely highlighted on the screen. Although they perform the critical task of inspecting and repairing power transmission towers, the workers are employed by subcontractors. The film vividly portrays their grueling work, hazardous conditions and unfair treatment. Jeong-eun (Yoo Da-in), an employee temporarily assigned from the main contractor, and Choong-sik (Oh Jung-se), the least experienced member of the crew, bring the workers' struggles to life. The film was shot around Gunsan, North Jeolla Province, in late autumn 2018. Most of the transmission tower scenes were filmed at an electrical training center to ensure the safety of the actors. Before filming began, however, director Lee Tae-gyeom and the cast decided to climb an actual transmission tower to experience, even briefly, what...",
+        "fullText": [
+          "The 2021 film \"I Don’t Fire Myself\" shines a spotlight on transmission tower workers, whose stories are rarely highlighted on the screen. Although they perform the critical task of inspecting and repairing power transmission towers, the workers are employed by subcontractors.",
+          "The film vividly portrays their grueling work, hazardous conditions and unfair treatment. Jeong-eun (Yoo Da-in), an employee temporarily assigned from the main contractor, and Choong-sik (Oh Jung-se), the least experienced member of the crew, bring the workers' struggles to life.",
+          "The film was shot around Gunsan, North Jeolla Province, in late autumn 2018. Most of the transmission tower scenes were filmed at an electrical training center to ensure the safety of the actors.",
+          "Before filming began, however, director Lee Tae-gyeom and the cast decided to climb an actual transmission tower to experience, even briefly, what..."
+        ],
+        "words": [
+          "viewers",
+          "talking",
+          "jung-se"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Winners of the 22nd Economic Essay Contest",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260630/winners-of-the-22nd-economic-essay-contest?utm_source=rss",
+        "summary": "The Korea Times is pleased to announce the winners of its 22nd English Economic Essay Contest for university students. The Grand Prize winners are Alexandra Maria Escobar Garay, a Salvadoran student at Busan University of Foreign Studies, and Ko Kyung-hwan, a Korean student at Hanyang University. Each winner will receive 3 million won in prize money and an award certificate. The runners-up are Sultanova Khadizha, a Kyrgyz student at Woosong University, and Said Jonathan Luviano Lessie, a Mexican student at Ajou University. Each will receive 2 million won and an award certificate. Commendation awards went to Tran Minh Ngoc, a Vietnamese student at Hanoi Financial and Banking University, Narzullaeva Maftuna Shukhrat Kizi, an Uzbek student at Inha University, and Lee Hyo-jeong, a Korean student at the University of California. Each will receive 1 million won and a certificate. The contestan...",
+        "fullText": [
+          "The Korea Times is pleased to announce the winners of its 22nd English Economic Essay Contest for university students. The Grand Prize winners are Alexandra Maria Escobar Garay, a Salvadoran student at Busan University of Foreign Studies, and Ko Kyung-hwan, a Korean student at Hanyang University.",
+          "Each winner will receive 3 million won in prize money and an award certificate. The runners-up are Sultanova Khadizha, a Kyrgyz student at Woosong University, and Said Jonathan Luviano Lessie, a Mexican student at Ajou University.",
+          "Each will receive 2 million won and an award certificate. Commendation awards went to Tran Minh Ngoc, a Vietnamese student at Hanoi Financial and Banking University, Narzullaeva Maftuna Shukhrat Kizi, an Uzbek student at Inha University, and Lee Hyo-jeong, a Korean student at the University of California.",
+          "Each will receive 1 million won and a certificate. The contestan..."
+        ],
+        "words": [
+          "winners",
+          "economic",
+          "contest"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Blooming trumpet vines become symbol of Korean summer",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260630/blooming-trumpet-vines-become-symbol-of-korean-summer?utm_source=rss",
+        "summary": "Neungsohwa, or trumpet vine, is emerging as a summer icon for young Koreans, who increasingly treat its blooming season as an experience to savor. Part of the trumpet creeper family, the plant produces clusters of large flowers in vivid shades of yellow and orange. It sends long, flexible stems up walls, fences and tree trunks, reaching heights of up to 10 meters. It typically blooms from July to September, peaking around August. Its blooms spill over theatrically, highlighting even small spaces and creating a sense of drama. The plant is hardy, tolerating heat, rain and wind, and has long been cultivated at homes and gardens around Korea. The flower’s recent popularity roots in its name and symbolism. The name of the flower can be translated as \"insulting the sky.\" Essays have gone viral on social media playing with the idea of “laughing at” or “defying” the harsh summer sky, along with...",
+        "fullText": [
+          "Neungsohwa, or trumpet vine, is emerging as a summer icon for young Koreans, who increasingly treat its blooming season as an experience to savor. Part of the trumpet creeper family, the plant produces clusters of large flowers in vivid shades of yellow and orange.",
+          "It sends long, flexible stems up walls, fences and tree trunks, reaching heights of up to 10 meters. It typically blooms from July to September, peaking around August.",
+          "Its blooms spill over theatrically, highlighting even small spaces and creating a sense of drama. The plant is hardy, tolerating heat, rain and wind, and has long been cultivated at homes and gardens around Korea.",
+          "The flower’s recent popularity roots in its name and symbolism. The name of the flower can be translated as \"insulting the sky.",
+          "\" Essays have gone viral on social media playing with the idea of “laughing at” or “defying” the harsh summer sky, along with..."
+        ],
+        "words": [
+          "blooming",
+          "trumpet",
+          "become"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "N. Korea Condemns Combined US-Japan Exercise, Accuses Japan of Rehearsing for War",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202526",
+        "summary": "[Politics] : North Korea has condemned an ongoing combined exercise between the U.S. Marine Corps and the Japan Ground Self-Defense Force, calling Japan’s participation “reckless” and accusing the country of planning a reinvasion. In an editorial published Monday, the North’s state-run Korean Central News ... [more...]",
+        "fullText": [
+          "[Politics] : North Korea has condemned an ongoing combined exercise between the U. S.",
+          "Marine Corps and the Japan Ground Self-Defense Force, calling Japan’s participation “reckless” and accusing the country of planning a reinvasion. In an editorial published Monday, the North’s state-run Korean Central News ...",
+          "[more... ]"
+        ],
+        "words": [
+          "condemns",
+          "combined",
+          "us-japan"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-29",
     "label": "Monday, June 29, 2026",
     "title": "Korea News Brief",
