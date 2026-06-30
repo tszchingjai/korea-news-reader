@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-01",
+    "label": "Wednesday, July 1, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Weather, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Supreme Court rejects Trump's attempt to limit birthright citizenship, upholds transgender athlete bans",
+        "url": "https://www.koreatimes.co.kr/world/20260701/supreme-court-rejects-trumps-attempt-to-limit-birthright-citizenship-upholds-transgender-athlete-bans?utm_source=rss",
+        "summary": "WASHINGTON — The Supreme Court on Tuesday rejected U.S. President Donald Trump's attempt to restrict birthright citizenship in a high-profile ruling, dealing a legal setback to his administration's immigration policy. In a 6-3 decision, the top court upheld a lower court decision against Trump's executive order issued in January last year, which sought to deny birthright citizenship to children born in the United States to undocumented immigrants and temporary visa holders. The ruling marked yet another legal defeat for Trump at the court, following its February decision that struck down his administration's country-specific \"reciprocal\" tariffs imposed under the 1977 International Emergency Economic Powers Act. The court reaffirmed the citizenship clause of the U.S. Constitution's 14th Amendment, which states \"all persons born or naturalized in the United States, and subject to the juri...",
+        "fullText": [
+          "WASHINGTON — The Supreme Court on Tuesday rejected U. S.",
+          "President Donald Trump's attempt to restrict birthright citizenship in a high-profile ruling, dealing a legal setback to his administration's immigration policy. In a 6-3 decision, the top court upheld a lower court decision against Trump's executive order issued in January last year, which sought to deny birthright citizenship to children born in the United States to undocumented immigrants and temporary visa holders.",
+          "The ruling marked yet another legal defeat for Trump at the court, following its February decision that struck down his administration's country-specific \"reciprocal\" tariffs imposed under the 1977 International Emergency Economic Powers Act. The court reaffirmed the citizenship clause of the U.",
+          "S. Constitution's 14th Amendment, which states \"all persons born or naturalized in the United States, and subject to the juri..."
+        ],
+        "words": [
+          "supreme",
+          "rejects",
+          "attempt"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "What’s new in Korea in 2nd half of 2026: 1-week parental leave, unified rail app and more",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260701/whats-new-in-korea-in-2nd-half-of-2026-1-week-parental-leave-unified-rail-app-and-more?utm_source=rss",
+        "summary": "Korea will introduce short-term parental leave, expand spousal leave around pregnancy and miscarriage and toughen penalties for wage theft as part of a broad package of social policy changes coming into force in the second half of this year. Government ministries on Tuesday announced a six-month policy package spanning family-friendly workplace rules, rail services, weather forecasting and disaster alerts. From Aug. 20, workers who have children aged eight or younger will be able to take one- to two-week blocks of child care leave once a year. The new option is designed for short-term care needs during school holidays or temporary closures of child care facilities, and allow parents to split their child care leave into shorter segments instead of only using it in lengthy stretches. Officials hope this flexibility will encourage more male employees at small firms to actually use parental...",
+        "fullText": [
+          "Korea will introduce short-term parental leave, expand spousal leave around pregnancy and miscarriage and toughen penalties for wage theft as part of a broad package of social policy changes coming into force in the second half of this year. Government ministries on Tuesday announced a six-month policy package spanning family-friendly workplace rules, rail services, weather forecasting and disaster alerts.",
+          "From Aug. 20, workers who have children aged eight or younger will be able to take one- to two-week blocks of child care leave once a year.",
+          "The new option is designed for short-term care needs during school holidays or temporary closures of child care facilities, and allow parents to split their child care leave into shorter segments instead of only using it in lengthy stretches. Officials hope this flexibility will encourage more male employees at small firms to actually use parental..."
+        ],
+        "words": [
+          "parental",
+          "unified",
+          "introduce"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Korea's 'fake news' law set to redraw online speech rules",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260701/koreas-fake-news-law-set-to-redraw-online-speech-rules?utm_source=rss",
+        "summary": "A viral YouTube video, a one-star review on a delivery app, a heated post on a parenting community — all of these will fall under the same legal standard starting July 7. Korea's revised Information and Communications Network Act, widely known as the \"fake news\" law, introduces punitive damages for YouTubers with more than 100,000 subscribers and high-traffic TikTok accounts if they display what authorities define as \"unlawful\" content, while platforms such as Naver, Kakao, Google and Meta stand to face steep penalties if they fail to police such content. High-traffic influencers targeted The enforcement decree spells out who can be sued for punitive damages over illegal and fabricated information. Individuals on online platforms like YouTube or TikTok who have posted at least three pieces of content over the past three months and either have more than 100,000 subscribers or average more...",
+        "fullText": [
+          "A viral YouTube video, a one-star review on a delivery app, a heated post on a parenting community — all of these will fall under the same legal standard starting July 7. Korea's revised Information and Communications Network Act, widely known as the \"fake news\" law, introduces punitive damages for YouTubers with more than 100,000 subscribers and high-traffic TikTok accounts if they display what authorities define as \"unlawful\" content, while platforms such as Naver, Kakao, Google and Meta stand to face steep penalties if they fail to police such content.",
+          "High-traffic influencers targeted The enforcement decree spells out who can be sued for punitive damages over illegal and fabricated information. Individuals on online platforms like YouTube or TikTok who have posted at least three pieces of content over the past three months and either have more than 100,000 subscribers or average more..."
+        ],
+        "words": [
+          "redraw",
+          "online",
+          "speech"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "The Catholic University of Korea says faith is its strength in AI race",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260701/the-catholic-university-of-korea-says-faith-is-its-strength-in-ai-race?utm_source=rss",
+        "summary": "As universities race to expand artificial intelligence (AI) education, The Catholic University of Korea is betting that its strongest competitive advantage lies not in AI alone, but in its Catholic identity and the values guiding the technology's use. President Choi Jun-gui said the university's vision, \"Be Catholic, Be Excellent,\" seeks to distinguish the institution by combining cutting-edge AI and biomedical innovation with education rooted in human dignity, ethics and respect for life. \"AI is a tool. Human beings must always remain the ones who guide and control that tool,\" he said in a recent interview with The Korea Times. Korea's first medical AI ethics code The university is putting that philosophy into practice through a series of AI initiatives centered on medicine and biotechnology. Starting this fall semester, the university will launch an interdisciplinary graduate program i...",
+        "fullText": [
+          "As universities race to expand artificial intelligence (AI) education, The Catholic University of Korea is betting that its strongest competitive advantage lies not in AI alone, but in its Catholic identity and the values guiding the technology's use. President Choi Jun-gui said the university's vision, \"Be Catholic, Be Excellent,\" seeks to distinguish the institution by combining cutting-edge AI and biomedical innovation with education rooted in human dignity, ethics and respect for life.",
+          "\"AI is a tool. Human beings must always remain the ones who guide and control that tool,\" he said in a recent interview with The Korea Times.",
+          "Korea's first medical AI ethics code The university is putting that philosophy into practice through a series of AI initiatives centered on medicine and biotechnology. Starting this fall semester, the university will launch an interdisciplinary graduate program i..."
+        ],
+        "words": [
+          "catholic",
+          "university",
+          "strength"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Vietnamese Gen Z treats Korean esports players like K-pop idols",
+        "url": "https://www.koreatimes.co.kr/sports/20260701/vietnamese-gen-z-treats-korean-esports-players-like-k-pop-idols?utm_source=rss",
+        "summary": "Min Hai, 20, a second-year student at Hanoi Law University, was among the thousands of fans who gathered to meet the members of Hanwha Life Esports (HLE), one of Korea’s leading League of Legends teams, on June 18 at Quan Ngua Sports Complex in Hanoi. Holding a placard that read “I am a Hanwha fan,” Min Hai said HLE’s rise into a team representing League of Legends Champions Korea (LCK) taught the importance of effort and perseverance. “For me, cheering for HLE is more than just a hobby,” she said. “Watching the players overcome adversity gives me courage to face difficulties, too. They are like role models in life, with many things to learn from.” The scene looked more like a K-pop concert than an esports team fan event. When HLE's star players Zeus, Kanavi, Zeka, Gumayusi and Delight walked out, fans erupted with cheers, chanting their names. Jung, a 20-year-old University of Virginia...",
+        "fullText": [
+          "Min Hai, 20, a second-year student at Hanoi Law University, was among the thousands of fans who gathered to meet the members of Hanwha Life Esports (HLE), one of Korea’s leading League of Legends teams, on June 18 at Quan Ngua Sports Complex in Hanoi. Holding a placard that read “I am a Hanwha fan,” Min Hai said HLE’s rise into a team representing League of Legends Champions Korea (LCK) taught the importance of effort and perseverance.",
+          "“For me, cheering for HLE is more than just a hobby,” she said. “Watching the players overcome adversity gives me courage to face difficulties, too.",
+          "They are like role models in life, with many things to learn from. ” The scene looked more like a K-pop concert than an esports team fan event.",
+          "When HLE's star players Zeus, Kanavi, Zeka, Gumayusi and Delight walked out, fans erupted with cheers, chanting their names. Jung, a 20-year-old University of Virginia..."
+        ],
+        "words": [
+          "vietnamese",
+          "treats",
+          "esports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Craving spicy rice cakes? Skip the glass noodles and try these smarter choices",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260701/craving-spicy-rice-cakes-skip-the-glass-noodles-and-try-these-smarter-choices?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. The sweet and spicy aroma of tteokbokki (spicy simmered rice cakes) wafting from a street stall is enough to tempt almost anyone. And once you've decided to indulge, it's easy to add fried snacks, sundae (Korean blood sausage) and a soft drink to the order. The problem is that this combination quickly turns into an extremely high-carbohydrate meal. Fortunately, you don't have to give up tteokbokki altogether. Choosing different toppings, beverages and desserts — along with making a few simple adjustments before and after eating — can make the meal less taxing on your blood sugar. Skipping meals beforehand can backfire People trying to manage their weight often think, \"I'm having tteokbokki for dinner, so I'll skip lunch.\" But eating a large amount of refined carbohydrates such as rice cakes after a long fast can cause blood sugar to rise even...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "The sweet and spicy aroma of tteokbokki (spicy simmered rice cakes) wafting from a street stall is enough to tempt almost anyone. And once you've decided to indulge, it's easy to add fried snacks, sundae (Korean blood sausage) and a soft drink to the order.",
+          "The problem is that this combination quickly turns into an extremely high-carbohydrate meal. Fortunately, you don't have to give up tteokbokki altogether.",
+          "Choosing different toppings, beverages and desserts — along with making a few simple adjustments before and after eating — can make the meal less taxing on your blood sugar. Skipping meals beforehand can backfire People trying to manage their weight often think, \"I'm having tteokbokki for dinner, so I'll skip lunch.",
+          "\" But eating a large amount of refined carbohydrates such as rice cakes after a long fast can cause blood sugar to rise even..."
+        ],
+        "words": [
+          "craving",
+          "noodles",
+          "smarter"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "EU Cuts S. Korea’s Tariff-Free Steel Import Quota by 19.7%",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202557",
+        "summary": "[Economy] : South Korea has persuaded the European Union(EU) to limit a planned cut to its quota for tariff-free steel imports and reduce it by only 19-point-seven percent, amid growing security and economic concerns within the regional bloc as the Ukraine war continues. According to Seoul’s trade ministry on ... [more...]",
+        "fullText": [
+          "[Economy] : South Korea has persuaded the European Union(EU) to limit a planned cut to its quota for tariff-free steel imports and reduce it by only 19-point-seven percent, amid growing security and economic concerns within the regional bloc as the Ukraine war continues. According to Seoul’s trade ministry on ...",
+          "[more... ]"
+        ],
+        "words": [
+          "tariff-free",
+          "import",
+          "economy"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "label": "Tuesday, June 30, 2026",
     "title": "Korea News Brief",
