@@ -1,5 +1,143 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-02",
+    "label": "Thursday, July 2, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Weather, Korea, Politics, Sports. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Airbility bets on high-speed drones as Iran war reshapes counter-drone market",
+        "url": "https://www.koreatimes.co.kr/business/20260702/airbility-bets-on-high-speed-drones-as-iran-war-reshapes-counter-drone-market?utm_source=rss",
+        "summary": "The recent U.S.-Israeli war against Iran underscored an increasingly costly reality of modern warfare: Shooting down a low-cost drone can require an interceptor missile worth more than 100 times as much. As inexpensive drones become more common on the battlefield, militaries are searching for more cost-effective ways to defend against them. That shift is creating new opportunities for companies developing next-generation counter-drone technologies. One of them is Airbility, a Korean startup developing an artificial intelligence (AI)-powered counter-drone system built around a reusable high-speed unmanned aircraft system. Its CEO believes the company's platform could offer a more economical alternative to conventional air defense systems by deploying interceptor drones from the air, rather than relying solely on costly ground-based missile systems. \"In modern conflicts, such as the war in...",
+        "fullText": [
+          "The recent U. S.",
+          "-Israeli war against Iran underscored an increasingly costly reality of modern warfare: Shooting down a low-cost drone can require an interceptor missile worth more than 100 times as much. As inexpensive drones become more common on the battlefield, militaries are searching for more cost-effective ways to defend against them.",
+          "That shift is creating new opportunities for companies developing next-generation counter-drone technologies. One of them is Airbility, a Korean startup developing an artificial intelligence (AI)-powered counter-drone system built around a reusable high-speed unmanned aircraft system.",
+          "Its CEO believes the company's platform could offer a more economical alternative to conventional air defense systems by deploying interceptor drones from the air, rather than relying solely on costly ground-based missile systems. \"In modern conflicts, such as the war in..."
+        ],
+        "words": [
+          "airbility",
+          "high-speed",
+          "drones"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Korean high school where 1 in 4 graduates heads straight to Samsung Electronics",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260702/korean-high-school-where-1-in-4-graduates-heads-straight-to-samsung-electronics?utm_source=rss",
+        "summary": "Even at vocational high schools, principals who don't have to worry about their graduates finding jobs are a rare breed these days. Seo Un-suk, principal of Chungbuk Semiconductor High School, is one of them. “We have 96 students in each grade, and more than 100 semiconductor companies have signed agreements to hire our graduates,” Seo said. “There is no need to worry about finding jobs.” Seo beamed as he led a tour of the school. Unprecedented global demand for semiconductors, he said, has brought the school growing attention from companies both in Korea and overseas. “We do not have enough students to send even one graduate to each company,” he said. Located in North Chungcheong Province, the school began as a conventional vocational high school. In 2008, it adopted its current name, and two years later, it was designated Korea’s first Meister high school specializing in semiconductors...",
+        "fullText": [
+          "Even at vocational high schools, principals who don't have to worry about their graduates finding jobs are a rare breed these days. Seo Un-suk, principal of Chungbuk Semiconductor High School, is one of them.",
+          "“We have 96 students in each grade, and more than 100 semiconductor companies have signed agreements to hire our graduates,” Seo said. “There is no need to worry about finding jobs.",
+          "” Seo beamed as he led a tour of the school. Unprecedented global demand for semiconductors, he said, has brought the school growing attention from companies both in Korea and overseas.",
+          "“We do not have enough students to send even one graduate to each company,” he said. Located in North Chungcheong Province, the school began as a conventional vocational high school.",
+          "In 2008, it adopted its current name, and two years later, it was designated Korea’s first Meister high school specializing in semiconductors..."
+        ],
+        "words": [
+          "school",
+          "graduates",
+          "straight"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Berklee music professor breaks silence on suicide loss",
+        "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260702/berklee-music-professor-breaks-silence-on-suicide-loss?utm_source=rss",
+        "summary": "In the spring of 2006, Ray Seol was a 31-year-old jazz student in New York, at a time when Asian musicians were still a rarity in the jazz scene. Four years earlier, he had stunned his family in Korea by announcing that he was traveling halfway across the world to pursue a career in music, all because of a chance encounter with guitarist Wes Montgomery’s spellbinding rendition of “Polka Dots and Moonbeams.” “I experience music through images,” Seol recalled. “When I heard this piece, I couldn’t tell where it began or where it ended. It felt completely unbound, like this dazzling image with no sense of logic.” Then, during finals week, an unexpected international phone call came. His mother had taken her own life. “I’m 51 now,” he said quietly, “the same age my mother was when she died.” Seol, now a jazz bassist and professor at Berklee College of Music, spent the next decade carrying a g...",
+        "fullText": [
+          "In the spring of 2006, Ray Seol was a 31-year-old jazz student in New York, at a time when Asian musicians were still a rarity in the jazz scene. Four years earlier, he had stunned his family in Korea by announcing that he was traveling halfway across the world to pursue a career in music, all because of a chance encounter with guitarist Wes Montgomery’s spellbinding rendition of “Polka Dots and Moonbeams.",
+          "” “I experience music through images,” Seol recalled. “When I heard this piece, I couldn’t tell where it began or where it ended.",
+          "It felt completely unbound, like this dazzling image with no sense of logic. ” Then, during finals week, an unexpected international phone call came.",
+          "His mother had taken her own life. “I’m 51 now,” he said quietly, “the same age my mother was when she died.",
+          "” Seol, now a jazz bassist and professor at Berklee College of Music, spent the next decade carrying a g..."
+        ],
+        "words": [
+          "berklee",
+          "professor",
+          "breaks"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Vietnamese actor Kaity Nguyen looks to Korean cinema as model for global success",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260702/vietnamese-actor-kaity-nguyen-looks-to-korean-cinema-as-model-for-global-success?utm_source=rss",
+        "summary": "“The appeal of Vietnamese cinema lies in its diversity,” Kaity Nguyen, a 27-year-old Vietnamese actor and producer said of the local film industry as the fourth Da Nang Asian Film Festival opened in the coastal city of Da Nang, Vietnam. “From the north to central Vietnam and the south, each region has a different culture, and there is history accumulated over many years. There are so many stories to tell audiences around the world,” she told the Hankook Ilbo in an interview on Sunday. “Not only historical events but also stories about the lives of Vietnamese people today are being made more and more.” Nguyen is the festival’s youngest juror and has also moved into production. She has built a career marked by critical recognition and box-office success in Vietnam. She rose to stardom with her 2017 debut film, “Em Chua 18,” winning best actress at the Viet Film Festival. She later appeared...",
+        "fullText": [
+          "“The appeal of Vietnamese cinema lies in its diversity,” Kaity Nguyen, a 27-year-old Vietnamese actor and producer said of the local film industry as the fourth Da Nang Asian Film Festival opened in the coastal city of Da Nang, Vietnam. “From the north to central Vietnam and the south, each region has a different culture, and there is history accumulated over many years.",
+          "There are so many stories to tell audiences around the world,” she told the Hankook Ilbo in an interview on Sunday. “Not only historical events but also stories about the lives of Vietnamese people today are being made more and more.",
+          "” Nguyen is the festival’s youngest juror and has also moved into production. She has built a career marked by critical recognition and box-office success in Vietnam.",
+          "She rose to stardom with her 2017 debut film, “Em Chua 18,” winning best actress at the Viet Film Festival. She later appeared..."
+        ],
+        "words": [
+          "vietnamese",
+          "nguyen",
+          "cinema"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Special Team Appeals Ex-President Yoon’s Perjury Acquittal, Claims Lower Court Made Errors",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202586",
+        "summary": "[Politics] : A team under special prosecutor Cho Eun-suk is challenging former President Yoon Suk Yeol’s acquittal on a perjury charge, claiming the lower court made errors of fact and errors of law in reaching its verdict. In May, Yoon was found not guilty of perjury in connection with his testimony during former ... [more...]",
+        "fullText": [
+          "[Politics] : A team under special prosecutor Cho Eun-suk is challenging former President Yoon Suk Yeol’s acquittal on a perjury charge, claiming the lower court made errors of fact and errors of law in reaching its verdict. In May, Yoon was found not guilty of perjury in connection with his testimony during former ...",
+          "[more... ]"
+        ],
+        "words": [
+          "special",
+          "appeals",
+          "ex-president"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Lee, Moon Call for Internal Unity to Expand Liberal Camp’s Political Boundaries",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202585",
+        "summary": "[Politics] : President Lee Jae Myung and former President Moon Jae-in held a luncheon at Cheong Wa Dae on Wednesday, discussing internal unity within the ruling liberal camp and other issues, at a time when the liberal bloc is seeking to expand its political boundaries. Lee said his liberal-leaning government is ... [more...]",
+        "fullText": [
+          "[Politics] : President Lee Jae Myung and former President Moon Jae-in held a luncheon at Cheong Wa Dae on Wednesday, discussing internal unity within the ruling liberal camp and other issues, at a time when the liberal bloc is seeking to expand its political boundaries. Lee said his liberal-leaning government is ...",
+          "[more... ]"
+        ],
+        "words": [
+          "internal",
+          "expand",
+          "liberal"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Sports",
+        "source": "KBS World",
+        "title": "Seoul Metro Police to Investigate Allegations that KFA Chief, Others Exercised Undue Influence",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202584",
+        "summary": "[Sports] : The Seoul police will investigate allegations that Korea Football Association(KFA) President Chung Mong-gyu exercised undue influence over the appointment of Hong Myung-bo as head coach of the men’s national team in 2024. In a press notice Wednesday, the Seoul Metropolitan Police Agency and the Seoul ... [more...]",
+        "fullText": [
+          "[Sports] : The Seoul police will investigate allegations that Korea Football Association(KFA) President Chung Mong-gyu exercised undue influence over the appointment of Hong Myung-bo as head coach of the men’s national team in 2024. In a press notice Wednesday, the Seoul Metropolitan Police Agency and the Seoul ...",
+          "[more... ]"
+        ],
+        "words": [
+          "police",
+          "investigate",
+          "allegations"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-01",
     "label": "Wednesday, July 1, 2026",
     "title": "Korea News Brief",
