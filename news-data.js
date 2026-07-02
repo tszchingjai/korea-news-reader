@@ -1,5 +1,146 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-03",
+    "label": "Friday, July 3, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Economy, Korea, Science, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Climate change is bringing heavier downpours. Are cities ready?",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260703/climate-change-is-bringing-heavier-downpours-are-cities-ready?utm_source=rss",
+        "summary": "\"Will it rain every day throughout July?\" A rumor spread online recently suggesting that it would rain continuously for an entire month starting in July. Korea's weather agency quickly debunked the claim, pointing to a post back in April explaining that the rainy season is identified only after it has passed through observational data analysis. While the so-called \"monsoon rumor\" turned out to be false, there is little room for complacency as the rainy season approaches. Climate change is making heavier rainfall an unavoidable reality, not only in Korea but around the world. So how exactly is rainfall changing and what must cities do to prepare? More frequent cloudbursts driven by climate change According to the Korea Meteorological Administration's 113-Year Climate Change Analysis Report, released in December and covering the period from 1912 to 2024, Korea's annual precipitation has in...",
+        "fullText": [
+          "\"Will it rain every day throughout July? \" A rumor spread online recently suggesting that it would rain continuously for an entire month starting in July.",
+          "Korea's weather agency quickly debunked the claim, pointing to a post back in April explaining that the rainy season is identified only after it has passed through observational data analysis. While the so-called \"monsoon rumor\" turned out to be false, there is little room for complacency as the rainy season approaches.",
+          "Climate change is making heavier rainfall an unavoidable reality, not only in Korea but around the world. So how exactly is rainfall changing and what must cities do to prepare?",
+          "More frequent cloudbursts driven by climate change According to the Korea Meteorological Administration's 113-Year Climate Change Analysis Report, released in December and covering the period from 1912 to 2024, Korea's annual precipitation has in..."
+        ],
+        "words": [
+          "climate",
+          "change",
+          "bringing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Making the most of summer in Seoul",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260703/making-the-most-of-summer-in-seoul?utm_source=rss",
+        "summary": "Summer in Seoul is not something locals try to escape. Instead, they have learned to adjust to it. Outdoor activities begin early, afternoons are often spent indoors and evenings become the best time to enjoy the city. Seasonal foods also play a role in helping people cope with the heat. For visitors, following these local habits may be the easiest way to experience Seoul during its hottest months. Start early The best way to enjoy Seoul in summer is to begin the day before the heat reaches its peak. Historic attractions such as Gyeongbok Palace, Bukchon Hanok Village and Mount Nam are generally quieter and more comfortable during the morning. Many residents also schedule exercise, walks and daily tasks before lunchtime rather than spending long hours outdoors in the afternoon. Starting early not only helps visitors avoid the strongest sunshine but also leaves time to explore indoor attr...",
+        "fullText": [
+          "Summer in Seoul is not something locals try to escape. Instead, they have learned to adjust to it.",
+          "Outdoor activities begin early, afternoons are often spent indoors and evenings become the best time to enjoy the city. Seasonal foods also play a role in helping people cope with the heat.",
+          "For visitors, following these local habits may be the easiest way to experience Seoul during its hottest months. Start early The best way to enjoy Seoul in summer is to begin the day before the heat reaches its peak.",
+          "Historic attractions such as Gyeongbok Palace, Bukchon Hanok Village and Mount Nam are generally quieter and more comfortable during the morning. Many residents also schedule exercise, walks and daily tasks before lunchtime rather than spending long hours outdoors in the afternoon.",
+          "Starting early not only helps visitors avoid the strongest sunshine but also leaves time to explore indoor attr..."
+        ],
+        "words": [
+          "making",
+          "summer",
+          "something"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "As 'jeonse' fades, path to homeownership narrows further in Korea",
+        "url": "https://www.koreatimes.co.kr/economy/20260703/as-jeonse-fades-path-to-homeownership-narrows-further-in-korea?utm_source=rss",
+        "summary": "Kang, an office worker in her 20s, currently rents a studio apartment in Seoul on a monthly lease. During her search for a home, she ruled out Korea’s traditional “jeonse” system — the once-dominant rental arrangement where tenants pay a large lump-sum deposit instead of monthly rent — because of a series of high-profile deposit fraud cases that have undermined trust in the market. “There are also far more monthly rental listings these days, so it’s hard to find a decent jeonse property in the first place,” Kang said. The trade-off is that paying monthly rent leaves little room to build savings for a home of her own. “Even neighborhoods that used to be relatively affordable in Seoul have become so expensive that the difference hardly feels meaningful anymore,” she said. “With monthly lease being my only realistic option, it has become even harder to dream of buying a home.” Jung, a 30-ye...",
+        "fullText": [
+          "Kang, an office worker in her 20s, currently rents a studio apartment in Seoul on a monthly lease. During her search for a home, she ruled out Korea’s traditional “jeonse” system — the once-dominant rental arrangement where tenants pay a large lump-sum deposit instead of monthly rent — because of a series of high-profile deposit fraud cases that have undermined trust in the market.",
+          "“There are also far more monthly rental listings these days, so it’s hard to find a decent jeonse property in the first place,” Kang said. The trade-off is that paying monthly rent leaves little room to build savings for a home of her own.",
+          "“Even neighborhoods that used to be relatively affordable in Seoul have become so expensive that the difference hardly feels meaningful anymore,” she said. “With monthly lease being my only realistic option, it has become even harder to dream of buying a home.",
+          "” Jung, a 30-ye..."
+        ],
+        "words": [
+          "jeonse",
+          "homeownership",
+          "narrows"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Love bread? Add one more thing to every slice",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260703/love-bread-add-one-more-thing-to-every-slice?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. For many people, breakfast is as simple as a slice of toast, a bagel or a croissant. Bread is quick, convenient and easy to prepare, but frequent warnings that it's unhealthy can leave people feeling guilty. The good news is that there's no need to give it up altogether. Instead, follow one simple rule: Whenever you eat bread, add either a source of protein or a serving of vegetables. Spread peanut butter instead of jam on toast and pair it with a boiled egg on the side. Eat a small salad with your bagel. If you're having a croissant, also eat a cup of Greek yogurt. These simple combinations help create a more balanced meal and keep you feeling full for longer. One egg for every serving of bread Although bread does contain some protein, it is primarily a source of carbohydrates. Two slices of white bread provide about 6 to 7 grams of protein....",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "For many people, breakfast is as simple as a slice of toast, a bagel or a croissant. Bread is quick, convenient and easy to prepare, but frequent warnings that it's unhealthy can leave people feeling guilty.",
+          "The good news is that there's no need to give it up altogether. Instead, follow one simple rule: Whenever you eat bread, add either a source of protein or a serving of vegetables.",
+          "Spread peanut butter instead of jam on toast and pair it with a boiled egg on the side. Eat a small salad with your bagel.",
+          "If you're having a croissant, also eat a cup of Greek yogurt. These simple combinations help create a more balanced meal and keep you feeling full for longer.",
+          "One egg for every serving of bread Although bread does contain some protein, it is primarily a source of carbohydrates. Two slices of white bread provide about 6 to 7 grams of protein...."
+        ],
+        "words": [
+          "articles",
+          "kormedi",
+          "people"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "S. Korea’s Pharmaceutical Exports Top $10 Billion for First Time",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202614",
+        "summary": "[Economy] : South Korea’s pharmaceutical exports surpassed ten billion dollars for the first time last year. According to the Ministry of Food and Drug Safety on Thursday, the country’s pharmaceutical shipments rose 12-point-four percent year-on-year to ten-point-43 billion dollars in 2025, while imports ... [more...]",
+        "fullText": [
+          "[Economy] : South Korea’s pharmaceutical exports surpassed ten billion dollars for the first time last year. According to the Ministry of Food and Drug Safety on Thursday, the country’s pharmaceutical shipments rose 12-point-four percent year-on-year to ten-point-43 billion dollars in 2025, while imports ...",
+          "[more... ]"
+        ],
+        "words": [
+          "pharmaceutical",
+          "exports",
+          "billion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Showers to Continue across Central Regions through Friday",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202613",
+        "summary": "[Science] : Showers are expected to continue across the country’s central regions on Friday, with inland areas nationwide seeing scattered showers through Thursday night and into Friday. According to the Korea Meteorological Administration, up to 60 millimeters of rain is expected for the Seoul metropolitan area ... [more...]",
+        "fullText": [
+          "[Science] : Showers are expected to continue across the country’s central regions on Friday, with inland areas nationwide seeing scattered showers through Thursday night and into Friday. According to the Korea Meteorological Administration, up to 60 millimeters of rain is expected for the Seoul metropolitan area ...",
+          "[more... ]"
+        ],
+        "words": [
+          "showers",
+          "continue",
+          "across"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Foreign Ministry: US Report Accusing S. Korea of Discrimination against Coupang ‘Regrettable’",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202612",
+        "summary": "[International] : The government has responded to a U.S. House Judiciary Committee report accusing South Korea of conducting a “harassment campaign” against e-commerce giant Coupang, calling its publication regrettable. Foreign ministry spokesperson Park Il said in a regular briefing on Thursday that the U.S. report ... [more...]",
+        "fullText": [
+          "[International] : The government has responded to a U. S.",
+          "House Judiciary Committee report accusing South Korea of conducting a “harassment campaign” against e-commerce giant Coupang, calling its publication regrettable. Foreign ministry spokesperson Park Il said in a regular briefing on Thursday that the U.",
+          "S. report ...",
+          "[more... ]"
+        ],
+        "words": [
+          "foreign",
+          "ministry",
+          "report"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-02",
     "label": "Thursday, July 2, 2026",
     "title": "Korea News Brief",
