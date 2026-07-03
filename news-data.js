@@ -1,5 +1,137 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-04",
+    "label": "Saturday, July 4, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Science, Sports, Domestic. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Gov’t, Businesses Unveil 312 Trillion Won Investment Plan for Gyeongsang Region",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202644",
+        "summary": "[Politics] : The government and major companies have unveiled a 312 trillion won, or about 200 billion dollar, investment plan to develop the Gyeongsang region into a high-tech industrial hub. In a public briefing Friday on visions for the development of high-tech industries in the region, major companies including ... [more...]",
+        "fullText": [
+          "[Politics] : The government and major companies have unveiled a 312 trillion won, or about 200 billion dollar, investment plan to develop the Gyeongsang region into a high-tech industrial hub. In a public briefing Friday on visions for the development of high-tech industries in the region, major companies including ...",
+          "[more... ]"
+        ],
+        "words": [
+          "businesses",
+          "unveil",
+          "trillion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Samsung Electronics to Invest 60 Trillion Won in Gyeongsang Region",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202643",
+        "summary": "[Economy] : Samsung Electronics will invest some 60 trillion won, or roughly 39 billion U.S. dollars, to make the Gyeongsang region into a “manufacturing artificial intelligence(AI)” base that integrates AI and robotics into other key industries. The electronics giant’s co-CEO Roh Tae-moon unveiled the plan ... [more...]",
+        "fullText": [
+          "[Economy] : Samsung Electronics will invest some 60 trillion won, or roughly 39 billion U. S.",
+          "dollars, to make the Gyeongsang region into a “manufacturing artificial intelligence(AI)” base that integrates AI and robotics into other key industries. The electronics giant’s co-CEO Roh Tae-moon unveiled the plan ...",
+          "[more... ]"
+        ],
+        "words": [
+          "samsung",
+          "electronics",
+          "invest"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Monsoon Rains to Expand Nationwide over Weekend",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202642",
+        "summary": "[Science] : Monsoon rains are expected to expand northward over the weekend, reaching South Chungcheong Province by Saturday night and the Seoul metropolitan area by Sunday afternoon. According to the Korea Meteorological Administration, South Jeolla Province and Jeju Island are expected to receive 30 to 80 ... [more...]",
+        "fullText": [
+          "[Science] : Monsoon rains are expected to expand northward over the weekend, reaching South Chungcheong Province by Saturday night and the Seoul metropolitan area by Sunday afternoon. According to the Korea Meteorological Administration, South Jeolla Province and Jeju Island are expected to receive 30 to 80 ...",
+          "[more... ]"
+        ],
+        "words": [
+          "monsoon",
+          "expand",
+          "nationwide"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Hyundai Motor Group to Invest 42 Trillion Won in Southeastern Gyeongsang Region over 10 Years",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202641",
+        "summary": "[Economy] : Starting this year, Hyundai Motor Group will invest 42 trillion won to build a global hub for high-tech industries in the nation’s southeastern region. That’s roughly 27 and a half billion U.S. dollars. The company’s vice chair, Chang Jae-hoon, unveiled the ten-year investment plan in Jinju, ... [more...]",
+        "fullText": [
+          "[Economy] : Starting this year, Hyundai Motor Group will invest 42 trillion won to build a global hub for high-tech industries in the nation’s southeastern region. That’s roughly 27 and a half billion U.",
+          "S. dollars.",
+          "The company’s vice chair, Chang Jae-hoon, unveiled the ten-year investment plan in Jinju, ... [more...",
+          "]"
+        ],
+        "words": [
+          "hyundai",
+          "invest",
+          "trillion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "SK to Invest 140 Trillion Won in Gyeongsang Region to Create Asia’s Largest AI Hub",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202640",
+        "summary": "[Economy] : SK plans to invest 140 trillion won in the Gyeongsang region to create Asia’s largest artificial intelligence(AI) hub, or roughly 91 and a half billion U.S. dollars. SK Telecom CEO Jung Jai-hun announced the investment plan in Jinju, South Gyeongsang Province, on Friday during a public briefing on ... [more...]",
+        "fullText": [
+          "[Economy] : SK plans to invest 140 trillion won in the Gyeongsang region to create Asia’s largest artificial intelligence(AI) hub, or roughly 91 and a half billion U. S.",
+          "dollars. SK Telecom CEO Jung Jai-hun announced the investment plan in Jinju, South Gyeongsang Province, on Friday during a public briefing on ...",
+          "[more... ]"
+        ],
+        "words": [
+          "invest",
+          "trillion",
+          "gyeongsang"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Sports",
+        "source": "KBS World",
+        "title": "Culture Minister, Football Legend Park Ji-sung to Co-Chair New Football Innovation Committee",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202639",
+        "summary": "[Sports] : The government is set to launch the “K-Football Innovation Committee” following a lackluster performance by the men’s national football team in the 2026 FIFA World Cup. The Ministry of Culture, Sports and Tourism issued a statement on Friday announcing the launch of the committee, set for Monday next ... [more...]",
+        "fullText": [
+          "[Sports] : The government is set to launch the “K-Football Innovation Committee” following a lackluster performance by the men’s national football team in the 2026 FIFA World Cup. The Ministry of Culture, Sports and Tourism issued a statement on Friday announcing the launch of the committee, set for Monday next ...",
+          "[more... ]"
+        ],
+        "words": [
+          "culture",
+          "minister",
+          "football"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Paichai Baseball Team to Visit Gwangju to Apologize for Inappropriate Chants",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202638",
+        "summary": "[Domestic] : Anchor: Paichai High School’s baseball team, which has been embroiled in controversy over inappropriate cheers, will pay a visit to Gwangju Jeil High School to apologize for chanting slogans that seemingly mocked the May 18 Democratization Movement. This comes after a game between the two sides in which ... [more...]",
+        "fullText": [
+          "[Domestic] : Anchor: Paichai High School’s baseball team, which has been embroiled in controversy over inappropriate cheers, will pay a visit to Gwangju Jeil High School to apologize for chanting slogans that seemingly mocked the May 18 Democratization Movement. This comes after a game between the two sides in which ...",
+          "[more... ]"
+        ],
+        "words": [
+          "paichai",
+          "baseball",
+          "gwangju"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-03",
     "label": "Friday, July 3, 2026",
     "title": "Korea News Brief",
