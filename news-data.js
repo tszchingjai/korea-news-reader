@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-05",
+    "label": "Sunday, July 5, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Korea, Weather, Culture. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "PM's shout-out to CORTIS: Why middle-aged Koreans are falling for rookie K-pop group",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260705/pms-shout-out-to-cortis-why-middle-aged-koreans-are-falling-for-rookie-k-pop-group?utm_source=rss",
+        "summary": "\"I'll spare no effort in boldly crossing barriers as traffic lights change and times change.\" That was the pledge made Han Seong-sook on June 8 during her first appearance before reporters while preparing for her parliamentary confirmation hearing to be the next prime minister. The line was a reference to \"REDRED,\" a song by rookie K-pop group CORTIS. The song represents outdated attitudes that should be abandoned, while \"GREENGREEN\" symbolizes the direction the group believes people should pursue in life. One verse goes: \"Stop holding back, Red Red / The traffic light has turned Green Green / Cross over the fence, Green Green.\" Han, who took office as prime minister on Wednesday, later explained why she mentioned the song. \"My younger sibling is a CORTIS fan these days, so I've been listening to their music too,\" she said. Her reference contrasted with former People Power Party leader H...",
+        "fullText": [
+          "\"I'll spare no effort in boldly crossing barriers as traffic lights change and times change. \" That was the pledge made Han Seong-sook on June 8 during her first appearance before reporters while preparing for her parliamentary confirmation hearing to be the next prime minister.",
+          "The line was a reference to \"REDRED,\" a song by rookie K-pop group CORTIS. The song represents outdated attitudes that should be abandoned, while \"GREENGREEN\" symbolizes the direction the group believes people should pursue in life.",
+          "One verse goes: \"Stop holding back, Red Red / The traffic light has turned Green Green / Cross over the fence, Green Green. \" Han, who took office as prime minister on Wednesday, later explained why she mentioned the song.",
+          "\"My younger sibling is a CORTIS fan these days, so I've been listening to their music too,\" she said. Her reference contrasted with former People Power Party leader H..."
+        ],
+        "words": [
+          "shout-out",
+          "cortis",
+          "middle-aged"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "History book pits 2 Korean Catholic martyrs against each other",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260705/history-book-pits-2-korean-catholic-martyrs-against-each-other?utm_source=rss",
+        "summary": "The Korean Peninsula's Catholic history is surprisingly fascinating, even if you're a nonbeliever — like I am. Its history traces back to the 1700s, midway through the 1390-1910 Joseon Dynasty, an isolationist state. Rather than arriving via foreign missionaries, Catholicism was brought to the country by Koreans who discovered it while abroad in China. As it spread throughout Korea, the government tried to stop its expansion, leading to persecution resulting in somewhere between 8,000 and 10,000 deaths. This horrific history also led to an unusually high number of saints, with 103 martyred Korean Catholics officially canonized by the Church in 1984. A new book by Brothers Anthony and Han-Yol of the French ecumenical community of Taize analyzes the lives of two early Korean Catholic figures: Saint Andrew Kim Dae-geon and Ven. Father Thomas Choe Yang-eop. Titled \"Martyr of Blood, Martyr of...",
+        "fullText": [
+          "The Korean Peninsula's Catholic history is surprisingly fascinating, even if you're a nonbeliever — like I am. Its history traces back to the 1700s, midway through the 1390-1910 Joseon Dynasty, an isolationist state.",
+          "Rather than arriving via foreign missionaries, Catholicism was brought to the country by Koreans who discovered it while abroad in China. As it spread throughout Korea, the government tried to stop its expansion, leading to persecution resulting in somewhere between 8,000 and 10,000 deaths.",
+          "This horrific history also led to an unusually high number of saints, with 103 martyred Korean Catholics officially canonized by the Church in 1984. A new book by Brothers Anthony and Han-Yol of the French ecumenical community of Taize analyzes the lives of two early Korean Catholic figures: Saint Andrew Kim Dae-geon and Ven.",
+          "Father Thomas Choe Yang-eop. Titled \"Martyr of Blood, Martyr of..."
+        ],
+        "words": [
+          "history",
+          "catholic",
+          "martyrs"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Viral 'bare mountain' draws Korean Gen Z, foreign tourists for summer travel",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260705/viral-bare-mountain-draws-korean-gen-z-foreign-tourists-for-summer-travel?utm_source=rss",
+        "summary": "A dark blue pond sitting amid a broad green meadow crowns the summit of Mount Mindung. The hollow floor and circular pond anchor the landscape. The green summit rises high enough to overlook surrounding peaks, and without a single pine tree in sight, the view opens wide. This is Mount Mindung, an 1,118.8-meter peak in Jeongseon County, Gangwon Province. While Korea has many bare mountains, Mindungsan, which translates to \"bare mountain,\" uses this as its official designation. When autumn arrives, this expansive field fills with silver grass. This seasonal shift traditionally established autumn as the mountain's peak visitor period. Recently, however, the summer season at Mount Mindung has drawn hikers' attention on social media. The scenery, taking on a vivid green color sharper than in any other season, is a distinct feature that has drawn popularity online. The doline pond visible from...",
+        "fullText": [
+          "A dark blue pond sitting amid a broad green meadow crowns the summit of Mount Mindung. The hollow floor and circular pond anchor the landscape.",
+          "The green summit rises high enough to overlook surrounding peaks, and without a single pine tree in sight, the view opens wide. This is Mount Mindung, an 1,118.",
+          "8-meter peak in Jeongseon County, Gangwon Province. While Korea has many bare mountains, Mindungsan, which translates to \"bare mountain,\" uses this as its official designation.",
+          "When autumn arrives, this expansive field fills with silver grass. This seasonal shift traditionally established autumn as the mountain's peak visitor period.",
+          "Recently, however, the summer season at Mount Mindung has drawn hikers' attention on social media. The scenery, taking on a vivid green color sharper than in any other season, is a distinct feature that has drawn popularity online.",
+          "The doline pond visible from..."
+        ],
+        "words": [
+          "mountain",
+          "foreign",
+          "tourists"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Netflix may be rewriting rules for Korean cinema with 'Possible Love'",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260705/netflix-may-be-rewriting-rules-for-korean-cinema-with-possible-love?utm_source=rss",
+        "summary": "Lee Chang-dong’s seventh film, \"Possible Love,\" has been confirmed for a theatrical release, a surprising turn from widespread expectations that it would debut on Netflix. Industry observers believe the move was made with major international film festivals in mind, given Lee’s long-standing reputation as one of Korea’s most acclaimed directors on the global stage. According to the Korea Media Rating Board, \"Possible Love\" received an adults-only rating for directly portraying nudity and sexual acts while depicting the lives of laid-off workers, as well as themes of love, loss, trauma and the restoration of human relationships. \"Possible Love\" is Lee’s first film in eight years and stars Jeon Do-yeon, Sol Kyung-gu, Zo In-sung and Cho Yeo-jeong. It follows two married couples leading completely different lives whose chance encounter sets off a series of emotional entanglements. With a runn...",
+        "fullText": [
+          "Lee Chang-dong’s seventh film, \"Possible Love,\" has been confirmed for a theatrical release, a surprising turn from widespread expectations that it would debut on Netflix. Industry observers believe the move was made with major international film festivals in mind, given Lee’s long-standing reputation as one of Korea’s most acclaimed directors on the global stage.",
+          "According to the Korea Media Rating Board, \"Possible Love\" received an adults-only rating for directly portraying nudity and sexual acts while depicting the lives of laid-off workers, as well as themes of love, loss, trauma and the restoration of human relationships. \"Possible Love\" is Lee’s first film in eight years and stars Jeon Do-yeon, Sol Kyung-gu, Zo In-sung and Cho Yeo-jeong.",
+          "It follows two married couples leading completely different lives whose chance encounter sets off a series of emotional entanglements. With a runn..."
+        ],
+        "words": [
+          "netflix",
+          "rewriting",
+          "cinema"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Gov't Removes Mandatory Liver Function Test for Blood Donors after 36 Yrs.",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202653",
+        "summary": "[Politics] : The government has removed mandatory liver function screening for blood donors for the first time in 36 years as part of efforts to prevent waste of blood and to address the nation's chronic blood supply shortages. According to the Ministry of health and welfare Saturday, a related enforcement ... [more...]",
+        "fullText": [
+          "[Politics] : The government has removed mandatory liver function screening for blood donors for the first time in 36 years as part of efforts to prevent waste of blood and to address the nation's chronic blood supply shortages. According to the Ministry of health and welfare Saturday, a related enforcement ...",
+          "[more... ]"
+        ],
+        "words": [
+          "removes",
+          "mandatory",
+          "function"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Culture",
+        "source": "KBS World",
+        "title": "BTS Named 'Honored Guest' by Argentinian City of La Plata ahead of World Tour Shows",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202652",
+        "summary": "[Culture] : K-pop sensation BTS has been named the \"honored guest\" of the Argentinian city of La Plata ahead of the group's world tour performances in October. According to BTS' management agency BigHit Music Saturday, La Plata's city council unanimously approved the designation on Thursday local ... [more...]",
+        "fullText": [
+          "[Culture] : K-pop sensation BTS has been named the \"honored guest\" of the Argentinian city of La Plata ahead of the group's world tour performances in October. According to BTS' management agency BigHit Music Saturday, La Plata's city council unanimously approved the designation on Thursday local ...",
+          "[more... ]"
+        ],
+        "words": [
+          "honored",
+          "argentinian",
+          "culture"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Top Office Issues Stern Warning after Pres. Committee Deputy Criticizes 'Starbucks Chant' Punishment",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202651",
+        "summary": "[Politics] : The presidential office has issued a stern warning to the vice chairman of a presidential committee after he criticized the punishment imposed on a high school baseball team over players' chants that appeared to mock the May 18 pro-democracy uprising. In a press notice Saturday, chief presidential ... [more...]",
+        "fullText": [
+          "[Politics] : The presidential office has issued a stern warning to the vice chairman of a presidential committee after he criticized the punishment imposed on a high school baseball team over players' chants that appeared to mock the May 18 pro-democracy uprising. In a press notice Saturday, chief presidential ...",
+          "[more... ]"
+        ],
+        "words": [
+          "office",
+          "issues",
+          "warning"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-04",
     "label": "Saturday, July 4, 2026",
     "title": "Korea News Brief",
