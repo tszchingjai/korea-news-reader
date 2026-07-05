@@ -1,5 +1,134 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-06",
+    "label": "Monday, July 6, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Science, International, Economy, Politics, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Monsoon Rains to Continue Monday",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202661",
+        "summary": "[Science] : Cloudy skies are expected nationwide Sunday, with heavy rain likely in Jeju's mountainous regions later in the day. According to the Korea Meteorological Administration, most regions will see up to 60 millimeters of monsoon rain Sunday, while mountainous areas on Jeju Island could receive at least ... [more...]",
+        "fullText": [
+          "[Science] : Cloudy skies are expected nationwide Sunday, with heavy rain likely in Jeju's mountainous regions later in the day. According to the Korea Meteorological Administration, most regions will see up to 60 millimeters of monsoon rain Sunday, while mountainous areas on Jeju Island could receive at least ...",
+          "[more... ]"
+        ],
+        "words": [
+          "monsoon",
+          "continue",
+          "monday"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Death Toll from Back-to-Back Quakes in Venezuela Nears 3,000",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202660",
+        "summary": "[International] : The death toll from the powerful back-to-back earthquakes that struck Venezuela on June 24 is nearing three-thousand. AFP quoted an official announcement by the Venezuelan government on Saturday saying the toll had risen to two-thousand-954, an increase of 309 from the estimate released the previous ... [more...]",
+        "fullText": [
+          "[International] : The death toll from the powerful back-to-back earthquakes that struck Venezuela on June 24 is nearing three-thousand. AFP quoted an official announcement by the Venezuelan government on Saturday saying the toll had risen to two-thousand-954, an increase of 309 from the estimate released the previous ...",
+          "[more... ]"
+        ],
+        "words": [
+          "back-to-back",
+          "quakes",
+          "venezuela"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Exports of K-Food+ Products Surge to Record $7 Bln. in 1st Half",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202659",
+        "summary": "[Economy] : Exports of \"K‑food‑plus\" products surged to a record seven billion dollars in the first half of this year. The Ministry of Agriculture, Food and Rural Affairs said Sunday that such exports grew four-point-one percent from the same period last year, reaching seven billion and 50 million ... [more...]",
+        "fullText": [
+          "[Economy] : Exports of \"K‑food‑plus\" products surged to a record seven billion dollars in the first half of this year. The Ministry of Agriculture, Food and Rural Affairs said Sunday that such exports grew four-point-one percent from the same period last year, reaching seven billion and 50 million ...",
+          "[more... ]"
+        ],
+        "words": [
+          "exports",
+          "k-food",
+          "products"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Policy Chief Urges Stronger AI‑Era Production Systems",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202658",
+        "summary": "[Politics] : Presidential policy chief Kim Yong‑beom says that in the era of artificial intelligence (AI), national power will be determined by the ability to organize production systems rather than by technical skills. In a social media post Sunday, Kim emphasized that AI is not simply a technological revolution ... [more...]",
+        "fullText": [
+          "[Politics] : Presidential policy chief Kim Yong‑beom says that in the era of artificial intelligence (AI), national power will be determined by the ability to organize production systems rather than by technical skills. In a social media post Sunday, Kim emphasized that AI is not simply a technological revolution ...",
+          "[more... ]"
+        ],
+        "words": [
+          "policy",
+          "stronger",
+          "production"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "KBS World",
+        "title": "N. Korean Leader Supervises Tests of Major Weapons on 'Kang Kon' Destroyer",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202657",
+        "summary": "[Inter-Korea] : North Korean leader Kim Jong-un has supervised tests of missiles and other major weapons loaded on the North's new 5,000‑ton destroyer, the Kang Kon. According to the state-run Korean Central News Agency (KCNA) on Sunday, the tests conducted Friday included the firing of a strategic cruise missile, the ... [more...]",
+        "fullText": [
+          "[Inter-Korea] : North Korean leader Kim Jong-un has supervised tests of missiles and other major weapons loaded on the North's new 5,000‑ton destroyer, the Kang Kon. According to the state-run Korean Central News Agency (KCNA) on Sunday, the tests conducted Friday included the firing of a strategic cruise missile, the ...",
+          "[more... ]"
+        ],
+        "words": [
+          "leader",
+          "supervises",
+          "weapons"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Police Probe Bomb Threat at Gwangju Jeil High",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202656",
+        "summary": "[Domestic] : Police have launched an investigation on a threatening online post that suggested an explosive device has been planted at a high school in Gwangju, which has made headlines following a baseball match earlier this week. The Korean National Police Agency kicked off the investigation on Sunday, a day after ... [more...]",
+        "fullText": [
+          "[Domestic] : Police have launched an investigation on a threatening online post that suggested an explosive device has been planted at a high school in Gwangju, which has made headlines following a baseball match earlier this week. The Korean National Police Agency kicked off the investigation on Sunday, a day after ...",
+          "[more... ]"
+        ],
+        "words": [
+          "police",
+          "threat",
+          "gwangju"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Trump Traded Coupang Shares 18 Times Since October",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202655",
+        "summary": "[International] : New data released Saturday shows that United States President Donald Trump bought and sold Coupang shares listed on the New York Stock Exchange between last October and May of this year through an asset management firm. According to the U.S. Office of Government Ethics and Trump's financial disclosure, the ... [more...]",
+        "fullText": [
+          "[International] : New data released Saturday shows that United States President Donald Trump bought and sold Coupang shares listed on the New York Stock Exchange between last October and May of this year through an asset management firm. According to the U.",
+          "S. Office of Government Ethics and Trump's financial disclosure, the ...",
+          "[more... ]"
+        ],
+        "words": [
+          "traded",
+          "coupang",
+          "shares"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-05",
     "label": "Sunday, July 5, 2026",
     "title": "Korea News Brief",
