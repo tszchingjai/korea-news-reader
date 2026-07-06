@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-07",
+    "label": "Tuesday, July 7, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "‘Children with disabilities have right to swim’",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260707/children-with-disabilities-have-right-to-swim?utm_source=rss",
+        "summary": "Children with disabilities have as much right to learn to swim and enjoy the water as anyone else, and the government has a duty to make that possible, said Jeong Cheol-sang, director of the National Youth Center of Korea. “Survival swimming is not an optional physical activity but safety education to protect life,” Jeong said in a written interview with The Korea Times. “All young people have the right to receive safety education, regardless of disability, and public institutions have a responsibility to ensure that right is realized.” On June 26, 78 students from Cheonan Inae School, a public special school in Cheonan for students with developmental and intellectual disabilities, visited the center, operated by the state-run Korea Youth Work Agency. The students learned how to put on life jackets, float to stay alive and signal for help, gaining hands-on experience in core survival ski...",
+        "fullText": [
+          "Children with disabilities have as much right to learn to swim and enjoy the water as anyone else, and the government has a duty to make that possible, said Jeong Cheol-sang, director of the National Youth Center of Korea. “Survival swimming is not an optional physical activity but safety education to protect life,” Jeong said in a written interview with The Korea Times.",
+          "“All young people have the right to receive safety education, regardless of disability, and public institutions have a responsibility to ensure that right is realized. ” On June 26, 78 students from Cheonan Inae School, a public special school in Cheonan for students with developmental and intellectual disabilities, visited the center, operated by the state-run Korea Youth Work Agency.",
+          "The students learned how to put on life jackets, float to stay alive and signal for help, gaining hands-on experience in core survival ski..."
+        ],
+        "words": [
+          "children",
+          "disabilities",
+          "anyone"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "MONSTA X's Kihyun trusts his gut on 'BORDERLINE'",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260707/monsta-xs-kihyun-trusts-his-gut-on-borderline?utm_source=rss",
+        "summary": "With one day left before deadline, Kihyun of K-pop boy band MONSTA X has yet to choose the title track for his upcoming solo album, \"BORDERLINE.\" The MONSTA X main vocalist had another song penciled in, but a nagging feeling would not leave him. So he did what the album itself is about — he trusted his own instinct and eventually went with \"So Good,\" a rock-based track carried by delicate, technically demanding vocals. Kihyun has anchored MONSTA X as its main vocalist since the group debuted in 2015, with the voice that carries its choruses and its highest of notes across a decade of albums, tours and festival stages. Away from the six-member act, he has built a parallel solo identity rooted in belt-heavy rock, starting with the 2022 single \"VOYAGER\" and the mini-album \"YOUTH.\" \"I chose [the title track] with the mindset of trusting my own choice,\" Kihyun said in an interview with The Ko...",
+        "fullText": [
+          "With one day left before deadline, Kihyun of K-pop boy band MONSTA X has yet to choose the title track for his upcoming solo album, \"BORDERLINE. \" The MONSTA X main vocalist had another song penciled in, but a nagging feeling would not leave him.",
+          "So he did what the album itself is about — he trusted his own instinct and eventually went with \"So Good,\" a rock-based track carried by delicate, technically demanding vocals. Kihyun has anchored MONSTA X as its main vocalist since the group debuted in 2015, with the voice that carries its choruses and its highest of notes across a decade of albums, tours and festival stages.",
+          "Away from the six-member act, he has built a parallel solo identity rooted in belt-heavy rock, starting with the 2022 single \"VOYAGER\" and the mini-album \"YOUTH. \" \"I chose [the title track] with the mindset of trusting my own choice,\" Kihyun said in an interview with The Ko..."
+        ],
+        "words": [
+          "monsta",
+          "kihyun",
+          "trusts"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea's push to raise retirement age brings fears over youth job market",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260707/koreas-push-to-raise-retirement-age-brings-fears-over-youth-job-market?utm_source=rss",
+        "summary": "In Korea, a superaged society where those aged 65 or over take up more than 20 percent of the total population, a renewed debate has emerged over what age should be set for retirement. The discussion resurfaced last month after the ruling Democratic Party of Korea (DPK) floated the idea of raising the retirement age from 60 to 65. The party, however, is taking a cautioned approach and avoiding railroading the policy plan since it is closely related to youth employment. The issue now is balancing longer careers for the elderly with the potential cost of fewer job opportunities for young workers. Income cliff The retirement age of 60 is usually observed in the public sector and most private companies, although some companies set their own ages under a labor-management agreement. At the heart of the issue is the income cliff between the retirement age and the national pension eligibility ag...",
+        "fullText": [
+          "In Korea, a superaged society where those aged 65 or over take up more than 20 percent of the total population, a renewed debate has emerged over what age should be set for retirement. The discussion resurfaced last month after the ruling Democratic Party of Korea (DPK) floated the idea of raising the retirement age from 60 to 65.",
+          "The party, however, is taking a cautioned approach and avoiding railroading the policy plan since it is closely related to youth employment. The issue now is balancing longer careers for the elderly with the potential cost of fewer job opportunities for young workers.",
+          "Income cliff The retirement age of 60 is usually observed in the public sector and most private companies, although some companies set their own ages under a labor-management agreement. At the heart of the issue is the income cliff between the retirement age and the national pension eligibility ag..."
+        ],
+        "words": [
+          "retirement",
+          "brings",
+          "market"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hanwha Ocean defeated by Germany’s TKMS in Canada submarine deal",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260707/hanwha-ocean-defeated-by-germanys-tkms-in-canada-submarine-deal?utm_source=rss",
+        "summary": "Hanwha Ocean has lost its bid to supply Canada’s next-generation submarine fleet, after Ottawa selected Germany’s TKMS as the preferred bidder for the megaproject, Canada’s Prime Minister Mark Carney said Monday. The decision marks a major setback for the Korean shipbuilder in Canada's 60 trillion won ($39.2 billion) project to replace the Royal Canadian Navy's aging fleet of four Victoria-class submarines with 12 new 3,000-ton diesel-electric vessels. The program also includes long-term maintenance, repair and overhaul (MRO) services. Carney formally announced the selection of TKMS before his departure for the North Atlantic Treaty Organization (NATO) leaders' summit in Turkey. \"This was a difficult, close decision between two highly qualified suppliers. Both the TKMS and Hanwha platforms met the capabilities of the Royal Canadian Navy, and both put forward strong proposals,” he said in...",
+        "fullText": [
+          "Hanwha Ocean has lost its bid to supply Canada’s next-generation submarine fleet, after Ottawa selected Germany’s TKMS as the preferred bidder for the megaproject, Canada’s Prime Minister Mark Carney said Monday. The decision marks a major setback for the Korean shipbuilder in Canada's 60 trillion won ($39.",
+          "2 billion) project to replace the Royal Canadian Navy's aging fleet of four Victoria-class submarines with 12 new 3,000-ton diesel-electric vessels. The program also includes long-term maintenance, repair and overhaul (MRO) services.",
+          "Carney formally announced the selection of TKMS before his departure for the North Atlantic Treaty Organization (NATO) leaders' summit in Turkey. \"This was a difficult, close decision between two highly qualified suppliers.",
+          "Both the TKMS and Hanwha platforms met the capabilities of the Royal Canadian Navy, and both put forward strong proposals,” he said in..."
+        ],
+        "words": [
+          "hanwha",
+          "defeated",
+          "germany"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Can an avatar help overcome social isolation? Korea's 'Shy Cafe' says yes",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260707/can-an-avatar-help-overcome-social-isolation-koreas-shy-cafe-says-yes?utm_source=rss",
+        "summary": "Customers ordering drinks at a cafe in Seoul's Seongsu neighborhood interacted with a virtual avatar instead of a standard menu screen. They ordered drinks while chatting with the avatar about topics covering their favorite songs or whether they preferred summer or winter. When a female customer complimented the character's voice and suggested she would be good at counseling, the avatar said she previously worked at a call center but struggled with severe anxiety. Other customers immediately offered encouragement, telling the character it was not an easy job and that they were doing well. Behind the virtual character was a young person experiencing social withdrawal. The three-day \"Shy Cafe\" pop-up, which operated from June 23-25, is a work-experience program where socially isolated young people operate virtual characters to respond to customers. During the three days, six young people p...",
+        "fullText": [
+          "Customers ordering drinks at a cafe in Seoul's Seongsu neighborhood interacted with a virtual avatar instead of a standard menu screen. They ordered drinks while chatting with the avatar about topics covering their favorite songs or whether they preferred summer or winter.",
+          "When a female customer complimented the character's voice and suggested she would be good at counseling, the avatar said she previously worked at a call center but struggled with severe anxiety. Other customers immediately offered encouragement, telling the character it was not an easy job and that they were doing well.",
+          "Behind the virtual character was a young person experiencing social withdrawal. The three-day \"Shy Cafe\" pop-up, which operated from June 23-25, is a work-experience program where socially isolated young people operate virtual characters to respond to customers.",
+          "During the three days, six young people p..."
+        ],
+        "words": [
+          "avatar",
+          "overcome",
+          "social"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "One doctor, one NICU, 100-hour workweeks: Korea's neonatal care crisis",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260707/one-doctor-one-nicu-100-hour-workweeks-koreas-neonatal-care-crisis?utm_source=rss",
+        "summary": "\"If a phone call comes in 24 hours a day, I run to the hospital,\" said Lee Byung-guk, a pediatrics professor at Sejong Chungnam National University Hospital. \"I cannot sleep properly, so my greatest fear is making a bad judgment at a critical moment.\" Lee made the appeal on Sunday. He has overseen the hospital's neonatal intensive care unit, or NICU, with a sense of mission since July 2020. The job consumes his daily life. Whenever emergency deliveries are scheduled or an extremely premature baby’s condition deteriorates, he must rush back to the hospital, remaining on call 24 hours a day. Although the hospital employs contract physicians on duty, caring for high-risk newborns remains solely the responsibility of Lee, who is a specialist. \"Even though there are contract physicians on duty, if a baby is born before 32 weeks of pregnancy, I have no choice but to return to the hospital,\" Le...",
+        "fullText": [
+          "\"If a phone call comes in 24 hours a day, I run to the hospital,\" said Lee Byung-guk, a pediatrics professor at Sejong Chungnam National University Hospital. \"I cannot sleep properly, so my greatest fear is making a bad judgment at a critical moment.",
+          "\" Lee made the appeal on Sunday. He has overseen the hospital's neonatal intensive care unit, or NICU, with a sense of mission since July 2020.",
+          "The job consumes his daily life. Whenever emergency deliveries are scheduled or an extremely premature baby’s condition deteriorates, he must rush back to the hospital, remaining on call 24 hours a day.",
+          "Although the hospital employs contract physicians on duty, caring for high-risk newborns remains solely the responsibility of Lee, who is a specialist. \"Even though there are contract physicians on duty, if a baby is born before 32 weeks of pregnancy, I have no choice but to return to the hospital,\" Le..."
+        ],
+        "words": [
+          "doctor",
+          "workweeks",
+          "neonatal"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "KOSPI Dips as Foreign Investors Offload Stocks ahead of Q2 Postings",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202693",
+        "summary": "[Economy] : The benchmark Korea Composite Stock Price Index dipped 37-point-01 points, or zero-point-46 percent, on Monday to close at eight-thousand-51-point-33. Institutional and foreign investors selling shares ahead of second-quarter postings led to the drop, with the combined value of the offloaded stocks ... [more...]",
+        "fullText": [
+          "[Economy] : The benchmark Korea Composite Stock Price Index dipped 37-point-01 points, or zero-point-46 percent, on Monday to close at eight-thousand-51-point-33. Institutional and foreign investors selling shares ahead of second-quarter postings led to the drop, with the combined value of the offloaded stocks ...",
+          "[more... ]"
+        ],
+        "words": [
+          "foreign",
+          "investors",
+          "offload"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-06",
     "label": "Monday, July 6, 2026",
     "title": "Korea News Brief",
