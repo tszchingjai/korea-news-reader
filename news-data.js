@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-08",
+    "label": "Wednesday, July 8, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Inter-Korea, Economy, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea, US, Japan sign MOU for cooperation on small modular reactor deployments",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260708/korea-us-japan-sign-mou-for-cooperation-on-small-modular-reactor-deployments?utm_source=rss",
+        "summary": "WASHINGTON — The top diplomats of Korea, the United States and Japan on Tuesday signed a memorandum of understanding (MOU) to establish a framework for trilateral cooperation on accelerating small modular reactor (SMR) deployments in other countries in the Indo-Pacific, the State Department said. Foreign Minister Cho Hyun, U.S. Secretary of State Marco Rubio and Japanese Foreign Minister Toshimitsu Motegi inked the MOU on the sidelines of the North Atlantic Treaty Organization (NATO) summit in Ankara, Turkey. \"The MOU outlines opportunities for our three countries, which have complementary advantages in the civil nuclear field, to encourage mutually beneficial cooperation among their respective nuclear industries,\" the department said in a media note. \"This framework aims to foster fleet deployment models that de-risk project development, achieve economies of scale, catalyze private inve...",
+        "fullText": [
+          "WASHINGTON — The top diplomats of Korea, the United States and Japan on Tuesday signed a memorandum of understanding (MOU) to establish a framework for trilateral cooperation on accelerating small modular reactor (SMR) deployments in other countries in the Indo-Pacific, the State Department said. Foreign Minister Cho Hyun, U.",
+          "S. Secretary of State Marco Rubio and Japanese Foreign Minister Toshimitsu Motegi inked the MOU on the sidelines of the North Atlantic Treaty Organization (NATO) summit in Ankara, Turkey.",
+          "\"The MOU outlines opportunities for our three countries, which have complementary advantages in the civil nuclear field, to encourage mutually beneficial cooperation among their respective nuclear industries,\" the department said in a media note. \"This framework aims to foster fleet deployment models that de-risk project development, achieve economies of scale, catalyze private inve..."
+        ],
+        "words": [
+          "cooperation",
+          "modular",
+          "reactor"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "US revoking general license for Iranian oil sales amid rising tensions in Strait of Hormuz",
+        "url": "https://www.koreatimes.co.kr/world/20260708/us-revoking-general-license-for-iranian-oil-sales-amid-rising-tensions-in-strait-of-hormuz?utm_source=rss",
+        "summary": "WASHINGTON — The U.S. Treasury Department said Tuesday it is revoking a general license that authorized the sale of Iranian oil, after three tankers were reported to have come under attack in and near the crucial Strait of Hormuz. The revocation raised concerns that it could affect ongoing diplomatic efforts by U.S. President Donald Trump's administration to engage in negotiations with Iran to reopen the waterway, wind down the Islamic Republic's nuclear program and end the Middle East war. On June 21, the department's Office of Foreign Assets Control issued a temporary 60-day general license authorizing the production, delivery and sale of Iranian oil, as Washington and Tehran signed a preliminary peace agreement aimed at ending their war. According to the United Kingdom Maritime Trade Operations (UKMTO) Centre, a British entity, there were reports of three tankers struck by unidentifie...",
+        "fullText": [
+          "WASHINGTON — The U. S.",
+          "Treasury Department said Tuesday it is revoking a general license that authorized the sale of Iranian oil, after three tankers were reported to have come under attack in and near the crucial Strait of Hormuz. The revocation raised concerns that it could affect ongoing diplomatic efforts by U.",
+          "S. President Donald Trump's administration to engage in negotiations with Iran to reopen the waterway, wind down the Islamic Republic's nuclear program and end the Middle East war.",
+          "On June 21, the department's Office of Foreign Assets Control issued a temporary 60-day general license authorizing the production, delivery and sale of Iranian oil, as Washington and Tehran signed a preliminary peace agreement aimed at ending their war. According to the United Kingdom Maritime Trade Operations (UKMTO) Centre, a British entity, there were reports of three tankers struck by unidentifie..."
+        ],
+        "words": [
+          "revoking",
+          "general",
+          "license"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Open USD pushes Korea to rethink stablecoin model",
+        "url": "https://www.koreatimes.co.kr/economy/cryptocurrency/20260708/open-usd-pushes-korea-to-rethink-stablecoin-model?utm_source=rss",
+        "summary": "The upcoming launch of Open USD, a dollar-pegged stablecoin backed by more than 140 global financial and technology firms, is expected to reshape Korea's stablecoin debate by shifting the focus from issuers to companies with real distribution power, industry officials said Tuesday. Open USD is challenging the issuer-dominated profit model that has long defined the stablecoin market. Its governance rights and reserve income will be shared among participating companies, with revenue distributed based on the competitiveness of each distribution partner. The launch is scheduled for the second half of this year. In Korea, 13 companies, including Samsung Electronics, Shinhan Financial Group, KB Kookmin Card, Dunamu and Hanwha Group, have joined the initiative. Global firms such as Visa, Mastercard, Stripe, BlackRock, Coinbase, Google, BNY and Standard Chartered are also among the participants....",
+        "fullText": [
+          "The upcoming launch of Open USD, a dollar-pegged stablecoin backed by more than 140 global financial and technology firms, is expected to reshape Korea's stablecoin debate by shifting the focus from issuers to companies with real distribution power, industry officials said Tuesday. Open USD is challenging the issuer-dominated profit model that has long defined the stablecoin market.",
+          "Its governance rights and reserve income will be shared among participating companies, with revenue distributed based on the competitiveness of each distribution partner. The launch is scheduled for the second half of this year.",
+          "In Korea, 13 companies, including Samsung Electronics, Shinhan Financial Group, KB Kookmin Card, Dunamu and Hanwha Group, have joined the initiative. Global firms such as Visa, Mastercard, Stripe, BlackRock, Coinbase, Google, BNY and Standard Chartered are also among the participants...."
+        ],
+        "words": [
+          "pushes",
+          "rethink",
+          "stablecoin"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Sangmyung University builds distinctive global strategy around arts, culture",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260708/sangmyung-university-builds-distinctive-global-strategy-around-arts-culture?utm_source=rss",
+        "summary": "As Korean universities jostle for global standing, Sangmyung University is leaning into what sets it apart: a concentration in culture and the arts. Three of the university's 10 colleges specialize in culture, the arts and design — a rare institutional structure among Korean universities that Sangmyung University President Kim Chong-hee sees as a strategic asset rather than a legacy to be outgrown. “We are focusing our global partnerships on two key areas — artificial intelligence (AI), our new strategic priority, and culture and the arts, our traditional strength,\" she said in a recent interview with The Korea Times. Asia's cultural hub Kim said her ultimate goal is to position Sangmyung as Asia's cultural hub, connected to the world, and and the university is building a network of partnerships across Europe and Asia to back that ambition. In November 2025, the university also launched...",
+        "fullText": [
+          "As Korean universities jostle for global standing, Sangmyung University is leaning into what sets it apart: a concentration in culture and the arts. Three of the university's 10 colleges specialize in culture, the arts and design — a rare institutional structure among Korean universities that Sangmyung University President Kim Chong-hee sees as a strategic asset rather than a legacy to be outgrown.",
+          "“We are focusing our global partnerships on two key areas — artificial intelligence (AI), our new strategic priority, and culture and the arts, our traditional strength,\" she said in a recent interview with The Korea Times. Asia's cultural hub Kim said her ultimate goal is to position Sangmyung as Asia's cultural hub, connected to the world, and and the university is building a network of partnerships across Europe and Asia to back that ambition.",
+          "In November 2025, the university also launched..."
+        ],
+        "words": [
+          "sangmyung",
+          "university",
+          "builds"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[Economic Essay Contest] Beyond automation: Architecting the AI-driven financial ecosystem",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260708/economic-essay-contest-beyond-automation-architecting-the-ai-driven-financial-ecosystem?utm_source=rss",
+        "summary": "Imagine logging into your bank account, not to check a static balance, but to converse with a personalized financial architect that anticipates your next life milestone based on your behavioral patterns. This is no longer science fiction. The integration of artificial intelligence (AI) in finance has transcended basic algorithmic automation, evolving into a comprehensive ecosystem that fundamentally redefines consumer interactions. However, as institutions transition to these machine learning-driven architectures, a critical question emerges: How can we balance hyperpersonalization with absolute security? To catalyze true financial innovation and ensure consumer protection, financial institutions must strategically deploy large language models (LLMs) to revolutionize customer relationship management, leverage predictive analytics for dynamic wealth management and establish transparent se...",
+        "fullText": [
+          "Imagine logging into your bank account, not to check a static balance, but to converse with a personalized financial architect that anticipates your next life milestone based on your behavioral patterns. This is no longer science fiction.",
+          "The integration of artificial intelligence (AI) in finance has transcended basic algorithmic automation, evolving into a comprehensive ecosystem that fundamentally redefines consumer interactions. However, as institutions transition to these machine learning-driven architectures, a critical question emerges: How can we balance hyperpersonalization with absolute security?",
+          "To catalyze true financial innovation and ensure consumer protection, financial institutions must strategically deploy large language models (LLMs) to revolutionize customer relationship management, leverage predictive analytics for dynamic wealth management and establish transparent se..."
+        ],
+        "words": [
+          "economic",
+          "contest",
+          "beyond"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[Economic Essay Contest] Finance in the age of AI: Why trust matters more than efficiency",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260708/economic-essay-contest-finance-in-the-age-of-ai-why-trust-matters-more-than-efficiency?utm_source=rss",
+        "summary": "Have you ever felt frustrated after spending hours interacting with a banking chatbot, only to receive the same repetitive response: “Sorry, I do not understand your request”? This highlights a core tension in the digital era: While technology operates with remarkable speed, it often fails to truly understand human needs. Currently, major financial centers are investing heavily in artificial intelligence (AI). Despite this investment, a gap remains between technological capability and user experience, as efficiency is often mistaken for service quality. To remain sustainable, financial institutions must evaluate both the benefits and risks of AI to ensure long-term growth. Accelerating services or sacrificing empathy? It is undeniable that AI has driven significant advancements in financial services. One clear illustration is MoMo in Vietnam, which utilizes AI to automatically categorize...",
+        "fullText": [
+          "Have you ever felt frustrated after spending hours interacting with a banking chatbot, only to receive the same repetitive response: “Sorry, I do not understand your request”? This highlights a core tension in the digital era: While technology operates with remarkable speed, it often fails to truly understand human needs.",
+          "Currently, major financial centers are investing heavily in artificial intelligence (AI). Despite this investment, a gap remains between technological capability and user experience, as efficiency is often mistaken for service quality.",
+          "To remain sustainable, financial institutions must evaluate both the benefits and risks of AI to ensure long-term growth. Accelerating services or sacrificing empathy?",
+          "It is undeniable that AI has driven significant advancements in financial services. One clear illustration is MoMo in Vietnam, which utilizes AI to automatically categorize..."
+        ],
+        "words": [
+          "economic",
+          "contest",
+          "finance"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[Economic Essay Contest] The future of AI in finance: Building trust before fraud happens",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260708/economic-essay-contest-the-future-of-ai-in-finance-building-trust-before-fraud-happens?utm_source=rss",
+        "summary": "A few months ago, I received a call from an unknown number, and the caller identified himself as a government agency in Korea. As an international student, I often deal with unfamiliar bureaucracy and calls, so everything seemed quite convincing. The person on the phone spoke confidently, mentioned my personal information and insisted that I take immediate actions. For a second, I almost believed him. But suddenly I received a warning from my banking app about voice-phishing scams. This warning was handled by an artificial intelligence (AI) assistant manager, not a bank staff member. The warning landed me to immediately end the call. Later, I learned that similar scams are common across the country. What stayed with me was not the scam itself, but the realization that I trusted a warning generated by a financial system more than the voice of the person speaking on the phone. That experie...",
+        "fullText": [
+          "A few months ago, I received a call from an unknown number, and the caller identified himself as a government agency in Korea. As an international student, I often deal with unfamiliar bureaucracy and calls, so everything seemed quite convincing.",
+          "The person on the phone spoke confidently, mentioned my personal information and insisted that I take immediate actions. For a second, I almost believed him.",
+          "But suddenly I received a warning from my banking app about voice-phishing scams. This warning was handled by an artificial intelligence (AI) assistant manager, not a bank staff member.",
+          "The warning landed me to immediately end the call. Later, I learned that similar scams are common across the country.",
+          "What stayed with me was not the scam itself, but the realization that I trusted a warning generated by a financial system more than the voice of the person speaking on the phone. That experie..."
+        ],
+        "words": [
+          "economic",
+          "contest",
+          "future"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-07",
     "label": "Tuesday, July 7, 2026",
     "title": "Korea News Brief",
