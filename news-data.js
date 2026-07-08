@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-09",
+    "label": "Thursday, July 9, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Weather, Politics, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Young Koreans find peace in palm of their hands",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260709/young-koreans-find-peace-in-palm-of-their-hands?utm_source=rss",
+        "summary": "Walk down a narrow alley in Changsin-dong, a neighborhood in Jongno District tucked behind Dongdaemun in central Seoul, and you will find a scene that seems frozen in time. Shopfronts overflow with plastic toys, character stickers and school supplies, the same stationery and toy wholesale market that has supplied Korean classrooms for decades. Look closer at the crowd, though, and something has changed. The customers digging through bins of colorful rubbery blobs are not elementary school students. They are mostly college students or young office workers in their 20s and 30s, many of them clutching phones open to Instagram, hunting for two very specific items — \"mallangi\" and \"wakppu ball.\" The two toys have become Korea's unlikeliest trend. Mallangi, derived from the Korean word \"mallang,\" meaning soft and squishy, refers to pliable rubber toys designed to be kneaded, stretched and sque...",
+        "fullText": [
+          "Walk down a narrow alley in Changsin-dong, a neighborhood in Jongno District tucked behind Dongdaemun in central Seoul, and you will find a scene that seems frozen in time. Shopfronts overflow with plastic toys, character stickers and school supplies, the same stationery and toy wholesale market that has supplied Korean classrooms for decades.",
+          "Look closer at the crowd, though, and something has changed. The customers digging through bins of colorful rubbery blobs are not elementary school students.",
+          "They are mostly college students or young office workers in their 20s and 30s, many of them clutching phones open to Instagram, hunting for two very specific items — \"mallangi\" and \"wakppu ball. \" The two toys have become Korea's unlikeliest trend.",
+          "Mallangi, derived from the Korean word \"mallang,\" meaning soft and squishy, refers to pliable rubber toys designed to be kneaded, stretched and sque..."
+        ],
+        "words": [
+          "koreans",
+          "narrow",
+          "changsin-dong"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Inside China's panda city, where conservation and tourism coexist",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260709/inside-chinas-panda-city-where-conservation-and-tourism-coexist?utm_source=rss",
+        "summary": "CHENGDU, China — The moment plane touches down in Chengdu, it is immediately clear this is China’s panda capital. Giant black-and-white sculptures line the arrival hall, cartoon pandas beam from wayfinding signs and duty-free displays, and airport cafes serve lattes topped with foamy panda faces. It is a preview of a metropolis where China’s most beloved animal is everywhere, from street murals to subway ads, and sits at the city's cultural identity and tourism boom. As endangered species, giant pandas are one of only three panda species, and they are only found in China. Around 1,800 are believed to be the total number of live giant pandas, cool and humid bamboo forests in the mountains in Sichuan Province, where Chengdu is the capital, is home to 72 percent of them. The city has transformed the ecological trait into a powerful tourism brand. At the heart of its “panda city” image is th...",
+        "fullText": [
+          "CHENGDU, China — The moment plane touches down in Chengdu, it is immediately clear this is China’s panda capital. Giant black-and-white sculptures line the arrival hall, cartoon pandas beam from wayfinding signs and duty-free displays, and airport cafes serve lattes topped with foamy panda faces.",
+          "It is a preview of a metropolis where China’s most beloved animal is everywhere, from street murals to subway ads, and sits at the city's cultural identity and tourism boom. As endangered species, giant pandas are one of only three panda species, and they are only found in China.",
+          "Around 1,800 are believed to be the total number of live giant pandas, cool and humid bamboo forests in the mountains in Sichuan Province, where Chengdu is the capital, is home to 72 percent of them. The city has transformed the ecological trait into a powerful tourism brand.",
+          "At the heart of its “panda city” image is th..."
+        ],
+        "words": [
+          "inside",
+          "conservation",
+          "tourism"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Seniors' free subway rides snowball financial burden for Seoul, Busan",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260709/seniors-free-subway-rides-snowball-financial-burden-for-seoul-busan?utm_source=rss",
+        "summary": "Seoul and Busan are facing mounting financial pressure from providing free subway rides to designated groups, raising concerns about the long-term sustainability of local governments' operation of the critical public transit system. The service, introduced in 1984 for people aged 65 or older, has now accumulated losses worth hundreds of billions of won for subway operators. While the ministries responsible for the laws underpinning the program have remained largely aloof to the growing financial strain, the only immediate relief in sight is a bill pending before a National Assembly standing committee. The losses are staggering, and as the population ages, the number of people who benefit from the service grows, fueling the problem. Seoul Metro, under the Seoul Metropolitan Government, operates subway lines 1 through 8 across Seoul, Incheon and Gyeonggi Province. Last year alone, it saw a...",
+        "fullText": [
+          "Seoul and Busan are facing mounting financial pressure from providing free subway rides to designated groups, raising concerns about the long-term sustainability of local governments' operation of the critical public transit system. The service, introduced in 1984 for people aged 65 or older, has now accumulated losses worth hundreds of billions of won for subway operators.",
+          "While the ministries responsible for the laws underpinning the program have remained largely aloof to the growing financial strain, the only immediate relief in sight is a bill pending before a National Assembly standing committee. The losses are staggering, and as the population ages, the number of people who benefit from the service grows, fueling the problem.",
+          "Seoul Metro, under the Seoul Metropolitan Government, operates subway lines 1 through 8 across Seoul, Incheon and Gyeonggi Province. Last year alone, it saw a..."
+        ],
+        "words": [
+          "seniors",
+          "subway",
+          "snowball"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Can't stop snacking? Eat this first to help prevent binge eating",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260709/cant-stop-snacking-eat-this-first-to-help-prevent-binge-eating?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. You tell yourself, “I'll just have a little,” but before you know it, the entire bag of chips is empty. Most people have experienced this at least once. Once your appetite kicks into high gear, it's often much harder to control than expected. This is especially true if you've gone too long without eating or if your meals lack protein and dietary fiber. In those situations, blood sugar levels can rise and fall rapidly, making overeating much more likely. After enduring hunger for a long time, people tend to reach for foods that are quick and convenient, such as chips, bread or delivery meals. These processed foods are calorie-dense and often high in sugar and salt, which can further stimulate the appetite. A better approach is to use a \"pre-meal strategy\" that takes the edge off your hunger first. Eating foods rich in protein, fiber and water b...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "You tell yourself, “I'll just have a little,” but before you know it, the entire bag of chips is empty. Most people have experienced this at least once.",
+          "Once your appetite kicks into high gear, it's often much harder to control than expected. This is especially true if you've gone too long without eating or if your meals lack protein and dietary fiber.",
+          "In those situations, blood sugar levels can rise and fall rapidly, making overeating much more likely. After enduring hunger for a long time, people tend to reach for foods that are quick and convenient, such as chips, bread or delivery meals.",
+          "These processed foods are calorie-dense and often high in sugar and salt, which can further stimulate the appetite. A better approach is to use a \"pre-meal strategy\" that takes the edge off your hunger first.",
+          "Eating foods rich in protein, fiber and water b..."
+        ],
+        "words": [
+          "snacking",
+          "prevent",
+          "eating"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Why local Wagnerian production is drawing inspiration from Netflix",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260709/why-local-wagnerian-production-is-drawing-inspiration-from-netflix?utm_source=rss",
+        "summary": "\"After reading an article analyzing that Korean films have earned worldwide acclaim because their directors serve as 'concept artists' who create the story, characters and visual world themselves, I immediately thought of Richard Wagner.\" Adrien Perruchon, music director of the Bucheon Philharmonic Orchestra, drew the comparison during a press conference at Shinyoung Chamber Hall in southwestern Seoul's Yeongdeungpo District, July 8, introducing a concert version of highlights from Richard Wagner's \"Der Ring des Nibelungen\" (\"The Ring of the Nibelung\"). \"Wagner is almost unique in music history in that he created not only the music, but also the story, the characters and the stage concept,\" Perruchon said. \"That is why 'The Ring' remains a universal artistic legacy even today.\" This year marks the 150th anniversary of the complete premiere of Wagner's four-opera cycle at Germany's iconic...",
+        "fullText": [
+          "\"After reading an article analyzing that Korean films have earned worldwide acclaim because their directors serve as 'concept artists' who create the story, characters and visual world themselves, I immediately thought of Richard Wagner. \" Adrien Perruchon, music director of the Bucheon Philharmonic Orchestra, drew the comparison during a press conference at Shinyoung Chamber Hall in southwestern Seoul's Yeongdeungpo District, July 8, introducing a concert version of highlights from Richard Wagner's \"Der Ring des Nibelungen\" (\"The Ring of the Nibelung\").",
+          "\"Wagner is almost unique in music history in that he created not only the music, but also the story, the characters and the stage concept,\" Perruchon said. \"That is why 'The Ring' remains a universal artistic legacy even today.",
+          "\" This year marks the 150th anniversary of the complete premiere of Wagner's four-opera cycle at Germany's iconic..."
+        ],
+        "words": [
+          "wagnerian",
+          "production",
+          "drawing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "President Lee and Ukrainian President Hold Summit, Discuss Issue of N. Korean POWs",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202761",
+        "summary": "[Politics] : President Lee Jae Myung held summit talks with Ukrainian President Volodymyr Zelenskyy on Wednesday on the sidelines of the NATO summit in the Turkish capital. According to chief presidential spokesperson Kang Yu-jung, the two leaders agreed that the issue of North Korean prisoners of war in Ukraine ... [more...]",
+        "fullText": [
+          "[Politics] : President Lee Jae Myung held summit talks with Ukrainian President Volodymyr Zelenskyy on Wednesday on the sidelines of the NATO summit in the Turkish capital. According to chief presidential spokesperson Kang Yu-jung, the two leaders agreed that the issue of North Korean prisoners of war in Ukraine ...",
+          "[more... ]"
+        ],
+        "words": [
+          "president",
+          "ukrainian",
+          "summit"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Trump Says He Thinks MOU with Iran on Ending War is ‘Over’",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202760",
+        "summary": "[International] : U.S. President Donald Trump says he thinks the memorandum of understanding that he signed with Iran to end the war is “over” and he doesn’t want to deal with Tehran. Foreign media outlets said Trump made the remark on Wednesday when he met with NATO ‌Secretary ⁠General Mark Rutte ahead of a ... [more...]",
+        "fullText": [
+          "[International] : U. S.",
+          "President Donald Trump says he thinks the memorandum of understanding that he signed with Iran to end the war is “over” and he doesn’t want to deal with Tehran. Foreign media outlets said Trump made the remark on Wednesday when he met with NATO ‌Secretary ⁠General Mark Rutte ahead of a ...",
+          "[more... ]"
+        ],
+        "words": [
+          "thinks",
+          "ending",
+          "international"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "label": "Wednesday, July 8, 2026",
     "title": "Korea News Brief",
