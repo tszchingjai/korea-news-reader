@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-10",
+    "label": "Friday, July 10, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Mercedes-Benz Korea's new CEO tasked with recovering EV sales, corporate image",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260710/mercedes-benz-koreas-new-ceo-tasked-with-recovering-ev-sales-corporate-image?utm_source=rss",
+        "summary": "Mercedes-Benz Korea’s new CEO Shirin Emeera faces a dual challenge of reviving the carmaker’s slowing electric vehicle (EV) sales and rebuilding consumer confidence. Since assuming the role on July 1, Emeera has led Mercedes-Benz Korea at a pivotal moment as the German luxury carmaker rapidly loses ground to Tesla and BMW in Korea. A veteran executive with more than two decades of experience, she most recently oversaw dealer network strategy and market management at the company's headquarters in Germany. Industry officials expect her extensive expertise in retail operations and distribution strategy to play a key role in strengthening Mercedes-Benz Korea's newly introduced direct-sales system and restoring sales momentum. Before assuming her current role, Emeera led Mercedes-Benz's operations in Sweden and Denmark, where she successfully guided the brand to the top position in the premiu...",
+        "fullText": [
+          "Mercedes-Benz Korea’s new CEO Shirin Emeera faces a dual challenge of reviving the carmaker’s slowing electric vehicle (EV) sales and rebuilding consumer confidence. Since assuming the role on July 1, Emeera has led Mercedes-Benz Korea at a pivotal moment as the German luxury carmaker rapidly loses ground to Tesla and BMW in Korea.",
+          "A veteran executive with more than two decades of experience, she most recently oversaw dealer network strategy and market management at the company's headquarters in Germany. Industry officials expect her extensive expertise in retail operations and distribution strategy to play a key role in strengthening Mercedes-Benz Korea's newly introduced direct-sales system and restoring sales momentum.",
+          "Before assuming her current role, Emeera led Mercedes-Benz's operations in Sweden and Denmark, where she successfully guided the brand to the top position in the premiu..."
+        ],
+        "words": [
+          "mercedes-benz",
+          "tasked",
+          "recovering"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Major bank CEOs face pivotal test for potential reappointment",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260710/major-bank-ceos-face-pivotal-test-for-potential-reappointment?utm_source=rss",
+        "summary": "Leadership changes are looming at Korea's major commercial banks as the terms of all five CEOs expire at the end of the year, setting the stage for closely watched potential reappointment decisions, industry officials said Thursday. The terms for the CEOs of KB Kookmin, Shinhan, Hana, Woori and NH NongHyup banks all expire in December. Under the financial authorities' corporate governance guidelines, succession procedures should begin at least three months before a CEO's term expires, meaning that the selection process is expected to begin around September. This year, industry officials say earnings results alone are unlikely to determine who stays and who goes, with governance standards and leadership changes at parent financial groups also expected to play a role in the decisions. Bank CEOs typically serve two-year terms, with an additional one-year extension granted based on managemen...",
+        "fullText": [
+          "Leadership changes are looming at Korea's major commercial banks as the terms of all five CEOs expire at the end of the year, setting the stage for closely watched potential reappointment decisions, industry officials said Thursday. The terms for the CEOs of KB Kookmin, Shinhan, Hana, Woori and NH NongHyup banks all expire in December.",
+          "Under the financial authorities' corporate governance guidelines, succession procedures should begin at least three months before a CEO's term expires, meaning that the selection process is expected to begin around September. This year, industry officials say earnings results alone are unlikely to determine who stays and who goes, with governance standards and leadership changes at parent financial groups also expected to play a role in the decisions.",
+          "Bank CEOs typically serve two-year terms, with an additional one-year extension granted based on managemen..."
+        ],
+        "words": [
+          "pivotal",
+          "potential",
+          "reappointment"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "K-beauty expands into men's grooming",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260710/k-beauty-expands-into-mens-grooming?utm_source=rss",
+        "summary": "Korea's globally recognized beauty industry, long associated with skin care, cosmetics and hairstyling for women, is increasingly extending its influence into men's grooming, with a new international festival aiming to showcase the country's growing barber culture. Organized and hosted by N2RAGE Global, Korea’s first beauty subculture community exclusively for men, the DISTRICT 82 festival is set to take place on Aug. 24. The organizer said Thursday the event will bring together barbers and hairstylists from Korea, Japan, Brazil and other countries for a day of live demonstrations, educational seminars, music performances and an international barber competition. “The event will be a platform where grooming is presented not simply as a service but as part of contemporary youth culture,” said An Hee-jin, global head of N2RAGE. “It will attract up to 700 professionals and enthusiasts.” The...",
+        "fullText": [
+          "Korea's globally recognized beauty industry, long associated with skin care, cosmetics and hairstyling for women, is increasingly extending its influence into men's grooming, with a new international festival aiming to showcase the country's growing barber culture. Organized and hosted by N2RAGE Global, Korea’s first beauty subculture community exclusively for men, the DISTRICT 82 festival is set to take place on Aug.",
+          "24. The organizer said Thursday the event will bring together barbers and hairstylists from Korea, Japan, Brazil and other countries for a day of live demonstrations, educational seminars, music performances and an international barber competition.",
+          "“The event will be a platform where grooming is presented not simply as a service but as part of contemporary youth culture,” said An Hee-jin, global head of N2RAGE. “It will attract up to 700 professionals and enthusiasts.",
+          "” The..."
+        ],
+        "words": [
+          "k-beauty",
+          "expands",
+          "grooming"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Uzbekistan: A destination for every season",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260710/uzbekistan-a-destination-for-every-season?utm_source=rss",
+        "summary": "For many travelers, Uzbekistan begins with the legendary Silk Road cities of Samarkand, Bukhara and Khiva. Yet those who venture deeper soon discover a country that offers far more than magnificent architecture and ancient history. Uzbekistan is a destination of contrasts and experiences — where ancient cultural heritage meets modern tourism, where snowy mountains stand not far from desert landscapes and where centuries-old traditions continue to live alongside a rapidly developing travel industry. Tourism has become one of Uzbekistan’s fastest-growing economic sectors. In 2025, the country welcomed 11.7 million international visitors, while tourism service exports reached $4.8 billion. Under the Tourism Development Strategy until 2030, Uzbekistan aims to attract 20 million international visitors annually, increase tourism’s share in GDP to 7 percent and raise tourism service exports to...",
+        "fullText": [
+          "For many travelers, Uzbekistan begins with the legendary Silk Road cities of Samarkand, Bukhara and Khiva. Yet those who venture deeper soon discover a country that offers far more than magnificent architecture and ancient history.",
+          "Uzbekistan is a destination of contrasts and experiences — where ancient cultural heritage meets modern tourism, where snowy mountains stand not far from desert landscapes and where centuries-old traditions continue to live alongside a rapidly developing travel industry. Tourism has become one of Uzbekistan’s fastest-growing economic sectors.",
+          "In 2025, the country welcomed 11. 7 million international visitors, while tourism service exports reached $4.",
+          "8 billion. Under the Tourism Development Strategy until 2030, Uzbekistan aims to attract 20 million international visitors annually, increase tourism’s share in GDP to 7 percent and raise tourism service exports to..."
+        ],
+        "words": [
+          "uzbekistan",
+          "destination",
+          "season"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "How Euljiro's alley workshops functioned like a brain",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260710/how-euljiros-alley-workshops-functioned-like-a-brain?utm_source=rss",
+        "summary": "Growing up in Greece, I frequently visited Athens’ Syntagma metro station, decorated with archaeological finds. Behind the glass, layer after layer of tools and artifacts lay embedded in the soil, traces of forgotten lives that once lived there. Back then, I imagined a natural disaster or a devastating war was to blame for erasing them. Almost 30 years later, while documenting Euljiro, I learned that collective forgetting can be planned and accepted. Today, we call it redevelopment. Walking through central Seoul's Euljiro region, when I first visited its alleys in 2022, felt like entering a DIY amusement park the size of a city, handmade by a collection of craftsmen and scientists. By day, I’d walk with my camera through the maze-like alleys lined with thousands of tiny factories, the air thickly infused with the scent of burning metal mixed with smells of local recipes. On freezing cold...",
+        "fullText": [
+          "Growing up in Greece, I frequently visited Athens’ Syntagma metro station, decorated with archaeological finds. Behind the glass, layer after layer of tools and artifacts lay embedded in the soil, traces of forgotten lives that once lived there.",
+          "Back then, I imagined a natural disaster or a devastating war was to blame for erasing them. Almost 30 years later, while documenting Euljiro, I learned that collective forgetting can be planned and accepted.",
+          "Today, we call it redevelopment. Walking through central Seoul's Euljiro region, when I first visited its alleys in 2022, felt like entering a DIY amusement park the size of a city, handmade by a collection of craftsmen and scientists.",
+          "By day, I’d walk with my camera through the maze-like alleys lined with thousands of tiny factories, the air thickly infused with the scent of burning metal mixed with smells of local recipes. On freezing cold..."
+        ],
+        "words": [
+          "euljiro",
+          "workshops",
+          "functioned"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Child water safety guide: survival swimming, life jackets, constant supervision",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260710/child-water-safety-guide-survival-swimming-life-jackets-constant-supervision?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. About 4,000 to 5,000 people drown each year in the United States, according to Centers for Disease Control and Prevention data cited by health news outlet Medical Xpress. A child can drown in seconds, making rapid rescue and resuscitation critical to preventing death or lifelong disability, Dr. Rohit Shenoi, a pediatric emergency physician at Texas Children's Hospital, said in an interview with the outlet. Shenoi is the lead author of a recent American Academy of Pediatrics warning on water safety. Drowning is the leading cause of death for children ages 1 to 4 and one of the leading causes for those ages 5 to 14. While some drownings occur in bathtubs, most happen in swimming pools or natural bodies of water such as lakes, rivers and oceans. Korea faces similar risks. Children 9 and younger account for about 30 percent of the country's emerge...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "About 4,000 to 5,000 people drown each year in the United States, according to Centers for Disease Control and Prevention data cited by health news outlet Medical Xpress. A child can drown in seconds, making rapid rescue and resuscitation critical to preventing death or lifelong disability, Dr.",
+          "Rohit Shenoi, a pediatric emergency physician at Texas Children's Hospital, said in an interview with the outlet. Shenoi is the lead author of a recent American Academy of Pediatrics warning on water safety.",
+          "Drowning is the leading cause of death for children ages 1 to 4 and one of the leading causes for those ages 5 to 14. While some drownings occur in bathtubs, most happen in swimming pools or natural bodies of water such as lakes, rivers and oceans.",
+          "Korea faces similar risks. Children 9 and younger account for about 30 percent of the country's emerge..."
+        ],
+        "words": [
+          "safety",
+          "survival",
+          "swimming"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Police to Set Up Reform Task Force and Team to Address Police Misconduct",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202794",
+        "summary": "[Politics] : The Korean National Police Agency will set up a task force on investigative reform and a team under the national investigation bureau that will be charged with taking stern action against police misconduct. The agency disclosed the plans in a press notice Thursday, after controversy engulfed a ... [more...]",
+        "fullText": [
+          "[Politics] : The Korean National Police Agency will set up a task force on investigative reform and a team under the national investigation bureau that will be charged with taking stern action against police misconduct. The agency disclosed the plans in a press notice Thursday, after controversy engulfed a ...",
+          "[more... ]"
+        ],
+        "words": [
+          "police",
+          "reform",
+          "address"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-09",
     "label": "Thursday, July 9, 2026",
     "title": "Korea News Brief",
