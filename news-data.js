@@ -1,5 +1,150 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-11",
+    "label": "Saturday, July 11, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "LNG reemerges as strategic fuel for Korea's AI, chip ambitions",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260711/lng-reemerges-as-strategic-fuel-for-koreas-ai-chip-ambitions?utm_source=rss",
+        "summary": "Liquefied natural gas (LNG) is regaining strategic importance as the government reassesses its energy mix to support massive investments in artificial intelligence (AI) data centers and semiconductor manufacturing, while a prolonged global boom in LNG strengthens prospects for the country's broader LNG supply chain. Seoul is reconsidering LNG's domestic role after previously planning to reduce its share in the country's power mix under long-term decarbonization targets. Growing electricity demand from AI infrastructure and semiconductor manufacturing has renewed focus on LNG-fired power generation as a flexible backup source to balance the intermittency of renewable energy. The government is expected to consider a sharp increase in the share of LNG power in a new electricity plan, which will be drawn up later this year. It is also said to be reviewing a proposal to meet part of Samsung E...",
+        "fullText": [
+          "Liquefied natural gas (LNG) is regaining strategic importance as the government reassesses its energy mix to support massive investments in artificial intelligence (AI) data centers and semiconductor manufacturing, while a prolonged global boom in LNG strengthens prospects for the country's broader LNG supply chain. Seoul is reconsidering LNG's domestic role after previously planning to reduce its share in the country's power mix under long-term decarbonization targets.",
+          "Growing electricity demand from AI infrastructure and semiconductor manufacturing has renewed focus on LNG-fired power generation as a flexible backup source to balance the intermittency of renewable energy. The government is expected to consider a sharp increase in the share of LNG power in a new electricity plan, which will be drawn up later this year.",
+          "It is also said to be reviewing a proposal to meet part of Samsung E..."
+        ],
+        "words": [
+          "reemerges",
+          "strategic",
+          "ambitions"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Busan's oldest industrial zone wins $65 mil. revitalization facelift",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260711/busans-oldest-industrial-zone-wins-65-mil-revitalization-facelift?utm_source=rss",
+        "summary": "The clatter of heavy machinery long defined the Sinpyeong-Janglim industrial complex, a sprawling gray expanse of manufacturing plants that powered the southeastern port city of Busan's postwar economic rise. But under a sweeping new municipal initiative, the aging factory floors and soot-stained avenues are poised to give way to digital playgrounds, K-pop concert stages and open-air art markets. City officials said Friday that the complex, newly rebranded as the West Busan Smart Valley, has been selected for a major urban revitalization grant jointly sponsored by three government ministries: the Ministry of Trade, Industry and Energy; the Ministry of Culture, Sports and Tourism; and the Ministry of Land, Infrastructure and Transport. Over the next four years, the government will pump 88.9 billion won ($65 million) into the site, transforming Korea's oldest industrial district into an ex...",
+        "fullText": [
+          "The clatter of heavy machinery long defined the Sinpyeong-Janglim industrial complex, a sprawling gray expanse of manufacturing plants that powered the southeastern port city of Busan's postwar economic rise. But under a sweeping new municipal initiative, the aging factory floors and soot-stained avenues are poised to give way to digital playgrounds, K-pop concert stages and open-air art markets.",
+          "City officials said Friday that the complex, newly rebranded as the West Busan Smart Valley, has been selected for a major urban revitalization grant jointly sponsored by three government ministries: the Ministry of Trade, Industry and Energy; the Ministry of Culture, Sports and Tourism; and the Ministry of Land, Infrastructure and Transport. Over the next four years, the government will pump 88.",
+          "9 billion won ($65 million) into the site, transforming Korea's oldest industrial district into an ex..."
+        ],
+        "words": [
+          "oldest",
+          "industrial",
+          "revitalization"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hong Kong retail investors reel as SK hynix ETF swings turn painful",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260711/hong-kong-retail-investors-reel-as-sk-hynix-etf-swings-turn-painful?utm_source=rss",
+        "summary": "When Emily Yang, a 30-year-old office worker in Hong Kong, invested more than 100,000 Hong Kong dollars in a leveraged exchange-traded fund (ETF) linked to SK hynix in late June, she thought she was buying into one of the world's strongest artificial intelligence (AI) stories. Instead, within a week, nearly half of her investment had disappeared. \"Everyone around me was talking about AI and how strong SK hynix's prospects were,\" Yang said. \"Its memory technology looked more competitive than Samsung's, and the valuation didn't seem expensive considering its earnings growth. But now I really regret following the crowd.\" Now deeply underwater, Yang says she no longer knows what to do. \"Selling now would mean locking in heavy losses, while averaging down feels too risky. All I can do is wait,\" she added. Yang is far from alone. A wave of retail enthusiasm over AI has turned leveraged product...",
+        "fullText": [
+          "When Emily Yang, a 30-year-old office worker in Hong Kong, invested more than 100,000 Hong Kong dollars in a leveraged exchange-traded fund (ETF) linked to SK hynix in late June, she thought she was buying into one of the world's strongest artificial intelligence (AI) stories. Instead, within a week, nearly half of her investment had disappeared.",
+          "\"Everyone around me was talking about AI and how strong SK hynix's prospects were,\" Yang said. \"Its memory technology looked more competitive than Samsung's, and the valuation didn't seem expensive considering its earnings growth.",
+          "But now I really regret following the crowd. \" Now deeply underwater, Yang says she no longer knows what to do.",
+          "\"Selling now would mean locking in heavy losses, while averaging down feels too risky. All I can do is wait,\" she added.",
+          "Yang is far from alone. A wave of retail enthusiasm over AI has turned leveraged product..."
+        ],
+        "words": [
+          "retail",
+          "investors",
+          "swings"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] 'Ppi-ppi': Korea's brief pager fad in the '90s",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260711/morning-calm-tales-ppi-ppi-koreas-brief-pager-fad-in-the-90s?utm_source=rss",
+        "summary": "Before phones lived in our pockets — before they glowed, chirped, hummed, vibrated, tracked us and reminded us of things we hadn’t yet forgotten — there was the pager. In Korea, it was commonly and affectionately called \"ppi-ppi.\" That palm-sized device fit neatly into a brief moment in the technological scheme of things, nudging how we communicated — if only slightly — into the future. In Korea, ppi-ppi weren’t just devices. They let us be connected before we really understood what being connected would come to mean. Almost overnight, pager shops sprang up all over the city. There were at least a dozen in Sinchon alone, along the main drag leading down from Yonsei University — identical, brightly lit and impossible to miss, glowing late into the night. Young clerks stood just inside the doors, eager and alert, ready to usher you into the latest craze. Inside, glass display cases gleamed...",
+        "fullText": [
+          "Before phones lived in our pockets — before they glowed, chirped, hummed, vibrated, tracked us and reminded us of things we hadn’t yet forgotten — there was the pager. In Korea, it was commonly and affectionately called \"ppi-ppi.",
+          "\" That palm-sized device fit neatly into a brief moment in the technological scheme of things, nudging how we communicated — if only slightly — into the future. In Korea, ppi-ppi weren’t just devices.",
+          "They let us be connected before we really understood what being connected would come to mean. Almost overnight, pager shops sprang up all over the city.",
+          "There were at least a dozen in Sinchon alone, along the main drag leading down from Yonsei University — identical, brightly lit and impossible to miss, glowing late into the night. Young clerks stood just inside the doors, eager and alert, ready to usher you into the latest craze.",
+          "Inside, glass display cases gleamed..."
+        ],
+        "words": [
+          "morning",
+          "ppi-ppi",
+          "before"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[K-LIT REVIEW] 'Mrs. Shim is a Killer' offers deep cuts",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20260711/k-lit-review-mrs-shim-is-a-killer-offers-deep-cuts?utm_source=rss",
+        "summary": "Brooding films with assassin protagonists are a tired trend, but Kang Jiyoung’s \"Mrs. Shim is a Killer\" cuts away the stereotypes to get at the heart of the genre. The titular character is a 51-year-old former butcher looking for a new line of work. A widowed mother short of modern skills, Mrs. Shim unexpectedly finds the strange and cutthroat world of murder-for-hire that has plenty of use for someone experienced with knives when she answers a job ad in the newspaper for the Smile Detective Agency. “You can wash your hands clean when you’re dead,” a fortune teller advises, summing up the colorful collection of malcontents who make up the novel’s cast of characters. Most of them arise like Mrs. Shim from humble origins, doing anything they can to survive and prosper in a rough-and-tumble world of economic desperation. The author enchants with a delicately woven series of overlapping plot...",
+        "fullText": [
+          "Brooding films with assassin protagonists are a tired trend, but Kang Jiyoung’s \"Mrs. Shim is a Killer\" cuts away the stereotypes to get at the heart of the genre.",
+          "The titular character is a 51-year-old former butcher looking for a new line of work. A widowed mother short of modern skills, Mrs.",
+          "Shim unexpectedly finds the strange and cutthroat world of murder-for-hire that has plenty of use for someone experienced with knives when she answers a job ad in the newspaper for the Smile Detective Agency. “You can wash your hands clean when you’re dead,” a fortune teller advises, summing up the colorful collection of malcontents who make up the novel’s cast of characters.",
+          "Most of them arise like Mrs. Shim from humble origins, doing anything they can to survive and prosper in a rough-and-tumble world of economic desperation.",
+          "The author enchants with a delicately woven series of overlapping plot..."
+        ],
+        "words": [
+          "review",
+          "killer",
+          "offers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Actress Chae Jung-an turns rainy day into luxury fashion moment with $1,500 rain boots",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260711/actress-chae-jung-an-turns-rainy-day-into-luxury-fashion-moment-with-1500-rain-boots?utm_source=rss",
+        "summary": "Actress Chae Jung-an is drawing attention online after showcasing a chic rainy-day outfit featuring a pair of luxury rain boots worth more than $1,500. On Wednesday, Chae shared several photos on social media with the caption, \"Sunny again today (Thankfully, it didn't rain all day).\" In the photos, the actress poses in front of a brick building wearing a white top, a black jacket and Bermuda shorts. She completed the relaxed yet polished look with a brown shoulder bag. The standout item, however, was a pair of black knee-high rain boots from French luxury fashion house Chanel. The boots retail for about 2.03 million won ($1,500), adding a high-end touch to her otherwise casual outfit. Fans flooded the comments with praise, leaving messages such as \"The prettiest in the world,\" \"Beautiful whether it rains or snows\" and \"Absolutely gorgeous.\" Chae debuted in the entertainment industry in 1...",
+        "fullText": [
+          "Actress Chae Jung-an is drawing attention online after showcasing a chic rainy-day outfit featuring a pair of luxury rain boots worth more than $1,500. On Wednesday, Chae shared several photos on social media with the caption, \"Sunny again today (Thankfully, it didn't rain all day).",
+          "\" In the photos, the actress poses in front of a brick building wearing a white top, a black jacket and Bermuda shorts. She completed the relaxed yet polished look with a brown shoulder bag.",
+          "The standout item, however, was a pair of black knee-high rain boots from French luxury fashion house Chanel. The boots retail for about 2.",
+          "03 million won ($1,500), adding a high-end touch to her otherwise casual outfit. Fans flooded the comments with praise, leaving messages such as \"The prettiest in the world,\" \"Beautiful whether it rains or snows\" and \"Absolutely gorgeous.",
+          "\" Chae debuted in the entertainment industry in 1..."
+        ],
+        "words": [
+          "actress",
+          "jung-an",
+          "luxury"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "From 'Blood, Sweat & Tears' to chill, CORTIS captures K-pop's new mood",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260711/from-blood-sweat-tears-to-chill-cortis-captures-k-pops-new-mood?utm_source=rss",
+        "summary": "Something about CORTIS just hits differently from other K-pop groups. There is no sophisticated fictional universe or elaborate lore surrounding the members. No mystique designed to keep fans on edge. No metallic beats dominating their music. Much of the formula that has come to define K-pop is conspicuously absent from CORTIS. The decision to take a different path came from a bold acceptance of the fact that conventional methods, such as building elaborate lore around a group, could take CORTIS only so far in expanding its fan base. And it paid off. People in their 40s and 50s, a generation that has largely remained outside the core K-pop fandom, suddenly began to notice the group and, more importantly, like it. To some, CORTIS represents change itself. The most high-profile figure to make that connection was newly appointed Prime Minister Han Sung-sook, who quoted the group’s lyrics wh...",
+        "fullText": [
+          "Something about CORTIS just hits differently from other K-pop groups. There is no sophisticated fictional universe or elaborate lore surrounding the members.",
+          "No mystique designed to keep fans on edge. No metallic beats dominating their music.",
+          "Much of the formula that has come to define K-pop is conspicuously absent from CORTIS. The decision to take a different path came from a bold acceptance of the fact that conventional methods, such as building elaborate lore around a group, could take CORTIS only so far in expanding its fan base.",
+          "And it paid off. People in their 40s and 50s, a generation that has largely remained outside the core K-pop fandom, suddenly began to notice the group and, more importantly, like it.",
+          "To some, CORTIS represents change itself. The most high-profile figure to make that connection was newly appointed Prime Minister Han Sung-sook, who quoted the group’s lyrics wh..."
+        ],
+        "words": [
+          "cortis",
+          "captures",
+          "something"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-10",
     "label": "Friday, July 10, 2026",
     "title": "Korea News Brief",
