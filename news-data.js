@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-12",
+    "label": "Sunday, July 12, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Politics, Korea, Culture, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Seoul opens 212 free water play areas to combat summer heat",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260712/seoul-opens-212-free-water-play-areas-to-combat-summer-heat?utm_source=rss",
+        "summary": "The Seoul Metropolitan Government opened 212 free aquatic cooling facilities in parks and green spaces across the capital Friday to help residents beat increasingly prolonged summer heat waves. The seasonal rollout features 142 splash pads and 70 dedicated water playgrounds that will remain operational through August. To guide families looking for urban retreats, the city’s Parks and Landscape Bureau highlighted 10 premier destinations categorized by their distinct setups. For standard splash pads, the city recommended Seoul Forest, which is currently hosting the 2026 Seoul International Garden Exposition. Other top spots include Seoul Plaza directly in front of City Hall, World Cup Park in Mapo District, featuring a nearby adventure playground and the sandy \"Nanji Beach,\" and Buramsan Healing Park in Nowon District, which is popular for its large live butterfly conservatory. For more ex...",
+        "fullText": [
+          "The Seoul Metropolitan Government opened 212 free aquatic cooling facilities in parks and green spaces across the capital Friday to help residents beat increasingly prolonged summer heat waves. The seasonal rollout features 142 splash pads and 70 dedicated water playgrounds that will remain operational through August.",
+          "To guide families looking for urban retreats, the city’s Parks and Landscape Bureau highlighted 10 premier destinations categorized by their distinct setups. For standard splash pads, the city recommended Seoul Forest, which is currently hosting the 2026 Seoul International Garden Exposition.",
+          "Other top spots include Seoul Plaza directly in front of City Hall, World Cup Park in Mapo District, featuring a nearby adventure playground and the sandy \"Nanji Beach,\" and Buramsan Healing Park in Nowon District, which is popular for its large live butterfly conservatory. For more ex..."
+        ],
+        "words": [
+          "combat",
+          "summer",
+          "metropolitan"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Inside a Korean hospice, where life begins again",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260712/inside-a-korean-hospice-where-life-begins-again?utm_source=rss",
+        "summary": "After a patient dies in the hospice ward, a middle-aged nurse who cared for her removes the hospital gown. Before the patient is prepared for burial, the nurse dresses her in clothes she chose when she was still alive. A mother of three sons wore a silk hanbok, a traditional Korean dress, that she had worn only once — at her eldest son’s wedding. A 17-year-old boy, who had spent less than a year in school, wore a crisp high school uniform that still looked new. Families prepared some clothes specifically for that day. A 5-year-old girl who grew up in the ward wore a pink dress, her favorite color. An 11-month-old baby born with childhood cancer wore a jeogori, a traditional Korean jacket, made for a first birthday party that the hospital held early. For the nurse, the ritual is not about dressing the dead. It is about restoring the person behind the patient. Park Myung-hee, 56, is a nurs...",
+        "fullText": [
+          "After a patient dies in the hospice ward, a middle-aged nurse who cared for her removes the hospital gown. Before the patient is prepared for burial, the nurse dresses her in clothes she chose when she was still alive.",
+          "A mother of three sons wore a silk hanbok, a traditional Korean dress, that she had worn only once — at her eldest son’s wedding. A 17-year-old boy, who had spent less than a year in school, wore a crisp high school uniform that still looked new.",
+          "Families prepared some clothes specifically for that day. A 5-year-old girl who grew up in the ward wore a pink dress, her favorite color.",
+          "An 11-month-old baby born with childhood cancer wore a jeogori, a traditional Korean jacket, made for a first birthday party that the hospital held early. For the nurse, the ritual is not about dressing the dead.",
+          "It is about restoring the person behind the patient. Park Myung-hee, 56, is a nurs..."
+        ],
+        "words": [
+          "inside",
+          "hospice",
+          "begins"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Inside Korea's largest Telegram sex abuse ring: How victims became perpetrators",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260712/inside-koreas-largest-telegram-sex-abuse-ring-how-victims-became-perpetrators?utm_source=rss",
+        "summary": "A random Telegram message arrives from a stranger. “Hi. Someone is posting your picture and phone number in our channel. I think your information has been leaked. You should talk to this person.” The stranger, seemingly helpful, asks the user to tap “Add Contact.” But as soon as the button is pressed, the user's phone number is shared — and a digital manhunt begins. With only that number, perpetrators scour social media accounts and KakaoTalk to identify the victim’s name, friends and family. Then, without warning, the stranger turns hostile. “I can post your personal information online. I can call your family, your school and your workplace.” The threats grow more menacing. “I can make you quit school. I can make it impossible for you to leave your home.” For the victim, it marked the beginning of a long campaign of intimidation. In a sudden turn, victims were forced to choose between t...",
+        "fullText": [
+          "A random Telegram message arrives from a stranger. “Hi.",
+          "Someone is posting your picture and phone number in our channel. I think your information has been leaked.",
+          "You should talk to this person. ” The stranger, seemingly helpful, asks the user to tap “Add Contact.",
+          "” But as soon as the button is pressed, the user's phone number is shared — and a digital manhunt begins. With only that number, perpetrators scour social media accounts and KakaoTalk to identify the victim’s name, friends and family.",
+          "Then, without warning, the stranger turns hostile. “I can post your personal information online.",
+          "I can call your family, your school and your workplace. ” The threats grow more menacing.",
+          "“I can make you quit school. I can make it impossible for you to leave your home.",
+          "” For the victim, it marked the beginning of a long campaign of intimidation. In a sudden turn, victims were forced to choose between t..."
+        ],
+        "words": [
+          "inside",
+          "largest",
+          "telegram"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Culture",
+        "source": "KBS World",
+        "title": "Three Songwriters File Copyright Lawsuit over BTS Hit 'Swim'",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202832",
+        "summary": "[Culture] : Three U.S. songwriters have filed a lawsuit alleging that K-pop sensation BTS' chart-topping hit \"Swim\" took key elements from their unpublished work, a claim which has since been rejected by the group's management agency BigHit Music. According to a Billboard report Thursday, songwriters Steve Cooper, Jon ... [more...]",
+        "fullText": [
+          "[Culture] : Three U. S.",
+          "songwriters have filed a lawsuit alleging that K-pop sensation BTS' chart-topping hit \"Swim\" took key elements from their unpublished work, a claim which has since been rejected by the group's management agency BigHit Music. According to a Billboard report Thursday, songwriters Steve Cooper, Jon ...",
+          "[more... ]"
+        ],
+        "words": [
+          "songwriters",
+          "copyright",
+          "lawsuit"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "US Reportedly Demands Iran Publicly Declare End to Hormuz Attacks",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202831",
+        "summary": "[International] : The United States has reportedly demanded Iran publicly state that it will stop attacking commercial ships in the Strait of Hormuz and that the vital waterway is open for toll-free passage. According to Reuters and Axios, three U.S. officials shared the information with a small group of reporters during a ... [more...]",
+        "fullText": [
+          "[International] : The United States has reportedly demanded Iran publicly state that it will stop attacking commercial ships in the Strait of Hormuz and that the vital waterway is open for toll-free passage. According to Reuters and Axios, three U.",
+          "S. officials shared the information with a small group of reporters during a ...",
+          "[more... ]"
+        ],
+        "words": [
+          "reportedly",
+          "demands",
+          "publicly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "SK hynix’s US-listed Shares Jump 13% upon Wall Street Debut",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202830",
+        "summary": "[Economy] : Anchor: SK hynix's U.S.-listed shares jumped more than 13 percent in their Nasdaq debut on Friday. Riding a massive wave of AI investment, the South Korean chipmaker is the latest tech giant to capitalize on the artificial intelligence boom. Kim Bum-soo has more. Report: [Sound bite: NASDAQ ... [more...]",
+        "fullText": [
+          "[Economy] : Anchor: SK hynix's U. S.",
+          "-listed shares jumped more than 13 percent in their Nasdaq debut on Friday. Riding a massive wave of AI investment, the South Korean chipmaker is the latest tech giant to capitalize on the artificial intelligence boom.",
+          "Kim Bum-soo has more. Report: [Sound bite: NASDAQ ...",
+          "[more... ]"
+        ],
+        "words": [
+          "us-listed",
+          "shares",
+          "street"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Xi Calls on China, N. Korea to Advance Socialist Cause on Treaty Anniversary",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202829",
+        "summary": "[International] : Chinese President Xi Jinping has urged China and North Korea to strengthen relations, advance their socialist cause, and accelerate modernization efforts as the two sides mark their friendship treaty signed 65 years ago. According to China's state-run Xinhua News Agency on Friday, Xi made the remarks ... [more...]",
+        "fullText": [
+          "[International] : Chinese President Xi Jinping has urged China and North Korea to strengthen relations, advance their socialist cause, and accelerate modernization efforts as the two sides mark their friendship treaty signed 65 years ago. According to China's state-run Xinhua News Agency on Friday, Xi made the remarks ...",
+          "[more... ]"
+        ],
+        "words": [
+          "advance",
+          "socialist",
+          "treaty"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-11",
     "label": "Saturday, July 11, 2026",
     "title": "Korea News Brief",
