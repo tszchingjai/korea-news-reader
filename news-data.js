@@ -1,5 +1,137 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-13",
+    "label": "Monday, July 13, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Domestic, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Local casinos regain momentum as Chinese group tourists return",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260713/local-casinos-regain-momentum-as-chinese-group-tourists-return?utm_source=rss",
+        "summary": "Korea’s foreigner-only casinos are gaining renewed momentum this year, triggered by a steady recovery in inbound tourism and expectations of a surge in Chinese group travel in the second half, according to a recent analysis by Shinhan Securities. According to Shinhan’s analysis report, unlike other tourism segments that move with domestic consumption, casino performance is closely tied to inbound flows, making the pace of Chinese visitor growth the key variable for the remainder of the year. “Inbound indicators such as arrivals, foreign spending and foreigner-only casino earnings are now numerically confirming what the market is feeling as an inbound boom,” Ji In-hae, an analyst at Shinhan, said. Korea’s casino industry is open only to foreign visitors as domestic gambling is tightly controlled under Korean law — Kangwon Land is the only casino open to Koreans. Korea launched a temporary...",
+        "fullText": [
+          "Korea’s foreigner-only casinos are gaining renewed momentum this year, triggered by a steady recovery in inbound tourism and expectations of a surge in Chinese group travel in the second half, according to a recent analysis by Shinhan Securities. According to Shinhan’s analysis report, unlike other tourism segments that move with domestic consumption, casino performance is closely tied to inbound flows, making the pace of Chinese visitor growth the key variable for the remainder of the year.",
+          "“Inbound indicators such as arrivals, foreign spending and foreigner-only casino earnings are now numerically confirming what the market is feeling as an inbound boom,” Ji In-hae, an analyst at Shinhan, said. Korea’s casino industry is open only to foreign visitors as domestic gambling is tightly controlled under Korean law — Kangwon Land is the only casino open to Koreans.",
+          "Korea launched a temporary..."
+        ],
+        "words": [
+          "casinos",
+          "regain",
+          "momentum"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "K-beauty shopping diversifies beyond Olive Young",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260713/k-beauty-shopping-diversifies-beyond-olive-young?utm_source=rss",
+        "summary": "K-beauty shopping is expanding beyond Olive Young, long the dominant retail destination for both domestic consumers and foreign tourists, to a wider range of platforms. Retail platforms that previously focused on either fashion or food have begun testing their capabilities in beauty, while e-commerce platforms and department stores have introduced separate brands and platforms dedicated to the cosmetics sector. For an industry that has experienced exponential growth worldwide, a more diversified retail landscape is expected to further boost consumption and support its long-term growth. The country's three largest retail platforms are all expanding into the beauty market. Musinsa Beauty, operated by fashion giant Musinsa, is leveraging the company's rapidly expanding offline store network in Korea and overseas to broaden its beauty portfolio and grow its offline presence. On Friday, globa...",
+        "fullText": [
+          "K-beauty shopping is expanding beyond Olive Young, long the dominant retail destination for both domestic consumers and foreign tourists, to a wider range of platforms. Retail platforms that previously focused on either fashion or food have begun testing their capabilities in beauty, while e-commerce platforms and department stores have introduced separate brands and platforms dedicated to the cosmetics sector.",
+          "For an industry that has experienced exponential growth worldwide, a more diversified retail landscape is expected to further boost consumption and support its long-term growth. The country's three largest retail platforms are all expanding into the beauty market.",
+          "Musinsa Beauty, operated by fashion giant Musinsa, is leveraging the company's rapidly expanding offline store network in Korea and overseas to broaden its beauty portfolio and grow its offline presence. On Friday, globa..."
+        ],
+        "words": [
+          "k-beauty",
+          "shopping",
+          "diversifies"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "What defines research excellence in era of global challenges?",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260713/what-defines-research-excellence-in-era-of-global-challenges?utm_source=rss",
+        "summary": "LONDON — The race for global university excellence is entering a new phase. Producing influential research is no longer enough. Universities are increasingly judged by how effectively they transform knowledge into innovation, industry partnerships and real-world impact. \"Leading universities must demonstrate that their work contributes not only to academic scholarship, but also to innovation, industry, public policy and solutions to global challenges,\" Phil Baty, chief global affairs officer at Times Higher Education (THE), said in a recent interview with The Korea Times. \"A modern global research university has to translate its ideas into the real world through intellectual property, industry collaboration and patents.\" Research has long been the cornerstone of THE's world university rankings, reflecting the organization's original mission of helping governments and university leaders b...",
+        "fullText": [
+          "LONDON — The race for global university excellence is entering a new phase. Producing influential research is no longer enough.",
+          "Universities are increasingly judged by how effectively they transform knowledge into innovation, industry partnerships and real-world impact. \"Leading universities must demonstrate that their work contributes not only to academic scholarship, but also to innovation, industry, public policy and solutions to global challenges,\" Phil Baty, chief global affairs officer at Times Higher Education (THE), said in a recent interview with The Korea Times.",
+          "\"A modern global research university has to translate its ideas into the real world through intellectual property, industry collaboration and patents. \" Research has long been the cornerstone of THE's world university rankings, reflecting the organization's original mission of helping governments and university leaders b..."
+        ],
+        "words": [
+          "defines",
+          "research",
+          "excellence"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Sinchon skate shop hosts Korean punk zine fair",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260713/sinchon-skate-shop-hosts-korean-punk-zine-fair?utm_source=rss",
+        "summary": "Spin and Grind, a skate shop newly opened in western Seoul's Sinchon area, is holding a zine fair this weekend. \"CUT & PASTE: A Korean Punk & Hardcore Zine Fair\" celebrates the history and culture of zines documenting Korea's punk and hardcore scene. A curated selection of zines dating back to the early 2000s will be on display, alongside newly released and reprinted titles available for purchase. \"I wanted to inspire more people to start making their own zines,\" Victor Ha, Spin and Grind's proprietor, told The Korea Times. \"I also wanted to archive as many zines published in Korea as possible and create a snapshot of the Korean zine scene as it exists today.\" The zine titles he's rounded up so far include \"Army Life\" (2005) by Geeks guitarist Kang Jun-sung, \"Red Flag\" by Rux frontman Won Jong-hee (2004-06) and \"Faithful Youth\" (2004-10) by Lee Geon-hee of Busan hardcore band All I Have....",
+        "fullText": [
+          "Spin and Grind, a skate shop newly opened in western Seoul's Sinchon area, is holding a zine fair this weekend. \"CUT & PASTE: A Korean Punk & Hardcore Zine Fair\" celebrates the history and culture of zines documenting Korea's punk and hardcore scene.",
+          "A curated selection of zines dating back to the early 2000s will be on display, alongside newly released and reprinted titles available for purchase. \"I wanted to inspire more people to start making their own zines,\" Victor Ha, Spin and Grind's proprietor, told The Korea Times.",
+          "\"I also wanted to archive as many zines published in Korea as possible and create a snapshot of the Korean zine scene as it exists today. \" The zine titles he's rounded up so far include \"Army Life\" (2005) by Geeks guitarist Kang Jun-sung, \"Red Flag\" by Rux frontman Won Jong-hee (2004-06) and \"Faithful Youth\" (2004-10) by Lee Geon-hee of Busan hardcore band All I Have...."
+        ],
+        "words": [
+          "sinchon",
+          "opened",
+          "western"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Childcare Leave Recipients Surpass 100,000 in First Half as Fathers Near 40%",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202840",
+        "summary": "[Domestic] : The number of South Koreans receiving parental leave benefits surpassed 100-thousand in the first half of this year, putting the country on track for a record high by year's end. According to the Ministry of Employment and Labor on Sunday, nearly 200-thousand people used four major work‑family ... [more...]",
+        "fullText": [
+          "[Domestic] : The number of South Koreans receiving parental leave benefits surpassed 100-thousand in the first half of this year, putting the country on track for a record high by year's end. According to the Ministry of Employment and Labor on Sunday, nearly 200-thousand people used four major work‑family ...",
+          "[more... ]"
+        ],
+        "words": [
+          "childcare",
+          "recipients",
+          "surpass"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Search Underway for Missing Navy Sailor in East Sea",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202839",
+        "summary": "[Domestic] : A South Korean Navy sailor went missing Sunday while a naval vessel was conducting a patrol mission in the northern East Sea, prompting authorities to launch a search operation. The Navy said a private first class serving aboard a frigate disappeared in the morning about 50 kilometers east of Geojin, ... [more...]",
+        "fullText": [
+          "[Domestic] : A South Korean Navy sailor went missing Sunday while a naval vessel was conducting a patrol mission in the northern East Sea, prompting authorities to launch a search operation. The Navy said a private first class serving aboard a frigate disappeared in the morning about 50 kilometers east of Geojin, ...",
+          "[more... ]"
+        ],
+        "words": [
+          "search",
+          "underway",
+          "missing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Venezuela Earthquake Death Toll Surpasses 4,300",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202838",
+        "summary": "[International] : The death toll from back-to-back earthquakes that struck Venezuela last month has surpassed four-thousand-300. According to AFP and other foreign media on Saturday, Venezuelan National Assembly President Jorge Rodríguez said fatalities from the two quakes on June 24 had risen to four-thousand-333, an ... [more...]",
+        "fullText": [
+          "[International] : The death toll from back-to-back earthquakes that struck Venezuela last month has surpassed four-thousand-300. According to AFP and other foreign media on Saturday, Venezuelan National Assembly President Jorge Rodríguez said fatalities from the two quakes on June 24 had risen to four-thousand-333, an ...",
+          "[more... ]"
+        ],
+        "words": [
+          "venezuela",
+          "earthquake",
+          "surpasses"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "label": "Sunday, July 12, 2026",
     "title": "Korea News Brief",
