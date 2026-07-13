@@ -1,5 +1,138 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-14",
+    "label": "Tuesday, July 14, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Sci-fi film 'The Fin' explores discrimination in unified Korea",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260714/sci-fi-film-the-fin-explores-discrimination-in-unified-korea?utm_source=rss",
+        "summary": "The new dystopian sci-fi film \"The Fin,\" directed by Park Sye-young, offers a grim look at a post-unification Korean Peninsula where environmental collapse has created a deeply divided society. The movie follows the struggle of the Omegas, a marginalized group of mutants with fins and three-toed feet, who face severe discrimination and labor exploitation by the human population. Park said the inspiration for the film came from his reflections on historical discrimination and modern social issues. \"I came up with the idea of the Omegas while thinking about how marginalized people in Korean society face discrimination and how they are altered by government propaganda and image washing,\" Park said during a press conference for the movie, Friday. \"It was a challenging project, where a small team poured everything they had into it for four years, and I think that intense effort and sweat can...",
+        "fullText": [
+          "The new dystopian sci-fi film \"The Fin,\" directed by Park Sye-young, offers a grim look at a post-unification Korean Peninsula where environmental collapse has created a deeply divided society. The movie follows the struggle of the Omegas, a marginalized group of mutants with fins and three-toed feet, who face severe discrimination and labor exploitation by the human population.",
+          "Park said the inspiration for the film came from his reflections on historical discrimination and modern social issues. \"I came up with the idea of the Omegas while thinking about how marginalized people in Korean society face discrimination and how they are altered by government propaganda and image washing,\" Park said during a press conference for the movie, Friday.",
+          "\"It was a challenging project, where a small team poured everything they had into it for four years, and I think that intense effort and sweat can..."
+        ],
+        "words": [
+          "sci-fi",
+          "explores",
+          "discrimination"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Budget carriers turn to cargo, unpaid leave amid deepening earnings slump",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260714/budget-carriers-turn-to-cargo-unpaid-leave-amid-deepening-earnings-slump?utm_source=rss",
+        "summary": "Korea's low-cost carriers (LCCs) are ramping up cargo operations and cutting costs to cushion what is expected to be a sharp second-quarter earnings downturn, as prolonged high fuel prices and a weak won continue to erode their profitability. Facing mounting losses in their core passenger businesses, airlines are seeking to offset earnings pressure by expanding freight operations while implementing cost-saving measures such as unpaid leave for cabin crew. The deteriorating business outlook has also weighed on investor sentiment, with shares of major listed LCCs posting double-digit declines over the past three months despite the broader rally in the benchmark KOSPI. Shares of Jeju Air dropped 14.85 percent over the past three months, and Jin Air shares saw losses of 19.03 percent during the same period. Air Premia has emerged as one of the biggest beneficiaries of the shift toward cargo....",
+        "fullText": [
+          "Korea's low-cost carriers (LCCs) are ramping up cargo operations and cutting costs to cushion what is expected to be a sharp second-quarter earnings downturn, as prolonged high fuel prices and a weak won continue to erode their profitability. Facing mounting losses in their core passenger businesses, airlines are seeking to offset earnings pressure by expanding freight operations while implementing cost-saving measures such as unpaid leave for cabin crew.",
+          "The deteriorating business outlook has also weighed on investor sentiment, with shares of major listed LCCs posting double-digit declines over the past three months despite the broader rally in the benchmark KOSPI. Shares of Jeju Air dropped 14.",
+          "85 percent over the past three months, and Jin Air shares saw losses of 19. 03 percent during the same period.",
+          "Air Premia has emerged as one of the biggest beneficiaries of the shift toward cargo...."
+        ],
+        "words": [
+          "budget",
+          "carriers",
+          "unpaid"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Family fleeing crumbling cliffside house",
+        "url": "https://www.koreatimes.co.kr/opinion/20260714/family-fleeing-crumbling-cliffside-house?utm_source=rss",
+        "summary": "This story reports on family fleeing crumbling cliffside house.",
+        "fullText": [
+          "This story reports on family fleeing crumbling cliffside house."
+        ],
+        "words": [
+          "family",
+          "fleeing",
+          "crumbling"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Streaming originals expand to TV for broader audience reach",
+        "url": "https://www.koreatimes.co.kr/entertainment/20260714/streaming-originals-expand-to-tv-for-broader-audience-reach?utm_source=rss",
+        "summary": "Original dramas once available only to paid subscribers of streaming platforms such as Disney+ and Apple TV+ are increasingly making their way to traditional television, as streaming services ease their exclusivity strategy in favor of reaching broader audiences through familiar broadcast channels. MBC has been airing the Disney+ original series \"A Shop for Killers\" since July 3 in its regular Friday-Saturday drama slot at 9:50 p.m. Based on Kang Ji-young's novel \"The Killer's Shopping Mall,\" the action thriller follows Ji-an (Kim Hye-jun), who becomes the target of assassins after inheriting a mysterious shopping mall left behind by her late uncle Jin-man (Lee Dong-wook). The series became Disney+'s most-watched Korean original worldwide in 2024 and was selected by the New York Times as one of the \"Best TV Shows of 2024\" in the international category. For Disney+, airing the series on t...",
+        "fullText": [
+          "Original dramas once available only to paid subscribers of streaming platforms such as Disney+ and Apple TV+ are increasingly making their way to traditional television, as streaming services ease their exclusivity strategy in favor of reaching broader audiences through familiar broadcast channels. MBC has been airing the Disney+ original series \"A Shop for Killers\" since July 3 in its regular Friday-Saturday drama slot at 9:50 p.",
+          "m. Based on Kang Ji-young's novel \"The Killer's Shopping Mall,\" the action thriller follows Ji-an (Kim Hye-jun), who becomes the target of assassins after inheriting a mysterious shopping mall left behind by her late uncle Jin-man (Lee Dong-wook).",
+          "The series became Disney+'s most-watched Korean original worldwide in 2024 and was selected by the New York Times as one of the \"Best TV Shows of 2024\" in the international category. For Disney+, airing the series on t..."
+        ],
+        "words": [
+          "streaming",
+          "originals",
+          "expand"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Repairs of HMM Namu Complete",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202869",
+        "summary": "[Economy] : Repairs have been completed on the South Korean-operated cargo ship HMM Namu, which was struck in the Strait of Hormuz on May 4 amid the Iran war. The ship’s operator, HMM, announced on Monday that the vessel was preparing to depart the port after repairs were completed on Sunday. HMM said it is ... [more...]",
+        "fullText": [
+          "[Economy] : Repairs have been completed on the South Korean-operated cargo ship HMM Namu, which was struck in the Strait of Hormuz on May 4 amid the Iran war. The ship’s operator, HMM, announced on Monday that the vessel was preparing to depart the port after repairs were completed on Sunday.",
+          "HMM said it is ... [more...",
+          "]"
+        ],
+        "words": [
+          "repairs",
+          "complete",
+          "economy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Budget Minister: 2027 Nat'l Tax Revenue to Surpass Record 500 Tln. Won",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202868",
+        "summary": "[Economy] : Minister of Budget and Planning Park Hong-keun forecast that national tax revenue in 2027 will surpass a record 500 trillion won, or approximately 334 billion U.S. dollars. During a fiscal strategy meeting at Cheong Wa Dae on Monday, Park said he expects next year's tax revenue to easily surpass ... [more...]",
+        "fullText": [
+          "[Economy] : Minister of Budget and Planning Park Hong-keun forecast that national tax revenue in 2027 will surpass a record 500 trillion won, or approximately 334 billion U. S.",
+          "dollars. During a fiscal strategy meeting at Cheong Wa Dae on Monday, Park said he expects next year's tax revenue to easily surpass ...",
+          "[more... ]"
+        ],
+        "words": [
+          "budget",
+          "minister",
+          "revenue"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Gov't Considers Expanding Planned Nuclear Reactor Slate",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202867",
+        "summary": "[Economy] : The government is considering adding additional nuclear power plants to its slate of planned reactors. Minister of Climate, Energy and Environment Kim Sung-whan said during a fiscal strategy meeting on Monday that the government would reflect its decision, which includes both nuclear plants and small ... [more...]",
+        "fullText": [
+          "[Economy] : The government is considering adding additional nuclear power plants to its slate of planned reactors. Minister of Climate, Energy and Environment Kim Sung-whan said during a fiscal strategy meeting on Monday that the government would reflect its decision, which includes both nuclear plants and small ...",
+          "[more... ]"
+        ],
+        "words": [
+          "considers",
+          "expanding",
+          "planned"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-13",
     "label": "Monday, July 13, 2026",
     "title": "Korea News Brief",
