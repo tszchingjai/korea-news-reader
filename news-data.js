@@ -1,5 +1,146 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-15",
+    "label": "Wednesday, July 15, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Borrowers face double whammy from tighter lending, higher rates",
+        "url": "https://www.koreatimes.co.kr/economy/20260715/borrowers-face-double-whammy-from-tighter-lending-higher-rates?utm_source=rss",
+        "summary": "\"I found a 1.1 billion won ($737,000) apartment I wanted to buy and planned to finance 450 million won with a mortgage. But my entire plan has fallen apart now that banks are suddenly tightening mortgage lending,\" one user wrote on a Naver real estate community. \"I had planned to buy a home using my savings and a mortgage of up to 600 million won. But after KB Kookmin Bank cut its mortgage lending cap to 300 million won last week, I had no choice but to abandon the plan,\" another user wrote. Similar complaints have spread across online communities in recent days as major lenders tighten household lending, making it increasingly difficult for prospective homebuyers to secure mortgages. The country's five largest lenders — KB Kookmin, Shinhan, Hana, Woori and NH NongHyup — have begun tightening mortgage rules after approaching their annual household lending growth targets set by financial...",
+        "fullText": [
+          "\"I found a 1. 1 billion won ($737,000) apartment I wanted to buy and planned to finance 450 million won with a mortgage.",
+          "But my entire plan has fallen apart now that banks are suddenly tightening mortgage lending,\" one user wrote on a Naver real estate community. \"I had planned to buy a home using my savings and a mortgage of up to 600 million won.",
+          "But after KB Kookmin Bank cut its mortgage lending cap to 300 million won last week, I had no choice but to abandon the plan,\" another user wrote. Similar complaints have spread across online communities in recent days as major lenders tighten household lending, making it increasingly difficult for prospective homebuyers to secure mortgages.",
+          "The country's five largest lenders — KB Kookmin, Shinhan, Hana, Woori and NH NongHyup — have begun tightening mortgage rules after approaching their annual household lending growth targets set by financial..."
+        ],
+        "words": [
+          "borrowers",
+          "double",
+          "whammy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Kakao's turnaround hits roadblocks as AI, labor woes deepen",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20260715/kakaos-turnaround-hits-roadblocks-as-ai-labor-woes-deepen?utm_source=rss",
+        "summary": "Kakao’s turnaround efforts are facing mounting challenges as weak artificial intelligence (AI) execution, slowing core businesses and escalating labor tensions cloud its growth outlook, even as it is expected to post another quarter of strong profits driven by restructuring and cost controls. Samsung Securities said on Monday that Kakao’s second-quarter operating profit is expected to rise 18 percent year-over-year to 231.1 billion won ($154.4 million), while revenue is forecast to increase 1.2 percent to 2.48 trillion won, driven by asset sales and restructuring. However, the brokerage cut its target price to 44,000 won from 60,000 won, citing concerns that the company's growth strategy had hit roadblocks. “Kakao’s introduction of AI agents, which it has positioned as a growth driver, is failing to deliver results, while its restructuring efforts are also losing momentum due to labor op...",
+        "fullText": [
+          "Kakao’s turnaround efforts are facing mounting challenges as weak artificial intelligence (AI) execution, slowing core businesses and escalating labor tensions cloud its growth outlook, even as it is expected to post another quarter of strong profits driven by restructuring and cost controls. Samsung Securities said on Monday that Kakao’s second-quarter operating profit is expected to rise 18 percent year-over-year to 231.",
+          "1 billion won ($154. 4 million), while revenue is forecast to increase 1.",
+          "2 percent to 2. 48 trillion won, driven by asset sales and restructuring.",
+          "However, the brokerage cut its target price to 44,000 won from 60,000 won, citing concerns that the company's growth strategy had hit roadblocks. “Kakao’s introduction of AI agents, which it has positioned as a growth driver, is failing to deliver results, while its restructuring efforts are also losing momentum due to labor op..."
+        ],
+        "words": [
+          "turnaround",
+          "roadblocks",
+          "deepen"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'30 Days in Seoul' turns confused newcomers into confident residents",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260715/30-days-in-seoul-turns-confused-newcomers-into-confident-residents?utm_source=rss",
+        "summary": "For Nadine Hummel, a 23-year-old German from a small town near Frankfurt, Seoul is the first big city she's ever lived in. Coming to study at Ewha Womans University for four years, she's having the time of her life. “There's so much more going on in Korean university life. The campuses are huge and there are university festivals, so many school clubs to join, activities planned by the students,” she told The Korea Times. “If it's possible, maybe I would like to pursue a career here.” Helping her navigate that whirlwind journey and settle in Seoul in the long run is “30 Days in Seoul,” a city government program that helps global residents adjust quickly and put down roots for the long term. Launched in 2025, it is open to international students at universities and graduate schools in the capital, as well as job seekers who graduated within the past two years. This comes as more internatio...",
+        "fullText": [
+          "For Nadine Hummel, a 23-year-old German from a small town near Frankfurt, Seoul is the first big city she's ever lived in. Coming to study at Ewha Womans University for four years, she's having the time of her life.",
+          "“There's so much more going on in Korean university life. The campuses are huge and there are university festivals, so many school clubs to join, activities planned by the students,” she told The Korea Times.",
+          "“If it's possible, maybe I would like to pursue a career here. ” Helping her navigate that whirlwind journey and settle in Seoul in the long run is “30 Days in Seoul,” a city government program that helps global residents adjust quickly and put down roots for the long term.",
+          "Launched in 2025, it is open to international students at universities and graduate schools in the capital, as well as job seekers who graduated within the past two years. This comes as more internatio..."
+        ],
+        "words": [
+          "confused",
+          "newcomers",
+          "confident"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "The paradox of the 'Apple Squeeze'",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20260715/the-paradox-of-the-apple-squeeze?utm_source=rss",
+        "summary": "Last month, the Peterson Institute for International Economics published a report warning of the severity of the “China Squeeze,” analyzing the impact of China’s economy on low- and middle-income countries. The term refers to an international economic phenomenon in which China continues to hold a dominant position in global manufacturing, even though the sector is closely associated with low wages and the country’s income level has risen substantially through economic growth. The accumulated history of international economics tells us that manufacturing has generally moved to places where wages are lower. China, however, has proved an unorthodox case where manufacturing industries do not flock to other developing countries with lower income levels, but instead remain in the country where wages have risen alongside economic growth. The biggest factor behind this phenomenon is China’s iron...",
+        "fullText": [
+          "Last month, the Peterson Institute for International Economics published a report warning of the severity of the “China Squeeze,” analyzing the impact of China’s economy on low- and middle-income countries. The term refers to an international economic phenomenon in which China continues to hold a dominant position in global manufacturing, even though the sector is closely associated with low wages and the country’s income level has risen substantially through economic growth.",
+          "The accumulated history of international economics tells us that manufacturing has generally moved to places where wages are lower. China, however, has proved an unorthodox case where manufacturing industries do not flock to other developing countries with lower income levels, but instead remain in the country where wages have risen alongside economic growth.",
+          "The biggest factor behind this phenomenon is China’s iron..."
+        ],
+        "words": [
+          "paradox",
+          "squeeze",
+          "peterson"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Extreme heat exposes daily hardships of Seoul's most vulnerable",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260715/extreme-heat-exposes-daily-hardships-of-seouls-most-vulnerable?utm_source=rss",
+        "summary": "By 9 a.m. on Monday, as the day's routines were just beginning, the temperature in Seoul had already reached 30 degrees Celsius. Residents of Huimangchon, a low-income neighborhood in Sanggye-dong, Nowon District, gathered beneath a makeshift canopy to check on one another after another sweltering night. In a community with no senior center or cooling shelter to escape the heat, sharing a cup of iced coffee each morning has become a daily ritual of confirming that everyone is still safe. \"Last night felt like sleeping inside a cauldron. When I woke up, my pillow was soaked with sweat,\" 73-year-old Yoon Yi-kyung said, wiping sweat from her neck with a towel while sipping iced coffee. \"Even with the canopy blocking the sun, my skin has turned dark from the heat,\" she added. \"This summer feels especially frightening.\" Yet many residents cannot afford to keep even an electric fan running all...",
+        "fullText": [
+          "By 9 a. m.",
+          "on Monday, as the day's routines were just beginning, the temperature in Seoul had already reached 30 degrees Celsius. Residents of Huimangchon, a low-income neighborhood in Sanggye-dong, Nowon District, gathered beneath a makeshift canopy to check on one another after another sweltering night.",
+          "In a community with no senior center or cooling shelter to escape the heat, sharing a cup of iced coffee each morning has become a daily ritual of confirming that everyone is still safe. \"Last night felt like sleeping inside a cauldron.",
+          "When I woke up, my pillow was soaked with sweat,\" 73-year-old Yoon Yi-kyung said, wiping sweat from her neck with a towel while sipping iced coffee. \"Even with the canopy blocking the sun, my skin has turned dark from the heat,\" she added.",
+          "\"This summer feels especially frightening. \" Yet many residents cannot afford to keep even an electric fan running all..."
+        ],
+        "words": [
+          "extreme",
+          "exposes",
+          "hardships"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "China's Foreign Minister Could Visit S. Korea as Early as Aug.",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202897",
+        "summary": "[Politics] : China’s foreign minister Wang Yi could visit South Korea as early as next month. A foreign ministry official said Tuesday that Seoul and Beijing are coordinating details, adding that Seoul is hoping the visit will take place in August. The government was aiming to host Wang in the first quarter ... [more...]",
+        "fullText": [
+          "[Politics] : China’s foreign minister Wang Yi could visit South Korea as early as next month. A foreign ministry official said Tuesday that Seoul and Beijing are coordinating details, adding that Seoul is hoping the visit will take place in August.",
+          "The government was aiming to host Wang in the first quarter ... [more...",
+          "]"
+        ],
+        "words": [
+          "foreign",
+          "minister",
+          "politics"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Gov't Monitoring Strait of Hormuz after Trump Proposes Fee",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202896",
+        "summary": "[Politics] : The government is keeping a close eye on developments in the Strait of Hormuz after U.S. President Donald Trump said his administration would charge commercial ships for crossing the strait in exchange for U.S. protection. Foreign ministry spokesperson Park Il revealed the stance in a briefing on ... [more...]",
+        "fullText": [
+          "[Politics] : The government is keeping a close eye on developments in the Strait of Hormuz after U. S.",
+          "President Donald Trump said his administration would charge commercial ships for crossing the strait in exchange for U. S.",
+          "protection. Foreign ministry spokesperson Park Il revealed the stance in a briefing on ...",
+          "[more... ]"
+        ],
+        "words": [
+          "monitoring",
+          "strait",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-14",
     "label": "Tuesday, July 14, 2026",
     "title": "Korea News Brief",
