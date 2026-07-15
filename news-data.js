@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-16",
+    "label": "Thursday, July 16, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Politics, Korea, Weather, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Offline mobile shops lose ground despite higher carrier subsidies",
+        "url": "https://www.koreatimes.co.kr/business/others/20260716/offline-mobile-shops-lose-ground-despite-higher-carrier-subsidies?utm_source=rss",
+        "summary": "Offline mobile phone retailers are fading as more consumers buy unlocked smartphones online, use price-comparison platforms to find transparent deals and sign up for low-cost mobile plans without visiting a store, underscoring a structural shift in the country's smartphone distribution market. According to data from the National Tax Service, the number of registered mobile phone stores in Seoul fell to 2,965 as of April, down 5.8 percent from 3,149 at the end of 2021. The figure has declined steadily from 3,091 in 2022 and 2,966 in 2023. The effective number of operating stores is likely lower than official counts, as dormant and temporarily closed outlets are still counted in the statistics, with some owners keeping their business registrations active while effectively shutting down amid loan repayment pressures and weak customer traffic. The decline comes as consumers increasingly favo...",
+        "fullText": [
+          "Offline mobile phone retailers are fading as more consumers buy unlocked smartphones online, use price-comparison platforms to find transparent deals and sign up for low-cost mobile plans without visiting a store, underscoring a structural shift in the country's smartphone distribution market. According to data from the National Tax Service, the number of registered mobile phone stores in Seoul fell to 2,965 as of April, down 5.",
+          "8 percent from 3,149 at the end of 2021. The figure has declined steadily from 3,091 in 2022 and 2,966 in 2023.",
+          "The effective number of operating stores is likely lower than official counts, as dormant and temporarily closed outlets are still counted in the statistics, with some owners keeping their business registrations active while effectively shutting down amid loan repayment pressures and weak customer traffic. The decline comes as consumers increasingly favo..."
+        ],
+        "words": [
+          "offline",
+          "mobile",
+          "ground"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Who is Kim Ou-joon, bearded broadcaster behind Korea's liberal politics?",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260716/who-is-kim-ou-joon-bearded-broadcaster-behind-koreas-liberal-politics?utm_source=rss",
+        "summary": "Few media personalities have wielded as much influence over Korea's liberal political discourse as broadcaster, podcaster and YouTube host Kim Ou-joon. Over the past nearly three decades, Kim has evolved from an unconventional journalist running the tabloid-style online publication Ddanzi Ilbo into one of the country's most recognizable political commentators, building a loyal following through podcasts, radio and, more recently, YouTube. His political clout is reflected in his close ties to the liberal camp's most influential figures, whom he has regularly featured on his programs, including former President Moon Jae-in, former ruling Democratic Party of Korea (DPK) Chairman Jung Chung-rae and former presidential secretary for AI policy and future planning Ha Jung-woo. His political prominence became even more apparent after the June 3 local elections, when a newly coined term referring...",
+        "fullText": [
+          "Few media personalities have wielded as much influence over Korea's liberal political discourse as broadcaster, podcaster and YouTube host Kim Ou-joon. Over the past nearly three decades, Kim has evolved from an unconventional journalist running the tabloid-style online publication Ddanzi Ilbo into one of the country's most recognizable political commentators, building a loyal following through podcasts, radio and, more recently, YouTube.",
+          "His political clout is reflected in his close ties to the liberal camp's most influential figures, whom he has regularly featured on his programs, including former President Moon Jae-in, former ruling Democratic Party of Korea (DPK) Chairman Jung Chung-rae and former presidential secretary for AI policy and future planning Ha Jung-woo. His political prominence became even more apparent after the June 3 local elections, when a newly coined term referring..."
+        ],
+        "words": [
+          "ou-joon",
+          "bearded",
+          "broadcaster"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Can merger revive Korea's regional banks?",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260716/can-merger-revive-koreas-regional-banks?utm_source=rss",
+        "summary": "An activist fund's proposal to merge BNK Financial Group and JB Financial Group has reignited debate over whether consolidation is needed to secure the long-term sustainability of Korea's regional banks, industry officials said Wednesday. The proposal comes as regional lenders face mounting pressure from demographic decline and weakening local economies. Activist fund Align Partners said Tuesday it had sent an open letter to the boards of BNK Financial, the parent company of Busan Bank and Kyongnam Bank, and JB Financial, the holding company of Jeonbuk Bank and Kwangju Bank, urging them to review the strategic merits of a merger. The fund owns about 14.8 percent of JB Financial and around 1 percent of BNK Financial. \"A regional bank's business model increasingly points to gradual decline as the population and economic base in Korea's southeastern and southwestern regions continue to shri...",
+        "fullText": [
+          "An activist fund's proposal to merge BNK Financial Group and JB Financial Group has reignited debate over whether consolidation is needed to secure the long-term sustainability of Korea's regional banks, industry officials said Wednesday. The proposal comes as regional lenders face mounting pressure from demographic decline and weakening local economies.",
+          "Activist fund Align Partners said Tuesday it had sent an open letter to the boards of BNK Financial, the parent company of Busan Bank and Kyongnam Bank, and JB Financial, the holding company of Jeonbuk Bank and Kwangju Bank, urging them to review the strategic merits of a merger. The fund owns about 14.",
+          "8 percent of JB Financial and around 1 percent of BNK Financial. \"A regional bank's business model increasingly points to gradual decline as the population and economic base in Korea's southeastern and southwestern regions continue to shri..."
+        ],
+        "words": [
+          "merger",
+          "revive",
+          "regional"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "How to better control blood sugar spikes in sweltering heat",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260716/how-to-better-control-blood-sugar-spikes-in-sweltering-heat?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. As oppressive summer heat continues, it is becoming increasingly difficult to stay healthy. For people with high blood sugar or diabetes, the risks are even greater. Excessive sweating can lead to dehydration, while the intense heat makes exercise more challenging, both of which can make it harder to keep blood sugar levels under control. One of the biggest challenges is managing diet. Many foods that help people cool off in summer — such as ice cream and shaved ice desserts — are also among the worst choices for blood sugar control. Drawing on information from the U.S. health and medical website Healthline and other sources, here are some practical tips for managing blood sugar during the hot summer months. Be cautious with high-sugar fruits Extreme heat can be especially dangerous for people with diabetes. Heavy sweating can cause dehydratio...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "As oppressive summer heat continues, it is becoming increasingly difficult to stay healthy. For people with high blood sugar or diabetes, the risks are even greater.",
+          "Excessive sweating can lead to dehydration, while the intense heat makes exercise more challenging, both of which can make it harder to keep blood sugar levels under control. One of the biggest challenges is managing diet.",
+          "Many foods that help people cool off in summer — such as ice cream and shaved ice desserts — are also among the worst choices for blood sugar control. Drawing on information from the U.",
+          "S. health and medical website Healthline and other sources, here are some practical tips for managing blood sugar during the hot summer months.",
+          "Be cautious with high-sugar fruits Extreme heat can be especially dangerous for people with diabetes. Heavy sweating can cause dehydratio..."
+        ],
+        "words": [
+          "better",
+          "control",
+          "spikes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Why is 2026 World Cup final in New Jersey, not Mexico's iconic Estadio Azteca?",
+        "url": "https://www.koreatimes.co.kr/sports/20260716/why-is-2026-world-cup-final-in-new-jersey-not-mexicos-iconic-estadio-azteca?utm_source=rss",
+        "summary": "The final of the 2026 FIFA World Cup will not be played at Mexico's iconic Estadio Azteca — widely regarded as one of football's greatest venues— but at MetLife Stadium in East Rutherford, New Jersey, just outside New York City. At first glance, it seems like a surprising choice. Azteca has already hosted two World Cup finals. It witnessed Pelé lifting the trophy and Diego Maradona's legendary \"Hand of God\" goal, making it a living monument to World Cup history. It is also one of international football's most intimidating venues. Mexico has held 90 home internationals there, compiling a remarkable record of 70 wins, 17 draws and just three defeats. So why did FIFA choose MetLife Stadium instead? The choice of venue for a World Cup final is never based simply on who has the biggest stadium. It represents the face a host nation wants to present to the world — a space that encapsulates the...",
+        "fullText": [
+          "The final of the 2026 FIFA World Cup will not be played at Mexico's iconic Estadio Azteca — widely regarded as one of football's greatest venues— but at MetLife Stadium in East Rutherford, New Jersey, just outside New York City. At first glance, it seems like a surprising choice.",
+          "Azteca has already hosted two World Cup finals. It witnessed Pelé lifting the trophy and Diego Maradona's legendary \"Hand of God\" goal, making it a living monument to World Cup history.",
+          "It is also one of international football's most intimidating venues. Mexico has held 90 home internationals there, compiling a remarkable record of 70 wins, 17 draws and just three defeats.",
+          "So why did FIFA choose MetLife Stadium instead? The choice of venue for a World Cup final is never based simply on who has the biggest stadium.",
+          "It represents the face a host nation wants to present to the world — a space that encapsulates the..."
+        ],
+        "words": [
+          "jersey",
+          "mexico",
+          "iconic"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "UNESCO Advises Japan to Better Reflect Korean Forced Labor at Sado Mines",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202927",
+        "summary": "[International] : The UNESCO World Heritage Committee has advised Japan to properly mention the forced mobilization of Korean workers in the Sado mine, as it had promised to do so when the mine was registered as a UNESCO World Heritage site. The committee said it made the recommendation in a draft decision it circulated to ... [more...]",
+        "fullText": [
+          "[International] : The UNESCO World Heritage Committee has advised Japan to properly mention the forced mobilization of Korean workers in the Sado mine, as it had promised to do so when the mine was registered as a UNESCO World Heritage site. The committee said it made the recommendation in a draft decision it circulated to ...",
+          "[more... ]"
+        ],
+        "words": [
+          "unesco",
+          "advises",
+          "better"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Rain to Hit Chungcheong Provinces, Southern Regions as Tropical Nights Persist",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202926",
+        "summary": "[Domestic] : Mostly cloudy skies are expected nationwide on Thursday with rain to fall in the Chungcheong provinces and southern regions. According to the Korea Meteorological Administration, the Jeolla provinces and South Gyeongsang Province will receive between 30 and 80 millimeters of precipitation through ... [more...]",
+        "fullText": [
+          "[Domestic] : Mostly cloudy skies are expected nationwide on Thursday with rain to fall in the Chungcheong provinces and southern regions. According to the Korea Meteorological Administration, the Jeolla provinces and South Gyeongsang Province will receive between 30 and 80 millimeters of precipitation through ...",
+          "[more... ]"
+        ],
+        "words": [
+          "chungcheong",
+          "provinces",
+          "southern"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "label": "Wednesday, July 15, 2026",
     "title": "Korea News Brief",
