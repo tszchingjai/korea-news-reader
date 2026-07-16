@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-17",
+    "label": "Friday, July 17, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Weather, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Meet Korea's 1st official MA in K-culture and entertainment",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260717/meet-koreas-1st-official-ma-in-k-culture-and-entertainment?utm_source=rss",
+        "summary": "For Abigail Jazmine Llamo, who will turn 29 this year, K-pop was never just entertainment. “K-pop may seem light and entertaining on the surface, but for me, it provided joy, comfort and hope,” she said in a recent interview with The Korea Times. “It became a kind of escape, but also a source of energy that helped me dream of a different future. Because of that, I wanted to be part of the kind of work that could inspire or comfort others.” That personal connection ultimately brought Llamo, a Filipino national, to Korea, where she recently completed a master’s degree in K-Culture and Entertainment at Sungshin Women’s University — becoming the first graduate of the program. Her journey reflects the deeply personal ways in which the Korean cultural wave continues to resonate across borders, including in the Philippines, where Korean media content has long enjoyed widespread popularity. Llam...",
+        "fullText": [
+          "For Abigail Jazmine Llamo, who will turn 29 this year, K-pop was never just entertainment. “K-pop may seem light and entertaining on the surface, but for me, it provided joy, comfort and hope,” she said in a recent interview with The Korea Times.",
+          "“It became a kind of escape, but also a source of energy that helped me dream of a different future. Because of that, I wanted to be part of the kind of work that could inspire or comfort others.",
+          "” That personal connection ultimately brought Llamo, a Filipino national, to Korea, where she recently completed a master’s degree in K-Culture and Entertainment at Sungshin Women’s University — becoming the first graduate of the program. Her journey reflects the deeply personal ways in which the Korean cultural wave continues to resonate across borders, including in the Philippines, where Korean media content has long enjoyed widespread popularity.",
+          "Llam..."
+        ],
+        "words": [
+          "official",
+          "k-culture",
+          "entertainment"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Seoul adds map of 422 water play spots to help families beat summer heat",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260717/seoul-adds-map-of-422-water-play-spots-to-help-families-beat-summer-heat?utm_source=rss",
+        "summary": "With the heavy heat of summer settling over the capital, finding a quick, budget-friendly escape for children has often meant navigating a frustrating patchwork of local district websites, social media channels and community blogs. The Seoul Metropolitan Government said Tuesday that it is streamlining this search with a centralized, interactive digital directory designed to help families stay cool without leaving the city. Starting Monday, the municipal Smart Seoul Map began offering a unified guide to 422 water facilities scattered across Seoul’s 25 districts, giving residents real-time access to operational hours, exact locations and nearby amenities on their smartphones. The database, which city officials say will be updated continuously by local district workers through August, maps out a diverse network of public urban oases. The list includes 103 traditional swimming pools, 97 play...",
+        "fullText": [
+          "With the heavy heat of summer settling over the capital, finding a quick, budget-friendly escape for children has often meant navigating a frustrating patchwork of local district websites, social media channels and community blogs. The Seoul Metropolitan Government said Tuesday that it is streamlining this search with a centralized, interactive digital directory designed to help families stay cool without leaving the city.",
+          "Starting Monday, the municipal Smart Seoul Map began offering a unified guide to 422 water facilities scattered across Seoul’s 25 districts, giving residents real-time access to operational hours, exact locations and nearby amenities on their smartphones. The database, which city officials say will be updated continuously by local district workers through August, maps out a diverse network of public urban oases.",
+          "The list includes 103 traditional swimming pools, 97 play..."
+        ],
+        "words": [
+          "families",
+          "summer",
+          "settling"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Outgoing Irish ambassador reflects on 4 years in Korea",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260717/outgoing-irish-ambassador-reflects-on-4-years-in-korea?utm_source=rss",
+        "summary": "Michelle Winthrop has been Ireland's top envoy to Seoul since 2022. In her four years as ambassador, she has focused on strengthening the growing relationship between Ireland and Korea in several areas, including trade and investment, education, culture, innovation and shared democratic values. She will be remembered as a prominent advocate for mental health and well-being, encouraging more open conversations about emotional resilience, inclusive workplaces and healthy communities. She has spoken frequently about the importance of prioritizing mental health alongside economic and social development. Winthrop has only been with the Irish Foreign Service about 10 years, but she has a long background of working in development cooperation. She previously worked in Africa, particularly Ethiopia, East Africa, Indonesia and Latin America. While her time here coming to a close, she met with The...",
+        "fullText": [
+          "Michelle Winthrop has been Ireland's top envoy to Seoul since 2022. In her four years as ambassador, she has focused on strengthening the growing relationship between Ireland and Korea in several areas, including trade and investment, education, culture, innovation and shared democratic values.",
+          "She will be remembered as a prominent advocate for mental health and well-being, encouraging more open conversations about emotional resilience, inclusive workplaces and healthy communities. She has spoken frequently about the importance of prioritizing mental health alongside economic and social development.",
+          "Winthrop has only been with the Irish Foreign Service about 10 years, but she has a long background of working in development cooperation. She previously worked in Africa, particularly Ethiopia, East Africa, Indonesia and Latin America.",
+          "While her time here coming to a close, she met with The..."
+        ],
+        "words": [
+          "outgoing",
+          "ambassador",
+          "reflects"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "How Orcar redefines car rental industry",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260717/how-orcar-redefines-car-rental-industry?utm_source=rss",
+        "summary": "The rental car lot at Jeju International Airport is one of those places where the gap between Korea's tourist ambitions and its infrastructure becomes painfully visible. Foreign visitors arrive clutching international driving permits, only to encounter a process that is largely manual, often only in Korean or— if their documents don't match the expectations of the attendant on duty — simply unavailable to them. For a small team of software developers, this friction was not just a travel annoyance. Instead, it exposed a problem the industry had learned to live with. Founded in 2021 by CEO Jung Jae-ho together with COO Park Jeong-ki and CTO Lee Jong-wan, Orcar is trying to digitize one of the most frustrating parts of international travel: renting a car in a foreign country. Rather than focusing on the vehicles themselves, the company is using artificial intelligence (AI) to simplify the p...",
+        "fullText": [
+          "The rental car lot at Jeju International Airport is one of those places where the gap between Korea's tourist ambitions and its infrastructure becomes painfully visible. Foreign visitors arrive clutching international driving permits, only to encounter a process that is largely manual, often only in Korean or— if their documents don't match the expectations of the attendant on duty — simply unavailable to them.",
+          "For a small team of software developers, this friction was not just a travel annoyance. Instead, it exposed a problem the industry had learned to live with.",
+          "Founded in 2021 by CEO Jung Jae-ho together with COO Park Jeong-ki and CTO Lee Jong-wan, Orcar is trying to digitize one of the most frustrating parts of international travel: renting a car in a foreign country. Rather than focusing on the vehicles themselves, the company is using artificial intelligence (AI) to simplify the p..."
+        ],
+        "words": [
+          "redefines",
+          "rental",
+          "industry"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "How RESCENE's real story broke through K-pop's manufactured world",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260717/how-rescenes-real-story-broke-through-k-pops-manufactured-world?utm_source=rss",
+        "summary": "A girl from Geoje, a southern port city in South Gyeongsang Province, where no K-pop training center, or anything remotely resembling one, exists, and another girl from Japan, who crossed the sea to become an idol but had yet to realize her dream, somehow ended up debuting together. Their small agency was just as new to the industry as they were, and predictably, the group remained largely unknown even two years after its debut. Then one day, a YouTube video they had filmed outdoors, under sunlight rather than studio lights and with mindless improvisation rather than a prepared script, suddenly exploded online. Before they could make sense of what was happening, a song they had released two years earlier was already climbing the charts. The tale of RESCENE is about as close to a fairy tale as a K-pop story can get. Fans and newcomers seem to feel the same way, because under nearly every...",
+        "fullText": [
+          "A girl from Geoje, a southern port city in South Gyeongsang Province, where no K-pop training center, or anything remotely resembling one, exists, and another girl from Japan, who crossed the sea to become an idol but had yet to realize her dream, somehow ended up debuting together. Their small agency was just as new to the industry as they were, and predictably, the group remained largely unknown even two years after its debut.",
+          "Then one day, a YouTube video they had filmed outdoors, under sunlight rather than studio lights and with mindless improvisation rather than a prepared script, suddenly exploded online. Before they could make sense of what was happening, a song they had released two years earlier was already climbing the charts.",
+          "The tale of RESCENE is about as close to a fairy tale as a K-pop story can get. Fans and newcomers seem to feel the same way, because under nearly every..."
+        ],
+        "words": [
+          "rescene",
+          "through",
+          "manufactured"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "From paralysis to national team: Former soldier rows toward Paralympic glory",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260717/from-paralysis-to-national-team-former-soldier-rows-toward-paralympic-glory?utm_source=rss",
+        "summary": "For Chu Yeon-hee, 40, one day in April 2008 changed everything. At the time, Chu was in his third year as a noncommissioned officer (NCO) working as an aircraft mechanic with an Army aviation unit. While moving equipment, Chu fell from the fourth floor of a building. Rushed to a civilian hospital, Chu underwent an eight-hour operation in which surgeons inserted eight metal screws into his first through fourth lumbar vertebrae. The damaged spinal nerves never recovered. No matter how hard Chu concentrated, not even a single toe would move. Doctors diagnosed him with incomplete paralysis of the lower body caused by damage to the cauda equina — the bundle of nerves at the base of the spinal cord resembling a horse's tail. A military career was no longer possible. Chu had fulfilled a family tradition by becoming the third consecutive generation to serve as an NCO in 2006. Proud of that legac...",
+        "fullText": [
+          "For Chu Yeon-hee, 40, one day in April 2008 changed everything. At the time, Chu was in his third year as a noncommissioned officer (NCO) working as an aircraft mechanic with an Army aviation unit.",
+          "While moving equipment, Chu fell from the fourth floor of a building. Rushed to a civilian hospital, Chu underwent an eight-hour operation in which surgeons inserted eight metal screws into his first through fourth lumbar vertebrae.",
+          "The damaged spinal nerves never recovered. No matter how hard Chu concentrated, not even a single toe would move.",
+          "Doctors diagnosed him with incomplete paralysis of the lower body caused by damage to the cauda equina — the bundle of nerves at the base of the spinal cord resembling a horse's tail. A military career was no longer possible.",
+          "Chu had fulfilled a family tradition by becoming the third consecutive generation to serve as an NCO in 2006. Proud of that legac..."
+        ],
+        "words": [
+          "paralysis",
+          "national",
+          "former"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "MBK Partners, Meritz Financial Group Agree on 200 Bln Won Emergency Funding for Homeplus",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202959",
+        "summary": "[Economy] : MBK Partners, the owner of embattled retail chain Homeplus, and its main creditor, Meritz Financial Group, have agreed to provide emergency funding of 200 billion won, or around 135 million U.S. dollars, to help continue the company's rehabilitation procedures. The funding, under an agreement between ... [more...]",
+        "fullText": [
+          "[Economy] : MBK Partners, the owner of embattled retail chain Homeplus, and its main creditor, Meritz Financial Group, have agreed to provide emergency funding of 200 billion won, or around 135 million U. S.",
+          "dollars, to help continue the company's rehabilitation procedures. The funding, under an agreement between ...",
+          "[more... ]"
+        ],
+        "words": [
+          "partners",
+          "meritz",
+          "financial"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "label": "Thursday, July 16, 2026",
     "title": "Korea News Brief",
