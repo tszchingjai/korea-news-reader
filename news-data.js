@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-18",
+    "label": "Saturday, July 18, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "To keep young offenders from straying, Korea turns to families",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260718/to-keep-young-offenders-from-straying-korea-turns-to-families?utm_source=rss",
+        "summary": "A heartfelt letter to a mother, a shared family meal and even the practical task of repairing a parent’s car are becoming central pillars of Korea's effort to curb juvenile recidivism. Seeking to disrupt the cycle of repeat offenses, the Ministry of Justice said it is expanding specialized rehabilitation programs nationwide, betting that strengthening domestic ties before young offenders return home is the key to lasting reform. The initiative moves beyond traditional classroom discipline to focus heavily on repairing fractured family structures. By rebuilding stable, supportive networks, the ministry said it aims to ease the transition of young offenders back into their communities and foster healthy, long-term reintegration. The program's flagship experiences are tailored to break down emotional barriers. In Seoul, one program guides mothers and their children through sensory activitie...",
+        "fullText": [
+          "A heartfelt letter to a mother, a shared family meal and even the practical task of repairing a parent’s car are becoming central pillars of Korea's effort to curb juvenile recidivism. Seeking to disrupt the cycle of repeat offenses, the Ministry of Justice said it is expanding specialized rehabilitation programs nationwide, betting that strengthening domestic ties before young offenders return home is the key to lasting reform.",
+          "The initiative moves beyond traditional classroom discipline to focus heavily on repairing fractured family structures. By rebuilding stable, supportive networks, the ministry said it aims to ease the transition of young offenders back into their communities and foster healthy, long-term reintegration.",
+          "The program's flagship experiences are tailored to break down emotional barriers. In Seoul, one program guides mothers and their children through sensory activitie..."
+        ],
+        "words": [
+          "offenders",
+          "straying",
+          "families"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean bank buffers ready to absorb macro, policy shifts in 2nd half",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260718/korean-bank-buffers-ready-to-absorb-macro-policy-shifts-in-2nd-half?utm_source=rss",
+        "summary": "Korea's four largest banks — KB, Shinhan, Hana and Woori — will remain resilient through the second half of 2026, navigating economic shifts and a regulatory and policy agenda. Strong risk controls and government support will prevent severe stress. Although the government's \"productive-finance\" push and a weak won erode capital buffers modestly, eased regulations and steady earnings will preserve sound capital. Good underwriting mitigates severe stress The asset quality of the four banks will be resilient through the second half of 2026 despite moderate deterioration. Risks stem from domestic and global uncertainties, government-led inclusive-finance initiatives and a \"productive-finance\" policy which leads to riskier corporate lending despite rising loan delinquencies. Financial stress persists for small businesses and the self-employed amid rising rates, particularly in sectors related...",
+        "fullText": [
+          "Korea's four largest banks — KB, Shinhan, Hana and Woori — will remain resilient through the second half of 2026, navigating economic shifts and a regulatory and policy agenda. Strong risk controls and government support will prevent severe stress.",
+          "Although the government's \"productive-finance\" push and a weak won erode capital buffers modestly, eased regulations and steady earnings will preserve sound capital. Good underwriting mitigates severe stress The asset quality of the four banks will be resilient through the second half of 2026 despite moderate deterioration.",
+          "Risks stem from domestic and global uncertainties, government-led inclusive-finance initiatives and a \"productive-finance\" policy which leads to riskier corporate lending despite rising loan delinquencies. Financial stress persists for small businesses and the self-employed amid rising rates, particularly in sectors related..."
+        ],
+        "words": [
+          "buffers",
+          "absorb",
+          "policy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Why BTS Gwanghwamun show shocked Japanese social media users",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260718/why-bts-gwanghwamun-show-shocked-japanese-social-media-users?utm_source=rss",
+        "summary": "Korean culture has become part of everyday life around the world. Former U.S. President Barack Obama nodded along as children at a care home sang “Soda Pop,” a song from the animated film “KPop Demon Hunters.” Director Steven Spielberg waved a K-pop light stick at the Academy Awards. Such scenes, in which people across generations share an enthusiasm for Korean culture, would once have been difficult to imagine. They reflect the global rise of Korean content and K-pop fandom. Korean content exports reached a record 22.26 trillion won ($14.9 billion) in 2025, according to the Ministry of Culture, Sports and Tourism. The global spectacle highlights how overseas audiences interpret the Korean wave and its impact on local cultures. Audiences see different stages at BTS show One of the biggest events in Korean popular culture during the first half of 2026 came March 21, when K-pop supergroup...",
+        "fullText": [
+          "Korean culture has become part of everyday life around the world. Former U.",
+          "S. President Barack Obama nodded along as children at a care home sang “Soda Pop,” a song from the animated film “KPop Demon Hunters.",
+          "” Director Steven Spielberg waved a K-pop light stick at the Academy Awards. Such scenes, in which people across generations share an enthusiasm for Korean culture, would once have been difficult to imagine.",
+          "They reflect the global rise of Korean content and K-pop fandom. Korean content exports reached a record 22.",
+          "26 trillion won ($14. 9 billion) in 2025, according to the Ministry of Culture, Sports and Tourism.",
+          "The global spectacle highlights how overseas audiences interpret the Korean wave and its impact on local cultures. Audiences see different stages at BTS show One of the biggest events in Korean popular culture during the first half of 2026 came March 21, when K-pop supergroup..."
+        ],
+        "words": [
+          "gwanghwamun",
+          "shocked",
+          "japanese"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Changing coaches will not save Korean football, youth expert says",
+        "url": "https://www.koreatimes.co.kr/sports/20260718/changing-coaches-will-not-save-korean-football-youth-expert-says?utm_source=rss",
+        "summary": "Korea's national football team faces mounting criticism following a group-stage exit at the 2026 World Cup in North America. The squad finished the tournament with one win and two losses, prompting head coach Hong Myung-bo to resign. The team's poor performance renewed controversy over his 2024 appointment, sparking calls for structural reform. The crisis has extended to the nation's under-23 team ahead of the Aichi-Nagoya Asian Games in Japan in September. The U-23 squad finished fourth at the AFC U-23 Asian Cup in January after being eliminated by Vietnam in extra time. The team also lost 1-0 to Kyrgyzstan in a friendly last month. Japan presents a stark contrast, as their senior team reached the knockout stage at the World Cup with one win and two draws, including a 4-0 victory over Tunisia and a 2-2 draw with the Netherlands. While Japan suffered a 2-1 loss to Brazil in the round of...",
+        "fullText": [
+          "Korea's national football team faces mounting criticism following a group-stage exit at the 2026 World Cup in North America. The squad finished the tournament with one win and two losses, prompting head coach Hong Myung-bo to resign.",
+          "The team's poor performance renewed controversy over his 2024 appointment, sparking calls for structural reform. The crisis has extended to the nation's under-23 team ahead of the Aichi-Nagoya Asian Games in Japan in September.",
+          "The U-23 squad finished fourth at the AFC U-23 Asian Cup in January after being eliminated by Vietnam in extra time. The team also lost 1-0 to Kyrgyzstan in a friendly last month.",
+          "Japan presents a stark contrast, as their senior team reached the knockout stage at the World Cup with one win and two draws, including a 4-0 victory over Tunisia and a 2-2 draw with the Netherlands. While Japan suffered a 2-1 loss to Brazil in the round of..."
+        ],
+        "words": [
+          "changing",
+          "coaches",
+          "football"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Why are more men in their 50s to 70s putting on aprons?",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260718/why-are-more-men-in-their-50s-to-70s-putting-on-aprons?utm_source=rss",
+        "summary": "\"Will this be okay? They all came out different shapes.\" \"What should I do? The filling is spilling out.\" Inside a shared kitchen in Seoul's Seodaemun District on Sunday, 15 middle-aged and older men wearing aprons looked anxiously at the blueberry muffins and ham-and-cheese sandwiches they were making. The muffin batter had been piped unevenly into the molds, and sandwich fillings spilled out from the sides. But as the freshly baked muffins emerged from the oven, filling the room with the aroma of butter, laughter broke out. Eager to share their creations with their families, the participants hurried home with the food they had made. The district's cooking program, \"Kitchen Independence for Middle-aged Men — Today, I'm the Chef,\" has attracted men in their 50s to 70s preparing for the next chapter of their lives. The theme of Sunday's class was \"Men Who Bake Bread.\" Although mixing batt...",
+        "fullText": [
+          "\"Will this be okay? They all came out different shapes.",
+          "\" \"What should I do? The filling is spilling out.",
+          "\" Inside a shared kitchen in Seoul's Seodaemun District on Sunday, 15 middle-aged and older men wearing aprons looked anxiously at the blueberry muffins and ham-and-cheese sandwiches they were making. The muffin batter had been piped unevenly into the molds, and sandwich fillings spilled out from the sides.",
+          "But as the freshly baked muffins emerged from the oven, filling the room with the aroma of butter, laughter broke out. Eager to share their creations with their families, the participants hurried home with the food they had made.",
+          "The district's cooking program, \"Kitchen Independence for Middle-aged Men — Today, I'm the Chef,\" has attracted men in their 50s to 70s preparing for the next chapter of their lives. The theme of Sunday's class was \"Men Who Bake Bread.",
+          "\" Although mixing batt..."
+        ],
+        "words": [
+          "putting",
+          "aprons",
+          "different"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "‘Hope’ Hits 1 Million Admissions in 3 Days, Setting Record for Fastest Grossing Film of 2026",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202969",
+        "summary": "[Politics] : Director Na Hong-jin's new film “Hope” crossed the one million admissions mark on Friday, just three days after its release, setting a new record for the fastest film this year to reach the milestone. Distributor Plus M Entertainment announced Friday afternoon that “Hope” had surpassed one million ... [more...]",
+        "fullText": [
+          "[Politics] : Director Na Hong-jin's new film “Hope” crossed the one million admissions mark on Friday, just three days after its release, setting a new record for the fastest film this year to reach the milestone. Distributor Plus M Entertainment announced Friday afternoon that “Hope” had surpassed one million ...",
+          "[more... ]"
+        ],
+        "words": [
+          "million",
+          "admissions",
+          "setting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Mayor Oh Slams Neglect of Single-Stock Leveraged Derivatives, Pres. Lee's Debt Relief Policy",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202968",
+        "summary": "[Politics] : Seoul Mayor Oh Se-hoon has sharply criticized the Lee Jae Myung administration for neglecting to address single-stock leveraged derivatives that have been blamed for increasing market volatility and President Lee's long-term delinquent debt relief policy. On social media Friday, Oh said the \"sidecar\" ... [more...]",
+        "fullText": [
+          "[Politics] : Seoul Mayor Oh Se-hoon has sharply criticized the Lee Jae Myung administration for neglecting to address single-stock leveraged derivatives that have been blamed for increasing market volatility and President Lee's long-term delinquent debt relief policy. On social media Friday, Oh said the \"sidecar\" ...",
+          "[more... ]"
+        ],
+        "words": [
+          "neglect",
+          "single-stock",
+          "leveraged"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "label": "Friday, July 17, 2026",
     "title": "Korea News Brief",
