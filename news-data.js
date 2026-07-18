@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-19",
+    "label": "Sunday, July 19, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Economy, International, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Seoul's Han River pools open for night swimming as crowds surge",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260719/seouls-han-river-pools-open-for-night-swimming-as-crowds-surge?utm_source=rss",
+        "summary": "Summer evenings are becoming prime swimming hours in Seoul, where thousands of residents are heading to Han River pools after sunset as the city extends operating hours to help people beat the heat. The Seoul Metropolitan Government said Ttukseom and Yeouido swimming pools, along with the Jamsil and Nanji water playgrounds, have been operating nightly from 6 p.m. to 10 p.m. since July 3 and will continue through Aug. 30 without closing days. The city said the nighttime program has proved popular as prolonged heat waves drive more people outdoors after dark. \"The night openings have transformed these public spaces into accessible, budget-friendly evening retreats for citizens escaping the heat,\" a city official said, noting that the combination of upgraded water infrastructure and cultural programming has made the riverside pools a centerpiece of Seoul's summer nightlife. Since the facili...",
+        "fullText": [
+          "Summer evenings are becoming prime swimming hours in Seoul, where thousands of residents are heading to Han River pools after sunset as the city extends operating hours to help people beat the heat. The Seoul Metropolitan Government said Ttukseom and Yeouido swimming pools, along with the Jamsil and Nanji water playgrounds, have been operating nightly from 6 p.",
+          "m. to 10 p.",
+          "m. since July 3 and will continue through Aug.",
+          "30 without closing days. The city said the nighttime program has proved popular as prolonged heat waves drive more people outdoors after dark.",
+          "\"The night openings have transformed these public spaces into accessible, budget-friendly evening retreats for citizens escaping the heat,\" a city official said, noting that the combination of upgraded water infrastructure and cultural programming has made the riverside pools a centerpiece of Seoul's summer nightlife. Since the facili..."
+        ],
+        "words": [
+          "swimming",
+          "crowds",
+          "summer"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "What to know about Koreans' favorite stamina-boosting summer dishes",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260719/what-to-know-about-koreans-favorite-stamina-boosting-summer-dishes?utm_source=rss",
+        "summary": "As sweltering summer heat sets in, even light activity can leave people exhausted and drenched in sweat. Many people turn to traditional Korean stamina-boosting foods to recharge when their appetites diminish and they start to feel lethargic due to oppressive heat and humidity. Following Chobok on July 15, the first of the three days of summer traditionally regarded as the hottest, many are wondering what to eat to restore their strength. Samgyetang — a soup made with a whole chicken stuffed with ginseng and rice — and grilled eel have long been among Korea's favorite summer foods. Rich in protein and essential nutrients, they help replenish energy depleted by the heat and provide nutrients that are often lacking during the summer months. However, eating these dishes without moderation can place an unexpected burden on blood sugar levels. The main ingredients are not the problem. Rather,...",
+        "fullText": [
+          "As sweltering summer heat sets in, even light activity can leave people exhausted and drenched in sweat. Many people turn to traditional Korean stamina-boosting foods to recharge when their appetites diminish and they start to feel lethargic due to oppressive heat and humidity.",
+          "Following Chobok on July 15, the first of the three days of summer traditionally regarded as the hottest, many are wondering what to eat to restore their strength. Samgyetang — a soup made with a whole chicken stuffed with ginseng and rice — and grilled eel have long been among Korea's favorite summer foods.",
+          "Rich in protein and essential nutrients, they help replenish energy depleted by the heat and provide nutrients that are often lacking during the summer months. However, eating these dishes without moderation can place an unexpected burden on blood sugar levels.",
+          "The main ingredients are not the problem. Rather,..."
+        ],
+        "words": [
+          "koreans",
+          "favorite",
+          "stamina-boosting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Luxury travelers more captivated by Noryangjin fish market than fine dining",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260719/luxury-travelers-more-captivated-by-noryangjin-fish-market-than-fine-dining?utm_source=rss",
+        "summary": "A decade ago, a foreign traveler made an unusual request while planning a trip to Korea. Money was no object. Rather than asking about the cost, he wanted to know what the finest travel experience Korea could offer would be. At the time, the request seemed unusual. In retrospect, however, it foreshadowed a question Korean tourism would eventually have to confront. In recent years, Korea has seen a steady increase in affluent travelers from overseas. Culinary tours and cooking classes organized by O'ngo Food Communications now attract visitors from a wide range of countries, some of whom arrive by private jet. Rather than fitting a few more famous attractions into their itineraries, these travelers seek to experience the country's culture and way of life on their own terms. They place a premium on distinctive experiences that cannot easily be found elsewhere. Last May, O'ngo Food Communic...",
+        "fullText": [
+          "A decade ago, a foreign traveler made an unusual request while planning a trip to Korea. Money was no object.",
+          "Rather than asking about the cost, he wanted to know what the finest travel experience Korea could offer would be. At the time, the request seemed unusual.",
+          "In retrospect, however, it foreshadowed a question Korean tourism would eventually have to confront. In recent years, Korea has seen a steady increase in affluent travelers from overseas.",
+          "Culinary tours and cooking classes organized by O'ngo Food Communications now attract visitors from a wide range of countries, some of whom arrive by private jet. Rather than fitting a few more famous attractions into their itineraries, these travelers seek to experience the country's culture and way of life on their own terms.",
+          "They place a premium on distinctive experiences that cannot easily be found elsewhere. Last May, O'ngo Food Communic..."
+        ],
+        "words": [
+          "luxury",
+          "travelers",
+          "captivated"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Why Korean men want G-Dragon to make parasols cool",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260719/why-korean-men-want-g-dragon-to-make-parasols-cool?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. Korea’s weather over the past few days could be described as turbulent, with record rainfall and scorching heat waves taking turns battering the peninsula. In a strange twist, Korean men are now turning to G-Dragon, a celebrity known for setting fashion trends, hoping he can make parasols fashionable. Korea’s first severe heat wave warning of the year was issued last Sunday, followed Tuesday by heavy rain warnings for the Seoul metropolitan area and Gangwon Province, with rainfall of more than 50 millimeters per hour. A day later, the Korea Meteorological Administration forecast another heat wave and tropical nights, a weather condition in which the overnight temperature does not fall below 25 degrees Celsius between 6 p.m. and 9 a.m. the following day. Seoul was forecast to reach 30 degrees Celsius during the day, with humidity of up to 75 pe...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "Korea’s weather over the past few days could be described as turbulent, with record rainfall and scorching heat waves taking turns battering the peninsula. In a strange twist, Korean men are now turning to G-Dragon, a celebrity known for setting fashion trends, hoping he can make parasols fashionable.",
+          "Korea’s first severe heat wave warning of the year was issued last Sunday, followed Tuesday by heavy rain warnings for the Seoul metropolitan area and Gangwon Province, with rainfall of more than 50 millimeters per hour. A day later, the Korea Meteorological Administration forecast another heat wave and tropical nights, a weather condition in which the overnight temperature does not fall below 25 degrees Celsius between 6 p.",
+          "m. and 9 a.",
+          "m. the following day.",
+          "Seoul was forecast to reach 30 degrees Celsius during the day, with humidity of up to 75 pe..."
+        ],
+        "words": [
+          "g-dragon",
+          "parasols",
+          "articles"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Hanwha Philly Shipyard Selected to Deliver Missile Tracking Vessels to US",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202978",
+        "summary": "[Economy] : The Hanwha Philly Shipyard has been selected to deliver the U.S. Missile Defense Agency's(MDA) missile range instrumentation vessels. According to The Maritime Executive, on Friday, U.S. Transportation Secretary, Sean Duffy and White House Office of Management and Budget Director, Russell Vought ... [more...]",
+        "fullText": [
+          "[Economy] : The Hanwha Philly Shipyard has been selected to deliver the U. S.",
+          "Missile Defense Agency's(MDA) missile range instrumentation vessels. According to The Maritime Executive, on Friday, U.",
+          "S. Transportation Secretary, Sean Duffy and White House Office of Management and Budget Director, Russell Vought ...",
+          "[more... ]"
+        ],
+        "words": [
+          "hanwha",
+          "philly",
+          "shipyard"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "China Rejects Trump's Renewed Claim of Beijing's 2020 Presidential Election Meddling",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202977",
+        "summary": "[International] : China has rejected U.S. President Donald Trump's claims of Beijing's interference in the 2020 U.S. presidential election, and urged Washington to stop its \"unfounded smears.\" At a press briefing on Friday, China's foreign ministry spokesperson Lin Jian said the allegations are \"entirely ... [more...]",
+        "fullText": [
+          "[International] : China has rejected U. S.",
+          "President Donald Trump's claims of Beijing's interference in the 2020 U. S.",
+          "presidential election, and urged Washington to stop its \"unfounded smears. \" At a press briefing on Friday, China's foreign ministry spokesperson Lin Jian said the allegations are \"entirely ...",
+          "[more... ]"
+        ],
+        "words": [
+          "rejects",
+          "renewed",
+          "beijing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Culture Minister Unveils Global K-Culture Hub Plan",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=202976",
+        "summary": "[Politics] : Culture Minister Chae Hwi-young has unveiled plans to establish large-scale K-Culture centers in major cities around the world to expand the global reach of Korean culture. Speaking at a policy forum on Jeju Island Saturday, Chae said the government is pursuing a project to secure the operating rights to ... [more...]",
+        "fullText": [
+          "[Politics] : Culture Minister Chae Hwi-young has unveiled plans to establish large-scale K-Culture centers in major cities around the world to expand the global reach of Korean culture. Speaking at a policy forum on Jeju Island Saturday, Chae said the government is pursuing a project to secure the operating rights to ...",
+          "[more... ]"
+        ],
+        "words": [
+          "culture",
+          "minister",
+          "unveils"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "label": "Saturday, July 18, 2026",
     "title": "Korea News Brief",
