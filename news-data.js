@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-21",
+    "label": "Tuesday, July 21, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Politics, Sports, Domestic. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Greece seeks to elevate Korea ties through maritime innovation, Indo-Pacific partnership",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260721/greece-seeks-to-elevate-korea-ties-through-maritime-innovation-indo-pacific-partnership?utm_source=rss",
+        "summary": "As Greece and Korea celebrate the 65th anniversary of diplomatic relations this year, Athens is seeking to expand a partnership long anchored in shipping, shipbuilding and trade into new areas including green growth, digital governance, innovation and regional security, while strengthening cooperation between the two like-minded middle power countries. In a written interview with The Korea Times marking his three-day visit to Seoul this week, Greek Foreign Minister George Gerapetritis said maritime cooperation remains at the heart of bilateral economic relations, with Greece being the world’s leading ship-owning nation and Korea a global powerhouse in shipbuilding. Maritime partnership enters new phase Gerapetritis pointed to cooperation between Skaramangas Shipyard and HD Hyundai Heavy Industries on naval and coast guard vessel projects, as well as the partnership between ONEX Shipyards...",
+        "fullText": [
+          "As Greece and Korea celebrate the 65th anniversary of diplomatic relations this year, Athens is seeking to expand a partnership long anchored in shipping, shipbuilding and trade into new areas including green growth, digital governance, innovation and regional security, while strengthening cooperation between the two like-minded middle power countries. In a written interview with The Korea Times marking his three-day visit to Seoul this week, Greek Foreign Minister George Gerapetritis said maritime cooperation remains at the heart of bilateral economic relations, with Greece being the world’s leading ship-owning nation and Korea a global powerhouse in shipbuilding.",
+          "Maritime partnership enters new phase Gerapetritis pointed to cooperation between Skaramangas Shipyard and HD Hyundai Heavy Industries on naval and coast guard vessel projects, as well as the partnership between ONEX Shipyards..."
+        ],
+        "words": [
+          "greece",
+          "elevate",
+          "through"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul's monthly transit pass users angered by service suspension",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260721/seouls-monthly-transit-pass-users-angered-by-service-suspension?utm_source=rss",
+        "summary": "Commuters are growing frustrated as Seoul prepares to end its flagship Climate Card service next month before its replacement, Climate Card Plus, is fully integrated with the Modu Card system, raising concerns over a bumpy transition. The disruption stems from Seoul's plan to replace the Climate Card with Climate Card Plus, a successor designed to integrate with the transport ministry's K-Pass, which offers similar public transit discounts. However, delays in coordinating the integration between the Seoul Metropolitan Government and the Ministry of Land, Infrastructure and Transport have postponed the transition, leaving commuters facing uncertainty until the new system is ready. Introduced in 2024, the Climate Card, available in both prepaid and postpaid versions, allows users unlimited rides on Seoul's buses and subway for 62,000 won ($41.82) a month. The pass also offers discounted fa...",
+        "fullText": [
+          "Commuters are growing frustrated as Seoul prepares to end its flagship Climate Card service next month before its replacement, Climate Card Plus, is fully integrated with the Modu Card system, raising concerns over a bumpy transition. The disruption stems from Seoul's plan to replace the Climate Card with Climate Card Plus, a successor designed to integrate with the transport ministry's K-Pass, which offers similar public transit discounts.",
+          "However, delays in coordinating the integration between the Seoul Metropolitan Government and the Ministry of Land, Infrastructure and Transport have postponed the transition, leaving commuters facing uncertainty until the new system is ready. Introduced in 2024, the Climate Card, available in both prepaid and postpaid versions, allows users unlimited rides on Seoul's buses and subway for 62,000 won ($41.",
+          "82) a month. The pass also offers discounted fa..."
+        ],
+        "words": [
+          "monthly",
+          "transit",
+          "angered"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Is semiconductor stock rally shifting from Korea to China?",
+        "url": "https://www.koreatimes.co.kr/economy/20260721/is-semiconductor-stock-rally-shifting-from-korea-to-china?utm_source=rss",
+        "summary": "Korean stocks led the global semiconductor rally over the past year, but the momentum is shifting toward China as shares of the country's two biggest chipmakers pull back, analysts said Monday. The TIGER China Semiconductor FACTSET ETF (exchange-traded fund), which tracks large-cap Chinese semiconductor companies, gained 49 percent in the three months through Thursday, making it the best performer among three Korea-listed semiconductor ETFs managed by Mirae Asset Global Investments, according to the Korea Exchange. That compared with a 33.6 percent gain for the TIGER U.S. Philadelphia Semiconductor ETF and 19.9 percent for the Korea-focused TIGER Semiconductor ETF. The Korean fund remained the top performer over the past year, surging 253.3 percent. The China-focused fund rose 154.8 percent, while its U.S. counterpart gained 132.4 percent. Analysts said the shift toward China reflects fr...",
+        "fullText": [
+          "Korean stocks led the global semiconductor rally over the past year, but the momentum is shifting toward China as shares of the country's two biggest chipmakers pull back, analysts said Monday. The TIGER China Semiconductor FACTSET ETF (exchange-traded fund), which tracks large-cap Chinese semiconductor companies, gained 49 percent in the three months through Thursday, making it the best performer among three Korea-listed semiconductor ETFs managed by Mirae Asset Global Investments, according to the Korea Exchange.",
+          "That compared with a 33. 6 percent gain for the TIGER U.",
+          "S. Philadelphia Semiconductor ETF and 19.",
+          "9 percent for the Korea-focused TIGER Semiconductor ETF. The Korean fund remained the top performer over the past year, surging 253.",
+          "3 percent. The China-focused fund rose 154.",
+          "8 percent, while its U. S.",
+          "counterpart gained 132. 4 percent.",
+          "Analysts said the shift toward China reflects fr..."
+        ],
+        "words": [
+          "semiconductor",
+          "shifting",
+          "stocks"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Xen Sapphire to host fundraiser for YongsanCats",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260721/xen-sapphire-to-host-fundraiser-for-yongsancats?utm_source=rss",
+        "summary": "One of the best music duos in Seoul's foreign music scene almost didn't come together. It started in 2024 when Rob Nichols came to an open mic event at Taco Amigo, located near Noksapyeong Station on Seoul Metro Line 6. After he played his 2018 song \"Noksapyeong,\" the event host, Xen Sapphire, approached him. \"As soon as he had gotten off the stage, I said to him, listen, that song, absolutely incredible, makes me cry,\" Sapphire told The Korea Times. \"It's probably one of my top five songs of all time. Could I cover it?\" He refused at first, saying the song is too personal for him to share with another singer. She asked him again after seeing him perform it another time, suggesting that they could just do it as a private rehearsal. But Nichols told her not to sing the second verse, which contains lyrics referencing his childhood trauma involving a father who deserted him. \"And I said, OK...",
+        "fullText": [
+          "One of the best music duos in Seoul's foreign music scene almost didn't come together. It started in 2024 when Rob Nichols came to an open mic event at Taco Amigo, located near Noksapyeong Station on Seoul Metro Line 6.",
+          "After he played his 2018 song \"Noksapyeong,\" the event host, Xen Sapphire, approached him. \"As soon as he had gotten off the stage, I said to him, listen, that song, absolutely incredible, makes me cry,\" Sapphire told The Korea Times.",
+          "\"It's probably one of my top five songs of all time. Could I cover it?",
+          "\" He refused at first, saying the song is too personal for him to share with another singer. She asked him again after seeing him perform it another time, suggesting that they could just do it as a private rehearsal.",
+          "But Nichols told her not to sing the second verse, which contains lyrics referencing his childhood trauma involving a father who deserted him. \"And I said, OK..."
+        ],
+        "words": [
+          "sapphire",
+          "fundraiser",
+          "yongsancats"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "President Lee’s Apartment in Bundang Sold for 2.9 Billion Won",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203016",
+        "summary": "[Politics] : An apartment that President Lee Jae Myung and first lady Kim Hea Kyung jointly owned in Bundang District in Seongnam, Gyeonggi Province, has been sold for two-point-nine billion won. That’s roughly one-point-96 million U.S. dollars. According to the Supreme Court’s certified copy of the registry, ... [more...]",
+        "fullText": [
+          "[Politics] : An apartment that President Lee Jae Myung and first lady Kim Hea Kyung jointly owned in Bundang District in Seongnam, Gyeonggi Province, has been sold for two-point-nine billion won. That’s roughly one-point-96 million U.",
+          "S. dollars.",
+          "According to the Supreme Court’s certified copy of the registry, ... [more...",
+          "]"
+        ],
+        "words": [
+          "president",
+          "apartment",
+          "bundang"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Sports",
+        "source": "KBS World",
+        "title": "S. Korea to Host 2029 Invictus Games, First in Asia",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203015",
+        "summary": "[Sports] : South Korea will host the 2029 Invictus Games, becoming the first Asian country to do so. The Ministry of Patriots and Veterans Affairs announced on Monday that the Invictus Games Foundation had picked the South Korean city of Daejeon to host the competition — the largest international sporting event ... [more...]",
+        "fullText": [
+          "[Sports] : South Korea will host the 2029 Invictus Games, becoming the first Asian country to do so. The Ministry of Patriots and Veterans Affairs announced on Monday that the Invictus Games Foundation had picked the South Korean city of Daejeon to host the competition — the largest international sporting event ...",
+          "[more... ]"
+        ],
+        "words": [
+          "invictus",
+          "sports",
+          "becoming"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Heavy Rain to Pound Central Region Tuesday",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203014",
+        "summary": "[Domestic] : Heavy rain is set to pound the central region on Tuesday, while the southern regions and Jeju Island will see sweltering heat. According to the Korea Meteorological Administration on Monday, the Seoul metro area and Gangwon Province could receive up to 150 millimeters of rain, while the Chungcheong ... [more...]",
+        "fullText": [
+          "[Domestic] : Heavy rain is set to pound the central region on Tuesday, while the southern regions and Jeju Island will see sweltering heat. According to the Korea Meteorological Administration on Monday, the Seoul metro area and Gangwon Province could receive up to 150 millimeters of rain, while the Chungcheong ...",
+          "[more... ]"
+        ],
+        "words": [
+          "central",
+          "region",
+          "tuesday"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-20",
     "label": "Monday, July 20, 2026",
     "title": "Korea News Brief",
