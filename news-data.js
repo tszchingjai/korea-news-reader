@@ -1,5 +1,148 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-22",
+    "label": "Wednesday, July 22, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul to turn into citywide art playground with Kiaf, Frieze in September",
+        "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260722/seoul-to-turn-into-citywide-art-playground-with-kiaf-frieze-in-september?utm_source=rss",
+        "summary": "Seoul is gearing up for a blockbuster month of art and culture in September, as Kiaf Seoul and Frieze Seoul return with expanded citywide programs ranging from classical music and public art to film and late-night gallery events. This year’s Kiaf Seoul, Korea’s largest international art fair, runs from Sept. 2-6 at Coex in southern Seoul under the theme “Coexistence,” reflecting on the relationship between humans and technology in the age of artificial intelligence (AI). The Galleries Association of Korea is introducing two special exhibitions — “Humal” and “Virtual Vital” — that examine how human instinct, animal vitality and digital systems intersect in contemporary art. “Humal,” a portmanteau of “human” and “animal,” brings together seven Korean artists, including Kang Gun, Kwak Ji-soo and Hwang Soo-yeon, in sculpture, installation, painting and photography that foreground the body an...",
+        "fullText": [
+          "Seoul is gearing up for a blockbuster month of art and culture in September, as Kiaf Seoul and Frieze Seoul return with expanded citywide programs ranging from classical music and public art to film and late-night gallery events. This year’s Kiaf Seoul, Korea’s largest international art fair, runs from Sept.",
+          "2-6 at Coex in southern Seoul under the theme “Coexistence,” reflecting on the relationship between humans and technology in the age of artificial intelligence (AI). The Galleries Association of Korea is introducing two special exhibitions — “Humal” and “Virtual Vital” — that examine how human instinct, animal vitality and digital systems intersect in contemporary art.",
+          "“Humal,” a portmanteau of “human” and “animal,” brings together seven Korean artists, including Kang Gun, Kwak Ji-soo and Hwang Soo-yeon, in sculpture, installation, painting and photography that foreground the body an..."
+        ],
+        "words": [
+          "citywide",
+          "playground",
+          "frieze"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Sogang University lays foundation for global talent hub",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260722/sogang-university-lays-foundation-for-global-talent-hub?utm_source=rss",
+        "summary": "Sogang University has laid out the blueprint for an advanced industry talent development model through the government-funded Regional Innovation System & Education (RISE) program. The model is designed to transform the university into Seoul’s premier hub for cultivating global talent in high-tech industries under the motto, “Educate in Seoul and expand globally.” The university said the initiative has made progress in talent development and technological innovation since its launch last year. The Ministry of Education has recently rebranded the RISE initiative as the ANCHOR program, placing talent development and regional talent retention at the center of its policy agenda. The program’s budget has increased from 1.94 trillion won ($1.3 billion) in 2025 to 2.14 trillion won this year. Ahead of the transition to the ANCHOR program, the university held the Seoul RISE first-year achievement...",
+        "fullText": [
+          "Sogang University has laid out the blueprint for an advanced industry talent development model through the government-funded Regional Innovation System & Education (RISE) program. The model is designed to transform the university into Seoul’s premier hub for cultivating global talent in high-tech industries under the motto, “Educate in Seoul and expand globally.",
+          "” The university said the initiative has made progress in talent development and technological innovation since its launch last year. The Ministry of Education has recently rebranded the RISE initiative as the ANCHOR program, placing talent development and regional talent retention at the center of its policy agenda.",
+          "The program’s budget has increased from 1. 94 trillion won ($1.",
+          "3 billion) in 2025 to 2. 14 trillion won this year.",
+          "Ahead of the transition to the ANCHOR program, the university held the Seoul RISE first-year achievement..."
+        ],
+        "words": [
+          "sogang",
+          "university",
+          "foundation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hyolyn returns to her 1st love — era of divas who inspired her",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260722/hyolyn-returns-to-her-1st-love-era-of-divas-who-inspired-her?utm_source=rss",
+        "summary": "Before Hyolyn became K-pop's official \"summer queen,\" before debuting as part of girl group SISTAR and before the stage name, there was a teenager in awe of Destiny's Child. \"Those sounds shocked me even back then,\" the singer said during an interview with The Korea Times at a quiet cafe in Seoul's Seongdong District, Thursday. \"Artists I loved back then and still listen to now: Destiny's Child, Justin Timberlake, Usher, Britney, Missy Elliott. Even without seeking them out, old songs were always on my playlist. I wanted to bring back that feeling.\" That feeling is the engine of \"OriginaLyn,\" Hyolyn's fourth mini album. Slated for release at 6 p.m. Wednesday, the seven-track set arrives through ReH Entertainment, the singer's self-founded agency. Its title fuses \"original\" with \"Lyn,\" and the mission statement is in the wordplay — this is not a reinvention but a restoration. It's her fir...",
+        "fullText": [
+          "Before Hyolyn became K-pop's official \"summer queen,\" before debuting as part of girl group SISTAR and before the stage name, there was a teenager in awe of Destiny's Child. \"Those sounds shocked me even back then,\" the singer said during an interview with The Korea Times at a quiet cafe in Seoul's Seongdong District, Thursday.",
+          "\"Artists I loved back then and still listen to now: Destiny's Child, Justin Timberlake, Usher, Britney, Missy Elliott. Even without seeking them out, old songs were always on my playlist.",
+          "I wanted to bring back that feeling. \" That feeling is the engine of \"OriginaLyn,\" Hyolyn's fourth mini album.",
+          "Slated for release at 6 p. m.",
+          "Wednesday, the seven-track set arrives through ReH Entertainment, the singer's self-founded agency. Its title fuses \"original\" with \"Lyn,\" and the mission statement is in the wordplay — this is not a reinvention but a restoration.",
+          "It's her fir..."
+        ],
+        "words": [
+          "hyolyn",
+          "returns",
+          "inspired"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Shark sightings off east coast nearly quadruple as waters warm",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260722/shark-sightings-off-east-coast-nearly-quadruple-as-waters-warm?utm_source=rss",
+        "summary": "Shark sightings off Korea's east coast have nearly quadrupled this year as climate change pushes more of the predators into Korean waters, prompting coastal municipal authorities to step up beach safety measures. According to the National Institute of Fisheries Science (NIFS), 46 large sharks were spotted off the east coast from January to June this year, compared with 12 in the same period last year. Shortfin mako sharks, rated “high” for the risk of attack in the agency's shark classification guide, were the most common, with 23 sightings. The surge in shark sightings tracks a broader warming trend in Korean waters. As temperatures climb, warm-water fish move further north along the east coast, and the large sharks that prey on them follow. The average sea surface temperature around the Korean Peninsula from January to June this year was 17.17 degrees Celsius, the highest level in 26 y...",
+        "fullText": [
+          "Shark sightings off Korea's east coast have nearly quadrupled this year as climate change pushes more of the predators into Korean waters, prompting coastal municipal authorities to step up beach safety measures. According to the National Institute of Fisheries Science (NIFS), 46 large sharks were spotted off the east coast from January to June this year, compared with 12 in the same period last year.",
+          "Shortfin mako sharks, rated “high” for the risk of attack in the agency's shark classification guide, were the most common, with 23 sightings. The surge in shark sightings tracks a broader warming trend in Korean waters.",
+          "As temperatures climb, warm-water fish move further north along the east coast, and the large sharks that prey on them follow. The average sea surface temperature around the Korean Peninsula from January to June this year was 17.",
+          "17 degrees Celsius, the highest level in 26 y..."
+        ],
+        "words": [
+          "sightings",
+          "nearly",
+          "quadruple"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Comic book characters take over Namdaemun's Alpha Gallery",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260722/comic-book-characters-take-over-namdaemuns-alpha-gallery?utm_source=rss",
+        "summary": "Iconic comic book characters have leapt off the pages and onto the walls of Alpha Gallery, an exhibition space at the top of the Alpha Stationery store in central Seoul's bustling Namdaemun Market. The characters displayed include Marvel's Punisher, Captain America, the Thing and Ant-Man, among dozens of others representing graphic arts and other creative industries in other countries, including Japanese manga, Star Wars characters and Disney characters. All are the work of local talent, including a few international comic book illustration professionals, drafted during the weekly Drink & Draw events at Dice & Comics Cafe (DCC), a comic book shop in eastern Seoul. The COPIC Marker Illustration Exhibition started on July 11 with an opening event attended by comic book legend Bob Layton, who contributed several pieces, most of which are priced at 700,000 won ($472). The exhibition showcase...",
+        "fullText": [
+          "Iconic comic book characters have leapt off the pages and onto the walls of Alpha Gallery, an exhibition space at the top of the Alpha Stationery store in central Seoul's bustling Namdaemun Market. The characters displayed include Marvel's Punisher, Captain America, the Thing and Ant-Man, among dozens of others representing graphic arts and other creative industries in other countries, including Japanese manga, Star Wars characters and Disney characters.",
+          "All are the work of local talent, including a few international comic book illustration professionals, drafted during the weekly Drink & Draw events at Dice & Comics Cafe (DCC), a comic book shop in eastern Seoul. The COPIC Marker Illustration Exhibition started on July 11 with an opening event attended by comic book legend Bob Layton, who contributed several pieces, most of which are priced at 700,000 won ($472).",
+          "The exhibition showcase..."
+        ],
+        "words": [
+          "characters",
+          "namdaemun",
+          "gallery"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Why so much swearing? The story behind Na Hong-jin's 'Hope'",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260722/why-so-much-swearing-the-story-behind-na-hong-jins-hope?utm_source=rss",
+        "summary": "“Hope” surpassed two million admissions Sunday, just five days after its release, reaching the milestone faster than any other film released this year. But what do cinema’s leading directors make of Na Hong-jin’s first film since “The Wailing” (2016)? “It stands at the pinnacle of cinematic entertainment, pushing every element — tension, suspense, visceral impact and pace — beyond its limits,” said director Lee Chang-dong, who joined Na for an audience Q&A at Lotte Cinema World Tower in Seoul on July 14, a day before the film’s release. Lee was Na's teacher during his first year at the Korea National University of Arts. Bong Joon-ho, whose film “The Host” (2006) similarly centered on a mysterious creature, joined Na for another audience Q&A at Megabox COEX in Seoul on the film's release day of July 15. “I watched it in a state of complete exhilaration,” Bong said. “The first 62 minutes o...",
+        "fullText": [
+          "“Hope” surpassed two million admissions Sunday, just five days after its release, reaching the milestone faster than any other film released this year. But what do cinema’s leading directors make of Na Hong-jin’s first film since “The Wailing” (2016)?",
+          "“It stands at the pinnacle of cinematic entertainment, pushing every element — tension, suspense, visceral impact and pace — beyond its limits,” said director Lee Chang-dong, who joined Na for an audience Q&A at Lotte Cinema World Tower in Seoul on July 14, a day before the film’s release. Lee was Na's teacher during his first year at the Korea National University of Arts.",
+          "Bong Joon-ho, whose film “The Host” (2006) similarly centered on a mysterious creature, joined Na for another audience Q&A at Megabox COEX in Seoul on the film's release day of July 15. “I watched it in a state of complete exhilaration,” Bong said.",
+          "“The first 62 minutes o..."
+        ],
+        "words": [
+          "swearing",
+          "behind",
+          "hong-jin"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "How 'Better Late Than Single' fixes dating show fatigue with awkward charm",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260722/how-better-late-than-single-fixes-dating-show-fatigue-with-awkward-charm?utm_source=rss",
+        "summary": "\"Little change, plenty of charm,\" a producer said, adapting a Korean idiom to describe the strategy behind the second season of \"Better Late Than Single,\" the Netflix dating show returning after a year. Instead of relying on bigger twists, the series again focuses on personal growth that distinguished it from other dating shows. \"Better Late Than Single\" is a dating series about people who have never dated but are looking for love. The program follows them through makeovers and their first attempts at dating. The first season, released in 2025, drew wide attention after it overtook the third season of \"Squid Game\" to reach No. 1 on Netflix’s Top 10 series chart in Korea. The premise added a distinctive element to a familiar reality format built around the dating lives of everyday people. Dating shows had already saturated the market, but \"Better Late Than Single\" struck a chord by focusi...",
+        "fullText": [
+          "\"Little change, plenty of charm,\" a producer said, adapting a Korean idiom to describe the strategy behind the second season of \"Better Late Than Single,\" the Netflix dating show returning after a year. Instead of relying on bigger twists, the series again focuses on personal growth that distinguished it from other dating shows.",
+          "\"Better Late Than Single\" is a dating series about people who have never dated but are looking for love. The program follows them through makeovers and their first attempts at dating.",
+          "The first season, released in 2025, drew wide attention after it overtook the third season of \"Squid Game\" to reach No. 1 on Netflix’s Top 10 series chart in Korea.",
+          "The premise added a distinctive element to a familiar reality format built around the dating lives of everyday people. Dating shows had already saturated the market, but \"Better Late Than Single\" struck a chord by focusi..."
+        ],
+        "words": [
+          "better",
+          "single",
+          "dating"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "label": "Tuesday, July 21, 2026",
     "title": "Korea News Brief",
