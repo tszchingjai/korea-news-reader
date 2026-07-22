@@ -1,5 +1,148 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-23",
+    "label": "Thursday, July 23, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Inter-Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "EU tariffs accelerate Korean tire makers' China exit",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260723/eu-tariffs-accelerate-korean-tire-makers-china-exit?utm_source=rss",
+        "summary": "The European Union's latest anti-dumping tariffs on Chinese-made tires are poised to accelerate a strategic realignment across Korea's tire industry, prompting local manufacturers to curb their production reliance on China as geopolitical risks increasingly reshape global supply chains. Under the latest regulatory measure, Hankook Tire received an anti-dumping duty of 4.3 percent, while Kumho Tire and Nexen Tire were each hit with a 24.4 percent levy. The effective tariff burden rises to 8.8 percent for Hankook and 28.9 percent for its domestic rivals, after calculating the EU’s existing 4.5 percent import tariff. The disparity reflects years of divergent manufacturing strategies rather than differences in product competitiveness. Hankook Tire established a substantial European manufacturing base through its plant in Hungary, allowing it to supply much of the region's demand locally desp...",
+        "fullText": [
+          "The European Union's latest anti-dumping tariffs on Chinese-made tires are poised to accelerate a strategic realignment across Korea's tire industry, prompting local manufacturers to curb their production reliance on China as geopolitical risks increasingly reshape global supply chains. Under the latest regulatory measure, Hankook Tire received an anti-dumping duty of 4.",
+          "3 percent, while Kumho Tire and Nexen Tire were each hit with a 24. 4 percent levy.",
+          "The effective tariff burden rises to 8. 8 percent for Hankook and 28.",
+          "9 percent for its domestic rivals, after calculating the EU’s existing 4. 5 percent import tariff.",
+          "The disparity reflects years of divergent manufacturing strategies rather than differences in product competitiveness. Hankook Tire established a substantial European manufacturing base through its plant in Hungary, allowing it to supply much of the region's demand locally desp..."
+        ],
+        "words": [
+          "tariffs",
+          "accelerate",
+          "makers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "KAFSA calls for shift from recruitment to belonging in university internationalization",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260723/kafsa-calls-for-shift-from-recruitment-to-belonging-in-university-internationalization?utm_source=rss",
+        "summary": "Having reached its goal of attracting 300,000 international students two years ahead of schedule, a university international affairs leader emphasized that Korea must now shift its focus from enrollment targets to helping international students build lasting lives in the country. “The focus should no longer be on how many international students Korea attracts, but on how the country can build an inclusive society with them,” said Jin Chang-hyun, chair of the Korean Association of Foreign Students Administrators (KAFSA) and chief of international affairs at Kyonggi University. For years, universities equated internationalization with rising enrollment. But with the number of international students now exceeding 300,000, Jin said that the recruitment-driven model has run its course. “Internationalization is no longer optional. It is a matter of survival for universities,” he said. “But usi...",
+        "fullText": [
+          "Having reached its goal of attracting 300,000 international students two years ahead of schedule, a university international affairs leader emphasized that Korea must now shift its focus from enrollment targets to helping international students build lasting lives in the country. “The focus should no longer be on how many international students Korea attracts, but on how the country can build an inclusive society with them,” said Jin Chang-hyun, chair of the Korean Association of Foreign Students Administrators (KAFSA) and chief of international affairs at Kyonggi University.",
+          "For years, universities equated internationalization with rising enrollment. But with the number of international students now exceeding 300,000, Jin said that the recruitment-driven model has run its course.",
+          "“Internationalization is no longer optional. It is a matter of survival for universities,” he said.",
+          "“But usi..."
+        ],
+        "words": [
+          "recruitment",
+          "belonging",
+          "university"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Bank deposits rebound as higher rates draw funds back",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260723/bank-deposits-rebound-as-higher-rates-draw-funds-back?utm_source=rss",
+        "summary": "A 31-year-old office worker in Seoul surnamed Lee says she has recently stopped putting new money into stocks and instead plans to park her spare cash in a bank deposit. \"Most of my investments are in semiconductor stocks like Samsung Electronics and SK hynix, and I'm in the red,\" she said. \"After seeing some banks offering deposit rates of more than 3 percent, I decided to move some cash from my brokerage account and other spare funds into a one-year deposit.\" Lee is among a growing number of investors shifting money back into bank deposits as lenders raise deposit rates following the central bank's latest interest rate hike. The Bank of Korea (BOK) last Thursday raised its benchmark interest rate by 0.25 percentage points to 2.75 percent, marking its first increase in three and a half years. Commercial banks have since lifted deposit rates above 3 percent for the first time in more tha...",
+        "fullText": [
+          "A 31-year-old office worker in Seoul surnamed Lee says she has recently stopped putting new money into stocks and instead plans to park her spare cash in a bank deposit. \"Most of my investments are in semiconductor stocks like Samsung Electronics and SK hynix, and I'm in the red,\" she said.",
+          "\"After seeing some banks offering deposit rates of more than 3 percent, I decided to move some cash from my brokerage account and other spare funds into a one-year deposit. \" Lee is among a growing number of investors shifting money back into bank deposits as lenders raise deposit rates following the central bank's latest interest rate hike.",
+          "The Bank of Korea (BOK) last Thursday raised its benchmark interest rate by 0. 25 percentage points to 2.",
+          "75 percent, marking its first increase in three and a half years. Commercial banks have since lifted deposit rates above 3 percent for the first time in more tha..."
+        ],
+        "words": [
+          "deposits",
+          "rebound",
+          "higher"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Siamese crocodile caught in Yeoju stream, exposing exotic pet risks",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260723/siamese-crocodile-caught-in-yeoju-stream-exposing-exotic-pet-risks?utm_source=rss",
+        "summary": "A crocodile caught in a stream in Yeoju, Gyeonggi Province, has been identified as a Siamese crocodile, reviving concerns over abandoned exotic pets threatening Korea's ecosystem. The city of Yeoju said Tuesday that an analysis by the National Institute of Biological Resources confirmed the animal as a Siamese crocodile. It is listed as a Class 1 internationally endangered species under the Convention on International Trade in Endangered Species of Wild Fauna and Flora. The crocodile, measuring 50 centimeters, was captured Saturday after the fire department received a report of what appeared to be a pet crocodile. It is now being temporarily housed at a privately run animal protection center under the city's care. Adult Siamese crocodiles typically grow 2 to 3 meters long and inhabit rivers and swamps across Southeast Asia. Poaching and habitat destruction have driven down their populati...",
+        "fullText": [
+          "A crocodile caught in a stream in Yeoju, Gyeonggi Province, has been identified as a Siamese crocodile, reviving concerns over abandoned exotic pets threatening Korea's ecosystem. The city of Yeoju said Tuesday that an analysis by the National Institute of Biological Resources confirmed the animal as a Siamese crocodile.",
+          "It is listed as a Class 1 internationally endangered species under the Convention on International Trade in Endangered Species of Wild Fauna and Flora. The crocodile, measuring 50 centimeters, was captured Saturday after the fire department received a report of what appeared to be a pet crocodile.",
+          "It is now being temporarily housed at a privately run animal protection center under the city's care. Adult Siamese crocodiles typically grow 2 to 3 meters long and inhabit rivers and swamps across Southeast Asia.",
+          "Poaching and habitat destruction have driven down their populati..."
+        ],
+        "words": [
+          "siamese",
+          "crocodile",
+          "caught"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "'Agent Kim Reactivated' airs K-drama's 1st fully AI scene",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260723/agent-kim-reactivated-airs-k-dramas-1st-fully-ai-scene?utm_source=rss",
+        "summary": "On a snowy night, a motorcycle pursues a black sedan into a mountain tunnel. A wire trap overturns the lead escort vehicle and a mysterious man wearing a mask and a North Korean military uniform approaches the sedan. A gunfight and hand-to-hand combat follow. Overpowering the bodyguard, the man forces the terrified North Korean official into the passenger seat and speeds out of the tunnel. \"You’re going to die here with me,\" the man says, before the sedan crashes through a bridge railing and plunges into the river below. This is the opening scene of the second episode of SBS weekend drama \"Agent Kim Reactivated.\" Presented as a flashback to 2008, the sequence shows the protagonist, Manager Kim (So Ji-sub) — a recruited agent — being sent to a solo covert mission into North Korea to eliminate a hardliner hostile to the South. The sequence packs in nearly every action movie staple, includi...",
+        "fullText": [
+          "On a snowy night, a motorcycle pursues a black sedan into a mountain tunnel. A wire trap overturns the lead escort vehicle and a mysterious man wearing a mask and a North Korean military uniform approaches the sedan.",
+          "A gunfight and hand-to-hand combat follow. Overpowering the bodyguard, the man forces the terrified North Korean official into the passenger seat and speeds out of the tunnel.",
+          "\"You’re going to die here with me,\" the man says, before the sedan crashes through a bridge railing and plunges into the river below. This is the opening scene of the second episode of SBS weekend drama \"Agent Kim Reactivated.",
+          "\" Presented as a flashback to 2008, the sequence shows the protagonist, Manager Kim (So Ji-sub) — a recruited agent — being sent to a solo covert mission into North Korea to eliminate a hardliner hostile to the South. The sequence packs in nearly every action movie staple, includi..."
+        ],
+        "words": [
+          "reactivated",
+          "k-drama",
+          "motorcycle"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "How to stay safe outdoors in extreme heat",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260723/how-to-stay-safe-outdoors-in-extreme-heat?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. An umbrella in one hand, a handheld fan in the other. If you could bring only one while heading out in sweltering summer heat, which should it be? If you have to walk under direct sunlight, an umbrella should come first. While a handheld fan creates airflow, it cannot block the heat your body absorbs from the sun. Block sun’s heat first The reason it feels especially scorching under direct sunlight is that your body is exposed not only to the air temperature but also to radiant heat from the sun. A handheld fan cannot block this heat. It simply helps sweat evaporate, making you feel cooler. An umbrella, by contrast, shields you from direct sunlight and reduces the amount of heat reaching your body. It also creates shade over your head, face, shoulders and part of your upper body. A study by Japanese researchers found that under intense sunligh...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "An umbrella in one hand, a handheld fan in the other. If you could bring only one while heading out in sweltering summer heat, which should it be?",
+          "If you have to walk under direct sunlight, an umbrella should come first. While a handheld fan creates airflow, it cannot block the heat your body absorbs from the sun.",
+          "Block sun’s heat first The reason it feels especially scorching under direct sunlight is that your body is exposed not only to the air temperature but also to radiant heat from the sun. A handheld fan cannot block this heat.",
+          "It simply helps sweat evaporate, making you feel cooler. An umbrella, by contrast, shields you from direct sunlight and reduces the amount of heat reaching your body.",
+          "It also creates shade over your head, face, shoulders and part of your upper body. A study by Japanese researchers found that under intense sunligh..."
+        ],
+        "words": [
+          "outdoors",
+          "extreme",
+          "articles"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Parliamentary Committee Probing Ballot Shortages Holds 2nd Hearing",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203077",
+        "summary": "[Politics] : Rival parties have clashed over plans for a public recount during the second hearing of the National Assembly’s committee probing the ballot shortage that marred the June 3 local elections. The ruling Democratic Party on Wednesday called for the swift public recount of the nearly two-and-a-half ... [more...]",
+        "fullText": [
+          "[Politics] : Rival parties have clashed over plans for a public recount during the second hearing of the National Assembly’s committee probing the ballot shortage that marred the June 3 local elections. The ruling Democratic Party on Wednesday called for the swift public recount of the nearly two-and-a-half ...",
+          "[more... ]"
+        ],
+        "words": [
+          "parliamentary",
+          "committee",
+          "probing"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "label": "Wednesday, July 22, 2026",
     "title": "Korea News Brief",
