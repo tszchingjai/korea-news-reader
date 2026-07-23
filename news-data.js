@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-24",
+    "label": "Friday, July 24, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Politics, Korea, Weather, Science. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US keeps Korea on FX policy 'monitoring list'",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260724/us-keeps-korea-on-fx-policy-monitoring-list?utm_source=rss",
+        "summary": "WASHINGTON — The United States has kept Korea on its list of countries to monitor for their foreign exchange policies, a Treasury Department report showed Thursday. The department released the updated list in the semiannual \"Report to Congress on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States.\" The latest monitoring list comprises Korea, China, Japan, Taiwan, Thailand, Singapore, Vietnam, Germany, Ireland and Switzerland. All were on the list in the previous report released in January. Korea was excluded from the list in November 2023 for the first time since April 2016 but was placed back on it in November 2024. It has since remained on the list. U.S. trading partners are put on the list when they meet two of the three criteria set by the U.S. Trade Facilitation and Trade Enforcement Act of 2015. The criteria are a bilateral trade surplus with...",
+        "fullText": [
+          "WASHINGTON — The United States has kept Korea on its list of countries to monitor for their foreign exchange policies, a Treasury Department report showed Thursday. The department released the updated list in the semiannual \"Report to Congress on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States.",
+          "\" The latest monitoring list comprises Korea, China, Japan, Taiwan, Thailand, Singapore, Vietnam, Germany, Ireland and Switzerland. All were on the list in the previous report released in January.",
+          "Korea was excluded from the list in November 2023 for the first time since April 2016 but was placed back on it in November 2024. It has since remained on the list.",
+          "U. S.",
+          "trading partners are put on the list when they meet two of the three criteria set by the U. S.",
+          "Trade Facilitation and Trade Enforcement Act of 2015. The criteria are a bilateral trade surplus with..."
+        ],
+        "words": [
+          "policy",
+          "monitoring",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US announces 12.5% tariffs on Korea, Japan over forced labor concerns",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260724/us-announces-125-tariffs-on-korea-japan-over-forced-labor-concerns?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump's administration on Thursday announced its final decision to impose up to 12.5 percent tariffs on South Korea, Japan and other trading partners over forced labor concerns. The Office of the U.S. Trade Representative (USTR) unveiled the new tariffs ranging from 10 percent to 12.5 percent on dozens of countries after conducting investigations into 60 economies under Section 301 of the 1974 Trade Act to determine whether they had taken sufficient steps to ban imports made with forced labor. The announcement came as the administration's temporary 10-percent global tariffs were set to expire on Friday. The across-the-board duties were rolled out after the Supreme Court struck down the Trump administration's country-specific \"reciprocal tariffs\" in February. Last month, the USTR proposed a 12.5 percent tariff on Korea and other economies over forced lab...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump's administration on Thursday announced its final decision to impose up to 12. 5 percent tariffs on South Korea, Japan and other trading partners over forced labor concerns.",
+          "The Office of the U. S.",
+          "Trade Representative (USTR) unveiled the new tariffs ranging from 10 percent to 12. 5 percent on dozens of countries after conducting investigations into 60 economies under Section 301 of the 1974 Trade Act to determine whether they had taken sufficient steps to ban imports made with forced labor.",
+          "The announcement came as the administration's temporary 10-percent global tariffs were set to expire on Friday. The across-the-board duties were rolled out after the Supreme Court struck down the Trump administration's country-specific \"reciprocal tariffs\" in February.",
+          "Last month, the USTR proposed a 12. 5 percent tariff on Korea and other economies over forced lab..."
+        ],
+        "words": [
+          "announces",
+          "tariffs",
+          "forced"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Beyond mud festival: Boryeong plans to become Korea's next tourism hub",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260724/beyond-mud-festival-boryeong-plans-to-become-koreas-next-tourism-hub?utm_source=rss",
+        "summary": "Rounded pebble beaches, hiking trails and sunsets over the West Sea — Boryeong Mayor Uhm Seung-young rattles off the city's coastal assets with the confidence of someone certain the rest of the world just hasn't caught on yet. “Anyone who has visited Boryeong's islands knows they offer scenery that rivals anywhere abroad,\" Uhm said in an interview with The Korea Times, pointing to beaches, trails and sunsets that characterize the area. That confidence underpins his belief that the city can draw more visitors who stay longer, building on the natural beauty of its coast and islands. Located in South Chungcheong Province, Boryeong has long put that coastal beauty to use through tourism. Its best-known showcase is the Boryeong Mud Festival, held every summer around Daecheon Beach. The festival drew 1.69 million visitors last year, including roughly 90,000 foreign visitors. This year's event,...",
+        "fullText": [
+          "Rounded pebble beaches, hiking trails and sunsets over the West Sea — Boryeong Mayor Uhm Seung-young rattles off the city's coastal assets with the confidence of someone certain the rest of the world just hasn't caught on yet. “Anyone who has visited Boryeong's islands knows they offer scenery that rivals anywhere abroad,\" Uhm said in an interview with The Korea Times, pointing to beaches, trails and sunsets that characterize the area.",
+          "That confidence underpins his belief that the city can draw more visitors who stay longer, building on the natural beauty of its coast and islands. Located in South Chungcheong Province, Boryeong has long put that coastal beauty to use through tourism.",
+          "Its best-known showcase is the Boryeong Mud Festival, held every summer around Daecheon Beach. The festival drew 1.",
+          "69 million visitors last year, including roughly 90,000 foreign visitors. This year's event,..."
+        ],
+        "words": [
+          "beyond",
+          "festival",
+          "boryeong"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Shipbuilding island of Geoje bets on hometown idol",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260724/shipbuilding-island-of-geoje-bets-on-hometown-idol?utm_source=rss",
+        "summary": "GEOJE, South Gyeongsang Province ― The men at the next table did not ask for a long conversation. They simply reached over, set down a few freshly shucked conch with a few words and a shy chuckle, then went back to their soju as if nothing had happened. This was Gohyeon Market on a recent Monday afternoon, and this reporter, a stranger from Seoul with a plate of raw sea bass, had just been adopted for an hour by a table of middle-aged men of South Gyeongsang Province. People from this southeastern province carry a reputation, even among Koreans, for being gruff, blunt, allergic to compliments and small talk. What those conch delivered instead was something closer to the opposite: a simple, unsentimental welcome that asked for nothing back. It is the kind that no K-pop music video can stage, and on Geoje, an island of 230,000 people off Korea's southeastern coast better known for building...",
+        "fullText": [
+          "GEOJE, South Gyeongsang Province ― The men at the next table did not ask for a long conversation. They simply reached over, set down a few freshly shucked conch with a few words and a shy chuckle, then went back to their soju as if nothing had happened.",
+          "This was Gohyeon Market on a recent Monday afternoon, and this reporter, a stranger from Seoul with a plate of raw sea bass, had just been adopted for an hour by a table of middle-aged men of South Gyeongsang Province. People from this southeastern province carry a reputation, even among Koreans, for being gruff, blunt, allergic to compliments and small talk.",
+          "What those conch delivered instead was something closer to the opposite: a simple, unsentimental welcome that asked for nothing back. It is the kind that no K-pop music video can stage, and on Geoje, an island of 230,000 people off Korea's southeastern coast better known for building..."
+        ],
+        "words": [
+          "shipbuilding",
+          "island",
+          "hometown"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Checklist: How to safely microwave frozen meals",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260724/checklist-how-to-safely-microwave-frozen-meals?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. On sweltering days when cooking over a hot stove feels unbearable, many people turn to frozen foods. Frozen rice, dumplings and pizza can be ready in just a few minutes in the microwave, making them a convenient option. However, improper handling can lead to safety risks. Knowing what to check before microwaving can help you enjoy frozen meals safely. Check packaging before microwaving The first thing to check when heating frozen food is the packaging. Some products are designed to be microwaved in their original packaging, but not all plastic wraps or containers are microwave-safe. Aluminum packaging or containers with metallic coatings should always be removed, as they can produce sparks inside the microwave. Plastic containers should also be labeled as microwave-safe. If there is no such indication, transfer the food to a microwave-safe dis...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "On sweltering days when cooking over a hot stove feels unbearable, many people turn to frozen foods. Frozen rice, dumplings and pizza can be ready in just a few minutes in the microwave, making them a convenient option.",
+          "However, improper handling can lead to safety risks. Knowing what to check before microwaving can help you enjoy frozen meals safely.",
+          "Check packaging before microwaving The first thing to check when heating frozen food is the packaging. Some products are designed to be microwaved in their original packaging, but not all plastic wraps or containers are microwave-safe.",
+          "Aluminum packaging or containers with metallic coatings should always be removed, as they can produce sparks inside the microwave. Plastic containers should also be labeled as microwave-safe.",
+          "If there is no such indication, transfer the food to a microwave-safe dis..."
+        ],
+        "words": [
+          "checklist",
+          "safely",
+          "microwave"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Rain Forecast through Early Next Week for Seoul Area, Gangwon Province",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203102",
+        "summary": "[Science] : Rain is expected to continue through early next week, mainly in the Seoul metropolitan area and Gangwon Province. According to the Korea Meteorological Administration, 20 to 60 millimeters of rain is expected in Incheon, northern Gyeonggi Province and inland areas of Gangwon Province, while Seoul and ... [more...]",
+        "fullText": [
+          "[Science] : Rain is expected to continue through early next week, mainly in the Seoul metropolitan area and Gangwon Province. According to the Korea Meteorological Administration, 20 to 60 millimeters of rain is expected in Incheon, northern Gyeonggi Province and inland areas of Gangwon Province, while Seoul and ...",
+          "[more... ]"
+        ],
+        "words": [
+          "forecast",
+          "through",
+          "gangwon"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "National Assembly Completes Committee Leadership Setup after 54-Day Delay",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203101",
+        "summary": "[Politics] : The formation of standing committees for the second half of the 22nd National Assembly is effectively complete after a 54-day delay. The National Assembly elected six of the seven committee chairs allocated to the main opposition People Power Party during a plenary session Thursday. The seventh, the head ... [more...]",
+        "fullText": [
+          "[Politics] : The formation of standing committees for the second half of the 22nd National Assembly is effectively complete after a 54-day delay. The National Assembly elected six of the seven committee chairs allocated to the main opposition People Power Party during a plenary session Thursday.",
+          "The seventh, the head ... [more...",
+          "]"
+        ],
+        "words": [
+          "national",
+          "assembly",
+          "completes"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-23",
     "label": "Thursday, July 23, 2026",
     "title": "Korea News Brief",
