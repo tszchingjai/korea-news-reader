@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-25",
+    "label": "Saturday, July 25, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Weather, Science, International, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul, convenience store CU launch line of low-sugar, high-protein meals",
+        "url": "https://www.koreatimes.co.kr/southkorea/health/20260725/seoul-convenience-store-cu-launch-line-of-low-sugar-high-protein-meals?utm_source=rss",
+        "summary": "The Seoul city government has partnered with CU, Korea’s largest convenience store chain, to launch a line of low-sugar, high-protein packaged meals intended to make healthy eating cheaper and more accessible, municipal officials said earlier this week. The five-item lineup, branded “Seoul My Soul Healthy Convenience Foods,” includes a bento-style boxed lunch, a rolled gimbap — seaweed-wrapped rice rolls packed with vegetables and other fillings — two triangle-shaped rice balls, known as \"samgak-gimbap,\" and a chicken sandwich. \"This collaboration was designed to help residents easily and affordably embrace healthy living in their daily routines,\" said Kim Hyoung-rae, director-general of the city's public communications bureau. \"We will continue working with private companies to introduce products and content that showcase the value and appeal of Seoul.\" The boxed lunch, rolled gimbap, t...",
+        "fullText": [
+          "The Seoul city government has partnered with CU, Korea’s largest convenience store chain, to launch a line of low-sugar, high-protein packaged meals intended to make healthy eating cheaper and more accessible, municipal officials said earlier this week. The five-item lineup, branded “Seoul My Soul Healthy Convenience Foods,” includes a bento-style boxed lunch, a rolled gimbap — seaweed-wrapped rice rolls packed with vegetables and other fillings — two triangle-shaped rice balls, known as \"samgak-gimbap,\" and a chicken sandwich.",
+          "\"This collaboration was designed to help residents easily and affordably embrace healthy living in their daily routines,\" said Kim Hyoung-rae, director-general of the city's public communications bureau. \"We will continue working with private companies to introduce products and content that showcase the value and appeal of Seoul.",
+          "\" The boxed lunch, rolled gimbap, t..."
+        ],
+        "words": [
+          "convenience",
+          "launch",
+          "low-sugar"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Why 'Boys Over Flowers' star Lee Min-ho still beats Hyun Bin, IU overseas",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260725/why-boys-over-flowers-star-lee-min-ho-still-beats-hyun-bin-iu-overseas?utm_source=rss",
+        "summary": "Let's start with a quiz: Which Korean actor is the most popular among international fans of the Korean Wave? While recent hitmakers like Lee Jung-jae of the \"Squid Game\" series (2021–2025), Kim Ji-won of \"Queen of Tears\" (2024) and Park Bo-gum of \"When Life Gives You Tangerines\" (2025) might seem like obvious candidates, the survey data points elsewhere. According to the 2026 Overseas Hallyu Survey released by the Ministry of Culture, Sports and Tourism, global fans selected Lee Min-ho for a 13th consecutive year as their favorite actor. Actress Song Hye-kyo and singer-actress IU followed in second and third place, respectively, in the poll of 27,400 international viewers of Korean content across 30 countries. Respondents answered open-ended questions. The proportion of respondents who named Lee was 7.1 percent, more than double that of Song at 2.6 percent and IU at 2.3 percent. This ind...",
+        "fullText": [
+          "Let's start with a quiz: Which Korean actor is the most popular among international fans of the Korean Wave? While recent hitmakers like Lee Jung-jae of the \"Squid Game\" series (2021–2025), Kim Ji-won of \"Queen of Tears\" (2024) and Park Bo-gum of \"When Life Gives You Tangerines\" (2025) might seem like obvious candidates, the survey data points elsewhere.",
+          "According to the 2026 Overseas Hallyu Survey released by the Ministry of Culture, Sports and Tourism, global fans selected Lee Min-ho for a 13th consecutive year as their favorite actor. Actress Song Hye-kyo and singer-actress IU followed in second and third place, respectively, in the poll of 27,400 international viewers of Korean content across 30 countries.",
+          "Respondents answered open-ended questions. The proportion of respondents who named Lee was 7.",
+          "1 percent, more than double that of Song at 2. 6 percent and IU at 2.",
+          "3 percent. This ind..."
+        ],
+        "words": [
+          "flowers",
+          "min-ho",
+          "overseas"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Why a Catholic priest says he is 'more interested in people than in God'",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260725/why-a-catholic-priest-says-he-is-more-interested-in-people-than-in-god?utm_source=rss",
+        "summary": "Fr. Matthew Hong Sung-nam, director of the Catholic Psycho-Spiritual Counseling Center in Seoul, says he is \"more interested in people than in God.\" \"I asked, 'God, what should I do?' and the answer that came back was, 'Make people happy,'\" Hong said. \"Since then, I have lived worrying about people instead of worrying about God.\" Born in 1953, Hong followed an unconventional path to his calling. He struggled with anxiety during his youth, describing himself as an \"obnoxious Catholic fanatic.\" As a young adult seeking financial security, he apprenticed under a Korean shaman — a traditional folk spiritualist — before abandoning the training. After seeing Jesus in a dream, he entered a seminary and was ordained as a priest in 1987. Yet ordination did not bring him peace. The demands of parish ministry soon overwhelmed him. Hong began drinking heavily as his mental health deteriorated to the...",
+        "fullText": [
+          "Fr. Matthew Hong Sung-nam, director of the Catholic Psycho-Spiritual Counseling Center in Seoul, says he is \"more interested in people than in God.",
+          "\" \"I asked, 'God, what should I do? ' and the answer that came back was, 'Make people happy,'\" Hong said.",
+          "\"Since then, I have lived worrying about people instead of worrying about God. \" Born in 1953, Hong followed an unconventional path to his calling.",
+          "He struggled with anxiety during his youth, describing himself as an \"obnoxious Catholic fanatic. \" As a young adult seeking financial security, he apprenticed under a Korean shaman — a traditional folk spiritualist — before abandoning the training.",
+          "After seeing Jesus in a dream, he entered a seminary and was ordained as a priest in 1987. Yet ordination did not bring him peace.",
+          "The demands of parish ministry soon overwhelmed him. Hong began drinking heavily as his mental health deteriorated to the..."
+        ],
+        "words": [
+          "catholic",
+          "priest",
+          "interested"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Tropical Nights, Ultrahot Days More Frequent in S. Korea since 1970s",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203129",
+        "summary": "[Science] : A recent analysis shows that South Korea is experiencing significantly more tropical nights and days of extreme heat than it did in the 1970s, with the sweltering weather starting earlier in the season and ending later. According to the analysis by the Korea Meteorological Administration, released ... [more...]",
+        "fullText": [
+          "[Science] : A recent analysis shows that South Korea is experiencing significantly more tropical nights and days of extreme heat than it did in the 1970s, with the sweltering weather starting earlier in the season and ending later. According to the analysis by the Korea Meteorological Administration, released ...",
+          "[more... ]"
+        ],
+        "words": [
+          "tropical",
+          "nights",
+          "ultrahot"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Sweltering Weather to Continue Saturday",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203128",
+        "summary": "[Science] : Sweltering conditions are expected to continue on Saturday, with heat wave advisories in effect across most parts of the nation. According to the Korea Meteorological Administration on Friday, advisories for tropical nights, defined as when nighttime temperatures remain at or above 25 degrees Celsius, ... [more...]",
+        "fullText": [
+          "[Science] : Sweltering conditions are expected to continue on Saturday, with heat wave advisories in effect across most parts of the nation. According to the Korea Meteorological Administration on Friday, advisories for tropical nights, defined as when nighttime temperatures remain at or above 25 degrees Celsius, ...",
+          "[more... ]"
+        ],
+        "words": [
+          "sweltering",
+          "weather",
+          "continue"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Foreign Minister Holds Talks with EU, UK Counterparts on Strengthening Cooperation",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203127",
+        "summary": "[International] : South Korean Foreign Minister Cho Hyun held separate talks with his EU and UK counterparts in the Philippines on Thursday. Cho met EU High Representative for Foreign Affairs and Security Policy Kaja Kallas in Manila on the sidelines of the ASEAN Regional Forum Foreign Ministers’ Meeting. The two sides ... [more...]",
+        "fullText": [
+          "[International] : South Korean Foreign Minister Cho Hyun held separate talks with his EU and UK counterparts in the Philippines on Thursday. Cho met EU High Representative for Foreign Affairs and Security Policy Kaja Kallas in Manila on the sidelines of the ASEAN Regional Forum Foreign Ministers’ Meeting.",
+          "The two sides ... [more...",
+          "]"
+        ],
+        "words": [
+          "foreign",
+          "minister",
+          "counterparts"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "KOSPI Plunges More than 5% on Middle East Concerns",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203126",
+        "summary": "[Economy] : The benchmark Korea Composite Stock Price Index plunged 406-point-27 points, or five-point-72 percent, on Friday to close at six-thousand-690-point-62. The index shed over five percent as investors dumped tech shares amid uncertainty from renewed conflict between the U.S. and Iran. U.S. President ... [more...]",
+        "fullText": [
+          "[Economy] : The benchmark Korea Composite Stock Price Index plunged 406-point-27 points, or five-point-72 percent, on Friday to close at six-thousand-690-point-62. The index shed over five percent as investors dumped tech shares amid uncertainty from renewed conflict between the U.",
+          "S. and Iran.",
+          "U. S.",
+          "President ... [more...",
+          "]"
+        ],
+        "words": [
+          "plunges",
+          "middle",
+          "concerns"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-24",
     "label": "Friday, July 24, 2026",
     "title": "Korea News Brief",
