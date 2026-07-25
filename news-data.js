@@ -1,5 +1,140 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-26",
+    "label": "Sunday, July 26, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "From riverfronts to city squares, Seoul's splash parks offer cool refuge",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260726/from-riverfronts-to-city-squares-seouls-splash-parks-offer-cool-refuge?utm_source=rss",
+        "summary": "As the summer heat settles heavily over the urban basin of Seoul, the capital is offering its residents a familiar, albeit revitalized, reprieve: turning its public riverfronts, neighborhood plazas and parks into sprawling aquatic sanctuaries. For millions of families navigating the humid stretch of school vacations, the Seoul Metropolitan Government and several district offices have unveiled an expanded network of outdoor pools and water play parks. Designed as low-cost, accessible escapes, these public facilities reflect a broader municipal effort to adapt the dense, high-rise metropolis into a more livable — and cooler — summer environment. At the heart of the city’s aquatic strategy is the Han River, the wide ribbon of water that bisects the city. On June 19, the city’s Han River Parks system launched six public swimming and splash facilities for a 73-day season running through Aug....",
+        "fullText": [
+          "As the summer heat settles heavily over the urban basin of Seoul, the capital is offering its residents a familiar, albeit revitalized, reprieve: turning its public riverfronts, neighborhood plazas and parks into sprawling aquatic sanctuaries. For millions of families navigating the humid stretch of school vacations, the Seoul Metropolitan Government and several district offices have unveiled an expanded network of outdoor pools and water play parks.",
+          "Designed as low-cost, accessible escapes, these public facilities reflect a broader municipal effort to adapt the dense, high-rise metropolis into a more livable — and cooler — summer environment. At the heart of the city’s aquatic strategy is the Han River, the wide ribbon of water that bisects the city.",
+          "On June 19, the city’s Han River Parks system launched six public swimming and splash facilities for a 73-day season running through Aug...."
+        ],
+        "words": [
+          "riverfronts",
+          "squares",
+          "splash"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "From 'The East Palace' to 'Hope': What makes K-creatures stand out",
+        "url": "https://www.koreatimes.co.kr/entertainment/20260726/from-the-east-palace-to-hope-what-makes-k-creatures-stand-out?utm_source=rss",
+        "summary": "The creature genre continues to evolve in Korea's content industry. Once dominated by zombie stories, K-creatures have expanded into a wider range of supernatural beings, including ghosts and extraterrestrials. Netflix's \"The East Palace\" and the film \"Hope\" exemplify this evolution, introducing new creatures rooted in Korean culture and tradition. Netflix original series \"The East Palace,\" which premiered on July 17, follows Gucheon (Nam Joo-hyuk), who possesses the ability to traverse the world of spirits, and court lady Saenggang (Roh Yoon-seo), who harbors a secret. Summoned by the king (Cho Seung-woo), the two investigate a mysterious curse haunting the Eastern Palace. Meanwhile, \"Hope,\" which opened in theaters on July 15, centers on Beom-seok, the head of a small administrative office near the demilitarized zone, who is alerted by local youths about the appearance of a tiger. As t...",
+        "fullText": [
+          "The creature genre continues to evolve in Korea's content industry. Once dominated by zombie stories, K-creatures have expanded into a wider range of supernatural beings, including ghosts and extraterrestrials.",
+          "Netflix's \"The East Palace\" and the film \"Hope\" exemplify this evolution, introducing new creatures rooted in Korean culture and tradition. Netflix original series \"The East Palace,\" which premiered on July 17, follows Gucheon (Nam Joo-hyuk), who possesses the ability to traverse the world of spirits, and court lady Saenggang (Roh Yoon-seo), who harbors a secret.",
+          "Summoned by the king (Cho Seung-woo), the two investigate a mysterious curse haunting the Eastern Palace. Meanwhile, \"Hope,\" which opened in theaters on July 15, centers on Beom-seok, the head of a small administrative office near the demilitarized zone, who is alerted by local youths about the appearance of a tiger.",
+          "As t..."
+        ],
+        "words": [
+          "palace",
+          "k-creatures",
+          "creature"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Top US ballet company's new Korean principal reflects on recent promotion",
+        "url": "https://www.koreatimes.co.kr/entertainment/20260726/top-us-ballet-companys-new-korean-principal-reflects-on-recent-promotion?utm_source=rss",
+        "summary": "\"I used to imagine that I would cry if I were promoted to principal dancer. But when the moment finally came, I had enjoyed the performance so much that I simply felt happy. More than anything, I was relieved that I had finished the show well.\" That is how Park Sun-mi, 27, recalled the dramatic moment she was promoted to principal dancer with American Ballet Theatre (ABT) immediately after a performance of \"Swan Lake\" at New York's Metropolitan Opera House on July 15. During a phone interview, Park said, \"People asked if I had somehow known in advance because I stayed so calm, but I had absolutely no idea.\" Beginning with the 2026-27 season on Sept. 1, Park will become ABT's third Korean principal dancer, following Seo Hee and Ahn Joo-won. Park's mother, who had traveled from Korea, was in the audience when the announcement was made. She had hesitated to fly to the United States because...",
+        "fullText": [
+          "\"I used to imagine that I would cry if I were promoted to principal dancer. But when the moment finally came, I had enjoyed the performance so much that I simply felt happy.",
+          "More than anything, I was relieved that I had finished the show well. \" That is how Park Sun-mi, 27, recalled the dramatic moment she was promoted to principal dancer with American Ballet Theatre (ABT) immediately after a performance of \"Swan Lake\" at New York's Metropolitan Opera House on July 15.",
+          "During a phone interview, Park said, \"People asked if I had somehow known in advance because I stayed so calm, but I had absolutely no idea. \" Beginning with the 2026-27 season on Sept.",
+          "1, Park will become ABT's third Korean principal dancer, following Seo Hee and Ahn Joo-won. Park's mother, who had traveled from Korea, was in the audience when the announcement was made.",
+          "She had hesitated to fly to the United States because..."
+        ],
+        "words": [
+          "ballet",
+          "company",
+          "principal"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "N. Korea Slams Japan for Suggesting Reconsideration of its Nuclear Policy",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203139",
+        "summary": "[Politics] : North Korea has slammed Japan for suggesting reconsideration of the country's nuclear policy. In a commentary Saturday, the North's state-run Korean Central News Agency(KCNA) said such an amendment would lead to nuclearization by a war criminal state. Referring to a recent call to rediscuss ... [more...]",
+        "fullText": [
+          "[Politics] : North Korea has slammed Japan for suggesting reconsideration of the country's nuclear policy. In a commentary Saturday, the North's state-run Korean Central News Agency(KCNA) said such an amendment would lead to nuclearization by a war criminal state.",
+          "Referring to a recent call to rediscuss ... [more...",
+          "]"
+        ],
+        "words": [
+          "suggesting",
+          "reconsideration",
+          "nuclear"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "First Lady Kim Attends Event Promoting Traditional 'Hanji' Paper in San Francisco",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203138",
+        "summary": "[Politics] : First lady Kim Hea Kyung has attended an event promoting \"hanji\" or traditional Korean paper handmade from the bark of mulberry trees, while accompanying President Lee Jae Myung on a visit to San Francisco. During an exhibit and a fashion show featuring the highly durable paper Friday, local time, the ... [more...]",
+        "fullText": [
+          "[Politics] : First lady Kim Hea Kyung has attended an event promoting \"hanji\" or traditional Korean paper handmade from the bark of mulberry trees, while accompanying President Lee Jae Myung on a visit to San Francisco. During an exhibit and a fashion show featuring the highly durable paper Friday, local time, the ...",
+          "[more... ]"
+        ],
+        "words": [
+          "attends",
+          "promoting",
+          "traditional"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "KBS: Justice Minister Jung Previously Offered to Step Down via Pres. Aides",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203137",
+        "summary": "[Politics] : Justice Minister Jung Sung-ho, who reportedly tendered his resignation after the ruling Democratic Party(DP) decided to adopt as party line the abolition of the prosecution's right to supplementary investigations, says he had expressed such intent for some time. Speaking to KBS Saturday, Jung said ... [more...]",
+        "fullText": [
+          "[Politics] : Justice Minister Jung Sung-ho, who reportedly tendered his resignation after the ruling Democratic Party(DP) decided to adopt as party line the abolition of the prosecution's right to supplementary investigations, says he had expressed such intent for some time. Speaking to KBS Saturday, Jung said ...",
+          "[more... ]"
+        ],
+        "words": [
+          "justice",
+          "minister",
+          "previously"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "S. Korea's Crude Oil Imports Drop 14.7% since Iran War, Payment Jumps over 20%",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203136",
+        "summary": "[Economy] : South Korea's imports of crude oil dropped since the outbreak of the Iran war in late February, but the amount paid jumped more than 20 percent. According to data from the Korea International Trade Association Saturday, the cost of the country's crude oil imports totaled 30-point-23 billion ... [more...]",
+        "fullText": [
+          "[Economy] : South Korea's imports of crude oil dropped since the outbreak of the Iran war in late February, but the amount paid jumped more than 20 percent. According to data from the Korea International Trade Association Saturday, the cost of the country's crude oil imports totaled 30-point-23 billion ...",
+          "[more... ]"
+        ],
+        "words": [
+          "imports",
+          "payment",
+          "economy"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-25",
     "label": "Saturday, July 25, 2026",
     "title": "Korea News Brief",
