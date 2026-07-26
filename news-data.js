@@ -1,5 +1,140 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-27",
+    "label": "Monday, July 27, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, International, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[Reporter's notebook] Why you need smartwatch to build running habit",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20260727/reporters-notebook-why-you-need-smartwatch-to-build-running-habit?utm_source=rss",
+        "summary": "LONDON — We all make the same promise to ourselves. I should exercise more. I should lose weight. Then comes the excuse. It's too hot outside. Work has been exhausting. Tomorrow seems to be a better day to work out. This one missed workout becomes two, a week and then a month. This reporter does that all the time. During nearly 15 years at The Korea Times, my weight steadily crept up. Every now and then, guilt pushed me out the door for a short run only to stop with gasping breath. That was usually enough to convince myself I had \"worked out,\" often followed by an oversized meal. Things changed almost after buying a smartwatch almost by accident — a product I write about but never seriously considered buying. Since the beginning of this year, I have run at least 5 kilometers almost every day and have steadily lost weight. I can now proudly call myself a beginner runner, and I owe much of...",
+        "fullText": [
+          "LONDON — We all make the same promise to ourselves. I should exercise more.",
+          "I should lose weight. Then comes the excuse.",
+          "It's too hot outside. Work has been exhausting.",
+          "Tomorrow seems to be a better day to work out. This one missed workout becomes two, a week and then a month.",
+          "This reporter does that all the time. During nearly 15 years at The Korea Times, my weight steadily crept up.",
+          "Every now and then, guilt pushed me out the door for a short run only to stop with gasping breath. That was usually enough to convince myself I had \"worked out,\" often followed by an oversized meal.",
+          "Things changed almost after buying a smartwatch almost by accident — a product I write about but never seriously considered buying. Since the beginning of this year, I have run at least 5 kilometers almost every day and have steadily lost weight.",
+          "I can now proudly call myself a beginner runner, and I owe much of..."
+        ],
+        "words": [
+          "reporter",
+          "notebook",
+          "smartwatch"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Korea powers Peru's push into minerals, defense, green energy: Peruvian ambassador",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260727/korea-powers-perus-push-into-minerals-defense-green-energy-peruvian-ambassador?utm_source=rss",
+        "summary": "As Peru marks the 205th anniversary of its independence on July 28, the same day President-elect Keiko Fujimori is inaugurated — Peruvian Ambassador to Korea Paul Duclos said his country and Korea are entering a new phase of their 63-year partnership, with cooperation expanding beyond trade into critical minerals, defense, logistics, green energy, artificial intelligence, digital government and other strategic sectors. In an interview with The Korea Times ahead of Peru's National Day, Duclos described Korea as one of Peru's key strategic partners in Asia and expressed confidence that bilateral ties will continue to deepen across both traditional industries and emerging areas. \"I consider that the commemoration of the 205th Anniversary of Peru's Independence is an occasion not only for celebration, but also for reflection on the progress we have achieved as a country in recent years and o...",
+        "fullText": [
+          "As Peru marks the 205th anniversary of its independence on July 28, the same day President-elect Keiko Fujimori is inaugurated — Peruvian Ambassador to Korea Paul Duclos said his country and Korea are entering a new phase of their 63-year partnership, with cooperation expanding beyond trade into critical minerals, defense, logistics, green energy, artificial intelligence, digital government and other strategic sectors. In an interview with The Korea Times ahead of Peru's National Day, Duclos described Korea as one of Peru's key strategic partners in Asia and expressed confidence that bilateral ties will continue to deepen across both traditional industries and emerging areas.",
+          "\"I consider that the commemoration of the 205th Anniversary of Peru's Independence is an occasion not only for celebration, but also for reflection on the progress we have achieved as a country in recent years and o..."
+        ],
+        "words": [
+          "powers",
+          "minerals",
+          "defense"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Lee Heads to Brazil After San Francisco AI and Tech Meetings",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203146",
+        "summary": "[Politics] : President Lee Jae Myung departed the United States on Saturday after wrapping up his visit to San Francisco, the first stop of his tour of the United States and three South American countries. Lee left San Francisco International Airport for Brasília, Brazil, where he will hold summit talks Sunday with ... [more...]",
+        "fullText": [
+          "[Politics] : President Lee Jae Myung departed the United States on Saturday after wrapping up his visit to San Francisco, the first stop of his tour of the United States and three South American countries. Lee left San Francisco International Airport for Brasília, Brazil, where he will hold summit talks Sunday with ...",
+          "[more... ]"
+        ],
+        "words": [
+          "brazil",
+          "francisco",
+          "meetings"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "NYT: Trump Paused Iran Strike Over Missile Shortage Concerns",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203145",
+        "summary": "[International] : United States President Donald Trump has reportedly held off a planned large-scale strike on Iran after military advisers warned that American forces in the Middle East were facing shortages of air defense munitions. Citing sources familiar with the matter, The New York Times reported Saturday that Joint ... [more...]",
+        "fullText": [
+          "[International] : United States President Donald Trump has reportedly held off a planned large-scale strike on Iran after military advisers warned that American forces in the Middle East were facing shortages of air defense munitions. Citing sources familiar with the matter, The New York Times reported Saturday that Joint ...",
+          "[more... ]"
+        ],
+        "words": [
+          "paused",
+          "strike",
+          "missile"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Budget Minister Projects Over 500 Trillion Won in Tax Revenue Next Year",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203144",
+        "summary": "[Economy] : Planning and Budget Minister Park Hong-geun said domestic tax revenue is expected to exceed 500 trillion won, or about 340 billion U.S. dollars, next year, with additional funds to be invested in boosting the country's growth potential. Appearing on a KBS program Sunday, Park said domestic tax revenue is ... [more...]",
+        "fullText": [
+          "[Economy] : Planning and Budget Minister Park Hong-geun said domestic tax revenue is expected to exceed 500 trillion won, or about 340 billion U. S.",
+          "dollars, next year, with additional funds to be invested in boosting the country's growth potential. Appearing on a KBS program Sunday, Park said domestic tax revenue is ...",
+          "[more... ]"
+        ],
+        "words": [
+          "budget",
+          "minister",
+          "projects"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Lee Calls for Stronger Korea-Silicon Valley Ties",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203143",
+        "summary": "[Economy] : President Lee Jae Myung met with Silicon Valley venture capital firms in San Francisco and urged them to increase investment in South Korean startups. Lee made the appeal Saturday in opening remarks at the \"Silicon Valley Venture Investment Meetup,\" attended by executives from six of the region's top ... [more...]",
+        "fullText": [
+          "[Economy] : President Lee Jae Myung met with Silicon Valley venture capital firms in San Francisco and urged them to increase investment in South Korean startups. Lee made the appeal Saturday in opening remarks at the \"Silicon Valley Venture Investment Meetup,\" attended by executives from six of the region's top ...",
+          "[more... ]"
+        ],
+        "words": [
+          "stronger",
+          "korea-silicon",
+          "valley"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "S. Korea, Global Tech Firms Unveil Mega $950 Bln Semiconductor Partnership",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203142",
+        "summary": "[Economy] : The presidential office said South Korean companies and global technology giants have agreed to pursue semiconductor cooperation projects valued at a combined 950 billion dollars, or one-thousand-375 trillion won. Presidential Policy Chief Kim Yong-beom announced the agreements Saturday during a press ... [more...]",
+        "fullText": [
+          "[Economy] : The presidential office said South Korean companies and global technology giants have agreed to pursue semiconductor cooperation projects valued at a combined 950 billion dollars, or one-thousand-375 trillion won. Presidential Policy Chief Kim Yong-beom announced the agreements Saturday during a press ...",
+          "[more... ]"
+        ],
+        "words": [
+          "global",
+          "unveil",
+          "semiconductor"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-26",
     "label": "Sunday, July 26, 2026",
     "title": "Korea News Brief",
