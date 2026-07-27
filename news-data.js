@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-28",
+    "label": "Tuesday, July 28, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Hyundai Motor's AI push struggles to offset earnings concerns",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260728/hyundai-motors-ai-push-struggles-to-offset-earnings-concerns?utm_source=rss",
+        "summary": "Hyundai Motor Group's push into physical artificial intelligence (AI) is failing to offset mounting investor concerns, as weakening automotive earnings prompt brokerages to cut their target prices for Hyundai Motor and Kia. Despite Hyundai Motor Group Executive Chair Chung Euisun's high-profile campaign to position the group as a leader in physical AI and robotics, analysts are trimming their price targets for the two carmakers, as their disappointing second-quarter earnings underscored slowing profitability in their core vehicle business. Speaking at the San Francisco AI Summit on Friday, Chung outlined the group's long-term vision for physical AI, describing an ecosystem in which intelligent vehicles, robots, AI-powered factories and eventually entire urban infrastructure operate as an integrated network. The strategy extends beyond autonomous mobility to AI-driven manufacturing, logis...",
+        "fullText": [
+          "Hyundai Motor Group's push into physical artificial intelligence (AI) is failing to offset mounting investor concerns, as weakening automotive earnings prompt brokerages to cut their target prices for Hyundai Motor and Kia. Despite Hyundai Motor Group Executive Chair Chung Euisun's high-profile campaign to position the group as a leader in physical AI and robotics, analysts are trimming their price targets for the two carmakers, as their disappointing second-quarter earnings underscored slowing profitability in their core vehicle business.",
+          "Speaking at the San Francisco AI Summit on Friday, Chung outlined the group's long-term vision for physical AI, describing an ecosystem in which intelligent vehicles, robots, AI-powered factories and eventually entire urban infrastructure operate as an integrated network. The strategy extends beyond autonomous mobility to AI-driven manufacturing, logis..."
+        ],
+        "words": [
+          "hyundai",
+          "struggles",
+          "offset"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Senior living: Next frontier in Korea's silver economy",
+        "url": "https://www.koreatimes.co.kr/economy/20260728/senior-living-next-frontier-in-koreas-silver-economy?utm_source=rss",
+        "summary": "Korea’s population is aging faster than almost anywhere else in the developed world. More than 1 in 5 — around 11.25 million people — are now aged 65 or older, a demographic shift that is expected to propel the country’s silver economy from 72 trillion won in 2020 to 168 trillion won by 2030. Yet one corner of that economy remains strikingly underdeveloped: senior living. Unlike nursing homes, which are designed primarily around long-term clinical care, senior living communities combine housing with hospitality, wellness and social engagement. “Residents are customers choosing a lifestyle rather than patients receiving care,” said Josh Rose-Nokes, head of Asia Pacific living research at Cushman & Wakefield. While countries like Australia and Japan have built more mature senior living sectors supported by experienced operators and deep pools of institutional capital, Korea is still in the...",
+        "fullText": [
+          "Korea’s population is aging faster than almost anywhere else in the developed world. More than 1 in 5 — around 11.",
+          "25 million people — are now aged 65 or older, a demographic shift that is expected to propel the country’s silver economy from 72 trillion won in 2020 to 168 trillion won by 2030. Yet one corner of that economy remains strikingly underdeveloped: senior living.",
+          "Unlike nursing homes, which are designed primarily around long-term clinical care, senior living communities combine housing with hospitality, wellness and social engagement. “Residents are customers choosing a lifestyle rather than patients receiving care,” said Josh Rose-Nokes, head of Asia Pacific living research at Cushman & Wakefield.",
+          "While countries like Australia and Japan have built more mature senior living sectors supported by experienced operators and deep pools of institutional capital, Korea is still in the..."
+        ],
+        "words": [
+          "senior",
+          "living",
+          "frontier"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "KARD disbands after 10 years, but members insist story is not over",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260728/kard-disbands-after-10-years-but-members-insist-story-is-not-over?utm_source=rss",
+        "summary": "The four members of KARD are reluctant to use the word \"disbandment.\" By any common definition, it applies. The co-ed group's contract with DSP Media expires at the end of this year, and the agency announced earlier this month that one final album and world tour would conclude KARD's journey. But sitting down with The Korea Times for an interview at a cafe in Gwangjin District, eastern Seoul, Tuesday, the members wanted the word understood on their own terms. \"The four of us still want to make music together, but that would just happen in a new environment,\" Jiwoo said. \"I think the misunderstanding was understandable, but there are no plans for us to say goodbye and part ways entirely.\" J.Seph, the group's rapper, said even his young nephew called to ask. \"I explained, like anyone else, I belong to a company, and I'm tied to that company by a contract. The point where that contract ends...",
+        "fullText": [
+          "The four members of KARD are reluctant to use the word \"disbandment. \" By any common definition, it applies.",
+          "The co-ed group's contract with DSP Media expires at the end of this year, and the agency announced earlier this month that one final album and world tour would conclude KARD's journey. But sitting down with The Korea Times for an interview at a cafe in Gwangjin District, eastern Seoul, Tuesday, the members wanted the word understood on their own terms.",
+          "\"The four of us still want to make music together, but that would just happen in a new environment,\" Jiwoo said. \"I think the misunderstanding was understandable, but there are no plans for us to say goodbye and part ways entirely.",
+          "\" J. Seph, the group's rapper, said even his young nephew called to ask.",
+          "\"I explained, like anyone else, I belong to a company, and I'm tied to that company by a contract. The point where that contract ends..."
+        ],
+        "words": [
+          "disbands",
+          "members",
+          "insist"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Sungkyunkwan University researchers develop system to prevent subway door accidents through collaboration",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260728/sungkyunkwan-university-researchers-develop-system-to-prevent-subway-door-accidents-through-collaboration?utm_source=rss",
+        "summary": "A Sungkyunkwan University research team has developed an artificial intelligence (AI)-based system to prevent subway door-related accidents in collaboration with the Korea Advanced Institute of Science and Technology (KAIST) and Texas Tech University. The university said researchers from the three institutions worked together to develop an AI-based passenger movement estimation system to help prevent subway door entrapment accidents. The system is designed to predict passenger movements using CCTV footage by detecting passengers and classifying their movement types. Unlike conventional reactive methods, the new system is capable of proactively identifying risks before passengers even reach the platform, according to the university. The research team was led by Chong Jo-woon, a professor at Sungkyunkwan University’s School of Electronics and Electrical Engineering. Jo Hee, a doctoral stud...",
+        "fullText": [
+          "A Sungkyunkwan University research team has developed an artificial intelligence (AI)-based system to prevent subway door-related accidents in collaboration with the Korea Advanced Institute of Science and Technology (KAIST) and Texas Tech University. The university said researchers from the three institutions worked together to develop an AI-based passenger movement estimation system to help prevent subway door entrapment accidents.",
+          "The system is designed to predict passenger movements using CCTV footage by detecting passengers and classifying their movement types. Unlike conventional reactive methods, the new system is capable of proactively identifying risks before passengers even reach the platform, according to the university.",
+          "The research team was led by Chong Jo-woon, a professor at Sungkyunkwan University’s School of Electronics and Electrical Engineering. Jo Hee, a doctoral stud..."
+        ],
+        "words": [
+          "sungkyunkwan",
+          "university",
+          "researchers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee, Lula meet in Brasilia for talks on ways to enhance cooperation between Korea, Brazil",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260728/lee-lula-meet-in-brasilia-for-talks-on-ways-to-enhance-cooperation-between-korea-brazil?utm_source=rss",
+        "summary": "BRASILIA — President Lee Jae Myung held a summit with Brazilian President Luiz Inacio Lula da Silva here on Monday as Seoul seeks to strengthen cooperation with the South American country in critical minerals and supply chains. The Lee-Lula summit in Brasilia marks their second official talks this year, following their previous summit in February in Seoul, during which the leaders agreed to elevate bilateral ties to a strategic partnership. Escorted by mounted honor guards, Lee arrived at the Brazilian presidential palace in the capital, where he was greeted by Lula with a hug and a smile. The Korean president arrived here Sunday as part of his three-nation South America tour that will later take him to Chile and Argentina. The leaders were expected to discuss ways to strengthen cooperation, especially in critical minerals and supply chains, as Seoul seeks to diversify its trade portfoli...",
+        "fullText": [
+          "BRASILIA — President Lee Jae Myung held a summit with Brazilian President Luiz Inacio Lula da Silva here on Monday as Seoul seeks to strengthen cooperation with the South American country in critical minerals and supply chains. The Lee-Lula summit in Brasilia marks their second official talks this year, following their previous summit in February in Seoul, during which the leaders agreed to elevate bilateral ties to a strategic partnership.",
+          "Escorted by mounted honor guards, Lee arrived at the Brazilian presidential palace in the capital, where he was greeted by Lula with a hug and a smile. The Korean president arrived here Sunday as part of his three-nation South America tour that will later take him to Chile and Argentina.",
+          "The leaders were expected to discuss ways to strengthen cooperation, especially in critical minerals and supply chains, as Seoul seeks to diversify its trade portfoli..."
+        ],
+        "words": [
+          "brasilia",
+          "enhance",
+          "cooperation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Everyone wants to be emperor",
+        "url": "https://www.koreatimes.co.kr/opinion/20260728/everyone-wants-to-be-emperor?utm_source=rss",
+        "summary": "This story reports on everyone wants to be emperor.",
+        "fullText": [
+          "This story reports on everyone wants to be emperor."
+        ],
+        "words": [
+          "everyone",
+          "emperor",
+          "reports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "K-pop singers fight back against smoking rumors",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260728/k-pop-singers-fight-back-against-smoking-rumors?utm_source=rss",
+        "summary": "Two female K-pop singers have publicly denied persistent smoking rumors, calling them false and baseless. Both performers said the claims had spread online and were treated as fact, saying they were unfairly accused. On Thursday, comedian Lee Yong-jin's YouTube channel released an episode of its talk show, \"The Trueman Show,\" featuring fromis_9 members Lee Na-gyung and Lee Chae-young. During the show's lie-detector segment, Chae-young said she does not smoke. When host Lee asked whether she wanted to clear the air, she brought up the smoking rumors without hesitation. \"When you search my name, 'cigarette' comes up,\" she said. \"I am a nonsmoker and have never smoked.\" Regarding the speculation, Chae-young said the claims lacked any factual basis. She explained that she once posted a photo on social media that showed an electronic cigarette in the background. She said the object was far aw...",
+        "fullText": [
+          "Two female K-pop singers have publicly denied persistent smoking rumors, calling them false and baseless. Both performers said the claims had spread online and were treated as fact, saying they were unfairly accused.",
+          "On Thursday, comedian Lee Yong-jin's YouTube channel released an episode of its talk show, \"The Trueman Show,\" featuring fromis_9 members Lee Na-gyung and Lee Chae-young. During the show's lie-detector segment, Chae-young said she does not smoke.",
+          "When host Lee asked whether she wanted to clear the air, she brought up the smoking rumors without hesitation. \"When you search my name, 'cigarette' comes up,\" she said.",
+          "\"I am a nonsmoker and have never smoked. \" Regarding the speculation, Chae-young said the claims lacked any factual basis.",
+          "She explained that she once posted a photo on social media that showed an electronic cigarette in the background. She said the object was far aw..."
+        ],
+        "words": [
+          "singers",
+          "against",
+          "smoking"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "label": "Monday, July 27, 2026",
     "title": "Korea News Brief",
