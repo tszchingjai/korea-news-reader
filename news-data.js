@@ -1,5 +1,143 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-29",
+    "label": "Wednesday, July 29, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Can K-pop convince fans to travel to Korea every year?",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260729/can-k-pop-convince-fans-to-travel-to-korea-every-year?utm_source=rss",
+        "summary": "BTS packs stadiums in Los Angeles and BLACKPINK headlines Coachella, yet Korea has no equivalent to Coachella and Lollapalooza or Japan's Summer Sonic. There's no festival that makes fans around the world book flights to K-pop's birthplace every single year. \"Fanomenon,\" the K-culture mega event unveiled Monday by the Presidential Committee on Popular Culture Exchange, is the government and industry's most ambitious attempt yet to fill that gap. More than a new festival, it signals a strategic pivot for \"hallyu,\" also known as the Korean wave, from exporting artists and content outward to pulling fans to Korea, converting global fandom into an annual pilgrimage built on concerts, tourism, merchandise and participation. The plan is sweeping. The inaugural festival will run from Dec. 2 to 12, 2027, at Seoul Arena in northern Seoul's Dobong District and KINTEX in Goyang, Gyeonggi Province,...",
+        "fullText": [
+          "BTS packs stadiums in Los Angeles and BLACKPINK headlines Coachella, yet Korea has no equivalent to Coachella and Lollapalooza or Japan's Summer Sonic. There's no festival that makes fans around the world book flights to K-pop's birthplace every single year.",
+          "\"Fanomenon,\" the K-culture mega event unveiled Monday by the Presidential Committee on Popular Culture Exchange, is the government and industry's most ambitious attempt yet to fill that gap. More than a new festival, it signals a strategic pivot for \"hallyu,\" also known as the Korean wave, from exporting artists and content outward to pulling fans to Korea, converting global fandom into an annual pilgrimage built on concerts, tourism, merchandise and participation.",
+          "The plan is sweeping. The inaugural festival will run from Dec.",
+          "2 to 12, 2027, at Seoul Arena in northern Seoul's Dobong District and KINTEX in Goyang, Gyeonggi Province,..."
+        ],
+        "words": [
+          "convince",
+          "travel",
+          "stadiums"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Scarcity sells: Special edition jerseys redefine sports retail",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260729/scarcity-sells-special-edition-jerseys-redefine-sports-retail?utm_source=rss",
+        "summary": "Limited “special edition” products tied to specific tournaments or seasons are emerging as a key trend in the sportswear retail market, capturing growing consumer attention. Unlike standard uniforms, these exclusive releases leverage scarcity to stimulate demand, often driving stronger purchasing intent among fans and collectors. Industry observers note this shift reflects evolving sportswear marketing strategies. Brands are increasingly positioning uniforms not as routine merchandise but as event-driven products tied to particular moments in time. As a result, once a tournament concludes, these items are no longer available, effectively transforming them into collectibles. This trend aligns with the rise of “small luxury” consumption in Korea, where consumers are willing to spend extravagantly on items that reflect personal taste and identity, rather than traditional luxury goods. Conse...",
+        "fullText": [
+          "Limited “special edition” products tied to specific tournaments or seasons are emerging as a key trend in the sportswear retail market, capturing growing consumer attention. Unlike standard uniforms, these exclusive releases leverage scarcity to stimulate demand, often driving stronger purchasing intent among fans and collectors.",
+          "Industry observers note this shift reflects evolving sportswear marketing strategies. Brands are increasingly positioning uniforms not as routine merchandise but as event-driven products tied to particular moments in time.",
+          "As a result, once a tournament concludes, these items are no longer available, effectively transforming them into collectibles. This trend aligns with the rise of “small luxury” consumption in Korea, where consumers are willing to spend extravagantly on items that reflect personal taste and identity, rather than traditional luxury goods.",
+          "Conse..."
+        ],
+        "words": [
+          "scarcity",
+          "special",
+          "edition"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Sejong University professor appointed inaugural convener of ISO working group",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260729/sejong-university-professor-appointed-inaugural-convener-of-iso-working-group?utm_source=rss",
+        "summary": "Lee Jong-hyouk, a professor of information security at Sejong University, has been appointed as the inaugural convener of an International Organization for Standardization (ISO) working group responsible for developing international cybersecurity standards for uncrewed aircraft systems (UAS). The university said Monday that Lee’s appointment was officially confirmed at the ISO/TC 20/SC 16 plenary meeting held in Brussels, Belgium, July 20-24. ISO/TC 20/SC 16 is an ISO technical subcommittee responsible for developing international standards for UAS. As convener, Lee will oversee the overall direction of international standards development within the working group, coordinate discussions among experts from member countries, facilitate consensus-building and chair international meetings. His appointment marks an important milestone, laying the foundation for Korea to take a leading role in...",
+        "fullText": [
+          "Lee Jong-hyouk, a professor of information security at Sejong University, has been appointed as the inaugural convener of an International Organization for Standardization (ISO) working group responsible for developing international cybersecurity standards for uncrewed aircraft systems (UAS). The university said Monday that Lee’s appointment was officially confirmed at the ISO/TC 20/SC 16 plenary meeting held in Brussels, Belgium, July 20-24.",
+          "ISO/TC 20/SC 16 is an ISO technical subcommittee responsible for developing international standards for UAS. As convener, Lee will oversee the overall direction of international standards development within the working group, coordinate discussions among experts from member countries, facilitate consensus-building and chair international meetings.",
+          "His appointment marks an important milestone, laying the foundation for Korea to take a leading role in..."
+        ],
+        "words": [
+          "sejong",
+          "university",
+          "professor"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "When adult children won't leave home: Another retirement risk for parents?",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260729/when-adult-children-wont-leave-home-another-retirement-risk-for-parents?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. A 35-year-old daughter asks, \"Mom, what's for dinner tonight?\" Although she works for a small company, she has no plans to move out. She does not do her own laundry or clean her room, and every day she asks what is on the dinner menu. Her mother says she feels increasingly frustrated. After eating, the daughter quickly retreats to her room and rarely helps with the dishes. As more adult children delay leaving home, many couples in their 60s are finding it harder to prepare for retirement. They wonder how long they will have to continue supporting their grown children. The woman's husband has already retired and now works part-time to supplement the household income, as the national pension alone is not enough to cover living expenses. They worry about the financial burden they would face if either of them became seriously ill, particularly med...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "A 35-year-old daughter asks, \"Mom, what's for dinner tonight? \" Although she works for a small company, she has no plans to move out.",
+          "She does not do her own laundry or clean her room, and every day she asks what is on the dinner menu. Her mother says she feels increasingly frustrated.",
+          "After eating, the daughter quickly retreats to her room and rarely helps with the dishes. As more adult children delay leaving home, many couples in their 60s are finding it harder to prepare for retirement.",
+          "They wonder how long they will have to continue supporting their grown children. The woman's husband has already retired and now works part-time to supplement the household income, as the national pension alone is not enough to cover living expenses.",
+          "They worry about the financial burden they would face if either of them became seriously ill, particularly med..."
+        ],
+        "words": [
+          "children",
+          "another",
+          "retirement"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Paris Opera Ballet's Korean principal Park Sae-eun to lead gala performance in Seoul",
+        "url": "https://www.koreatimes.co.kr/entertainment/20260729/paris-opera-ballets-korean-principal-park-sae-eun-to-lead-gala-performance-in-seoul?utm_source=rss",
+        "summary": "As noted by Cho Joo-hyun, artistic director of the 23rd Overseas Korean Dance Stars Invitational Gala, the homeland holds a special meaning for Korean dancers performing on the world's leading stages. This summer, Korean ballet artists from prestigious international companies will return home to present the artistry they have honed abroad to domestic audiences. Drawing on networks built through their international careers, they are also bringing some of the world's top dancers to Korea, highlighting the rising global stature of Korean ballet. This year's Overseas Korean Dance Stars Invitational Gala will be held July 29 at Eumseong Culture & Arts Center in North Chungcheong Province and Aug. 1-2 at Naru Arts Center in Seoul. Yoon Seo-hoo, a \"sujet,\" or soloist, with the Paris Opera Ballet (POB), Jung Seo-hyun of Germany's Semperoper Ballet Dresden and Choi Soo-jung, a soloist with Leipzi...",
+        "fullText": [
+          "As noted by Cho Joo-hyun, artistic director of the 23rd Overseas Korean Dance Stars Invitational Gala, the homeland holds a special meaning for Korean dancers performing on the world's leading stages. This summer, Korean ballet artists from prestigious international companies will return home to present the artistry they have honed abroad to domestic audiences.",
+          "Drawing on networks built through their international careers, they are also bringing some of the world's top dancers to Korea, highlighting the rising global stature of Korean ballet. This year's Overseas Korean Dance Stars Invitational Gala will be held July 29 at Eumseong Culture & Arts Center in North Chungcheong Province and Aug.",
+          "1-2 at Naru Arts Center in Seoul. Yoon Seo-hoo, a \"sujet,\" or soloist, with the Paris Opera Ballet (POB), Jung Seo-hyun of Germany's Semperoper Ballet Dresden and Choi Soo-jung, a soloist with Leipzi..."
+        ],
+        "words": [
+          "ballet",
+          "principal",
+          "sae-eun"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Assembly Speaker: Presidential Term Limit Amendment Up to the People",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203201",
+        "summary": "[Politics] : National Assembly Speaker Cho Jeong-sik says amending the Constitution to allow the incumbent president to serve another term is ultimately up to the people. Cho made the remark in a press conference at the National Assembly on Tuesday, leaving open the possibility of amending the constitution to such ... [more...]",
+        "fullText": [
+          "[Politics] : National Assembly Speaker Cho Jeong-sik says amending the Constitution to allow the incumbent president to serve another term is ultimately up to the people. Cho made the remark in a press conference at the National Assembly on Tuesday, leaving open the possibility of amending the constitution to such ...",
+          "[more... ]"
+        ],
+        "words": [
+          "assembly",
+          "speaker",
+          "presidential"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Gov’t Raises Standard Median Income by 6.7% for 2027",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203200",
+        "summary": "[Economy] : The government has sharply raised the nation’s standard median income for next year, lowering the eligibility ceiling for monthly state subsidies for households. The Ministry of Health and Welfare said Tuesday that it raised the standard median income by six-point-seven percent for a four-person ... [more...]",
+        "fullText": [
+          "[Economy] : The government has sharply raised the nation’s standard median income for next year, lowering the eligibility ceiling for monthly state subsidies for households. The Ministry of Health and Welfare said Tuesday that it raised the standard median income by six-point-seven percent for a four-person ...",
+          "[more... ]"
+        ],
+        "words": [
+          "raises",
+          "standard",
+          "median"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "label": "Tuesday, July 28, 2026",
     "title": "Korea News Brief",
