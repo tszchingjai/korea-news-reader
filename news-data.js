@@ -1,5 +1,141 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-30",
+    "label": "Thursday, July 30, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Weather, Culture. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'Teach You a Lesson' in real life? Gyeonggi's plan to run new teacher protection unit",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260730/teach-you-a-lesson-in-real-life-gyeonggis-plan-to-run-new-teacher-protection-unit?utm_source=rss",
+        "summary": "The Gyeonggi Provincial Office of Education is moving to turn the hit Netflix drama “Teach You a Lesson” into something closer to real life — but without the violence. The office said Wednesday that it has launched a task force dedicated to building a new teacher protection system that aims to support teachers from the moment a malicious complaint arises until a case is resolved. More than 1,800 people applied for the part-time positions designed to protect the rights of teachers — far exceeding the recruitment target of 50. “We see this as a reflection of how much public concern over teacher rights has increased,” a senior official working on that initiative told The Korea Times. “Compared with the past, nationwide awareness that teacher authority must be protected has apparently risen, and the number of applicants embodies that will.” The unexpectedly strong response has led the office...",
+        "fullText": [
+          "The Gyeonggi Provincial Office of Education is moving to turn the hit Netflix drama “Teach You a Lesson” into something closer to real life — but without the violence. The office said Wednesday that it has launched a task force dedicated to building a new teacher protection system that aims to support teachers from the moment a malicious complaint arises until a case is resolved.",
+          "More than 1,800 people applied for the part-time positions designed to protect the rights of teachers — far exceeding the recruitment target of 50. “We see this as a reflection of how much public concern over teacher rights has increased,” a senior official working on that initiative told The Korea Times.",
+          "“Compared with the past, nationwide awareness that teacher authority must be protected has apparently risen, and the number of applicants embodies that will. ” The unexpectedly strong response has led the office..."
+        ],
+        "words": [
+          "lesson",
+          "gyeonggi",
+          "teacher"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "K-study, K-culture combination strengthens ISC's position as Asia's premier summer program",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260730/k-study-k-culture-combination-strengthens-iscs-position-as-asias-premier-summer-program?utm_source=rss",
+        "summary": "Korea University said the 2026 International Summer Campus (ISC) marked another step toward realizing the university’s vision for international education while enhancing students’ educational experience. This year, the ISC was designed to provide international students with opportunities for academic growth. It also connected classroom learning with a wide range of extracurricular activities, allowing participants to experience Korean society and culture firsthand. Song Sang-kee, the university’s vice president for international affairs, said the ISC’s strength lies in its broad accessibility, world-class faculty, and the integration of education and research within a truly global academic environment. “The most meaningful achievement of the International Summer Campus extends beyond the increase in participant numbers,” he said. “It lies in the program’s success in further realizing Kor...",
+        "fullText": [
+          "Korea University said the 2026 International Summer Campus (ISC) marked another step toward realizing the university’s vision for international education while enhancing students’ educational experience. This year, the ISC was designed to provide international students with opportunities for academic growth.",
+          "It also connected classroom learning with a wide range of extracurricular activities, allowing participants to experience Korean society and culture firsthand. Song Sang-kee, the university’s vice president for international affairs, said the ISC’s strength lies in its broad accessibility, world-class faculty, and the integration of education and research within a truly global academic environment.",
+          "“The most meaningful achievement of the International Summer Campus extends beyond the increase in participant numbers,” he said. “It lies in the program’s success in further realizing Kor..."
+        ],
+        "words": [
+          "k-study",
+          "k-culture",
+          "combination"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea University seeks to turn International Summer Campus into global education platform",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260730/korea-university-seeks-to-turn-international-summer-campus-into-global-education-platform?utm_source=rss",
+        "summary": "Korea University’s International Summer Campus (ISC) has grown into one of Asia’s premier international summer programs since its inception in 2004. The university now aims to transform the short-term summer program into a global platform for long-term academic engagement through degree programs, graduate studies or collaborative research. The university said the ISC’s strength lies in going beyond traditional academic programs and providing international students with firsthand exposure to Korean culture. The combination of K-study and K-culture is a key factor in establishing the ISC as a global gateway to academic and cultural experiences in Korea. This year’s ISC was launched on June 27, attracting more than 2,000 students from around 400 universities in some 50 countries for four-week and six-week programs. Opportunities for K-study, K-culture Victoria Crooks, one of the internation...",
+        "fullText": [
+          "Korea University’s International Summer Campus (ISC) has grown into one of Asia’s premier international summer programs since its inception in 2004. The university now aims to transform the short-term summer program into a global platform for long-term academic engagement through degree programs, graduate studies or collaborative research.",
+          "The university said the ISC’s strength lies in going beyond traditional academic programs and providing international students with firsthand exposure to Korean culture. The combination of K-study and K-culture is a key factor in establishing the ISC as a global gateway to academic and cultural experiences in Korea.",
+          "This year’s ISC was launched on June 27, attracting more than 2,000 students from around 400 universities in some 50 countries for four-week and six-week programs. Opportunities for K-study, K-culture Victoria Crooks, one of the internation..."
+        ],
+        "words": [
+          "university",
+          "international",
+          "summer"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "What to know about Korea's life-threatening heat wave and how to stay safe",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20260730/what-to-know-about-koreas-life-threatening-heat-wave-and-how-to-stay-safe?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. The end of the monsoon season this week marked the beginning of a severe heat wave across Korea, with temperatures reaching life-threatening levels. As of Monday, Seoul had experienced three consecutive tropical nights, during which temperatures remained above 25 degrees Celsius from 6 p.m. to 9 a.m. the following day. Feels-like temperatures have hovered around 38 to 39 degrees Celsius for days, placing children, older adults and outdoor workers at heightened risk of heat-related illness and death. Weather patterns over the past decade suggest that, as the climate changes, extreme heat waves and mass outbreaks of heat-related illness are becoming the new normal for Korean summers. For those living in Korea, here are some tips for protecting your health and that of those around you. Proper care for heat illness patients Heat-related illness sh...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "The end of the monsoon season this week marked the beginning of a severe heat wave across Korea, with temperatures reaching life-threatening levels. As of Monday, Seoul had experienced three consecutive tropical nights, during which temperatures remained above 25 degrees Celsius from 6 p.",
+          "m. to 9 a.",
+          "m. the following day.",
+          "Feels-like temperatures have hovered around 38 to 39 degrees Celsius for days, placing children, older adults and outdoor workers at heightened risk of heat-related illness and death. Weather patterns over the past decade suggest that, as the climate changes, extreme heat waves and mass outbreaks of heat-related illness are becoming the new normal for Korean summers.",
+          "For those living in Korea, here are some tips for protecting your health and that of those around you. Proper care for heat illness patients Heat-related illness sh..."
+        ],
+        "words": [
+          "life-threatening",
+          "articles",
+          "kormedi"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "KF-21 Boramae Fighter Jet Project Concludes after Some 11 Years",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203228",
+        "summary": "[Politics] : The KF-21 Boramae fighter jet project has been completed after some eleven years, making South Korea the eighth country in the world to independently develop and mass-produce a four-point-five generation or higher supersonic fighter jet. The Defense Acquisition Program Administration, or DAPA, held a ... [more...]",
+        "fullText": [
+          "[Politics] : The KF-21 Boramae fighter jet project has been completed after some eleven years, making South Korea the eighth country in the world to independently develop and mass-produce a four-point-five generation or higher supersonic fighter jet. The Defense Acquisition Program Administration, or DAPA, held a ...",
+          "[more... ]"
+        ],
+        "words": [
+          "boramae",
+          "fighter",
+          "project"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Culture",
+        "source": "KBS World",
+        "title": "UNESCO's 48th World Heritage Session Closes in Busan",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203227",
+        "summary": "[Culture] : The 48th session of the UNESCO World Heritage Committee officially closed in Busan on Wednesday after a ten-day run. The Korea Heritage Service announced on Wednesday that the committee reviewed a total of 33 new natural and cultural site nominations and approved the inscription of 28 of them. As a ... [more...]",
+        "fullText": [
+          "[Culture] : The 48th session of the UNESCO World Heritage Committee officially closed in Busan on Wednesday after a ten-day run. The Korea Heritage Service announced on Wednesday that the committee reviewed a total of 33 new natural and cultural site nominations and approved the inscription of 28 of them.",
+          "As a ... [more...",
+          "]"
+        ],
+        "words": [
+          "unesco",
+          "heritage",
+          "session"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Culture",
+        "source": "KBS World",
+        "title": "BTS Says It Won’t Submit Songs to Grammys",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203226",
+        "summary": "[Culture] : K-pop sensation BTS has announced that it will not be submitting any music to the 69th Grammy Awards, which will be held next February. The group made the announcement via its official social media service on Wednesday, stressing that it hopes music will be loved for what it is rather than where it ... [more...]",
+        "fullText": [
+          "[Culture] : K-pop sensation BTS has announced that it will not be submitting any music to the 69th Grammy Awards, which will be held next February. The group made the announcement via its official social media service on Wednesday, stressing that it hopes music will be loved for what it is rather than where it ...",
+          "[more... ]"
+        ],
+        "words": [
+          "submit",
+          "grammys",
+          "culture"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "label": "Wednesday, July 29, 2026",
     "title": "Korea News Brief",
