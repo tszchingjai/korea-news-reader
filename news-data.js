@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-07-31",
+    "label": "Friday, July 31, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy, Weather, Science. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'Agent Kim Reactivated' kicks off 2nd chapter of his career, So Ji-sub says",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260731/agent-kim-reactivated-kicks-off-2nd-chapter-of-his-career-so-ji-sub-says?utm_source=rss",
+        "summary": "Actor So Ji-sub has spent nearly three decades in front of the camera, but the resounding global success of his latest series \"Agent Kim Reactivated\" has left him feeling as though he is on the set of a hidden camera show. The SBS action drama, streamed worldwide on Netflix, follows a seemingly mild-mannered bank accounting manager who is forced to unearth his dangerous past to save his kidnapped teenage daughter. Critics and viewers alike have dubbed the show a \"Korean-style John Wick,\" praising its balance of sharp comedy, emotional drama and visceral action. The response has been immediate. The series broke a 20 percent television viewership rating in Korea in just four episodes — becoming the second-highest-rated Friday-Saturday drama in SBS history — and spent three consecutive weeks at No. 1 on Netflix’s global top 10 list for non-English television shows. \"To be honest, reaching a...",
+        "fullText": [
+          "Actor So Ji-sub has spent nearly three decades in front of the camera, but the resounding global success of his latest series \"Agent Kim Reactivated\" has left him feeling as though he is on the set of a hidden camera show. The SBS action drama, streamed worldwide on Netflix, follows a seemingly mild-mannered bank accounting manager who is forced to unearth his dangerous past to save his kidnapped teenage daughter.",
+          "Critics and viewers alike have dubbed the show a \"Korean-style John Wick,\" praising its balance of sharp comedy, emotional drama and visceral action. The response has been immediate.",
+          "The series broke a 20 percent television viewership rating in Korea in just four episodes — becoming the second-highest-rated Friday-Saturday drama in SBS history — and spent three consecutive weeks at No. 1 on Netflix’s global top 10 list for non-English television shows.",
+          "\"To be honest, reaching a..."
+        ],
+        "words": [
+          "reactivated",
+          "chapter",
+          "career"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Cheongyang offers foreign tourists slower pace of life in Korea",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260731/cheongyang-offers-foreign-tourists-slower-pace-of-life-in-korea?utm_source=rss",
+        "summary": "If you want to slow down in Korea's countryside, taking in local life and the season at your own pace, Cheongyang County in South Chungcheong Province is the place to visit. “Cheongyang's biggest draw is that visitors can enjoy rest, hands-on experiences, traditional culture and local food in a balanced way, all amid pristine nature,” Cheongyang County head Kim Hong-yeol said in an interview with The Korea Times. “A short trip is enough to experience nature, ecology, religion and folk culture, with tourism resources gathered close together.” For foreign tourists, Kim's top recommendation is Mount Chilgap, home to Jangseung Park and Janggok Temple. The park displays about 350 reproductions of “jangseung,” Korean village guardian totems from across the country, offering a window into Korea's folk beliefs and village community culture. Nearby, Janggok Temple dates back to the 57 B.C.-935 A....",
+        "fullText": [
+          "If you want to slow down in Korea's countryside, taking in local life and the season at your own pace, Cheongyang County in South Chungcheong Province is the place to visit. “Cheongyang's biggest draw is that visitors can enjoy rest, hands-on experiences, traditional culture and local food in a balanced way, all amid pristine nature,” Cheongyang County head Kim Hong-yeol said in an interview with The Korea Times.",
+          "“A short trip is enough to experience nature, ecology, religion and folk culture, with tourism resources gathered close together. ” For foreign tourists, Kim's top recommendation is Mount Chilgap, home to Jangseung Park and Janggok Temple.",
+          "The park displays about 350 reproductions of “jangseung,” Korean village guardian totems from across the country, offering a window into Korea's folk beliefs and village community culture. Nearby, Janggok Temple dates back to the 57 B.",
+          "C. -935 A...."
+        ],
+        "words": [
+          "cheongyang",
+          "offers",
+          "foreign"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "GSK Korea highlights preventive health care as key to tackling ageing challenge",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260731/gsk-korea-highlights-preventive-health-care-as-key-to-tackling-ageing-challenge?utm_source=rss",
+        "summary": "GSK Korea is calling for a shift toward preventive health care as the country's rapidly ageing population puts growing pressure on its health care system, emphasizing that prevention should play a larger role in promoting healthier lives and ensuring its long-term sustainability. The company recently received the Campaign of the Year Award at the British Chamber of Commerce in Korea Business Awards for its Healthy Ageing Korea campaign, an initiative that combines policy engagement, public awareness activities and community programs. \"This recognition is particularly meaningful because it acknowledges not only a successful campaign, but also a collective effort to address one of Korea's most pressing societal challenges: the transition to a super-aged society,\" GSK Korea President and CEO Gunnar Riediger told The Korea Times in a written interview. He noted that Korea officially became a...",
+        "fullText": [
+          "GSK Korea is calling for a shift toward preventive health care as the country's rapidly ageing population puts growing pressure on its health care system, emphasizing that prevention should play a larger role in promoting healthier lives and ensuring its long-term sustainability. The company recently received the Campaign of the Year Award at the British Chamber of Commerce in Korea Business Awards for its Healthy Ageing Korea campaign, an initiative that combines policy engagement, public awareness activities and community programs.",
+          "\"This recognition is particularly meaningful because it acknowledges not only a successful campaign, but also a collective effort to address one of Korea's most pressing societal challenges: the transition to a super-aged society,\" GSK Korea President and CEO Gunnar Riediger told The Korea Times in a written interview. He noted that Korea officially became a..."
+        ],
+        "words": [
+          "highlights",
+          "preventive",
+          "health"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul band Pop Ents says 'Anything is Fine' ... but is it?",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260731/seoul-band-pop-ents-says-anything-is-fine-but-is-it?utm_source=rss",
+        "summary": "On the Seoul-based rock band Pop Ents' latest mini-album, \"Anything is Fine,\" released in April, the title track offers a catchy, poppy mantra, but something beneath the melodies doesn't quite feel right. \"No, but yeah, the title is ironic,\" David Palmer, the band's guitarist-vocalist and lead songwriter, confirmed to The Korea Times. He explained that the song is about the current state of the music industry, and the song goes into what the band would do if they ever had a chance to level up. \"The music industry is worse than ever. Everyone successful is a plant. Everything is a scam. Audiences are less engaged than ever with artists because of the insanity of the attention economy,\" he said. \"So as a local Seoul band that writes and plays with close friends in the audience in mind, it's just a discussion about how terrible the music industry is and how we'd love to be a part of it but...",
+        "fullText": [
+          "On the Seoul-based rock band Pop Ents' latest mini-album, \"Anything is Fine,\" released in April, the title track offers a catchy, poppy mantra, but something beneath the melodies doesn't quite feel right. \"No, but yeah, the title is ironic,\" David Palmer, the band's guitarist-vocalist and lead songwriter, confirmed to The Korea Times.",
+          "He explained that the song is about the current state of the music industry, and the song goes into what the band would do if they ever had a chance to level up. \"The music industry is worse than ever.",
+          "Everyone successful is a plant. Everything is a scam.",
+          "Audiences are less engaged than ever with artists because of the insanity of the attention economy,\" he said. \"So as a local Seoul band that writes and plays with close friends in the audience in mind, it's just a discussion about how terrible the music industry is and how we'd love to be a part of it but..."
+        ],
+        "words": [
+          "anything",
+          "seoul-based",
+          "latest"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] Master of mistaken identity",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260731/morning-calm-tales-master-of-mistaken-identity?utm_source=rss",
+        "summary": "I lived a blissfully anonymous life in Seoul — at least, until I was mistaken for a member of Metallica. Not once, but twice. This was the 1990s, a time when Korea didn’t exactly host a who’s who of global music acts. Aside from the occasional megastar like Michael Jackson or pop juggernauts like New Kids on the Block or pop/rap phenom M.C. Hammer, most big names didn’t bother. Instead, we got aging rockers on their third or fourth comeback tours — bands like Uriah Heep or Deep Purple — and, oddly enough, 1950s crooner Paul Anka. No offense to “Diana,” but it wasn’t exactly the height of cutting-edge entertainment. So, when it was announced that Metallica was coming to Korea for two shows in April 1998, it was a big deal. I scored tickets the moment they went on sale. On the day of the concert, which was being held at one of the Olympic venues in Seoul’s Olympic Park, I met up with two o...",
+        "fullText": [
+          "I lived a blissfully anonymous life in Seoul — at least, until I was mistaken for a member of Metallica. Not once, but twice.",
+          "This was the 1990s, a time when Korea didn’t exactly host a who’s who of global music acts. Aside from the occasional megastar like Michael Jackson or pop juggernauts like New Kids on the Block or pop/rap phenom M.",
+          "C. Hammer, most big names didn’t bother.",
+          "Instead, we got aging rockers on their third or fourth comeback tours — bands like Uriah Heep or Deep Purple — and, oddly enough, 1950s crooner Paul Anka. No offense to “Diana,” but it wasn’t exactly the height of cutting-edge entertainment.",
+          "So, when it was announced that Metallica was coming to Korea for two shows in April 1998, it was a big deal. I scored tickets the moment they went on sale.",
+          "On the day of the concert, which was being held at one of the Olympic venues in Seoul’s Olympic Park, I met up with two o..."
+        ],
+        "words": [
+          "morning",
+          "master",
+          "mistaken"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Why were Korea's high-speed rail stations built so far from city centers?",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20260731/why-were-koreas-high-speed-rail-stations-built-so-far-from-city-centers?utm_source=rss",
+        "summary": "\"What? There's nothing around the station.\" Whenever you take the KTX or SRT to an unfamiliar city, you will be struck by how desolate the area around the station is. Downtown high-speed rail stations, such as those in Busan, Dongdaegu and Daejeon, are the exception. Most stand on urban outskirts or amid open fields and rice paddies. Some trains even stop in mountainous areas with few homes nearby. There is no need to single out particular cities, as similarly bleak surroundings are found at many stations. How did so many of Korea's high-speed rail stations end up in such remote locations? That question is the starting point for \"Leaving the Lonely Station,\" written by Jun Hyun-woo, a researcher at the Natural Science Research Institute at the University of Seoul. Beginning with the unusual locations of KTX stations, the book shifts its focus to Korea's reliance on cars, the energy crisi...",
+        "fullText": [
+          "\"What? There's nothing around the station.",
+          "\" Whenever you take the KTX or SRT to an unfamiliar city, you will be struck by how desolate the area around the station is. Downtown high-speed rail stations, such as those in Busan, Dongdaegu and Daejeon, are the exception.",
+          "Most stand on urban outskirts or amid open fields and rice paddies. Some trains even stop in mountainous areas with few homes nearby.",
+          "There is no need to single out particular cities, as similarly bleak surroundings are found at many stations. How did so many of Korea's high-speed rail stations end up in such remote locations?",
+          "That question is the starting point for \"Leaving the Lonely Station,\" written by Jun Hyun-woo, a researcher at the Natural Science Research Institute at the University of Seoul. Beginning with the unusual locations of KTX stations, the book shifts its focus to Korea's reliance on cars, the energy crisi..."
+        ],
+        "words": [
+          "high-speed",
+          "stations",
+          "centers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "S. Korea’s Space Agency, NASA to Strengthen Cooperation on Artemis Lunar Program",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203256",
+        "summary": "[Science] : South Korea’s space agency has signed a deal with NASA to strengthen cooperation on Artemis, the U.S. lunar exploration program. The Korea AeroSpace Administration(KASA) said Thursday that the two agencies signed the joint statement of intent at a hotel in Seoul after a workshop to discuss cooperation on ... [more...]",
+        "fullText": [
+          "[Science] : South Korea’s space agency has signed a deal with NASA to strengthen cooperation on Artemis, the U. S.",
+          "lunar exploration program. The Korea AeroSpace Administration(KASA) said Thursday that the two agencies signed the joint statement of intent at a hotel in Seoul after a workshop to discuss cooperation on ...",
+          "[more... ]"
+        ],
+        "words": [
+          "agency",
+          "strengthen",
+          "cooperation"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "label": "Thursday, July 30, 2026",
     "title": "Korea News Brief",
