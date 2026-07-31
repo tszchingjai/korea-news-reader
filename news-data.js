@@ -1,5 +1,146 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-01",
+    "label": "Saturday, August 1, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Weather, Domestic, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Artist Ham Yang-ah builds new panorama of crisis and care",
+        "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260801/artist-ham-yang-ah-builds-new-panorama-of-crisis-and-care?utm_source=rss",
+        "summary": "Media artist Ham Yang-ah has returned to Art Sonje Center after 16 years with a panoramic meditation on crisis, coexistence and listening, in a new solo exhibition that expands her long-term research project into an immersive, circular universe of images, bodies and voices. The exhibition, titled “Yang Ah Ham: Undefined Panorama,” brings together new and existing works from the artist’s eight-year project “Undefined Panorama,” which dissects contemporary social systems — from finance and politics to education and labor — through layered video installations and diagrams. First launched in the wake of the 2014 Sewol ferry disaster that shook Korean society, the project began with a simple but urgent question: “As an artist, what should I do?” Ham recalled in a press briefing Thursday, explaining she wanted to understand “where all this pain begins,” beyond the scale of individual lives. At...",
+        "fullText": [
+          "Media artist Ham Yang-ah has returned to Art Sonje Center after 16 years with a panoramic meditation on crisis, coexistence and listening, in a new solo exhibition that expands her long-term research project into an immersive, circular universe of images, bodies and voices. The exhibition, titled “Yang Ah Ham: Undefined Panorama,” brings together new and existing works from the artist’s eight-year project “Undefined Panorama,” which dissects contemporary social systems — from finance and politics to education and labor — through layered video installations and diagrams.",
+          "First launched in the wake of the 2014 Sewol ferry disaster that shook Korean society, the project began with a simple but urgent question: “As an artist, what should I do? ” Ham recalled in a press briefing Thursday, explaining she wanted to understand “where all this pain begins,” beyond the scale of individual lives.",
+          "At..."
+        ],
+        "words": [
+          "artist",
+          "yang-ah",
+          "builds"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Busan draws 2.4 mil. foreign tourists in 1st half of 2026, driven by BTS",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260801/busan-draws-24-mil-foreign-tourists-in-1st-half-of-2026-driven-by-bts?utm_source=rss",
+        "summary": "Driven by a surge in visitors from across Asia and a blockbuster June stadium concert by K-pop juggernaut BTS, international tourism in the southern port city of Busan shattered postpandemic records during the first half of 2026. According to municipal data released Thursday, Busan welcomed more than 2.42 million foreign visitors between January and June — a 43.9 percent jump compared to the same period of 2025. The strong turnout puts the coastal metropolis well on track to hit its ambitious target of 4 million foreign tourists by year’s end, having already achieved over 60 percent of that goal in six months. Leading the influx were travelers from Taiwan and mainland China, who accounted for nearly 40 percent of total arrivals. Taiwanese tourists surged 54 percent year-on-year to rank first overall, while Chinese arrivals nearly doubled, surging 90.7 percent. Visitors from the United St...",
+        "fullText": [
+          "Driven by a surge in visitors from across Asia and a blockbuster June stadium concert by K-pop juggernaut BTS, international tourism in the southern port city of Busan shattered postpandemic records during the first half of 2026. According to municipal data released Thursday, Busan welcomed more than 2.",
+          "42 million foreign visitors between January and June — a 43. 9 percent jump compared to the same period of 2025.",
+          "The strong turnout puts the coastal metropolis well on track to hit its ambitious target of 4 million foreign tourists by year’s end, having already achieved over 60 percent of that goal in six months. Leading the influx were travelers from Taiwan and mainland China, who accounted for nearly 40 percent of total arrivals.",
+          "Taiwanese tourists surged 54 percent year-on-year to rank first overall, while Chinese arrivals nearly doubled, surging 90. 7 percent.",
+          "Visitors from the United St..."
+        ],
+        "words": [
+          "foreign",
+          "tourists",
+          "driven"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "When in ROAM: Health care made easier for foreigners in Korea",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260801/when-in-roam-health-care-made-easier-for-foreigners-in-korea?utm_source=rss",
+        "summary": "A usual trip to Korea is often filled with palace visits, Korean street food and the occasional cafe-hopping. But nowadays, typical tourist itineraries are a little different. With K-beauty in the global spotlight, stopping by a medical clinic has become a must for many visitors. Known for cutting-edge health care technology, Korea is now one of the leading destinations for medical tourism. According to the Ministry of Health and Welfare, 2.01 million foreign patients visited Korea last year, the highest since the country began compiling relevant data in 2009. But foreigners often stumble across common obstacles when seeking treatment in Korea, such as the language barrier and unfamiliarity with a new medical system. London-based Chris Motz, CEO of global medical platform ROAM Medical, experienced this problem firsthand when he first lived in Tokyo. “The inspiration for building ROAM cam...",
+        "fullText": [
+          "A usual trip to Korea is often filled with palace visits, Korean street food and the occasional cafe-hopping. But nowadays, typical tourist itineraries are a little different.",
+          "With K-beauty in the global spotlight, stopping by a medical clinic has become a must for many visitors. Known for cutting-edge health care technology, Korea is now one of the leading destinations for medical tourism.",
+          "According to the Ministry of Health and Welfare, 2. 01 million foreign patients visited Korea last year, the highest since the country began compiling relevant data in 2009.",
+          "But foreigners often stumble across common obstacles when seeking treatment in Korea, such as the language barrier and unfamiliarity with a new medical system. London-based Chris Motz, CEO of global medical platform ROAM Medical, experienced this problem firsthand when he first lived in Tokyo.",
+          "“The inspiration for building ROAM cam..."
+        ],
+        "words": [
+          "health",
+          "easier",
+          "foreigners"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Free meal center near Seoul Station shows another side of Seoul",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260801/free-meal-center-near-seoul-station-shows-another-side-of-seoul?utm_source=rss",
+        "summary": "Outside a free meal distribution center near Seoul Station, a fight broke out during a recent afternoon. \"You just cut in line,\" accused one elderly man. The other man, similarly aged, denied the accusation, claiming he was there first. Then, without warning, fists flew and the squabble turned into a brawl. Those standing nearby, however, barely seemed concerned. They were more preoccupied with making sure the backpacks they had placed on the pavement were not mixed up or pushed aside. Each one marked its owner’s place in line to receive a free meal. Here, a volunteer group called Truly Good Friends hands out 200 meals. Competition for the meals, distributed on a first-come, first-served basis, is fierce, in part because the food is unusually generous: grilled short rib patties, stir-fried kimchi, Korean chive pancakes and purple rice. The trail of backpacks already stretched to the end...",
+        "fullText": [
+          "Outside a free meal distribution center near Seoul Station, a fight broke out during a recent afternoon. \"You just cut in line,\" accused one elderly man.",
+          "The other man, similarly aged, denied the accusation, claiming he was there first. Then, without warning, fists flew and the squabble turned into a brawl.",
+          "Those standing nearby, however, barely seemed concerned. They were more preoccupied with making sure the backpacks they had placed on the pavement were not mixed up or pushed aside.",
+          "Each one marked its owner’s place in line to receive a free meal. Here, a volunteer group called Truly Good Friends hands out 200 meals.",
+          "Competition for the meals, distributed on a first-come, first-served basis, is fierce, in part because the food is unusually generous: grilled short rib patties, stir-fried kimchi, Korean chive pancakes and purple rice. The trail of backpacks already stretched to the end..."
+        ],
+        "words": [
+          "center",
+          "station",
+          "another"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "5 summer foods that help restore energy",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260801/5-summer-foods-that-help-restore-energy?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. The sweltering summer heat can leave you feeling sluggish and rob you of your appetite. While eel is the classic seasonal stamina food, there are plenty of other nutritious options that can help restore energy while stimulating the appetite. Eating seasonal foods rich in protein, vitamins and minerals can also support endurance and recovery from fatigue. Eel: Keep it simple Eel is a classic summer health food packed with high-quality protein, vitamins A and B and omega-3 fatty acids. Vitamin A helps maintain healthy skin and mucous membranes, while omega-3s support cardiovascular health and help regulate inflammation. Although eel is a fatty fish, it contains a high proportion of unsaturated fats, making moderate consumption good for energy during the summer. Choosing salt-grilled eel instead of heavily glazed versions can reduce sugar and sod...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "The sweltering summer heat can leave you feeling sluggish and rob you of your appetite. While eel is the classic seasonal stamina food, there are plenty of other nutritious options that can help restore energy while stimulating the appetite.",
+          "Eating seasonal foods rich in protein, vitamins and minerals can also support endurance and recovery from fatigue. Eel: Keep it simple Eel is a classic summer health food packed with high-quality protein, vitamins A and B and omega-3 fatty acids.",
+          "Vitamin A helps maintain healthy skin and mucous membranes, while omega-3s support cardiovascular health and help regulate inflammation. Although eel is a fatty fish, it contains a high proportion of unsaturated fats, making moderate consumption good for energy during the summer.",
+          "Choosing salt-grilled eel instead of heavily glazed versions can reduce sugar and sod..."
+        ],
+        "words": [
+          "summer",
+          "restore",
+          "energy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Over 20,000 Heat-Related Livestock Deaths Reported in S. Gyeongsang Province since June 22",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203282",
+        "summary": "[Domestic] : The scorching heat has killed more than 20-thousand livestock animals in South Gyeongsang Province, where afternoon highs topped 40 degrees Celsius for the third day on Friday. The province said Friday that there have been 22-thousand-702 reports of livestock deaths due to extreme heat since June 22, ... [more...]",
+        "fullText": [
+          "[Domestic] : The scorching heat has killed more than 20-thousand livestock animals in South Gyeongsang Province, where afternoon highs topped 40 degrees Celsius for the third day on Friday. The province said Friday that there have been 22-thousand-702 reports of livestock deaths due to extreme heat since June 22, ...",
+          "[more... ]"
+        ],
+        "words": [
+          "heat-related",
+          "livestock",
+          "deaths"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Acting Prosecutor General Resigns over Criminal Procedure Act Amendments",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203281",
+        "summary": "[Politics] : Acting Prosecutor General Ku Ja-hyeon has announced his intention to step down, right after the National Assembly passed amendments to the Criminal Procedure Act that would abolish prosecutors’ direct investigative powers. Koo told reporters on his way home Friday that he has submitted his resignation, ... [more...]",
+        "fullText": [
+          "[Politics] : Acting Prosecutor General Ku Ja-hyeon has announced his intention to step down, right after the National Assembly passed amendments to the Criminal Procedure Act that would abolish prosecutors’ direct investigative powers. Koo told reporters on his way home Friday that he has submitted his resignation, ...",
+          "[more... ]"
+        ],
+        "words": [
+          "acting",
+          "prosecutor",
+          "general"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "label": "Friday, July 31, 2026",
     "title": "Korea News Brief",
