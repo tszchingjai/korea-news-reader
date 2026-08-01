@@ -1,5 +1,143 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-02",
+    "label": "Sunday, August 2, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Science, Economy, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Turned away in Europe, father finds 2nd chance in Korea through sons' gift",
+        "url": "https://www.koreatimes.co.kr/southkorea/health/20260802/turned-away-in-europe-father-finds-2nd-chance-in-korea-through-sons-gift?utm_source=rss",
+        "summary": "Mohamed El Kettani was running out of time. Suffering from severe liver failure and an aggressive form of liver cancer that had invaded his portal vein, the 64-year-old Moroccan industrialist had been turned away by top medical centers in Europe. French doctors concluded that a deceased-donor transplant was no longer an option and removed him from the waiting list. Faced with a fatal prognosis, his sons refused to accept the verdict. Omar El Kettani, a 30-year-old cardiac surgeon practicing in France, teamed up with his older brother, Hicham, 33, to comb through medical literature from leading transplant institutes across the globe. Their search led to an unexpected destination: Asan Medical Center in Seoul. In May, after a 10,000-kilometer journey from Morocco, three operating rooms lit up simultaneously at the Seoul hospital. In a grueling 17-hour procedure, a surgical team harvested p...",
+        "fullText": [
+          "Mohamed El Kettani was running out of time. Suffering from severe liver failure and an aggressive form of liver cancer that had invaded his portal vein, the 64-year-old Moroccan industrialist had been turned away by top medical centers in Europe.",
+          "French doctors concluded that a deceased-donor transplant was no longer an option and removed him from the waiting list. Faced with a fatal prognosis, his sons refused to accept the verdict.",
+          "Omar El Kettani, a 30-year-old cardiac surgeon practicing in France, teamed up with his older brother, Hicham, 33, to comb through medical literature from leading transplant institutes across the globe. Their search led to an unexpected destination: Asan Medical Center in Seoul.",
+          "In May, after a 10,000-kilometer journey from Morocco, three operating rooms lit up simultaneously at the Seoul hospital. In a grueling 17-hour procedure, a surgical team harvested p..."
+        ],
+        "words": [
+          "turned",
+          "europe",
+          "father"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Church without a cross? Step into Korea's most unusual place of worship",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260802/church-without-a-cross-step-into-koreas-most-unusual-place-of-worship?utm_source=rss",
+        "summary": "There is a church in Seoul with no visible cross marking the exterior. Visitors looking only at the facade cannot immediately discern whether the brick structure is a church, a Buddhist temple or a school. A short walk from Dongdaemun History and Culture Park intersection toward Jangchung Gymnasium reveals a fortress-like brick building supported by roughly 10 external buttresses. The structure stands in stark contrast to conventional Korean churches signaled by ubiquitous red neon crosses. The building is a seminal work by modern Korean architect Kim Swoo-geun (1931–1986). Architectural historians consider the church one of his greatest masterpieces, alongside the architecture firm Space's former Jongno District headquarters — currently a commercial building. The church has long served as an under-the-radar architectural destination, though entry to the main sanctuary remained restricte...",
+        "fullText": [
+          "There is a church in Seoul with no visible cross marking the exterior. Visitors looking only at the facade cannot immediately discern whether the brick structure is a church, a Buddhist temple or a school.",
+          "A short walk from Dongdaemun History and Culture Park intersection toward Jangchung Gymnasium reveals a fortress-like brick building supported by roughly 10 external buttresses. The structure stands in stark contrast to conventional Korean churches signaled by ubiquitous red neon crosses.",
+          "The building is a seminal work by modern Korean architect Kim Swoo-geun (1931–1986). Architectural historians consider the church one of his greatest masterpieces, alongside the architecture firm Space's former Jongno District headquarters — currently a commercial building.",
+          "The church has long served as an under-the-radar architectural destination, though entry to the main sanctuary remained restricte..."
+        ],
+        "words": [
+          "church",
+          "without",
+          "unusual"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "More Koreans abandon traditional funeral halls to focus on grief",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260802/more-koreans-abandon-traditional-funeral-halls-to-focus-on-grief?utm_source=rss",
+        "summary": "The funeral that Ryu Jae-jun, 57, held for his father on June 23 broke entirely from Korean tradition. His family dispensed with a formal funeral hall — a traditional three-day reception and catering space where bereaved relatives host a continuous stream of visitors — and omitted the customary receiving line. Rather than contact a prepaid funeral service or a commercial funeral home, Ryu called the Catholic church his family attended. He scheduled a funeral Mass and brought his father’s body to the church. Instead of dressing the deceased in a traditional burial shroud, the family dressed him in his favorite everyday clothes, while family members wore suits instead of traditional mourning robes. About 200 acquaintances attended the Mass, held three days after the death, and the family declined all cash gifts traditionally offered to the bereaved. \"Because we did not receive mourners, I...",
+        "fullText": [
+          "The funeral that Ryu Jae-jun, 57, held for his father on June 23 broke entirely from Korean tradition. His family dispensed with a formal funeral hall — a traditional three-day reception and catering space where bereaved relatives host a continuous stream of visitors — and omitted the customary receiving line.",
+          "Rather than contact a prepaid funeral service or a commercial funeral home, Ryu called the Catholic church his family attended. He scheduled a funeral Mass and brought his father’s body to the church.",
+          "Instead of dressing the deceased in a traditional burial shroud, the family dressed him in his favorite everyday clothes, while family members wore suits instead of traditional mourning robes. About 200 acquaintances attended the Mass, held three days after the death, and the family declined all cash gifts traditionally offered to the bereaved.",
+          "\"Because we did not receive mourners, I..."
+        ],
+        "words": [
+          "koreans",
+          "abandon",
+          "traditional"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "KMA Forecasts Heat Waves, Tropical Nights to Persist through Sunday",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203290",
+        "summary": "[Science] : A relentless combination of nationwide heat waves and suffocating \"tropical nights\" is forecast to persist through Sunday. The Korea Meteorological Administration said the heat index will likely surge to around 35 degrees Celsius in most regions as it called for caution against heat-related ... [more...]",
+        "fullText": [
+          "[Science] : A relentless combination of nationwide heat waves and suffocating \"tropical nights\" is forecast to persist through Sunday. The Korea Meteorological Administration said the heat index will likely surge to around 35 degrees Celsius in most regions as it called for caution against heat-related ...",
+          "[more... ]"
+        ],
+        "words": [
+          "forecasts",
+          "tropical",
+          "nights"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Southeastern Areas under Heat Wave Emergency Warnings",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203289",
+        "summary": "[Science] : Sweltering heat continues to grip the nation day and night. Overnight low temperatures in the cities of Gangneung and Sokcho in the eastern Gangwon Province hovered around 30 degrees Celsius, marking the year's first recorded \"super tropical night,\" an extreme weather event where the mercury stays ... [more...]",
+        "fullText": [
+          "[Science] : Sweltering heat continues to grip the nation day and night. Overnight low temperatures in the cities of Gangneung and Sokcho in the eastern Gangwon Province hovered around 30 degrees Celsius, marking the year's first recorded \"super tropical night,\" an extreme weather event where the mercury stays ...",
+          "[more... ]"
+        ],
+        "words": [
+          "southeastern",
+          "emergency",
+          "warnings"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "July Exports Set Record amid Ongoing AI Semiconductor Boom",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203288",
+        "summary": "[Economy] : Exports in July have set a new record for the month on the back of an ongoing AI-driven supercycle in semiconductors. Data released by the Ministry of Trade, Industry and Resources on Saturday showed exports surged 62-point-eight percent year-on-year last month to 98-point-89 billion U.S. dollars. The ... [more...]",
+        "fullText": [
+          "[Economy] : Exports in July have set a new record for the month on the back of an ongoing AI-driven supercycle in semiconductors. Data released by the Ministry of Trade, Industry and Resources on Saturday showed exports surged 62-point-eight percent year-on-year last month to 98-point-89 billion U.",
+          "S. dollars.",
+          "The ... [more...",
+          "]"
+        ],
+        "words": [
+          "exports",
+          "record",
+          "ongoing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Trump Renews Resolve to Continue Strikes on Iran",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203287",
+        "summary": "[International] : U.S. President Donald Trump has renewed his resolve to continue strikes against Iran. Presiding over a Cabinet meeting at Camp David in Maryland on Friday, Trump, in regards to the Iran war, said the U.S. will be \"hitting them very hard and at some point, they’re going to say, ‘We just can’t take it ... [more...]",
+        "fullText": [
+          "[International] : U. S.",
+          "President Donald Trump has renewed his resolve to continue strikes against Iran. Presiding over a Cabinet meeting at Camp David in Maryland on Friday, Trump, in regards to the Iran war, said the U.",
+          "S. will be \"hitting them very hard and at some point, they’re going to say, ‘We just can’t take it ...",
+          "[more... ]"
+        ],
+        "words": [
+          "renews",
+          "resolve",
+          "continue"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-01",
     "label": "Saturday, August 1, 2026",
     "title": "Korea News Brief",
