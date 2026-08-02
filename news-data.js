@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-03",
+    "label": "Monday, August 3, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Law, Weather, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Brazil's Lula faces pressure as he enters seventh presidential race",
+        "url": "https://www.koreatimes.co.kr/world/20260803/brazils-lula-faces-pressure-as-he-enters-seventh-presidential-race?utm_source=rss",
+        "summary": "SAO PAULO — What is very likely to be the last reelection bid of Brazil’s President Luiz Inácio Lula da Silva was confirmed on Sunday by his Workers' Party as the 80-year-old leader faces increasing pressure from foreign leaders ahead of October's elections. It will be his seventh race for the top job. Lula's rival, Sen. Flávio Bolsonaro , has enjoyed open support from members of U.S. President Donald Trump's administration, Argentina's President Javier Milei and Israeli Prime Minister Benjamin Netanyahu. Brazil's president said in his party convention speech he wants to boost his country's defense industry, protect its rare minerals, and claimed “no Chinese, no American, no French will touch” these resources without respecting the South American nation's sovereignty. “We will have to be much more daring to change a lot of things in this country,” Lula said. Other members of his party hi...",
+        "fullText": [
+          "SAO PAULO — What is very likely to be the last reelection bid of Brazil’s President Luiz Inácio Lula da Silva was confirmed on Sunday by his Workers' Party as the 80-year-old leader faces increasing pressure from foreign leaders ahead of October's elections. It will be his seventh race for the top job.",
+          "Lula's rival, Sen. Flávio Bolsonaro , has enjoyed open support from members of U.",
+          "S. President Donald Trump's administration, Argentina's President Javier Milei and Israeli Prime Minister Benjamin Netanyahu.",
+          "Brazil's president said in his party convention speech he wants to boost his country's defense industry, protect its rare minerals, and claimed “no Chinese, no American, no French will touch” these resources without respecting the South American nation's sovereignty. “We will have to be much more daring to change a lot of things in this country,” Lula said.",
+          "Other members of his party hi..."
+        ],
+        "words": [
+          "brazil",
+          "pressure",
+          "enters"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
+        "url": "https://www.koreatimes.co.kr/world/20260803/suspect-in-shooting-at-idaho-fast-food-restaurant-died-from-self-inflicted-gunshot-wound-police-say?utm_source=rss",
+        "summary": "TWIN FALLS, Idaho — The suspect in a fatal shooting at a fast-food restaurant in Idaho died of a self-inflicted gunshot wound, police said Sunday, crediting an off-duty officer and a citizen with firing shots that diverted him. Investigators are confident that the gunman, identified as 24-year-old Chad Williams, acted alone during the shooting Saturday in Twin Falls, Police Chief Matthew Hicks said at a news conference. In all, three people died and seven others were injured at the recently opened restaurant in the southern Idaho city of about 56,000 people. Authorities said Sunday that two of the injured were treated at a hospital and released, three were listed as stable, and two were in critical condition. Hicks said an off-duty state trooper and an armed citizen — whose identities weren't immediately disclosed — both fired back and diverted the gunman from the restaurant. “We believe...",
+        "fullText": [
+          "TWIN FALLS, Idaho — The suspect in a fatal shooting at a fast-food restaurant in Idaho died of a self-inflicted gunshot wound, police said Sunday, crediting an off-duty officer and a citizen with firing shots that diverted him. Investigators are confident that the gunman, identified as 24-year-old Chad Williams, acted alone during the shooting Saturday in Twin Falls, Police Chief Matthew Hicks said at a news conference.",
+          "In all, three people died and seven others were injured at the recently opened restaurant in the southern Idaho city of about 56,000 people. Authorities said Sunday that two of the injured were treated at a hospital and released, three were listed as stable, and two were in critical condition.",
+          "Hicks said an off-duty state trooper and an armed citizen — whose identities weren't immediately disclosed — both fired back and diverted the gunman from the restaurant. “We believe..."
+        ],
+        "words": [
+          "suspect",
+          "shooting",
+          "fast-food"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee heads home after five-nation overseas trip",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260803/lee-heads-home-after-five-nation-overseas-trip?utm_source=rss",
+        "summary": "FRANKFURT — President Lee Jae Myung headed home Sunday after wrapping up a trip aimed at strengthening cooperation with U.S. tech giants on artificial intelligence (AI) and with South American nations on critical minerals. Frankfurt was the final stop on Lee's overseas trip, where he briefly stopped to meet with members of the Korean community in Germany. During his earlier visit to San Francisco, Lee met with the heads of leading U.S. tech companies, including Jensen Huang of Nvidia. During his subsequent visits to Brazil, Chile and Argentina, Lee held summits with the countries' presidents and agreed to strengthen bilateral cooperation in areas ranging from critical and strategic minerals to crude oil imports. The tour was aimed at laying the foundation for the country's vision of becoming a global AI semiconductor manufacturing hub and securing and diversifying supplies of related cri...",
+        "fullText": [
+          "FRANKFURT — President Lee Jae Myung headed home Sunday after wrapping up a trip aimed at strengthening cooperation with U. S.",
+          "tech giants on artificial intelligence (AI) and with South American nations on critical minerals. Frankfurt was the final stop on Lee's overseas trip, where he briefly stopped to meet with members of the Korean community in Germany.",
+          "During his earlier visit to San Francisco, Lee met with the heads of leading U. S.",
+          "tech companies, including Jensen Huang of Nvidia. During his subsequent visits to Brazil, Chile and Argentina, Lee held summits with the countries' presidents and agreed to strengthen bilateral cooperation in areas ranging from critical and strategic minerals to crude oil imports.",
+          "The tour was aimed at laying the foundation for the country's vision of becoming a global AI semiconductor manufacturing hub and securing and diversifying supplies of related cri..."
+        ],
+        "words": [
+          "five-nation",
+          "overseas",
+          "frankfurt"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "As AI glasses get harder to detect, universities scramble to update exam rules",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260803/as-ai-glasses-get-harder-to-detect-universities-scramble-to-update-exam-rules?utm_source=rss",
+        "summary": "Artificial intelligence (AI) glasses are emerging as a new tool for academic dishonesty, with a string of recent cases exposing their potential for misuse, putting the education sector under growing pressure to respond. The Ministry of Education recently instructed metropolitan and provincial education offices to classify AI glasses as prohibited items in examination rooms and closely monitor examinees for suspicious behavior, according to Yonhap News Agency, Sunday. The directive follows a series of cases of cheating involving the devices. Earlier in May, three examinees wearing AI glasses were caught during the Industrial Engineer Electrical and Fire Protection Systems Engineer certification exams. Two test takers were later caught using the devices during an English language test. Concern is mounting across the education sector ahead of the College Scholastic Ability (CSAT) Test and r...",
+        "fullText": [
+          "Artificial intelligence (AI) glasses are emerging as a new tool for academic dishonesty, with a string of recent cases exposing their potential for misuse, putting the education sector under growing pressure to respond. The Ministry of Education recently instructed metropolitan and provincial education offices to classify AI glasses as prohibited items in examination rooms and closely monitor examinees for suspicious behavior, according to Yonhap News Agency, Sunday.",
+          "The directive follows a series of cases of cheating involving the devices. Earlier in May, three examinees wearing AI glasses were caught during the Industrial Engineer Electrical and Fire Protection Systems Engineer certification exams.",
+          "Two test takers were later caught using the devices during an English language test. Concern is mounting across the education sector ahead of the College Scholastic Ability (CSAT) Test and r..."
+        ],
+        "words": [
+          "glasses",
+          "harder",
+          "detect"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Diaspora musician Janice Jo Lee brings 'Ancestor Songs' to Korea",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260803/diaspora-musician-janice-jo-lee-brings-ancestor-songs-to-korea?utm_source=rss",
+        "summary": "In order to perform in the land of her ancestors, Korean Canadian folk musician Janice Jo Lee had to cast aside a part of herself: her citizenship. \"Because at the time of my birth in Canada, my parents both held Korean citizenship, I held a claim to Korean citizenship,\" she said. \"For the year of my birth, Korea does not allow me to hold dual citizenship. So Korea required me to renounce my claim to Korean citizenship, and apply for a work visa solely as a Canadian. It was a bureaucratic nightmare.\" This problem derailed earlier tour plans for her cute and radical folk-fusion band, Toronto-based Janice Jo Lee and the QTs. \"We had to cancel our tour last year because of how long the process ended up taking,\" she said. \"My bandmates who are Canadian without Korean heritage, it was easier for them to get a work visa than me.\" The bitter ironies are compounded by the circumstances that led...",
+        "fullText": [
+          "In order to perform in the land of her ancestors, Korean Canadian folk musician Janice Jo Lee had to cast aside a part of herself: her citizenship. \"Because at the time of my birth in Canada, my parents both held Korean citizenship, I held a claim to Korean citizenship,\" she said.",
+          "\"For the year of my birth, Korea does not allow me to hold dual citizenship. So Korea required me to renounce my claim to Korean citizenship, and apply for a work visa solely as a Canadian.",
+          "It was a bureaucratic nightmare. \" This problem derailed earlier tour plans for her cute and radical folk-fusion band, Toronto-based Janice Jo Lee and the QTs.",
+          "\"We had to cancel our tour last year because of how long the process ended up taking,\" she said. \"My bandmates who are Canadian without Korean heritage, it was easier for them to get a work visa than me.",
+          "\" The bitter ironies are compounded by the circumstances that led..."
+        ],
+        "words": [
+          "diaspora",
+          "musician",
+          "janice"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "RAS Korea explores downtown Seoul's Hoehyeon, Myeong-dong, Namdaemun",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260803/ras-korea-explores-downtown-seouls-hoehyeon-myeong-dong-namdaemun?utm_source=rss",
+        "summary": "In the search for things to do indoors amid the summer heat, Royal Asiatic Society (RAS) Korea is taking its excursions program indoors. Wandering through central Seoul's Myeong-dong, Hoehyeon-dong and Namdaemun Market, longtime member Jun Shin will lead participants to three museums in the area, as well as other indoor destinations plus a few other points of interest along the way — and refreshments afterward for those willing to stick around. The walk begins in Hoehyeon-dong with a visit to a 400-year-old ginkgo tree, before visiting the Woori Bank Museum and Money Box Gallery. After, the group will go through Hoehyeon Underground Shopping Center and enter Shinsegae Department Store. The group will go to the historic department store's rooftop garden, where Shin will explain the Japanese origins of the building's surroundings, which were developed during imperial Japan's 1910-45 occupa...",
+        "fullText": [
+          "In the search for things to do indoors amid the summer heat, Royal Asiatic Society (RAS) Korea is taking its excursions program indoors. Wandering through central Seoul's Myeong-dong, Hoehyeon-dong and Namdaemun Market, longtime member Jun Shin will lead participants to three museums in the area, as well as other indoor destinations plus a few other points of interest along the way — and refreshments afterward for those willing to stick around.",
+          "The walk begins in Hoehyeon-dong with a visit to a 400-year-old ginkgo tree, before visiting the Woori Bank Museum and Money Box Gallery. After, the group will go through Hoehyeon Underground Shopping Center and enter Shinsegae Department Store.",
+          "The group will go to the historic department store's rooftop garden, where Shin will explain the Japanese origins of the building's surroundings, which were developed during imperial Japan's 1910-45 occupa..."
+        ],
+        "words": [
+          "explores",
+          "downtown",
+          "hoehyeon"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Yangsan Hits 42.5°C, Shattering National Heat Record",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203298",
+        "summary": "[Science] : The temperature in Yangsan, South Gyeongsang Province, soared to 42-point-five degrees Celsius on Sunday, marking the highest temperature ever recorded in South Korea since modern weather observations began in 1904. The Korea Meteorological Administration said the temperature first reached 42 degrees at ... [more...]",
+        "fullText": [
+          "[Science] : The temperature in Yangsan, South Gyeongsang Province, soared to 42-point-five degrees Celsius on Sunday, marking the highest temperature ever recorded in South Korea since modern weather observations began in 1904. The Korea Meteorological Administration said the temperature first reached 42 degrees at ...",
+          "[more... ]"
+        ],
+        "words": [
+          "yangsan",
+          "shattering",
+          "national"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-02",
     "label": "Sunday, August 2, 2026",
     "title": "Korea News Brief",
