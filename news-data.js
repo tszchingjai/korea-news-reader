@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-04",
+    "label": "Tuesday, August 4, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "What's left before Korea's prosecution reform takes effect",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260804/whats-left-before-koreas-prosecution-reform-takes-effect?utm_source=rss",
+        "summary": "The National Assembly’s passage of a bill stripping prosecutors of their power to conduct supplementary investigations has shifted attention to the remaining steps before the overhaul takes effect, including presidential promulgation, follow-up legislation and possible proceedings before the Constitutional Court. Conservative opposition parties, mainly the People Power Party (PPP) and the minor Reform Party, have called on President Lee Jae Myung to exercise his veto. It remains unclear whether Lee will do so, though the bill is a key part of the ruling party’s prosecution reform agenda. Once the bill is sent to the government, Lee has 15 days to either promulgate it or return it to the Assembly for reconsideration. A bill also becomes law if the president neither promulgates it nor requests reconsideration by the deadline. The revised Criminal Procedure Act is scheduled to take effect O...",
+        "fullText": [
+          "The National Assembly’s passage of a bill stripping prosecutors of their power to conduct supplementary investigations has shifted attention to the remaining steps before the overhaul takes effect, including presidential promulgation, follow-up legislation and possible proceedings before the Constitutional Court. Conservative opposition parties, mainly the People Power Party (PPP) and the minor Reform Party, have called on President Lee Jae Myung to exercise his veto.",
+          "It remains unclear whether Lee will do so, though the bill is a key part of the ruling party’s prosecution reform agenda. Once the bill is sent to the government, Lee has 15 days to either promulgate it or return it to the Assembly for reconsideration.",
+          "A bill also becomes law if the president neither promulgates it nor requests reconsideration by the deadline. The revised Criminal Procedure Act is scheduled to take effect O..."
+        ],
+        "words": [
+          "before",
+          "prosecution",
+          "reform"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "'Nicotine-free' vapes raise concerns as tests find nicotine, analogues",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260804/nicotine-free-vapes-raise-concerns-as-tests-find-nicotine-analogues?utm_source=rss",
+        "summary": "Vapes purporting to contain zero nicotine are raising public and government concerns as some of the products have been confirmed to contain lethal substances while remaining largely outside regulatory oversight. The controversial market emerged after the country’s revised Tobacco Business Act, which took effect on April 24, defined synthetic nicotine vapes as tobacco product and enforced taxation that more than doubled their retail prices. It led to a market introduction of vapes not yet fully regulated by the government such as products marketed as nicotine-free or containing nicotine analogues. Consumers unwilling to pay the higher prices but still wanting to smoke quickly responded to the alternatives, with the trend spreading among teenagers as well. Ninety-nine percent of vapes marketed as containing nicotine analogue or zero nicotine are imported from China, with demand rising rapi...",
+        "fullText": [
+          "Vapes purporting to contain zero nicotine are raising public and government concerns as some of the products have been confirmed to contain lethal substances while remaining largely outside regulatory oversight. The controversial market emerged after the country’s revised Tobacco Business Act, which took effect on April 24, defined synthetic nicotine vapes as tobacco product and enforced taxation that more than doubled their retail prices.",
+          "It led to a market introduction of vapes not yet fully regulated by the government such as products marketed as nicotine-free or containing nicotine analogues. Consumers unwilling to pay the higher prices but still wanting to smoke quickly responded to the alternatives, with the trend spreading among teenagers as well.",
+          "Ninety-nine percent of vapes marketed as containing nicotine analogue or zero nicotine are imported from China, with demand rising rapi..."
+        ],
+        "words": [
+          "nicotine-free",
+          "concerns",
+          "nicotine"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "A tale of two songs",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260804/a-tale-of-two-songs?utm_source=rss",
+        "summary": "It was rather fitting that BTS chose “Arirang,” a Korean folk song, for their much-awaited comeback this year, announcing a return to their roots and using star power to bring the world’s attention to a poignant episode in Korea’s rich history. Listening to the “han”-filled melody typifying the essence of the Korean mind, I could not but reflect on how iconic songs have defined nations like Korea and India, making hearts beat and leap during darkness and despondency. I am talking about India’s national song, “Vande Mataram (Mother, I bow thee).” More than a century after it stirred India's freedom fighters, the song — like “Arirang” in Korea — continues to be reimagined and enthrall generations in India, asking a question that is as relevant today as then: What does it mean to belong to a nation? Composed by the noted Bengali writer Bankim Chandra Chattopadhyay, the song became, literall...",
+        "fullText": [
+          "It was rather fitting that BTS chose “Arirang,” a Korean folk song, for their much-awaited comeback this year, announcing a return to their roots and using star power to bring the world’s attention to a poignant episode in Korea’s rich history. Listening to the “han”-filled melody typifying the essence of the Korean mind, I could not but reflect on how iconic songs have defined nations like Korea and India, making hearts beat and leap during darkness and despondency.",
+          "I am talking about India’s national song, “Vande Mataram (Mother, I bow thee). ” More than a century after it stirred India's freedom fighters, the song — like “Arirang” in Korea — continues to be reimagined and enthrall generations in India, asking a question that is as relevant today as then: What does it mean to belong to a nation?",
+          "Composed by the noted Bengali writer Bankim Chandra Chattopadhyay, the song became, literall..."
+        ],
+        "words": [
+          "rather",
+          "fitting",
+          "arirang"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korean investors flock to leveraged US ETFs, take another hit",
+        "url": "https://www.koreatimes.co.kr/economy/20260804/korean-investors-flock-to-leveraged-us-etfs-take-another-hit?utm_source=rss",
+        "summary": "A retail investor surnamed Min knew the risks before pressing the buy button. But the urge to make up for the gains he had missed overwhelmed his better judgment. In early July, the 29-year-old purchased 5 million won ($3,496.26) worth of Direxion Daily Semiconductor Bull 3X Shares, an exchange-traded fund (ETF) known by its ticker, SOXL. The fund seeks to deliver three times the daily return of the Philadelphia Semiconductor Index. When he checked his account the next morning, his position was already down more than 10 percent. He saw the decline as another buying opportunity and added to his holdings. His losses continued to deepen, eventually reaching 30 percent. \"I naively thought that the bad news surrounding chip stocks would end just after I bought in, followed by a sharp rebound,\" he said. \"I let the fear of missing out take over.\" Min is one of many retail investors who have pil...",
+        "fullText": [
+          "A retail investor surnamed Min knew the risks before pressing the buy button. But the urge to make up for the gains he had missed overwhelmed his better judgment.",
+          "In early July, the 29-year-old purchased 5 million won ($3,496. 26) worth of Direxion Daily Semiconductor Bull 3X Shares, an exchange-traded fund (ETF) known by its ticker, SOXL.",
+          "The fund seeks to deliver three times the daily return of the Philadelphia Semiconductor Index. When he checked his account the next morning, his position was already down more than 10 percent.",
+          "He saw the decline as another buying opportunity and added to his holdings. His losses continued to deepen, eventually reaching 30 percent.",
+          "\"I naively thought that the bad news surrounding chip stocks would end just after I bought in, followed by a sharp rebound,\" he said. \"I let the fear of missing out take over.",
+          "\" Min is one of many retail investors who have pil..."
+        ],
+        "words": [
+          "investors",
+          "leveraged",
+          "another"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says US in talks with Iran on reopening Strait of Hormuz this week",
+        "url": "https://www.koreatimes.co.kr/world/20260804/trump-says-us-in-talks-with-iran-on-reopening-strait-of-hormuz-this-week?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump claimed Monday that talks with Iran are in progress, stressing that the two sides are discussing the reopening of the crucial Strait of Hormuz \"literally\" by the following day, although Tehran earlier denied any plans for negotiations with Washington. Trump made the remarks during a press availability at the White House, warning that the new round of negotiations would be the \"last chance\" for the Islamic Republic. \"(The talks with Iran) are going on right now,\" he said, claiming that for some reason, the Iranian side does not like saying they were in negotiations with the United States \"even though they spent hours and hours together talking.\" In a social media post earlier in the day, Trump criticized the Iranian leadership as \"duplicitous\" as they denied Tehran was in talks with Washington. Trump highlighted that the fresh round of peace talks...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump claimed Monday that talks with Iran are in progress, stressing that the two sides are discussing the reopening of the crucial Strait of Hormuz \"literally\" by the following day, although Tehran earlier denied any plans for negotiations with Washington. Trump made the remarks during a press availability at the White House, warning that the new round of negotiations would be the \"last chance\" for the Islamic Republic.",
+          "\"(The talks with Iran) are going on right now,\" he said, claiming that for some reason, the Iranian side does not like saying they were in negotiations with the United States \"even though they spent hours and hours together talking. \" In a social media post earlier in the day, Trump criticized the Iranian leadership as \"duplicitous\" as they denied Tehran was in talks with Washington.",
+          "Trump highlighted that the fresh round of peace talks..."
+        ],
+        "words": [
+          "reopening",
+          "strait",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Democratic US states sue to challenge Trump's latest tariffs",
+        "url": "https://www.koreatimes.co.kr/world/20260804/democratic-us-states-sue-to-challenge-trumps-latest-tariffs?utm_source=rss",
+        "summary": "NEW YORK — A group of 25 Democratic-led U.S. states sued President Donald Trump's administration on Monday, arguing that the president's latest round of tariffs on goods from 60 trading partners, like most of his earlier sweeping tariffs, exceeds his legal authority to tax imports. The states' lawsuit filed in the U.S. Court of International Trade in New York follows previous challenges by small U.S. businesses, which sued to block the tariffs on the day they went into effect last month. States and small businesses have successfully challenged previous global tariffs imposed by Trump in his second term, but the president has continued to pursue new tariffs despite a series of legal setbacks. The Trump administration on July 24 imposed new tariffs of 10 percent and 12.5 percent on 60 trading partners, including the European Union, over allegations that they were not doing enough to stop t...",
+        "fullText": [
+          "NEW YORK — A group of 25 Democratic-led U. S.",
+          "states sued President Donald Trump's administration on Monday, arguing that the president's latest round of tariffs on goods from 60 trading partners, like most of his earlier sweeping tariffs, exceeds his legal authority to tax imports. The states' lawsuit filed in the U.",
+          "S. Court of International Trade in New York follows previous challenges by small U.",
+          "S. businesses, which sued to block the tariffs on the day they went into effect last month.",
+          "States and small businesses have successfully challenged previous global tariffs imposed by Trump in his second term, but the president has continued to pursue new tariffs despite a series of legal setbacks. The Trump administration on July 24 imposed new tariffs of 10 percent and 12.",
+          "5 percent on 60 trading partners, including the European Union, over allegations that they were not doing enough to stop t..."
+        ],
+        "words": [
+          "democratic",
+          "states",
+          "challenge"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "16 French-speaking artists to open exhibitions in Busan, Seoul on Korea's rapidly changing landscape",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260804/16-french-speaking-artists-to-open-exhibitions-in-busan-seoul-on-koreas-rapidly-changing-landscape?utm_source=rss",
+        "summary": "A collective of French-speaking artists called Nuances is presenting a group exhibition in Busan from Thursday to Aug. 30, bringing together filmmakers, photographers and visual artists who examine how Korean cities and landscapes experience a continual cycle of demolition, redevelopment and transformation. The exhibition, titled “ARCHÉOLOGIE DU PRÉSENT” (Archaeology of the Present), seeks to create a new form of contemporary archaeology where today’s disappearing spaces become tomorrow’s memories. Drawing on the dual influence of French and Korean cultures, the collective offers a sensitive and original perspective on contemporary Korean society through the richness of its contrasts and its rapid transformations. The group includes mostly French artists, but its identity extends beyond nationality. Among the participating artists are a Belgian and two Korean artists who lived in France...",
+        "fullText": [
+          "A collective of French-speaking artists called Nuances is presenting a group exhibition in Busan from Thursday to Aug. 30, bringing together filmmakers, photographers and visual artists who examine how Korean cities and landscapes experience a continual cycle of demolition, redevelopment and transformation.",
+          "The exhibition, titled “ARCHÉOLOGIE DU PRÉSENT” (Archaeology of the Present), seeks to create a new form of contemporary archaeology where today’s disappearing spaces become tomorrow’s memories. Drawing on the dual influence of French and Korean cultures, the collective offers a sensitive and original perspective on contemporary Korean society through the richness of its contrasts and its rapid transformations.",
+          "The group includes mostly French artists, but its identity extends beyond nationality. Among the participating artists are a Belgian and two Korean artists who lived in France..."
+        ],
+        "words": [
+          "french-speaking",
+          "artists",
+          "exhibitions"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-03",
     "label": "Monday, August 3, 2026",
     "title": "Korea News Brief",
