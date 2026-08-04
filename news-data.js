@@ -1,5 +1,151 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-05",
+    "label": "Wednesday, August 5, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Economy, Weather, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea warns of 'additional military options' over Japan's expanding defense buildup",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260805/n-korea-warns-of-additional-military-options-over-japans-expanding-defense-buildup?utm_source=rss",
+        "summary": "North Korea warned Wednesday it will consider \"additional military options\" in response to what it called Japan's ambitions to return to a \"war criminal state,\" denouncing the United States for allowing Tokyo to pursue rearmament. Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, made the remarks in a statement issued by state media, citing the recent moves by Japan, such as a test-firing of Tomahawk long-range cruise missiles and its participation in U.S.-led military drills in the Philippines, as evidence of Tokyo's broader push for military expansion. \"Japan, a war criminal state, is accelerating its transformation into a war state, taking advantage of the acute and variable trend of the present international situation in which global geopolitical conflicts and inter-camp confrontation are getting fiercer,\" Kim said in the statement released by the Korean Central Ne...",
+        "fullText": [
+          "North Korea warned Wednesday it will consider \"additional military options\" in response to what it called Japan's ambitions to return to a \"war criminal state,\" denouncing the United States for allowing Tokyo to pursue rearmament. Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, made the remarks in a statement issued by state media, citing the recent moves by Japan, such as a test-firing of Tomahawk long-range cruise missiles and its participation in U.",
+          "S. -led military drills in the Philippines, as evidence of Tokyo's broader push for military expansion.",
+          "\"Japan, a war criminal state, is accelerating its transformation into a war state, taking advantage of the acute and variable trend of the present international situation in which global geopolitical conflicts and inter-camp confrontation are getting fiercer,\" Kim said in the statement released by the Korean Central Ne..."
+        ],
+        "words": [
+          "additional",
+          "military",
+          "options"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Banks get creative with deposit products as market volatility sends stock investors back to savings",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260805/banks-get-creative-with-deposit-products-as-market-volatility-sends-stock-investors-back-to-savings?utm_source=rss",
+        "summary": "Korean banks are rolling out a wave of themed deposit products as they compete to lure retail money back from the stock market amid heightened volatility, while also shoring up funding ahead of further interest rate hikes, according to industry officials, Tuesday. The benchmark KOSPI has swung wildly in recent sessions. After tumbling 17.2 percent over three trading days from July 28-30, the index posted a record one-day rebound of 17.9 percent on Friday. It has since traded in the 6,100 to 6,200 range. The market’s sharp swings have prompted many retail investors to move money from equities back into safer assets. As of July 29, outstanding time deposits at the country’s five largest lenders — KB Kookmin, Shinhan, Hana, Woori and NH NongHyup — stood at 973.5 trillion won ($680.8 billion), up by more than 24 trillion won from a month earlier. For banks, the influx comes at an opportune t...",
+        "fullText": [
+          "Korean banks are rolling out a wave of themed deposit products as they compete to lure retail money back from the stock market amid heightened volatility, while also shoring up funding ahead of further interest rate hikes, according to industry officials, Tuesday. The benchmark KOSPI has swung wildly in recent sessions.",
+          "After tumbling 17. 2 percent over three trading days from July 28-30, the index posted a record one-day rebound of 17.",
+          "9 percent on Friday. It has since traded in the 6,100 to 6,200 range.",
+          "The market’s sharp swings have prompted many retail investors to move money from equities back into safer assets. As of July 29, outstanding time deposits at the country’s five largest lenders — KB Kookmin, Shinhan, Hana, Woori and NH NongHyup — stood at 973.",
+          "5 trillion won ($680. 8 billion), up by more than 24 trillion won from a month earlier.",
+          "For banks, the influx comes at an opportune t..."
+        ],
+        "words": [
+          "creative",
+          "deposit",
+          "products"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "From movies to comic books: Where to cool off indoors this week",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260805/from-movies-to-comic-books-where-to-cool-off-indoors-this-week?utm_source=rss",
+        "summary": "The pavement shimmers, the air feels thick and heavy and stepping outside starts to feel like a dare. When the summer heat currently baking the Korean Peninsula turns punishing, these three spots in the greater Seoul area offer not just relief from the sun but reason to stay all day. Seoul Metropolitan Library Located in Jung District, central Seoul, Seoul Metropolitan Library is the city's flagship public library. Located in the old City Hall building, which was constructed in 1926, during the 1910-45 Japanese colonial period, and continued being used as City Hall after Korea's liberation. The building was renovated in 2012 and the remaining original section was repurposed as a library after the addition of the new City Hall building. With the original facade preserved, the building houses the General Collections of Korean-language books, the Digital Collections of DVDs and multimedia m...",
+        "fullText": [
+          "The pavement shimmers, the air feels thick and heavy and stepping outside starts to feel like a dare. When the summer heat currently baking the Korean Peninsula turns punishing, these three spots in the greater Seoul area offer not just relief from the sun but reason to stay all day.",
+          "Seoul Metropolitan Library Located in Jung District, central Seoul, Seoul Metropolitan Library is the city's flagship public library. Located in the old City Hall building, which was constructed in 1926, during the 1910-45 Japanese colonial period, and continued being used as City Hall after Korea's liberation.",
+          "The building was renovated in 2012 and the remaining original section was repurposed as a library after the addition of the new City Hall building. With the original facade preserved, the building houses the General Collections of Korean-language books, the Digital Collections of DVDs and multimedia m..."
+        ],
+        "words": [
+          "movies",
+          "indoors",
+          "pavement"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Iran and Oman make progress on deal to reopen Strait of Hormuz",
+        "url": "https://www.koreatimes.co.kr/world/20260805/iran-and-oman-make-progress-on-deal-to-reopen-strait-of-hormuz?utm_source=rss",
+        "summary": "CAIRO — Iran and the Gulf Arab state of Oman have made progress toward a deal to reopen the Strait of Hormuz, a potential breakthrough that could help wind down the war in the Middle East, regional officials said Tuesday. Under the emerging agreement, ships would enter the Persian Gulf through an Iranian-controlled route and exit through a route controlled by Oman, with service fees charged for providing security and preserving the maritime environment, two regional officials told The Associated Press. They said negotiations are still underway and that the final agreement could take a different form, with any deal linked to lifting the U.S. blockade on Iran’s ports. The officials spoke on condition of anonymity to discuss the sensitive negotiations unfolding behind closed doors. Any agreement formalizing Iran’s control of the strait would mark a significant strategic victory for Tehran....",
+        "fullText": [
+          "CAIRO — Iran and the Gulf Arab state of Oman have made progress toward a deal to reopen the Strait of Hormuz, a potential breakthrough that could help wind down the war in the Middle East, regional officials said Tuesday. Under the emerging agreement, ships would enter the Persian Gulf through an Iranian-controlled route and exit through a route controlled by Oman, with service fees charged for providing security and preserving the maritime environment, two regional officials told The Associated Press.",
+          "They said negotiations are still underway and that the final agreement could take a different form, with any deal linked to lifting the U. S.",
+          "blockade on Iran’s ports. The officials spoke on condition of anonymity to discuss the sensitive negotiations unfolding behind closed doors.",
+          "Any agreement formalizing Iran’s control of the strait would mark a significant strategic victory for Tehran...."
+        ],
+        "words": [
+          "progress",
+          "reopen",
+          "strait"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US used 'virtually all' long-range missiles in Iran war, sources say",
+        "url": "https://www.koreatimes.co.kr/world/20260805/us-used-virtually-all-long-range-missiles-in-iran-war-sources-say?utm_source=rss",
+        "summary": "NEW YORK/WASHINGTON — The U.S. Army has used up much of its global stockpile of highly accurate long-range missiles during its five-month war with Iran, according to three people familiar with the data, raising concerns about the military's readiness for future conflicts. The missiles are principally the Army's surface-to-surface weapons, known as Army Tactical Missile Systems (ATACMS) and Precision Strike Missiles (PrSM). The U.S. has used \"virtually all\" of these weapons, according to two of the sources. The degree to which the military is running out of ATACMS and Precision Strike Missiles has not been previously reported. The long-range munitions – which cost more than $1 million each – are an important part of the military's arsenal, allowing accurate strikes from a safe distance. U.S.-supplied ATACMS have played a key role in the war in Ukraine, allowing Ukrainian forces to attack...",
+        "fullText": [
+          "NEW YORK/WASHINGTON — The U. S.",
+          "Army has used up much of its global stockpile of highly accurate long-range missiles during its five-month war with Iran, according to three people familiar with the data, raising concerns about the military's readiness for future conflicts. The missiles are principally the Army's surface-to-surface weapons, known as Army Tactical Missile Systems (ATACMS) and Precision Strike Missiles (PrSM).",
+          "The U. S.",
+          "has used \"virtually all\" of these weapons, according to two of the sources. The degree to which the military is running out of ATACMS and Precision Strike Missiles has not been previously reported.",
+          "The long-range munitions – which cost more than $1 million each – are an important part of the military's arsenal, allowing accurate strikes from a safe distance. U.",
+          "S. -supplied ATACMS have played a key role in the war in Ukraine, allowing Ukrainian forces to attack..."
+        ],
+        "words": [
+          "virtually",
+          "long-range",
+          "missiles"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Oil drops, stocks hit records on hopes of Hormuz opening",
+        "url": "https://www.koreatimes.co.kr/world/20260805/oil-drops-stocks-hit-records-on-hopes-of-hormuz-opening?utm_source=rss",
+        "summary": "LONDON — Oil prices fell sharply Tuesday after U.S. Treasury Secretary Scott Bessent said a deal could be reached with Tehran by Wednesday on re-opening the Strait of Hormuz to shipping traffic. The renewed optimism after five months of blockage for Gulf oil and gas tankers bolstered stocks, with Wall Street building on recent advances after the Dow hit a record closing high Monday, with the S&P 500 on track to do the same on Tuesday. In Europe, the benchmark indexes in Paris and Milan closed at all-time highs, while both Frankfurt and Madrid extended records reached on Monday. The gains came after last week's tech-led rollercoaster ride, spurred by renewed worries about massive AI spending and how quickly those investments will start generating wider economic payoffs. A series of forecast-busting U.S. corporate earnings — most recently by AI-data mining giant Palantir as well as constru...",
+        "fullText": [
+          "LONDON — Oil prices fell sharply Tuesday after U. S.",
+          "Treasury Secretary Scott Bessent said a deal could be reached with Tehran by Wednesday on re-opening the Strait of Hormuz to shipping traffic. The renewed optimism after five months of blockage for Gulf oil and gas tankers bolstered stocks, with Wall Street building on recent advances after the Dow hit a record closing high Monday, with the S&P 500 on track to do the same on Tuesday.",
+          "In Europe, the benchmark indexes in Paris and Milan closed at all-time highs, while both Frankfurt and Madrid extended records reached on Monday. The gains came after last week's tech-led rollercoaster ride, spurred by renewed worries about massive AI spending and how quickly those investments will start generating wider economic payoffs.",
+          "A series of forecast-busting U. S.",
+          "corporate earnings — most recently by AI-data mining giant Palantir as well as constru..."
+        ],
+        "words": [
+          "stocks",
+          "records",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Bessent cites volatility in Korean won while stressing stable yen's importance",
+        "url": "https://www.koreatimes.co.kr/world/20260805/bessent-cites-volatility-in-korean-won-while-stressing-stable-yens-importance?utm_source=rss",
+        "summary": "WASHINGTON — U.S. Treasury Secretary Scott Bessent said Tuesday the South Korean won has experienced \"excess volatility,\" as he underscored the importance of a stable yen for the \"entire region\" following a recent intervention by the United States and Japan to boost the Japanese currency. Bessent made the remarks in a CNBC interview after Washington and Tokyo jointly intervened in the foreign exchange market last week in a rare move to help address the yen's sharp fall against the greenback. \"I think a stable yen is not only important for the U.S., but it's very important for the entire region because if the yen were to weaken substantially, then the other currencies would follow it,\" he said in the interview. \"You know we'd seen excess volatility in the Korean won,\" he added. Casting himself as an economic historian, Bessent said that in his view, the Asian financial crisis in the 1990s...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "Treasury Secretary Scott Bessent said Tuesday the South Korean won has experienced \"excess volatility,\" as he underscored the importance of a stable yen for the \"entire region\" following a recent intervention by the United States and Japan to boost the Japanese currency. Bessent made the remarks in a CNBC interview after Washington and Tokyo jointly intervened in the foreign exchange market last week in a rare move to help address the yen's sharp fall against the greenback.",
+          "\"I think a stable yen is not only important for the U. S.",
+          ", but it's very important for the entire region because if the yen were to weaken substantially, then the other currencies would follow it,\" he said in the interview. \"You know we'd seen excess volatility in the Korean won,\" he added.",
+          "Casting himself as an economic historian, Bessent said that in his view, the Asian financial crisis in the 1990s..."
+        ],
+        "words": [
+          "bessent",
+          "volatility",
+          "stressing"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-04",
     "label": "Tuesday, August 4, 2026",
     "title": "Korea News Brief",
