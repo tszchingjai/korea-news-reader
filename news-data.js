@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-06",
+    "label": "Thursday, August 6, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Weather, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Semiconductor boom puts Korea on track for record high tax revenue",
+        "url": "https://www.koreatimes.co.kr/economy/others/20260806/semiconductor-boom-puts-korea-on-track-for-record-high-tax-revenue?utm_source=rss",
+        "summary": "Korea’s tax revenue outlook is improving as a semiconductor-led economic recovery gains traction, offering relief to government finances after years of persistent shortfalls, government officials and analysts said Wednesday. Major tax revenues including income, corporate and securities transaction taxes have all surged from a year earlier on the back of stronger corporate earnings, rising wages and a pickup in stock trading. With Samsung Electronics and SK hynix set to make interim corporate tax payments this month based on their first-half earnings, total tax revenue could come in more than 50 trillion won above the government’s initial forecast, according to analysts. Data from the Ministry of Finance and Economy showed that the government collected 223 trillion won ($156 billion) in national tax revenue in the first half of 2026, up 17.4 percent from a year earlier. Income tax revenue...",
+        "fullText": [
+          "Korea’s tax revenue outlook is improving as a semiconductor-led economic recovery gains traction, offering relief to government finances after years of persistent shortfalls, government officials and analysts said Wednesday. Major tax revenues including income, corporate and securities transaction taxes have all surged from a year earlier on the back of stronger corporate earnings, rising wages and a pickup in stock trading.",
+          "With Samsung Electronics and SK hynix set to make interim corporate tax payments this month based on their first-half earnings, total tax revenue could come in more than 50 trillion won above the government’s initial forecast, according to analysts. Data from the Ministry of Finance and Economy showed that the government collected 223 trillion won ($156 billion) in national tax revenue in the first half of 2026, up 17.",
+          "4 percent from a year earlier. Income tax revenue..."
+        ],
+        "words": [
+          "semiconductor",
+          "record",
+          "revenue"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korean airlines expand China routes as travel rebound spreads beyond major cities",
+        "url": "https://www.koreatimes.co.kr/business/others/20260806/korean-airlines-expand-china-routes-as-travel-rebound-spreads-beyond-major-cities?utm_source=rss",
+        "summary": "Korean airlines are expanding services beyond China’s main business hubs, expecting a rebound in travel between the two countries to create sustainable demand for routes linking smaller cities and regional tourism destinations. Jin Air, an affiliate of Korean Air, will launch flights between Incheon and China’s Yichang on Sept. 17 and resume services to China’s Qingdao and Yantai this month. Eastar Jet will open a Daegu-Zhangjiajie route on Sept. 1, while adding charter flights to China’s Datong, Nantong and Ningbo after securing rights for 11 Korea-China routes in April. The additions come as passenger traffic on routes between Korea and China reached 9.54 million in the first half of 2026, up 22 percent from a year earlier, according to Korea’s Aviation Information Portal System. Chinese visitor arrivals in Korea grew even faster, rising 27.1 percent to 3.21 million during the period,...",
+        "fullText": [
+          "Korean airlines are expanding services beyond China’s main business hubs, expecting a rebound in travel between the two countries to create sustainable demand for routes linking smaller cities and regional tourism destinations. Jin Air, an affiliate of Korean Air, will launch flights between Incheon and China’s Yichang on Sept.",
+          "17 and resume services to China’s Qingdao and Yantai this month. Eastar Jet will open a Daegu-Zhangjiajie route on Sept.",
+          "1, while adding charter flights to China’s Datong, Nantong and Ningbo after securing rights for 11 Korea-China routes in April. The additions come as passenger traffic on routes between Korea and China reached 9.",
+          "54 million in the first half of 2026, up 22 percent from a year earlier, according to Korea’s Aviation Information Portal System. Chinese visitor arrivals in Korea grew even faster, rising 27.",
+          "1 percent to 3. 21 million during the period,..."
+        ],
+        "words": [
+          "airlines",
+          "expand",
+          "routes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "From pork soup to viral snacks: Korea's next must-try foods",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260806/from-pork-soup-to-viral-snacks-koreas-next-must-try-foods?utm_source=rss",
+        "summary": "For years, Korean food tourism has largely revolved around familiar favorites: Korean barbecue, fried chicken and spicy tteokbokki. But a different trend has emerged across online communities and platforms, including TikTok, Reddit, Instagram and travel blogs. From comforting bowls of pork soup to sweet and savory snacks and creative convenience store hacks, more international visitors are moving beyond the obvious tourist picks, seeking out the foods locals enjoy every day. Drawing on recent food trends spotted across social media and travel communities, as well as dishes frequently recommended by visitors, here are seven Korean foods worth searching for. Dwaeji gukbap: Busan's signature comfort food If there's one local dish that has emerged as a favorite among foreign travelers visiting Busan, it's \"dwaeji gukbap,\" or pork rice soup. The milky pork bone broth is rich without being spi...",
+        "fullText": [
+          "For years, Korean food tourism has largely revolved around familiar favorites: Korean barbecue, fried chicken and spicy tteokbokki. But a different trend has emerged across online communities and platforms, including TikTok, Reddit, Instagram and travel blogs.",
+          "From comforting bowls of pork soup to sweet and savory snacks and creative convenience store hacks, more international visitors are moving beyond the obvious tourist picks, seeking out the foods locals enjoy every day. Drawing on recent food trends spotted across social media and travel communities, as well as dishes frequently recommended by visitors, here are seven Korean foods worth searching for.",
+          "Dwaeji gukbap: Busan's signature comfort food If there's one local dish that has emerged as a favorite among foreign travelers visiting Busan, it's \"dwaeji gukbap,\" or pork rice soup. The milky pork bone broth is rich without being spi..."
+        ],
+        "words": [
+          "snacks",
+          "must-try",
+          "tourism"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Baseball offers lifelong lessons for Mediheal chairman",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260806/baseball-offers-lifelong-lessons-for-mediheal-chairman?utm_source=rss",
+        "summary": "This is the first in a series of interview stories and feature stories about L&P Cosmetic, a company behind the globally popular facial sheet mask brand Mediheal, introducing philosophies, insights and future strategies of leaders of the K-beauty company. — ED L&P Cosmetic Chairman Kwon Oh-sub owes his father his passion for baseball. The son started tagging along with his father to matches played by high schools, universities and company-sponsored clubs in the year he entered elementary school. Back then, his prime interest behind those trips was not watching baseball but street foods his father let him try. The outings continued until his father died six years later. By then, even before the country saw the debut of the Korea Baseball Organization (KBO) in 1982, baseball began slipping into the heart and soul of Kwon. He had no idea he was going to become the founder of L&P Cosmetic an...",
+        "fullText": [
+          "This is the first in a series of interview stories and feature stories about L&P Cosmetic, a company behind the globally popular facial sheet mask brand Mediheal, introducing philosophies, insights and future strategies of leaders of the K-beauty company. — ED L&P Cosmetic Chairman Kwon Oh-sub owes his father his passion for baseball.",
+          "The son started tagging along with his father to matches played by high schools, universities and company-sponsored clubs in the year he entered elementary school. Back then, his prime interest behind those trips was not watching baseball but street foods his father let him try.",
+          "The outings continued until his father died six years later. By then, even before the country saw the debut of the Korea Baseball Organization (KBO) in 1982, baseball began slipping into the heart and soul of Kwon.",
+          "He had no idea he was going to become the founder of L&P Cosmetic an..."
+        ],
+        "words": [
+          "baseball",
+          "offers",
+          "lifelong"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "K-food becomes Korea's newest travel souvenir for visitors",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260806/k-food-becomes-koreas-newest-travel-souvenir-for-visitors?utm_source=rss",
+        "summary": "At an Olive Young store in Central Seoul's Myeong-dong in central Seoul, tourists fill shopping baskets with protein shakes, kombucha mix and bags of chips while checking recommendations on social media. Just a few subway stops away at Lotte Mart near Seoul Station, visitors browse snack aisles stocked with instant noodles, coffee mix and Korean sweets, adding products to their luggage before heading home. “I’m definitely taking some different flavored chips home for my family and friends. Korea has so many interesting flavors. In Germany, we mostly have paprika-based flavors and here you can get any flavor that you want — like honey or cheese — and that’s amazing,\" said Nadja, a 34-year-old tourist from Germany. Korean food has stopped being just something to eat during a trip. For many visitors, it has become one of the country's most popular types of souvenirs. The trend comes as Kore...",
+        "fullText": [
+          "At an Olive Young store in Central Seoul's Myeong-dong in central Seoul, tourists fill shopping baskets with protein shakes, kombucha mix and bags of chips while checking recommendations on social media. Just a few subway stops away at Lotte Mart near Seoul Station, visitors browse snack aisles stocked with instant noodles, coffee mix and Korean sweets, adding products to their luggage before heading home.",
+          "“I’m definitely taking some different flavored chips home for my family and friends. Korea has so many interesting flavors.",
+          "In Germany, we mostly have paprika-based flavors and here you can get any flavor that you want — like honey or cheese — and that’s amazing,\" said Nadja, a 34-year-old tourist from Germany. Korean food has stopped being just something to eat during a trip.",
+          "For many visitors, it has become one of the country's most popular types of souvenirs. The trend comes as Kore..."
+        ],
+        "words": [
+          "k-food",
+          "becomes",
+          "newest"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US offers $25 mil. reward for US citizen reportedly leading Mexican cartel",
+        "url": "https://www.koreatimes.co.kr/world/20260806/us-offers-25-mil-reward-for-us-citizen-reportedly-leading-mexican-cartel?utm_source=rss",
+        "summary": "MEXICO CITY — The U.S. government on Wednesday offered a $25 million reward for information leading to the capture of Juan Carlos González, or \"Pelón,” scaling up pressure on a U.S. citizen who has emerged as the figurehead of Mexico's most powerful cartel. The reward was bumped up from $5 million. The Trump administration offered a total of $100 million in rewards for various leaders of the Jalisco New Generation Cartel, or CJNG, and restricted the visas of family members and business associates of cartel members. U.S. officials said the rewards, along with newly unsealed charges against five other high-ranking leaders, were aimed at crippling the organization’s leadership while President Donald Trump has ramped up pressure on Mexico and other Latin American nations to carry out his security agenda. “These sophisticated organizations use violence and fear to maintain control over the im...",
+        "fullText": [
+          "MEXICO CITY — The U. S.",
+          "government on Wednesday offered a $25 million reward for information leading to the capture of Juan Carlos González, or \"Pelón,” scaling up pressure on a U. S.",
+          "citizen who has emerged as the figurehead of Mexico's most powerful cartel. The reward was bumped up from $5 million.",
+          "The Trump administration offered a total of $100 million in rewards for various leaders of the Jalisco New Generation Cartel, or CJNG, and restricted the visas of family members and business associates of cartel members. U.",
+          "S. officials said the rewards, along with newly unsealed charges against five other high-ranking leaders, were aimed at crippling the organization’s leadership while President Donald Trump has ramped up pressure on Mexico and other Latin American nations to carry out his security agenda.",
+          "“These sophisticated organizations use violence and fear to maintain control over the im..."
+        ],
+        "words": [
+          "offers",
+          "reward",
+          "citizen"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Mideast deal hopes lift Dow, S&P to records; SpaceX, AMD drag Nasdaq",
+        "url": "https://www.koreatimes.co.kr/world/20260806/mideast-deal-hopes-lift-dow-sp-to-records-spacex-amd-drag-nasdaq?utm_source=rss",
+        "summary": "The S&P 500 and Dow hit intraday record highs on Wednesday on signs of progress for a peace deal with Iran, while the Nasdaq was on pace for its first decline in five sessions as SpaceX and AMD stumbled following their quarterly earnings. A proposed deal between Iran and Oman would give Tehran control over ships entering the Gulf through the Strait of Hormuz, a senior Iranian source and two regional officials told Reuters, in one of the biggest concessions yet to Iran. Stocks rallied to start the week, with the Dow and S&P 500 closing at records on Tuesday, as oil prices and U.S. Treasury yields dropped on hopes peace talks could lead to a deal, easing inflation pressures and lowering expectations for a rate hike from the Federal Reserve. \"It's just a straight rocket shot that we've gone up, we didn't even take a breath,\" said Kenny Polcari, chief market strategist at Slatestone Wealth i...",
+        "fullText": [
+          "The S&P 500 and Dow hit intraday record highs on Wednesday on signs of progress for a peace deal with Iran, while the Nasdaq was on pace for its first decline in five sessions as SpaceX and AMD stumbled following their quarterly earnings. A proposed deal between Iran and Oman would give Tehran control over ships entering the Gulf through the Strait of Hormuz, a senior Iranian source and two regional officials told Reuters, in one of the biggest concessions yet to Iran.",
+          "Stocks rallied to start the week, with the Dow and S&P 500 closing at records on Tuesday, as oil prices and U. S.",
+          "Treasury yields dropped on hopes peace talks could lead to a deal, easing inflation pressures and lowering expectations for a rate hike from the Federal Reserve. \"It's just a straight rocket shot that we've gone up, we didn't even take a breath,\" said Kenny Polcari, chief market strategist at Slatestone Wealth i..."
+        ],
+        "words": [
+          "mideast",
+          "records",
+          "spacex"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-05",
     "label": "Wednesday, August 5, 2026",
     "title": "Korea News Brief",
