@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-08",
+    "label": "Saturday, August 8, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Weather, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Itaewon Film Festival finds its footing and puts down roots",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260808/itaewon-film-festival-finds-its-footing-and-puts-down-roots?utm_source=rss",
+        "summary": "It's one thing to plant a seed. It's another to nurture it and watch it grow. The Itaewon Film Festival is heading into its second year with clear signs of growth and maturity, demonstrating its widening impact on the neighborhood and the city around it. Running in Haebangchon and Itaewon, two central Seoul neighborhoods that have long housed artists, expats and people operating outside the mainstream of Korean culture, the lively outsider character of the festival's home runs through every programming decision. This year's edition will be held from Sept. 10 to 13 as part of Haebang Week, a weeklong program of events affiliated with Block Party Music & Arts Festival. The festival's slogan, \"Home of Liberation,\" is a nod to the neighborhood's name — \"Haebangchon\" translates directly to \"Liberation Village.\" Co-founder Simon Chong has been open about how much the neighborhood shapes the fe...",
+        "fullText": [
+          "It's one thing to plant a seed. It's another to nurture it and watch it grow.",
+          "The Itaewon Film Festival is heading into its second year with clear signs of growth and maturity, demonstrating its widening impact on the neighborhood and the city around it. Running in Haebangchon and Itaewon, two central Seoul neighborhoods that have long housed artists, expats and people operating outside the mainstream of Korean culture, the lively outsider character of the festival's home runs through every programming decision.",
+          "This year's edition will be held from Sept. 10 to 13 as part of Haebang Week, a weeklong program of events affiliated with Block Party Music & Arts Festival.",
+          "The festival's slogan, \"Home of Liberation,\" is a nod to the neighborhood's name — \"Haebangchon\" translates directly to \"Liberation Village. \" Co-founder Simon Chong has been open about how much the neighborhood shapes the fe..."
+        ],
+        "words": [
+          "itaewon",
+          "festival",
+          "footing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] Fan death, a cautionary breeze",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260808/morning-calm-tales-fan-death-a-cautionary-breeze?utm_source=rss",
+        "summary": "My first summer in Korea, I thought I was going to die. The heat and the humidity were unbearable. I’d naively assumed that living near the Han River in southeastern Seoul might offer some cooling nighttime breeze. It didn’t. Not even a whisper. Fortunately, I had a fan — an old, rattling workhorse that labored through the night, valiantly pushing hot air from one side of my room to the other. It didn’t cool me, but it gave the illusion of doing something, which was better than nothing. The next morning, bleary-eyed after another sleepless night, I trudged off to school. At least the classrooms were air-conditioned, which felt like a miracle. “It was so hot last night, I slept with the fan on all night,” I said casually while taking attendance. A collective gasp sucked the air out of the room. I looked up. The entire class was frozen in horror, eyes wide, mouths agape, as if I had just c...",
+        "fullText": [
+          "My first summer in Korea, I thought I was going to die. The heat and the humidity were unbearable.",
+          "I’d naively assumed that living near the Han River in southeastern Seoul might offer some cooling nighttime breeze. It didn’t.",
+          "Not even a whisper. Fortunately, I had a fan — an old, rattling workhorse that labored through the night, valiantly pushing hot air from one side of my room to the other.",
+          "It didn’t cool me, but it gave the illusion of doing something, which was better than nothing. The next morning, bleary-eyed after another sleepless night, I trudged off to school.",
+          "At least the classrooms were air-conditioned, which felt like a miracle. “It was so hot last night, I slept with the fan on all night,” I said casually while taking attendance.",
+          "A collective gasp sucked the air out of the room. I looked up.",
+          "The entire class was frozen in horror, eyes wide, mouths agape, as if I had just c..."
+        ],
+        "words": [
+          "morning",
+          "cautionary",
+          "breeze"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Williams Sonoma's 'Taste of Korea' collection looks anything but Korean",
+        "url": "https://www.koreatimes.co.kr/world/20260808/williams-sonomas-taste-of-korea-collection-looks-anything-but-korean?utm_source=rss",
+        "summary": "SEATTLE — Williams Sonoma, one of America’s best-known upscale kitchenware and home retailers, has turned its attention to Korean cuisine with a new “Taste of Korea” collection. But Koreans in the U.S. are taking one look at the tableware and wondering where exactly the Korea is. The retailer’s collection features more than 100 items, from Korean sauces and seasonings to cookware and dinnerware. Front and center is the Lotus Bloom collection, an ornate line of plates and bowls in pinkish-red and gold, alongside similarly elaborate table linens. For a retailer that has spent decades cultivating an image as an upscale American tastemaker, the decidedly un-Korean look has struck a nerve online, particularly as brands increasingly seek to capitalize on the global popularity of Korean food and culture. “I saw this huge sign outside the store that said ‘Taste of Korea,’ and as a Korean, I felt...",
+        "fullText": [
+          "SEATTLE — Williams Sonoma, one of America’s best-known upscale kitchenware and home retailers, has turned its attention to Korean cuisine with a new “Taste of Korea” collection. But Koreans in the U.",
+          "S. are taking one look at the tableware and wondering where exactly the Korea is.",
+          "The retailer’s collection features more than 100 items, from Korean sauces and seasonings to cookware and dinnerware. Front and center is the Lotus Bloom collection, an ornate line of plates and bowls in pinkish-red and gold, alongside similarly elaborate table linens.",
+          "For a retailer that has spent decades cultivating an image as an upscale American tastemaker, the decidedly un-Korean look has struck a nerve online, particularly as brands increasingly seek to capitalize on the global popularity of Korean food and culture. “I saw this huge sign outside the store that said ‘Taste of Korea,’ and as a Korean, I felt..."
+        ],
+        "words": [
+          "williams",
+          "sonoma",
+          "collection"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "K-beauty has moved beyond the skincare aisle",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260808/k-beauty-has-moved-beyond-the-skincare-aisle?utm_source=rss",
+        "summary": "SEOUL — During a recent five-week visit to South Korea, one thing became immediately apparent: While consumers overseas continue embracing K-beauty products, many Koreans have already moved on to the next step. For years, South Korea's beauty industry has been synonymous with sheet masks, BB creams and the famed 10-step skincare routine. Those products helped turn K-beauty into a global phenomenon and cemented the country's reputation as a beauty powerhouse. Today, however, the conversation has shifted from cosmetics counters to the country's ubiquitous dermatology clinics, where aesthetic treatments have become part of everyday beauty routines. Scheduling a laser treatment or skin booster has become almost as routine as booking a haircut or nail appointment. Beauty in South Korea is increasingly treated less like a luxury and more like maintenance. Instead of asking which moisturizer so...",
+        "fullText": [
+          "SEOUL — During a recent five-week visit to South Korea, one thing became immediately apparent: While consumers overseas continue embracing K-beauty products, many Koreans have already moved on to the next step. For years, South Korea's beauty industry has been synonymous with sheet masks, BB creams and the famed 10-step skincare routine.",
+          "Those products helped turn K-beauty into a global phenomenon and cemented the country's reputation as a beauty powerhouse. Today, however, the conversation has shifted from cosmetics counters to the country's ubiquitous dermatology clinics, where aesthetic treatments have become part of everyday beauty routines.",
+          "Scheduling a laser treatment or skin booster has become almost as routine as booking a haircut or nail appointment. Beauty in South Korea is increasingly treated less like a luxury and more like maintenance.",
+          "Instead of asking which moisturizer so..."
+        ],
+        "words": [
+          "k-beauty",
+          "beyond",
+          "skincare"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Trump nominee Todd Blanche clears major hurdle to become attorney general",
+        "url": "https://www.koreatimes.co.kr/world/20260808/trump-nominee-todd-blanche-clears-major-hurdle-to-become-attorney-general?utm_source=rss",
+        "summary": "WASHINGTON — Republican Senator Bill Cassidy said on Friday he would back Todd Blanche for attorney general, clearing a path for Donald Trump's nominee after weeks of scrutiny over the Justice Department's independence from the White House. Cassidy emerged as the likely deciding vote after Republican Senator Lisa Murkowski of Alaska said she would oppose Blanche for the top U.S. law enforcement job, leaving the nomination on the brink. Cassidy's support for Blanche capped one of the most contentious cabinet fights of Trump's second term after concerns spanning both parties over Blanche's independence nearly derailed the nomination. The vote was the culmination of weeks of negotiations between Senate Republicans and the Trump administration over Blanche, who has served as acting attorney general since April and previously ran day-to-day Justice Department operations as its second-ranking...",
+        "fullText": [
+          "WASHINGTON — Republican Senator Bill Cassidy said on Friday he would back Todd Blanche for attorney general, clearing a path for Donald Trump's nominee after weeks of scrutiny over the Justice Department's independence from the White House. Cassidy emerged as the likely deciding vote after Republican Senator Lisa Murkowski of Alaska said she would oppose Blanche for the top U.",
+          "S. law enforcement job, leaving the nomination on the brink.",
+          "Cassidy's support for Blanche capped one of the most contentious cabinet fights of Trump's second term after concerns spanning both parties over Blanche's independence nearly derailed the nomination. The vote was the culmination of weeks of negotiations between Senate Republicans and the Trump administration over Blanche, who has served as acting attorney general since April and previously ran day-to-day Justice Department operations as its second-ranking..."
+        ],
+        "words": [
+          "nominee",
+          "blanche",
+          "clears"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US rate futures cut chances of September rate hike after jobs data",
+        "url": "https://www.koreatimes.co.kr/world/20260808/us-rate-futures-cut-chances-of-september-rate-hike-after-jobs-data?utm_source=rss",
+        "summary": "U.S. hiring data for July drove financial markets to lower forecasts for the U.S. central bank raising its interest rate target at September's Federal Open Market Committee meeting, after a week in which several Fed officials made the case for lifting rates to tackle stubborn inflation. Futures markets put at less than even odds of a rate hike at the next FOMC meeting and are split on where the Fed will end up by the end of the year after data showed the U.S. economy lost 23,000 jobs in July amid a modest decline in the unemployment rate to 4.1 percent from June's 4.2 percent, although that shift was driven by the less positive move of workers out of the labor force. The downward shift in hiring conditions pointed to the possibility that the relative stability of the job market may be more vulnerable than thought. The rate futures market has now priced in just a 43.9 percent chance of Fe...",
+        "fullText": [
+          "U. S.",
+          "hiring data for July drove financial markets to lower forecasts for the U. S.",
+          "central bank raising its interest rate target at September's Federal Open Market Committee meeting, after a week in which several Fed officials made the case for lifting rates to tackle stubborn inflation. Futures markets put at less than even odds of a rate hike at the next FOMC meeting and are split on where the Fed will end up by the end of the year after data showed the U.",
+          "S. economy lost 23,000 jobs in July amid a modest decline in the unemployment rate to 4.",
+          "1 percent from June's 4. 2 percent, although that shift was driven by the less positive move of workers out of the labor force.",
+          "The downward shift in hiring conditions pointed to the possibility that the relative stability of the job market may be more vulnerable than thought. The rate futures market has now priced in just a 43.",
+          "9 percent chance of Fe..."
+        ],
+        "words": [
+          "futures",
+          "chances",
+          "september"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Wall St set for best week since April as payrolls surprise eases rate-hike jitters",
+        "url": "https://www.koreatimes.co.kr/world/20260808/wall-st-set-for-best-week-since-april-as-payrolls-surprise-eases-rate-hike-jitters?utm_source=rss",
+        "summary": "Wall Street's main indexes were on track for strong weekly gains on Friday after data showed the U.S. economy unexpectedly shed jobs last month, tempering speculation of the Federal Reserve raising borrowing costs in September. A Labor Department report showed nonfarm payrolls fell 23,000 in July, far below the 80,000 job additions that economists polled by Reuters had expected. \"For the Fed, the report could keep policymakers on track to hike (rates); however, there may be somewhat less urgency, in our view, with the timing likely dependent on incoming inflation and employment data over the months ahead,\" said Brian Therien, senior analyst at Edward Jones. Money market data showed traders pared back expectations for an increase in borrowing costs in September, with odds of a hike now at about 20 percent, from 55 percent before the report, according to data compiled by LSEG. Under new Ch...",
+        "fullText": [
+          "Wall Street's main indexes were on track for strong weekly gains on Friday after data showed the U. S.",
+          "economy unexpectedly shed jobs last month, tempering speculation of the Federal Reserve raising borrowing costs in September. A Labor Department report showed nonfarm payrolls fell 23,000 in July, far below the 80,000 job additions that economists polled by Reuters had expected.",
+          "\"For the Fed, the report could keep policymakers on track to hike (rates); however, there may be somewhat less urgency, in our view, with the timing likely dependent on incoming inflation and employment data over the months ahead,\" said Brian Therien, senior analyst at Edward Jones. Money market data showed traders pared back expectations for an increase in borrowing costs in September, with odds of a hike now at about 20 percent, from 55 percent before the report, according to data compiled by LSEG.",
+          "Under new Ch..."
+        ],
+        "words": [
+          "payrolls",
+          "surprise",
+          "rate-hike"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-07",
     "label": "Friday, August 7, 2026",
     "title": "Korea News Brief",
