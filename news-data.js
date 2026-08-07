@@ -1,5 +1,157 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-07",
+    "label": "Friday, August 7, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Politics, Inter-Korea, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul shares open higher on tech gains despite renewed Hormuz tensions",
+        "url": "https://www.koreatimes.co.kr/economy/20260807/seoul-shares-open-higher-on-tech-gains-despite-renewed-hormuz-tensions?utm_source=rss",
+        "summary": "Seoul shares opened higher Friday, led by gains in technology stocks despite renewed geopolitical tensions in the Middle East. The benchmark Korea Composite Stock Price Index (KOSPI) opened 68.69 points, or 1.09 percent, higher at 6,365.07. The index plunged 4.58 percent in the previous session, dragged down mainly by losses in technology stocks. Overnight, U.S. stocks declined. The Dow Jones Industrial Average rose 0.85 percent, and the tech-heavy Nasdaq Composite climbed 0.06 percent amid a lack of clarity over a possible agreement between the United States and Iran to reopen the Strait of Hormuz. Iran reportedly plans to deny U.S. and Israeli ships access to the strategic waterway and require compensation from countries it considers hostile before allowing them passage. In Seoul, tech shares led the gains. Market bellwether Samsung Electronics rose 2.49 percent, and its chipmaking riv...",
+        "fullText": [
+          "Seoul shares opened higher Friday, led by gains in technology stocks despite renewed geopolitical tensions in the Middle East. The benchmark Korea Composite Stock Price Index (KOSPI) opened 68.",
+          "69 points, or 1. 09 percent, higher at 6,365.",
+          "07. The index plunged 4.",
+          "58 percent in the previous session, dragged down mainly by losses in technology stocks. Overnight, U.",
+          "S. stocks declined.",
+          "The Dow Jones Industrial Average rose 0. 85 percent, and the tech-heavy Nasdaq Composite climbed 0.",
+          "06 percent amid a lack of clarity over a possible agreement between the United States and Iran to reopen the Strait of Hormuz. Iran reportedly plans to deny U.",
+          "S. and Israeli ships access to the strategic waterway and require compensation from countries it considers hostile before allowing them passage.",
+          "In Seoul, tech shares led the gains. Market bellwether Samsung Electronics rose 2.",
+          "49 percent, and its chipmaking riv..."
+        ],
+        "words": [
+          "shares",
+          "higher",
+          "despite"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Lee set to hold closed-door meeting on housing supply plans",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260807/lee-set-to-hold-closed-door-meeting-on-housing-supply-plans?utm_source=rss",
+        "summary": "President Lee Jae Myung was set to hold a meeting Friday to discuss housing supply plans as the government seeks to cool down heated real estate prices. At the closed-door meeting set for 2 p.m., government ministries are expected to present housing supply proposals following Lee's instruction to officials earlier this week to secure a speedy housing supply. Housing prices in Seoul and adjacent areas remain prohibitively high, making it a major policy task for the Lee administration to rein in the overheated real estate market. On Monday, the government unveiled a new set of tax revisions aimed at increasing the tax burden on owners of high-value homes. The government is also expected to announce major housing supply plans in the near future. During a relevant meeting on Monday, Lee instructed officials to \"secure as much (housing) supply as possible ... and come up with plans for the pr...",
+        "fullText": [
+          "President Lee Jae Myung was set to hold a meeting Friday to discuss housing supply plans as the government seeks to cool down heated real estate prices. At the closed-door meeting set for 2 p.",
+          "m. , government ministries are expected to present housing supply proposals following Lee's instruction to officials earlier this week to secure a speedy housing supply.",
+          "Housing prices in Seoul and adjacent areas remain prohibitively high, making it a major policy task for the Lee administration to rein in the overheated real estate market. On Monday, the government unveiled a new set of tax revisions aimed at increasing the tax burden on owners of high-value homes.",
+          "The government is also expected to announce major housing supply plans in the near future. During a relevant meeting on Monday, Lee instructed officials to \"secure as much (housing) supply as possible ...",
+          "and come up with plans for the pr..."
+        ],
+        "words": [
+          "closed-door",
+          "meeting",
+          "housing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Football federation provided sexual entertainment for foreign referees: gov't audit",
+        "url": "https://www.koreatimes.co.kr/sports/20260807/football-federation-provided-sexual-entertainment-for-foreign-referees-govt-audit?utm_source=rss",
+        "summary": "The national football federation apparently provided sexual entertainment to foreign referees before and after international matches held in Korea between 2011 and 2012, a past government audit report has shown. The audit report, compiled by the Ministry of Culture, Sports and Tourism in 2016, said the Korea Football Association (KFA) used corporate credit cards to pay for sexual entertainment for visiting referees at massage parlors and other adult establishments in Seoul and other cities that hosted international matches between March 2011 and March 2012. Those matches included qualifiers for the 2012 London Olympics and the 2014 FIFA World Cup, according to the report. Cho Chung-yun was president of the KFA at the time. JTBC was the first to report on this case Thursday. Former KFA officials told the broadcaster that those international referees specifically asked to be served at adul...",
+        "fullText": [
+          "The national football federation apparently provided sexual entertainment to foreign referees before and after international matches held in Korea between 2011 and 2012, a past government audit report has shown. The audit report, compiled by the Ministry of Culture, Sports and Tourism in 2016, said the Korea Football Association (KFA) used corporate credit cards to pay for sexual entertainment for visiting referees at massage parlors and other adult establishments in Seoul and other cities that hosted international matches between March 2011 and March 2012.",
+          "Those matches included qualifiers for the 2012 London Olympics and the 2014 FIFA World Cup, according to the report. Cho Chung-yun was president of the KFA at the time.",
+          "JTBC was the first to report on this case Thursday. Former KFA officials told the broadcaster that those international referees specifically asked to be served at adul..."
+        ],
+        "words": [
+          "football",
+          "federation",
+          "provided"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea's state media silent on Thursday's missile launch",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260807/n-koreas-state-media-silent-on-thursdays-missile-launch?utm_source=rss",
+        "summary": "North Korea on Friday did not report on its launch of a short-range ballistic missile from the previous day, a departure from its usual practice of announcing such launches the following morning. The Korean Central News Agency (KCNA) and the Rodong Sinmun, the most widely read newspaper in the country, had made no mention of the launch as of 8 a.m. But this was not without precedent, as Pyongyang has previously withheld reports on launches it considers minor or lacking propaganda value. South Korea's military detected the missile launch from North Korea's eastern coastal city of Wonsan at around 5 p.m. It did not disclose the missile's flight distance and other details. The launch came ahead of the Ulchi Freedom Shield, an annual South Korea-U.S. military exercise that Pyongyang has decried as a rehearsal for invasion. The North last tested a tactical ballistic missile, along with new mu...",
+        "fullText": [
+          "North Korea on Friday did not report on its launch of a short-range ballistic missile from the previous day, a departure from its usual practice of announcing such launches the following morning. The Korean Central News Agency (KCNA) and the Rodong Sinmun, the most widely read newspaper in the country, had made no mention of the launch as of 8 a.",
+          "m. But this was not without precedent, as Pyongyang has previously withheld reports on launches it considers minor or lacking propaganda value.",
+          "South Korea's military detected the missile launch from North Korea's eastern coastal city of Wonsan at around 5 p. m.",
+          "It did not disclose the missile's flight distance and other details. The launch came ahead of the Ulchi Freedom Shield, an annual South Korea-U.",
+          "S. military exercise that Pyongyang has decried as a rehearsal for invasion.",
+          "The North last tested a tactical ballistic missile, along with new mu..."
+        ],
+        "words": [
+          "silent",
+          "thursday",
+          "missile"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump signs proclamation imposing 15% tariff on polysilicon derivative products",
+        "url": "https://www.koreatimes.co.kr/world/20260807/trump-signs-proclamation-imposing-15-tariff-on-polysilicon-derivative-products?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump on Thursday signed a proclamation to impose a 15 percent tariff on polysilicon derivative products, a move intended to protect America's polysilicon manufacturing, which is crucial for semiconductor and solar panel production. The latest trade action will take effect at 12:01 a.m. on Dec. 4 (Washington time), the White House said, as South Korea's chip industry has been closely monitoring the U.S. measure for its potential impact on business operations in the United States. The proclamation also includes the imposition of minimum import prices for polysilicon and its derivatives, as the U.S. is stepping up efforts to maintain its technological edge amid intensifying competition with China over artificial intelligence (AI) and other cutting-edge technologies. \"Polysilicon is the base material underpinning the security of America's semiconductor and...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump on Thursday signed a proclamation to impose a 15 percent tariff on polysilicon derivative products, a move intended to protect America's polysilicon manufacturing, which is crucial for semiconductor and solar panel production. The latest trade action will take effect at 12:01 a.",
+          "m. on Dec.",
+          "4 (Washington time), the White House said, as South Korea's chip industry has been closely monitoring the U. S.",
+          "measure for its potential impact on business operations in the United States. The proclamation also includes the imposition of minimum import prices for polysilicon and its derivatives, as the U.",
+          "S. is stepping up efforts to maintain its technological edge amid intensifying competition with China over artificial intelligence (AI) and other cutting-edge technologies.",
+          "\"Polysilicon is the base material underpinning the security of America's semiconductor and..."
+        ],
+        "words": [
+          "proclamation",
+          "imposing",
+          "tariff"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Why young women, once Lee's strongest base, are turning away",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260807/why-young-women-once-lees-strongest-base-are-turning-away?utm_source=rss",
+        "summary": "Lee, a 32-year-old office worker in Seoul, spent years working and saving toward a single goal: buying her own apartment with a mortgage. She had just reached that point when the government cut the loan cap in half, from 600 million to 300 million won. \"I've been working hard and saving up money and now that I was finally about to buy my own home with a mortgage, getting the loan cap cut in half is a huge blow to me,\" she said. She had voted for President Lee Jae Myung, drawn by his hands-on administrative background as mayor of Seongnam, Gyeonggi Province and later Gyeonggi Governor. \"I had high hopes for President Lee Jae Myung because he became president with hands-on administrative experience, unlike past leaders with a judiciary or legislative background,\" she said. \"Watching the news about how he sold his own apartment in Seongnam makes it feel like double standards.\" She no longer...",
+        "fullText": [
+          "Lee, a 32-year-old office worker in Seoul, spent years working and saving toward a single goal: buying her own apartment with a mortgage. She had just reached that point when the government cut the loan cap in half, from 600 million to 300 million won.",
+          "\"I've been working hard and saving up money and now that I was finally about to buy my own home with a mortgage, getting the loan cap cut in half is a huge blow to me,\" she said. She had voted for President Lee Jae Myung, drawn by his hands-on administrative background as mayor of Seongnam, Gyeonggi Province and later Gyeonggi Governor.",
+          "\"I had high hopes for President Lee Jae Myung because he became president with hands-on administrative experience, unlike past leaders with a judiciary or legislative background,\" she said. \"Watching the news about how he sold his own apartment in Seongnam makes it feel like double standards.",
+          "\" She no longer..."
+        ],
+        "words": [
+          "strongest",
+          "turning",
+          "-year-old"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Youth loan defaults raise questions about Korea's policy lending model",
+        "url": "https://www.koreatimes.co.kr/economy/20260807/youth-loan-defaults-raise-questions-about-koreas-policy-lending-model?utm_source=rss",
+        "summary": "“I defaulted twice on 3 million won ($2,120) Youth Sunshine Loans. The government ended up covering everything, so all my debts were settled with no problem,” read a post shared in July on an online forum for recipients of basic livelihood assistance. As stories like this are becoming more common in Korea, questions are being raised whether government-backed lending for young people is addressing the root cause of financial hardship or merely delaying it. While the programs are intended to help young borrowers bridge temporary cash shortages, experts warn that the worsening employment and income conditions are leaving more young adults unable to repay their debts. One of the clearest signs is the Youth Sunshine Loan, a state-backed program that provides living expenses to job seekers, entry-level workers and young entrepreneurs aged 19 to 34 with annual incomes below 35 million won. Acco...",
+        "fullText": [
+          "“I defaulted twice on 3 million won ($2,120) Youth Sunshine Loans. The government ended up covering everything, so all my debts were settled with no problem,” read a post shared in July on an online forum for recipients of basic livelihood assistance.",
+          "As stories like this are becoming more common in Korea, questions are being raised whether government-backed lending for young people is addressing the root cause of financial hardship or merely delaying it. While the programs are intended to help young borrowers bridge temporary cash shortages, experts warn that the worsening employment and income conditions are leaving more young adults unable to repay their debts.",
+          "One of the clearest signs is the Youth Sunshine Loan, a state-backed program that provides living expenses to job seekers, entry-level workers and young entrepreneurs aged 19 to 34 with annual incomes below 35 million won. Acco..."
+        ],
+        "words": [
+          "defaults",
+          "questions",
+          "policy"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-06",
     "label": "Thursday, August 6, 2026",
     "title": "Korea News Brief",
