@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-09",
+    "label": "Sunday, August 9, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Weather, Korea, Inter-Korea, International. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Why some parts of Seoul are hotter than others",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260809/why-some-parts-of-seoul-are-hotter-than-others?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. A heat wave with temperatures approaching 40 degrees Celsius has continued across Korea. President Lee Jae Myung said during a recent meeting with senior secretaries and aides that the current heat wave is “effectively a national disaster situation,” stressing that the government should maximize the level, scope and speed of its policy response to protect people’s lives and and ensure public safety. In a related development, an interesting study from the United States found that mortality rates in large cities may decrease as the area covered by tree shade increases. A research team at Northwestern University Feinberg School of Medicine tracked changes in the city of Chicago, Illinois, from 2011 to 2021. The researchers examined data including tree canopy coverage, peak summer temperatures and the number of deaths. The study found that increas...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "A heat wave with temperatures approaching 40 degrees Celsius has continued across Korea. President Lee Jae Myung said during a recent meeting with senior secretaries and aides that the current heat wave is “effectively a national disaster situation,” stressing that the government should maximize the level, scope and speed of its policy response to protect people’s lives and and ensure public safety.",
+          "In a related development, an interesting study from the United States found that mortality rates in large cities may decrease as the area covered by tree shade increases. A research team at Northwestern University Feinberg School of Medicine tracked changes in the city of Chicago, Illinois, from 2011 to 2021.",
+          "The researchers examined data including tree canopy coverage, peak summer temperatures and the number of deaths. The study found that increas..."
+        ],
+        "words": [
+          "hotter",
+          "others",
+          "articles"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Correctional officers struggle with suffocating 'prison smell' and more",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260809/correctional-officers-struggle-with-suffocating-prison-smell-and-more?utm_source=rss",
+        "summary": "Every time senior officers finished their shifts, they would take a shower and rub skin lotion into their hair. “What is that about? Did a nightclub open nearby? Are they getting ready to go there?” The same thing happened the next day, and the day after that. Leave work, shower, apply skin lotion to their hair. The behavior was repeated, and there was a certain order to it. It was almost like a ritual. Curious, this reporter asked them. The answer was brief. “Don’t you know? They’re getting rid of the prison smell.” Some correctional officers wash themselves two or three times and launder their uniforms. Each in their own way, they struggle to remove the scent of prison from their bodies. “You won’t understand unless you’ve felt it. You really won’t.” The officer calmly recalled how older colleagues considered applying skin lotion a ritual — a way of shedding the prison smell after a da...",
+        "fullText": [
+          "Every time senior officers finished their shifts, they would take a shower and rub skin lotion into their hair. “What is that about?",
+          "Did a nightclub open nearby? Are they getting ready to go there?",
+          "” The same thing happened the next day, and the day after that. Leave work, shower, apply skin lotion to their hair.",
+          "The behavior was repeated, and there was a certain order to it. It was almost like a ritual.",
+          "Curious, this reporter asked them. The answer was brief.",
+          "“Don’t you know? They’re getting rid of the prison smell.",
+          "” Some correctional officers wash themselves two or three times and launder their uniforms. Each in their own way, they struggle to remove the scent of prison from their bodies.",
+          "“You won’t understand unless you’ve felt it. You really won’t.",
+          "” The officer calmly recalled how older colleagues considered applying skin lotion a ritual — a way of shedding the prison smell after a da..."
+        ],
+        "words": [
+          "correctional",
+          "officers",
+          "struggle"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "From luxury queues to closing-time bargains: Korea's shopping shift",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260809/from-luxury-queues-to-closing-time-bargains-koreas-shopping-shift?utm_source=rss",
+        "summary": "As evening settled over Seoul’s western Seogyo-dong neighborhood and closing time approached, customers streamed out of a bakery café carrying bags stuffed with bread. The bakery sells its unsold bread and pastries at half price at the end of each day to customers who reserve them in advance. Owner Lee Yoo-jin, 35, has offered the end-of-day discount for two years and says demand has recently surged. “We offer eight bags for reservation each day, and lately they’ve always been fully booked,” Lee said. “Sometimes we receive more reservations than the number of bags we have prepared, so we have to cancel some of them.” Consumers go extra mile for deals The bakery is not alone in seeing a flurry of customers as closing time approaches. The late rush is slowly becoming a trend in Korea as consumers seek to take advantage of end-of-day discounts to buy food at lower prices. It contrasts with...",
+        "fullText": [
+          "As evening settled over Seoul’s western Seogyo-dong neighborhood and closing time approached, customers streamed out of a bakery café carrying bags stuffed with bread. The bakery sells its unsold bread and pastries at half price at the end of each day to customers who reserve them in advance.",
+          "Owner Lee Yoo-jin, 35, has offered the end-of-day discount for two years and says demand has recently surged. “We offer eight bags for reservation each day, and lately they’ve always been fully booked,” Lee said.",
+          "“Sometimes we receive more reservations than the number of bags we have prepared, so we have to cancel some of them. ” Consumers go extra mile for deals The bakery is not alone in seeing a flurry of customers as closing time approaches.",
+          "The late rush is slowly becoming a trend in Korea as consumers seek to take advantage of end-of-day discounts to buy food at lower prices. It contrasts with..."
+        ],
+        "words": [
+          "luxury",
+          "queues",
+          "closing-time"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "KFA Apologizes to Fans, Industry Insiders amid Police Raid, Misconduct Allegations",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203461",
+        "summary": "[Politics] : The Korea Football Association(KFA) has issued an apology to fans and those within the football industry amid a recent police search carried out over alleged irregularities while appointing Hong Myung-bo as national team head coach and allegations of various misconduct by the governing body. In a ... [more...]",
+        "fullText": [
+          "[Politics] : The Korea Football Association(KFA) has issued an apology to fans and those within the football industry amid a recent police search carried out over alleged irregularities while appointing Hong Myung-bo as national team head coach and allegations of various misconduct by the governing body. In a ...",
+          "[more... ]"
+        ],
+        "words": [
+          "apologizes",
+          "industry",
+          "insiders"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Japan Protests S. Korean Vessel's Maritime Research near Dokdo Islets",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203460",
+        "summary": "[Politics] : Japan has strongly protested maritime research activities being conducted by a South Korean vessel near the easternmost Dokdo islets. Tokyo's foreign ministry claimed Friday that it had verified the South Korean geophysical survey vessel, \"Tamhae 3,\" placing a wire-like object underwater in ... [more...]",
+        "fullText": [
+          "[Politics] : Japan has strongly protested maritime research activities being conducted by a South Korean vessel near the easternmost Dokdo islets. Tokyo's foreign ministry claimed Friday that it had verified the South Korean geophysical survey vessel, \"Tamhae 3,\" placing a wire-like object underwater in ...",
+          "[more... ]"
+        ],
+        "words": [
+          "protests",
+          "vessel",
+          "maritime"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "KBS World",
+        "title": "US Identifies 112 Service Members from Korean War Remains Returned by N. Korea in 2018",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203459",
+        "summary": "[Inter-Korea] : The United States announced that it has identified 112 U.S. service members from boxes of remains from the Korean War that were repatriated by North Korea in 2018. According to Voice of America, the U.S. Defense POW/MIA Accounting Agency(DPAA) made the announcement during an annual briefing session in ... [more...]",
+        "fullText": [
+          "[Inter-Korea] : The United States announced that it has identified 112 U. S.",
+          "service members from boxes of remains from the Korean War that were repatriated by North Korea in 2018. According to Voice of America, the U.",
+          "S. Defense POW/MIA Accounting Agency(DPAA) made the announcement during an annual briefing session in ...",
+          "[more... ]"
+        ],
+        "words": [
+          "identifies",
+          "service",
+          "members"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "US Senate Passes Sweeping Russia, Iran Sanctions Bill",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203458",
+        "summary": "[International] : The U.S. Senate has overwhelmingly passed a bill to strengthen sanctions on Russia and Iran. The legislation was strongly pushed by the late Senator Lindsey Graham, a close ally of President Donald Trump. The bill would ban U.S. energy and product exports to Russia and impose tariffs of up to 500 ... [more...]",
+        "fullText": [
+          "[International] : The U. S.",
+          "Senate has overwhelmingly passed a bill to strengthen sanctions on Russia and Iran. The legislation was strongly pushed by the late Senator Lindsey Graham, a close ally of President Donald Trump.",
+          "The bill would ban U. S.",
+          "energy and product exports to Russia and impose tariffs of up to 500 ... [more...",
+          "]"
+        ],
+        "words": [
+          "senate",
+          "passes",
+          "sweeping"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "label": "Saturday, August 8, 2026",
     "title": "Korea News Brief",
