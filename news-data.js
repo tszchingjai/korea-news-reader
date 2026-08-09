@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-10",
+    "label": "Monday, August 10, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Science, Domestic. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Busan's international creative community grows together",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260810/busans-international-creative-community-grows-together?utm_source=rss",
+        "summary": "What does it mean to feel rooted in a place that isn't where you were born? It is a question South African poet Manthipe Moila explores throughout \"Rootbound,\" her debut poetry collection examining identity, belonging, migration and home. On Aug. 15, those same ideas will extend beyond the pages of her book as three of Busan's independent creative organizations, Liquid Arts Network, Book'd Events and Dububiji come together for an afternoon and evening celebrating literature, conversation, music and visual art. The day's events revolve around Moila's poetry. Rather than separating the author from the work, Moila has spoken openly about how closely the collection reflects her own experiences. \"I drew directly from my experiences when writing, as I wanted to feel anchored in my writing,\" she said. \"The Korean language is also something that I am grappling with. It's difficult ... but I love...",
+        "fullText": [
+          "What does it mean to feel rooted in a place that isn't where you were born? It is a question South African poet Manthipe Moila explores throughout \"Rootbound,\" her debut poetry collection examining identity, belonging, migration and home.",
+          "On Aug. 15, those same ideas will extend beyond the pages of her book as three of Busan's independent creative organizations, Liquid Arts Network, Book'd Events and Dububiji come together for an afternoon and evening celebrating literature, conversation, music and visual art.",
+          "The day's events revolve around Moila's poetry. Rather than separating the author from the work, Moila has spoken openly about how closely the collection reflects her own experiences.",
+          "\"I drew directly from my experiences when writing, as I wanted to feel anchored in my writing,\" she said. \"The Korean language is also something that I am grappling with.",
+          "It's difficult ... but I love..."
+        ],
+        "words": [
+          "international",
+          "creative",
+          "community"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Itaewon's Lit Lounge prepares to break curfew with 'Pajama Party!'",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260810/itaewons-lit-lounge-prepares-to-break-curfew-with-pajama-party?utm_source=rss",
+        "summary": "Pete Grella and John Everett started making crowds laugh 16 years ago, when they both were living in Hong Kong. After Everett moved here last year, Grella decided to hop on a plane to Korea to reunite \"P\" and \"J.\" The initials from their first names combine to make \"PJ\" which often stands for \"pajamas.\" That's how they came up with the name for their improv show, throwing their first \"Pajama Party!\" in 2017. \"We settled on Pajama Party! since that sounds fun!\" Grella told The Korea Times, pointing out that they included the exclamation mark in the name to raise the fun level. \"Basically, it's just a silly name that is meant to sound fun and full of energy. And that is what we hope to achieve in our shows ... fun, high energy and maybe a little silly.\" He added that they even wore pajamas for a while when performing. \"If you look closely at the photos of us wearing those black suits, thos...",
+        "fullText": [
+          "Pete Grella and John Everett started making crowds laugh 16 years ago, when they both were living in Hong Kong. After Everett moved here last year, Grella decided to hop on a plane to Korea to reunite \"P\" and \"J.",
+          "\" The initials from their first names combine to make \"PJ\" which often stands for \"pajamas. \" That's how they came up with the name for their improv show, throwing their first \"Pajama Party!",
+          "\" in 2017. \"We settled on Pajama Party!",
+          "since that sounds fun! \" Grella told The Korea Times, pointing out that they included the exclamation mark in the name to raise the fun level.",
+          "\"Basically, it's just a silly name that is meant to sound fun and full of energy. And that is what we hope to achieve in our shows ...",
+          "fun, high energy and maybe a little silly. \" He added that they even wore pajamas for a while when performing.",
+          "\"If you look closely at the photos of us wearing those black suits, thos..."
+        ],
+        "words": [
+          "itaewon",
+          "lounge",
+          "prepares"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Lawmaker Claims NEC Falsified Voter Turnout Data in Multiple Elections",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203469",
+        "summary": "[Politics] : A lawmaker has alleged that the National Election Commission falsified voter‑turnout data not only during the June 3 local elections but also in last year's presidential election and the 2024 general election. Rep. Joo Jin‑woo of the main opposition People Power Party said at a press conference Sunday ... [more...]",
+        "fullText": [
+          "[Politics] : A lawmaker has alleged that the National Election Commission falsified voter‑turnout data not only during the June 3 local elections but also in last year's presidential election and the 2024 general election. Rep.",
+          "Joo Jin‑woo of the main opposition People Power Party said at a press conference Sunday ... [more...",
+          "]"
+        ],
+        "words": [
+          "lawmaker",
+          "claims",
+          "falsified"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "21 Descendants of Korean Independence Activists to Visit S. Korea for Liberation Day",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203468",
+        "summary": "[Politics] : Twenty‑one descendants of Korean independence activists living in the United States, China, Kazakhstan, Kyrgyzstan and Mexico will visit South Korea ahead of the 81st anniversary of Liberation Day. The Ministry of Patriots and Veterans Affairs said Sunday it will host the descendants from Monday through ... [more...]",
+        "fullText": [
+          "[Politics] : Twenty‑one descendants of Korean independence activists living in the United States, China, Kazakhstan, Kyrgyzstan and Mexico will visit South Korea ahead of the 81st anniversary of Liberation Day. The Ministry of Patriots and Veterans Affairs said Sunday it will host the descendants from Monday through ...",
+          "[more... ]"
+        ],
+        "words": [
+          "descendants",
+          "independence",
+          "activists"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Heat Wave to Continue Nationwide, Rain Forecast for East Coast",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203467",
+        "summary": "[Science] : Most regions nationwide will continue to see hot, humid conditions and tropical nights, while rain is forecast along the east coast through Monday morning. According to the Korea Meteorological Administration, 20 to 60 millimeters or more of rain is expected in parts of North Gyeongsang Province, while ... [more...]",
+        "fullText": [
+          "[Science] : Most regions nationwide will continue to see hot, humid conditions and tropical nights, while rain is forecast along the east coast through Monday morning. According to the Korea Meteorological Administration, 20 to 60 millimeters or more of rain is expected in parts of North Gyeongsang Province, while ...",
+          "[more... ]"
+        ],
+        "words": [
+          "continue",
+          "nationwide",
+          "forecast"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Gov't Ramps Up Response as Extreme Heat Threatens High‑Risk Workers",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203466",
+        "summary": "[Domestic] : The Central Disaster and Safety Countermeasures Headquarters held a meeting Sunday to review measures to respond to the ongoing heat wave, with a particular focus on protecting elderly farmers and outdoor workers. The headquarters reviewed progress made by emergency response units established across ... [more...]",
+        "fullText": [
+          "[Domestic] : The Central Disaster and Safety Countermeasures Headquarters held a meeting Sunday to review measures to respond to the ongoing heat wave, with a particular focus on protecting elderly farmers and outdoor workers. The headquarters reviewed progress made by emergency response units established across ...",
+          "[more... ]"
+        ],
+        "words": [
+          "response",
+          "extreme",
+          "threatens"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Seoul Reports Two Heat‑Related Deaths as Heat Wave Persists",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203465",
+        "summary": "[Domestic] : Two people died from heat‑related illnesses in Seoul on Friday as temperatures reached 38 degrees Celsius amid an ongoing heat wave. According to the Seoul Metropolitan Government, a man in his 50s was found on a roadside in Jungnang District, while a woman in her 80s developed heat‑related symptoms ... [more...]",
+        "fullText": [
+          "[Domestic] : Two people died from heat‑related illnesses in Seoul on Friday as temperatures reached 38 degrees Celsius amid an ongoing heat wave. According to the Seoul Metropolitan Government, a man in his 50s was found on a roadside in Jungnang District, while a woman in her 80s developed heat‑related symptoms ...",
+          "[more... ]"
+        ],
+        "words": [
+          "reports",
+          "related",
+          "deaths"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-09",
     "label": "Sunday, August 9, 2026",
     "title": "Korea News Brief",
