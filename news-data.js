@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-11",
+    "label": "Tuesday, August 11, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Law. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Colombia declares state of emergency after quake kills 111",
+        "url": "https://www.koreatimes.co.kr/world/20260811/colombia-declares-state-of-emergency-after-quake-kills-111?utm_source=rss",
+        "summary": "PEREIRA, Colombia — Colombia on Monday declared a state of emergency following a powerful earthquake that caused at least 111 deaths and flattened dozens of buildings, trapping more victims underneath. The 7.4-magnitude quake struck western Colombia at 7:34 am (1234 GMT) and triggered a frantic search for survivors in several cities. \"The national government is maintaining all its capacities deployed to protect lives, assist affected communities and deliver aid to every area that needs it,\" President Abelardo de la Espriella stated from Bogota. The leader appointed just three days ago reported 111 deaths, 87 people injured and over 1,000 buildings were damaged. The quake's epicenter was in Colombia's coastal Choco region at a depth of 100 kilometers (60 miles). Authorities in the impoverished area reported 12 deaths. The nearby city of Pereira was one of the worst-hit areas, with local a...",
+        "fullText": [
+          "PEREIRA, Colombia — Colombia on Monday declared a state of emergency following a powerful earthquake that caused at least 111 deaths and flattened dozens of buildings, trapping more victims underneath. The 7.",
+          "4-magnitude quake struck western Colombia at 7:34 am (1234 GMT) and triggered a frantic search for survivors in several cities. \"The national government is maintaining all its capacities deployed to protect lives, assist affected communities and deliver aid to every area that needs it,\" President Abelardo de la Espriella stated from Bogota.",
+          "The leader appointed just three days ago reported 111 deaths, 87 people injured and over 1,000 buildings were damaged. The quake's epicenter was in Colombia's coastal Choco region at a depth of 100 kilometers (60 miles).",
+          "Authorities in the impoverished area reported 12 deaths. The nearby city of Pereira was one of the worst-hit areas, with local a..."
+        ],
+        "words": [
+          "colombia",
+          "declares",
+          "emergency"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
+        "url": "https://www.koreatimes.co.kr/world/20260811/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade?utm_source=rss",
+        "summary": "HOUSTON — Oil prices settled 5 percent higher on Monday after Iran and the United States traded demands for compensation, dimming prospects for a deal to reopen the Strait of Hormuz. Iran also said the U.S. must lift sanctions on Tehran, and meet a number of other conditions for reopening the vital waterway, while U.S. President Donald Trump said Iran must pay compensation for \"all of the people that they have killed and gravely wounded.\" Brent crude futures settled up $4.17, or 4.99 percent, at $87.72 a barrel, while U.S. West Texas Intermediate crude futures closed $3.95, or 5.05 percent, at $82.13. The percentage gains were the highest since July 29 on both contracts. Both benchmarks fell more than 7 percent last week on hopes that Iran and Oman were close to reaching a deal that would result in a reopening of the strait, which carried a fifth of the world's oil and liquefied natural...",
+        "fullText": [
+          "HOUSTON — Oil prices settled 5 percent higher on Monday after Iran and the United States traded demands for compensation, dimming prospects for a deal to reopen the Strait of Hormuz. Iran also said the U.",
+          "S. must lift sanctions on Tehran, and meet a number of other conditions for reopening the vital waterway, while U.",
+          "S. President Donald Trump said Iran must pay compensation for \"all of the people that they have killed and gravely wounded.",
+          "\" Brent crude futures settled up $4. 17, or 4.",
+          "99 percent, at $87. 72 a barrel, while U.",
+          "S. West Texas Intermediate crude futures closed $3.",
+          "95, or 5. 05 percent, at $82.",
+          "13. The percentage gains were the highest since July 29 on both contracts.",
+          "Both benchmarks fell more than 7 percent last week on hopes that Iran and Oman were close to reaching a deal that would result in a reopening of the strait, which carried a fifth of the world's oil and liquefied natural..."
+        ],
+        "words": [
+          "climbs",
+          "demand",
+          "compensation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Todd Blanche sworn in as attorney general after bruising confirmation fight",
+        "url": "https://www.koreatimes.co.kr/world/20260811/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-fight?utm_source=rss",
+        "summary": "WASHINGTON — President Donald Trump's former personal lawyer, Todd Blanche, was sworn in Monday as attorney general after a bruising confirmation fight that exposed bipartisan concerns about the Justice Department's direction under the Republican president. Another former Trump attorney — Emil Bove, now a federal appeals court judge — administered the oath of office to Blanche at the White House following early Saturday's Senate confirmation vote by the narrowest of margins. Blanche, a former federal prosecutor in New York, is officially taking command of a Justice Department he has been leading in an acting capacity since Pam Bondi's firing in April. With the confirmation battle behind him, Blanche now faces the challenge of having to navigate the demands of a president who has made no secret his desire to use the law enforcement agency to target his political foes. Blanche will do so w...",
+        "fullText": [
+          "WASHINGTON — President Donald Trump's former personal lawyer, Todd Blanche, was sworn in Monday as attorney general after a bruising confirmation fight that exposed bipartisan concerns about the Justice Department's direction under the Republican president. Another former Trump attorney — Emil Bove, now a federal appeals court judge — administered the oath of office to Blanche at the White House following early Saturday's Senate confirmation vote by the narrowest of margins.",
+          "Blanche, a former federal prosecutor in New York, is officially taking command of a Justice Department he has been leading in an acting capacity since Pam Bondi's firing in April. With the confirmation battle behind him, Blanche now faces the challenge of having to navigate the demands of a president who has made no secret his desire to use the law enforcement agency to target his political foes.",
+          "Blanche will do so w..."
+        ],
+        "words": [
+          "blanche",
+          "attorney",
+          "general"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US military bases in Pacific 'highly vulnerable' to N. Korean, Chinese missiles, drones: expert",
+        "url": "https://www.koreatimes.co.kr/world/20260811/us-military-bases-in-pacific-highly-vulnerable-to-n-korean-chinese-missiles-drones-expert?utm_source=rss",
+        "summary": "WASHINGTON — U.S. military bases in South Korea, Japan and other countries in the Pacific are \"highly vulnerable\" to North Korean and Chinese missile and drone attacks, a U.S. expert has said, calling for efforts to strengthen air and missile defenses. Seth Jones, president of the Defense and Security Department at the Center for Strategic and International Studies (CSIS), made the remarks in an op-ed released by The Wall Street Journal on Sunday, following reports that the United States is running low on key missile defense interceptors amid the Middle East war. Noting that advancements in drone and missile warfare have pushed Ukraine and Russia to take extensive steps to protect their bases since their full-scale war began in 2022, Jones argued that the U.S. has been \"too slow\" to learn from the war and protect its bases and other infrastructure in the Middle East. \"The challenge in th...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "military bases in South Korea, Japan and other countries in the Pacific are \"highly vulnerable\" to North Korean and Chinese missile and drone attacks, a U. S.",
+          "expert has said, calling for efforts to strengthen air and missile defenses. Seth Jones, president of the Defense and Security Department at the Center for Strategic and International Studies (CSIS), made the remarks in an op-ed released by The Wall Street Journal on Sunday, following reports that the United States is running low on key missile defense interceptors amid the Middle East war.",
+          "Noting that advancements in drone and missile warfare have pushed Ukraine and Russia to take extensive steps to protect their bases since their full-scale war began in 2022, Jones argued that the U. S.",
+          "has been \"too slow\" to learn from the war and protect its bases and other infrastructure in the Middle East. \"The challenge in th..."
+        ],
+        "words": [
+          "military",
+          "pacific",
+          "highly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "US court rules Meta, tech firms must face thousands of lawsuits over social media addiction",
+        "url": "https://www.koreatimes.co.kr/world/20260811/us-court-rules-meta-tech-firms-must-face-thousands-of-lawsuits-over-social-media-addiction?utm_source=rss",
+        "summary": "A U.S. appeals court on Monday allowed thousands of lawsuits to move forward against Meta Platforms , Alphabet's Google, ByteDance's TikTok, and other social media companies over claims they designed their products to be addictive to young users. The San Francisco-based 9th U.S. Circuit Court of Appeals rejected the companies’ bid to reverse a lower court’s ruling forcing them to face more than 3,000 lawsuits over the claims filed in federal court, concluding that the appeal came too early in the litigation. The defendants, which also include Snap Inc's Snapchat, had argued that Section 230 of the Communications Decency Act of 1996 -- which generally shields online companies from claims over content posted by their users - also bars lawsuitsclaiming they failed to warn the public about the addictive nature of their platforms. Most appeals come after a case has concluded with a ruling or...",
+        "fullText": [
+          "A U. S.",
+          "appeals court on Monday allowed thousands of lawsuits to move forward against Meta Platforms , Alphabet's Google, ByteDance's TikTok, and other social media companies over claims they designed their products to be addictive to young users. The San Francisco-based 9th U.",
+          "S. Circuit Court of Appeals rejected the companies’ bid to reverse a lower court’s ruling forcing them to face more than 3,000 lawsuits over the claims filed in federal court, concluding that the appeal came too early in the litigation.",
+          "The defendants, which also include Snap Inc's Snapchat, had argued that Section 230 of the Communications Decency Act of 1996 -- which generally shields online companies from claims over content posted by their users - also bars lawsuitsclaiming they failed to warn the public about the addictive nature of their platforms. Most appeals come after a case has concluded with a ruling or..."
+        ],
+        "words": [
+          "thousands",
+          "lawsuits",
+          "social"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Pentagon official renews calls for allies' greater defense contributions",
+        "url": "https://www.koreatimes.co.kr/world/20260811/pentagon-official-renews-calls-for-allies-greater-defense-contributions?utm_source=rss",
+        "summary": "WASHINGTON — A senior Pentagon official reiterated calls Monday for Asian allies to make greater defense contributions, stressing that U.S. President Donald Trump's administration seeks partnerships, \"not dependencies,\" and that America can no longer be \"taken for granted.\" Under Secretary of Defense for Policy Elbridge Colby made the remarks at the Stratbase Institute, a Philippine think tank in Manila, reassuring allies that America is \"digging in\" to ensure a \"favorable balance of power\" in Asia amid lingering concerns that Trump's \"America First\" policy could mean less U.S. engagement in the region. He also cautioned against middle-power countries forming alliances \"designed to exclude America,\" saying that those groupings should integrate and be complementary with America's. He did not name those countries. \"In Manila, I intend to deliver a clear message ... that America's interests...",
+        "fullText": [
+          "WASHINGTON — A senior Pentagon official reiterated calls Monday for Asian allies to make greater defense contributions, stressing that U. S.",
+          "President Donald Trump's administration seeks partnerships, \"not dependencies,\" and that America can no longer be \"taken for granted. \" Under Secretary of Defense for Policy Elbridge Colby made the remarks at the Stratbase Institute, a Philippine think tank in Manila, reassuring allies that America is \"digging in\" to ensure a \"favorable balance of power\" in Asia amid lingering concerns that Trump's \"America First\" policy could mean less U.",
+          "S. engagement in the region.",
+          "He also cautioned against middle-power countries forming alliances \"designed to exclude America,\" saying that those groupings should integrate and be complementary with America's. He did not name those countries.",
+          "\"In Manila, I intend to deliver a clear message ... that America's interests..."
+        ],
+        "words": [
+          "pentagon",
+          "official",
+          "renews"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says will demand conflict compensation from Iran",
+        "url": "https://www.koreatimes.co.kr/world/20260811/trump-says-will-demand-conflict-compensation-from-iran?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran. Iran is \"asking for compensation for the damage done to them during the last five month Military Conflict... I am likewise demanding compensation from Iran, for all of the people that they have killed and gravely wounded with their roadside bombs and many conflicts,\" Trump posted. In what has become a regular pattern, Trump last week threatened to hit Iran \"very hard,\" potentially with attacks against civilian infrastructure, only to pull back, hinting a peace deal was near. His latest comments on Truth Social came a day after Trump said he was \"low-keying\" his approach to the conflict, suggesting that he was prepared to let economic pressure mount in place of...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said Monday he would seek conflict compensation from Iran as part of any peace negotiations, citing attacks and atrocities stretching back decades allegedly backed or perpetrated by Tehran. Iran is \"asking for compensation for the damage done to them during the last five month Military Conflict...",
+          "I am likewise demanding compensation from Iran, for all of the people that they have killed and gravely wounded with their roadside bombs and many conflicts,\" Trump posted. In what has become a regular pattern, Trump last week threatened to hit Iran \"very hard,\" potentially with attacks against civilian infrastructure, only to pull back, hinting a peace deal was near.",
+          "His latest comments on Truth Social came a day after Trump said he was \"low-keying\" his approach to the conflict, suggesting that he was prepared to let economic pressure mount in place of..."
+        ],
+        "words": [
+          "demand",
+          "conflict",
+          "compensation"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-10",
     "label": "Monday, August 10, 2026",
     "title": "Korea News Brief",
