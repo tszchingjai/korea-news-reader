@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-12",
+    "label": "Wednesday, August 12, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'Green Concrete' documentary questions cost of urban renewal",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260812/green-concrete-documentary-questions-cost-of-urban-renewal?utm_source=rss",
+        "summary": "For Koreans, who must endure scorching summers and freezing winters, apartment complexes have long served as the ultimate symbol of housing efficiency as well as their most prized financial assets. Beyond property value and redevelopment, these concrete complexes also preserve residents' memories, neighborhood bonds and urban nature. Director Lee Sung-min’s documentary film, \"Green Concrete,\" explores this tension by capturing the demolition of a massive residential complex in southern Seoul's Gaepo-dong. Over seven years from 2017, the 103-minute documentary shows both the changing cityscape and the fate of the trees planted there for decades. Lee, who grew up in the complex, initially returned to document the space before its disappearance. What started as a personal recording effort soon grew into a collective project gathering former residents to share old photos and memories. Throug...",
+        "fullText": [
+          "For Koreans, who must endure scorching summers and freezing winters, apartment complexes have long served as the ultimate symbol of housing efficiency as well as their most prized financial assets. Beyond property value and redevelopment, these concrete complexes also preserve residents' memories, neighborhood bonds and urban nature.",
+          "Director Lee Sung-min’s documentary film, \"Green Concrete,\" explores this tension by capturing the demolition of a massive residential complex in southern Seoul's Gaepo-dong. Over seven years from 2017, the 103-minute documentary shows both the changing cityscape and the fate of the trees planted there for decades.",
+          "Lee, who grew up in the complex, initially returned to document the space before its disappearance. What started as a personal recording effort soon grew into a collective project gathering former residents to share old photos and memories.",
+          "Throug..."
+        ],
+        "words": [
+          "concrete",
+          "documentary",
+          "questions"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Property tax overhaul sparks fears of fewer rentals, higher rents",
+        "url": "https://www.koreatimes.co.kr/economy/20260812/property-tax-overhaul-sparks-fears-of-fewer-rentals-higher-rents?utm_source=rss",
+        "summary": "“If my property tax bill amounts to 50 million won ($35,300) a year, how much rent should I be charging?” That was the question posed by a homeowner in Korea on a real estate forum following the government’s latest tax overhaul proposal unveiled on Aug. 3. The writer said he owns a single apartment in Seoul’s affluent Seocho District worth around 5 billion won. Under the proposed changes, he estimated that he would have to pay up to 50 million won a year in property holding taxes if he rented it out. “This means 4 million won a month goes straight to the government, and anything above that is what I’d get to keep. Is it really possible for the landlord to shoulder the entire burden of this tax without passing it on to the tenant?” The post captures a growing concern since the Aug. 3 announcement: higher taxes on owners of multiple homes and proprietors of non-owner-occupied properties co...",
+        "fullText": [
+          "“If my property tax bill amounts to 50 million won ($35,300) a year, how much rent should I be charging? ” That was the question posed by a homeowner in Korea on a real estate forum following the government’s latest tax overhaul proposal unveiled on Aug.",
+          "3. The writer said he owns a single apartment in Seoul’s affluent Seocho District worth around 5 billion won.",
+          "Under the proposed changes, he estimated that he would have to pay up to 50 million won a year in property holding taxes if he rented it out. “This means 4 million won a month goes straight to the government, and anything above that is what I’d get to keep.",
+          "Is it really possible for the landlord to shoulder the entire burden of this tax without passing it on to the tenant? ” The post captures a growing concern since the Aug.",
+          "3 announcement: higher taxes on owners of multiple homes and proprietors of non-owner-occupied properties co..."
+        ],
+        "words": [
+          "property",
+          "overhaul",
+          "sparks"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "[EXPLAINER] Lee's push to open Sejong presidential office by 2029",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260812/explainer-lees-push-to-open-sejong-presidential-office-by-2029?utm_source=rss",
+        "summary": "For more than two decades, the Korean government has tried, in fits and starts, to move its center of political power away from Seoul. The effort has produced a new administrative city and dozens of relocated government ministries, but the president has never had a real foothold with them down south. President Lee Jae Myung wants to change that and, on Tuesday, he gave his clearest signal yet that he intends to get it built before his term ends. Speaking at a Cabinet meeting held at Government Complex Sejong, Lee called for ministers to make an all-out push to complete a new presidential office in the city, saying he wants to hold his administration's final Cabinet meeting there. \"Accelerate the construction of the presidential office in Sejong and the Sejong branch of the National Assembly and make sure that related infrastructure projects proceed without disruption,\" he said, describin...",
+        "fullText": [
+          "For more than two decades, the Korean government has tried, in fits and starts, to move its center of political power away from Seoul. The effort has produced a new administrative city and dozens of relocated government ministries, but the president has never had a real foothold with them down south.",
+          "President Lee Jae Myung wants to change that and, on Tuesday, he gave his clearest signal yet that he intends to get it built before his term ends. Speaking at a Cabinet meeting held at Government Complex Sejong, Lee called for ministers to make an all-out push to complete a new presidential office in the city, saying he wants to hold his administration's final Cabinet meeting there.",
+          "\"Accelerate the construction of the presidential office in Sejong and the Sejong branch of the National Assembly and make sure that related infrastructure projects proceed without disruption,\" he said, describin..."
+        ],
+        "words": [
+          "explainer",
+          "sejong",
+          "presidential"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "'Fashion disaster' flip-flops with socks become new summer trend among young Koreans",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260812/fashion-disaster-flip-flops-with-socks-become-new-summer-trend-among-young-koreans?utm_source=rss",
+        "summary": "Despite the sweltering heat, open-toe socks designed for flip-flops are emerging as an unlikely fashion item. Flip-flops are traditionally worn with bare feet, but the convention-defying look is gaining attention as a new trend. The style is often marketed as open-toe or toeless socks. The design leaves the toes exposed while covering the instep. Versions come in cotton, knit and lace, with designs ranging from low-cut and ankle-length styles to split-toe versions resembling traditional Japanese tabi. The socks first emerged for practical reasons. Flip-flop straps can rub against the instep when worn on bare feet, and the fabric helps prevent chafing. Changing attitudes toward wearing socks with sandals have also helped the look gain acceptance. Once widely dismissed as a \"fashion disaster,\" the combination has become a deliberate fashion statement. The socks leave pedicures visible whil...",
+        "fullText": [
+          "Despite the sweltering heat, open-toe socks designed for flip-flops are emerging as an unlikely fashion item. Flip-flops are traditionally worn with bare feet, but the convention-defying look is gaining attention as a new trend.",
+          "The style is often marketed as open-toe or toeless socks. The design leaves the toes exposed while covering the instep.",
+          "Versions come in cotton, knit and lace, with designs ranging from low-cut and ankle-length styles to split-toe versions resembling traditional Japanese tabi. The socks first emerged for practical reasons.",
+          "Flip-flop straps can rub against the instep when worn on bare feet, and the fabric helps prevent chafing. Changing attitudes toward wearing socks with sandals have also helped the look gain acceptance.",
+          "Once widely dismissed as a \"fashion disaster,\" the combination has become a deliberate fashion statement. The socks leave pedicures visible whil..."
+        ],
+        "words": [
+          "fashion",
+          "disaster",
+          "flip-flops"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "What you need to know about working out during heat wave",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260812/what-you-need-to-know-about-working-out-during-heat-wave?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. As heat waves continue, it is easy to put off exercise. But rather than avoiding exercise altogether during the summer, it is better to properly manage the timing and intensity of workouts, as well as hydration and electrolyte intake. During periods of intense heat, even a workout that is normally manageable can lead to exhaustion or heatstroke, making it essential to follow basic safety guidelines. Avoid the hottest hours The safest times for summer exercise are when temperatures are relatively cooler, such as between 6 and 9 a.m. or in the evening after sunset. Outdoor exercise should be avoided between 11 a.m. and 5 p.m., when ultraviolet radiation and radiant heat are strongest and body temperatures can rise rapidly. When a heat wave advisory is in effect, or the perceived temperature reaches 33 C or higher, reduce your usual amount of exe...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "As heat waves continue, it is easy to put off exercise. But rather than avoiding exercise altogether during the summer, it is better to properly manage the timing and intensity of workouts, as well as hydration and electrolyte intake.",
+          "During periods of intense heat, even a workout that is normally manageable can lead to exhaustion or heatstroke, making it essential to follow basic safety guidelines. Avoid the hottest hours The safest times for summer exercise are when temperatures are relatively cooler, such as between 6 and 9 a.",
+          "m. or in the evening after sunset.",
+          "Outdoor exercise should be avoided between 11 a. m.",
+          "and 5 p. m.",
+          ", when ultraviolet radiation and radiant heat are strongest and body temperatures can rise rapidly. When a heat wave advisory is in effect, or the perceived temperature reaches 33 C or higher, reduce your usual amount of exe..."
+        ],
+        "words": [
+          "working",
+          "during",
+          "articles"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Nat’l Election Commission Dismisses Appeal, Refuses to Invalidate Seoul Mayoral Election",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203523",
+        "summary": "[Politics] : The National Election Commission(NEC) has dismissed an appeal from a voter who sought to invalidate the Seoul mayoral election by raising issue with the ballot shortages on June 3. An NEC official told Seoul-based Yonhap News Agency on Tuesday that the election watchdog dismissed the appeal ... [more...]",
+        "fullText": [
+          "[Politics] : The National Election Commission(NEC) has dismissed an appeal from a voter who sought to invalidate the Seoul mayoral election by raising issue with the ballot shortages on June 3. An NEC official told Seoul-based Yonhap News Agency on Tuesday that the election watchdog dismissed the appeal ...",
+          "[more... ]"
+        ],
+        "words": [
+          "election",
+          "commission",
+          "dismisses"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Hyundai Motor Union to Stage More Partial Strikes",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203522",
+        "summary": "[Economy] : Unionized workers at Hyundai Motor Company plan to stage additional strikes following last month’s partial strikes. The Hyundai Motor branch of the Korean Metal Workers' Union decided on Tuesday to launch a four-hour strike on Wednesday and Thursday and a six-hour walkout on Friday and next ... [more...]",
+        "fullText": [
+          "[Economy] : Unionized workers at Hyundai Motor Company plan to stage additional strikes following last month’s partial strikes. The Hyundai Motor branch of the Korean Metal Workers' Union decided on Tuesday to launch a four-hour strike on Wednesday and Thursday and a six-hour walkout on Friday and next ...",
+          "[more... ]"
+        ],
+        "words": [
+          "hyundai",
+          "partial",
+          "strikes"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-11",
     "label": "Tuesday, August 11, 2026",
     "title": "Korea News Brief",
