@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-13",
+    "label": "Thursday, August 13, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Law, Korea, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "DPK struggles with young voters amid policy backlash",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260813/dpk-struggles-with-young-voters-amid-policy-backlash?utm_source=rss",
+        "summary": "The ruling Democratic Party of Korea (DPK) continues struggling to win over voters in their 20s and 30s, as a series of controversies over housing, investment and criminal justice reform feeds a broader feeling that the party is not addressing the concerns of young adults. While the liberal party used to enjoy larger support from young people compared with the conservative People Power Party, its members, especially lawmakers, are now perceived as presenting policies that make life harder for the younger generations. The latest case of frustration erupting among young people was in response to a suggestion from DPK Rep. Hwang Hee, who last week proposed converting retired buses for use as temporary housing for young people to help provide relief from high housing prices. “If they had seriously thought about what people in their 20s are actually worried about, I don’t think they could hav...",
+        "fullText": [
+          "The ruling Democratic Party of Korea (DPK) continues struggling to win over voters in their 20s and 30s, as a series of controversies over housing, investment and criminal justice reform feeds a broader feeling that the party is not addressing the concerns of young adults. While the liberal party used to enjoy larger support from young people compared with the conservative People Power Party, its members, especially lawmakers, are now perceived as presenting policies that make life harder for the younger generations.",
+          "The latest case of frustration erupting among young people was in response to a suggestion from DPK Rep. Hwang Hee, who last week proposed converting retired buses for use as temporary housing for young people to help provide relief from high housing prices.",
+          "“If they had seriously thought about what people in their 20s are actually worried about, I don’t think they could hav..."
+        ],
+        "words": [
+          "struggles",
+          "voters",
+          "policy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "EU's 'battery passport' policy: Trade barrier or fresh opportunity for Korean players?",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260813/eus-battery-passport-policy-trade-barrier-or-fresh-opportunity-for-korean-players?utm_source=rss",
+        "summary": "The European Union's (EU) battery passport regulation is set to reshape the competitive landscape in Europe’s battery market, potentially giving Korean manufacturers an edge over Chinese rivals with weaker supply-chain transparency, experts and industry officials said Monday. Starting from Feb. 18, 2027, a new EU law will require batteries on the European market to carry detailed digital information covering their identity, technical characteristics, performance, durability, sustainability and recycling-related data. The policy is designed to improve transparency across the battery’s entire life cycle, from production and use to reuse and recycling. The upcoming rule comes at a critical time, when Korean battery firms are rapidly losing shares in the global electric vehicle (EV) battery market due to the rapid rise of Chinese manufacturers. According to recent data by SNE Research, batte...",
+        "fullText": [
+          "The European Union's (EU) battery passport regulation is set to reshape the competitive landscape in Europe’s battery market, potentially giving Korean manufacturers an edge over Chinese rivals with weaker supply-chain transparency, experts and industry officials said Monday. Starting from Feb.",
+          "18, 2027, a new EU law will require batteries on the European market to carry detailed digital information covering their identity, technical characteristics, performance, durability, sustainability and recycling-related data. The policy is designed to improve transparency across the battery’s entire life cycle, from production and use to reuse and recycling.",
+          "The upcoming rule comes at a critical time, when Korean battery firms are rapidly losing shares in the global electric vehicle (EV) battery market due to the rapid rise of Chinese manufacturers. According to recent data by SNE Research, batte..."
+        ],
+        "words": [
+          "battery",
+          "passport",
+          "policy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "How K-pop turned album previews into events worth ticketing",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260813/how-k-pop-turned-album-previews-into-events-worth-ticketing?utm_source=rss",
+        "summary": "The most sought-after free ticket in Seoul this month is for a show where nobody performs. On Aug. 19, which marks the 20th debut anniversary of K-pop icon BIGBANG, fans are expected to pack the Mulbit Stage at Yeouido Hangang Park, western Seoul, for drones, fireworks and a DJ set built entirely from songs the group will not be singing. The album will make an appearance, but the band will not. It is an unusually literal illustration of something the industry has been moving toward for years. Somewhere between the collapse of physical albums, CDs and the arrival of the algorithm, the act of hearing a record before everyone else stopped being a courtesy extended to critics and became a product with a venue and a guest list. The trend traces back to 2022, when BTS member J-Hope played his solo work \"Jack in the Box\" for an invited crowd — celebrities Zico, BIBI, HyunA and Yoon Mi-rae — ahe...",
+        "fullText": [
+          "The most sought-after free ticket in Seoul this month is for a show where nobody performs. On Aug.",
+          "19, which marks the 20th debut anniversary of K-pop icon BIGBANG, fans are expected to pack the Mulbit Stage at Yeouido Hangang Park, western Seoul, for drones, fireworks and a DJ set built entirely from songs the group will not be singing. The album will make an appearance, but the band will not.",
+          "It is an unusually literal illustration of something the industry has been moving toward for years. Somewhere between the collapse of physical albums, CDs and the arrival of the algorithm, the act of hearing a record before everyone else stopped being a courtesy extended to critics and became a product with a venue and a guest list.",
+          "The trend traces back to 2022, when BTS member J-Hope played his solo work \"Jack in the Box\" for an invited crowd — celebrities Zico, BIBI, HyunA and Yoon Mi-rae — ahe..."
+        ],
+        "words": [
+          "turned",
+          "previews",
+          "events"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Colombia quake rescue efforts enter 'final phase' as toll hits 239",
+        "url": "https://www.koreatimes.co.kr/world/20260813/colombia-quake-rescue-efforts-enter-final-phase-as-toll-hits-239?utm_source=rss",
+        "summary": "BOGOTA — Colombia on Wednesday declared three days of mourning for victims of an earthquake that killed 239 people, as rescuers entered what officials called the final phase of the search for survivors. Monday's magnitude 7.4 quake, the strongest to hit Colombia this century, devastated towns across the coffee-growing west, leaving at least 3,700 families homeless, according to the national disaster management agency. The government said flags would be lowered to half-staff on official buildings and at Colombian embassies abroad \"in honor of all the dead.\" In the cities of Pereira and Cali, emergency crews labored through the night with cranes, dogs and heavy machinery in the hunt for survivors, while volunteers formed human chains to clear debris by hand. Rescuers pulled 32-year-old Daniela Largo alive from the rubble of a Pereira hotel after 35 hours trapped, offering a rare sign of ho...",
+        "fullText": [
+          "BOGOTA — Colombia on Wednesday declared three days of mourning for victims of an earthquake that killed 239 people, as rescuers entered what officials called the final phase of the search for survivors. Monday's magnitude 7.",
+          "4 quake, the strongest to hit Colombia this century, devastated towns across the coffee-growing west, leaving at least 3,700 families homeless, according to the national disaster management agency. The government said flags would be lowered to half-staff on official buildings and at Colombian embassies abroad \"in honor of all the dead.",
+          "\" In the cities of Pereira and Cali, emergency crews labored through the night with cranes, dogs and heavy machinery in the hunt for survivors, while volunteers formed human chains to clear debris by hand. Rescuers pulled 32-year-old Daniela Largo alive from the rubble of a Pereira hotel after 35 hours trapped, offering a rare sign of ho..."
+        ],
+        "words": [
+          "colombia",
+          "rescue",
+          "efforts"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "After an earthquake, how long can trapped people survive?",
+        "url": "https://www.koreatimes.co.kr/world/20260813/after-an-earthquake-how-long-can-trapped-people-survive?utm_source=rss",
+        "summary": "NEW YORK — For those trapped in rubble after an earthquake, survival depends on many factors, including weather and access to water and air. If their injuries aren't too severe, victims can survive for a week or more, assuming the weather isn't too hot or cold, experts say. Two days after a powerful deadly earthquake struck western Colombia, rescue teams are racing against the clock to search for survivors. Most rescues happen in the 24 hours after a disaster. The chances of survival drop with each day after that, experts say. Most victims are badly injured or buried by falling stones or other debris. After the 2011 earthquake and tsunami in Japan, a teenager and his 80-year-old grandmother were found alive after nine days trapped in their flattened home. And the year before, a 16-year-old Haitian girl was rescued from earthquake rubble in Port-au-Prince after 15 days. Water and air are...",
+        "fullText": [
+          "NEW YORK — For those trapped in rubble after an earthquake, survival depends on many factors, including weather and access to water and air. If their injuries aren't too severe, victims can survive for a week or more, assuming the weather isn't too hot or cold, experts say.",
+          "Two days after a powerful deadly earthquake struck western Colombia, rescue teams are racing against the clock to search for survivors. Most rescues happen in the 24 hours after a disaster.",
+          "The chances of survival drop with each day after that, experts say. Most victims are badly injured or buried by falling stones or other debris.",
+          "After the 2011 earthquake and tsunami in Japan, a teenager and his 80-year-old grandmother were found alive after nine days trapped in their flattened home. And the year before, a 16-year-old Haitian girl was rescued from earthquake rubble in Port-au-Prince after 15 days.",
+          "Water and air are..."
+        ],
+        "words": [
+          "earthquake",
+          "trapped",
+          "people"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Iran says no progress on reviving interim peace deal with US",
+        "url": "https://www.koreatimes.co.kr/world/20260813/iran-says-no-progress-on-reviving-interim-peace-deal-with-us?utm_source=rss",
+        "summary": "DUBAI — Iran and the United States remain at loggerheads over efforts to agree a permanent end to the war in the Gulf, according to a senior Iranian source, who said there had been no progress in talks to revive the interim deal agreed in June and define a time frame to implement it. The comments were a further blow to hopes for a resolution to the crisis, following new attacks on shipping in the region on Tuesday. The deal agreed in June declared an \"immediate and permanent termination of military operations on all fronts\", but quickly unravelled, with U.S. President Donald Trump saying it was \"over\" on July 7 and Iran's foreign ministry declaring it \"suspended\" a week later. The U.S. accuses Iran of failing to honour an agreement under the deal to reopen the vital Strait of Hormuz shipping route. Tehran says Washington has reneged on its commitments, including lifting a blockade of Ira...",
+        "fullText": [
+          "DUBAI — Iran and the United States remain at loggerheads over efforts to agree a permanent end to the war in the Gulf, according to a senior Iranian source, who said there had been no progress in talks to revive the interim deal agreed in June and define a time frame to implement it. The comments were a further blow to hopes for a resolution to the crisis, following new attacks on shipping in the region on Tuesday.",
+          "The deal agreed in June declared an \"immediate and permanent termination of military operations on all fronts\", but quickly unravelled, with U. S.",
+          "President Donald Trump saying it was \"over\" on July 7 and Iran's foreign ministry declaring it \"suspended\" a week later. The U.",
+          "S. accuses Iran of failing to honour an agreement under the deal to reopen the vital Strait of Hormuz shipping route.",
+          "Tehran says Washington has reneged on its commitments, including lifting a blockade of Ira..."
+        ],
+        "words": [
+          "progress",
+          "reviving",
+          "interim"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Fed expected to leave rates unchanged next month after soft inflation data",
+        "url": "https://www.koreatimes.co.kr/world/20260813/fed-expected-to-leave-rates-unchanged-next-month-after-soft-inflation-data?utm_source=rss",
+        "summary": "Federal Reserve policymakers are likely to feel little fresh urgency to raise interest rates in September after data on Wednesday showed inflation cooled on a year-over-year basis for a second straight month, but they may take little comfort that monetary policy is tight enough to continue the easing trend. The Consumer Price Index rose 3.4 percent in the 12 months through July, down from 3.5 percent in June, the Bureau of Labor Statistics reported, in line with economists' expectations. Excluding the volatile food and energy components, the so-called core CPI increased 2.5 percent in the 12 months through July after climbing 2.6 percent in the prior month. Underneath the hood, there were some indications of broadening inflation. A sharp drop in hotel prices — unlikely to be sustained — drove much of the month-over-month easing in core inflation, and there were more categories of core go...",
+        "fullText": [
+          "Federal Reserve policymakers are likely to feel little fresh urgency to raise interest rates in September after data on Wednesday showed inflation cooled on a year-over-year basis for a second straight month, but they may take little comfort that monetary policy is tight enough to continue the easing trend. The Consumer Price Index rose 3.",
+          "4 percent in the 12 months through July, down from 3. 5 percent in June, the Bureau of Labor Statistics reported, in line with economists' expectations.",
+          "Excluding the volatile food and energy components, the so-called core CPI increased 2. 5 percent in the 12 months through July after climbing 2.",
+          "6 percent in the prior month. Underneath the hood, there were some indications of broadening inflation.",
+          "A sharp drop in hotel prices — unlikely to be sustained — drove much of the month-over-month easing in core inflation, and there were more categories of core go..."
+        ],
+        "words": [
+          "expected",
+          "unchanged",
+          "inflation"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "label": "Wednesday, August 12, 2026",
     "title": "Korea News Brief",
