@@ -1,5 +1,148 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-14",
+    "label": "Friday, August 14, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Inter-Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Can AI guide tourists through Korean history?",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260814/can-ai-guide-tourists-through-korean-history?utm_source=rss",
+        "summary": "Artificial intelligence (AI)-assisted travel often has a goal of finding cheaper flight tickets or affordable accommodation options. Recently, however, an acquaintance of mine living in Seattle reached out, asking for advice on planning her upcoming trip to Korea. She confessed to relying heavily on generative AI. Seeking an immersive “time-travel” itinerary that would take her to important historical sites related to late 19th and early 20th century events, she asked Google Gemini to craft a one-day historical tour through Seoul that would cost around 200,000 won ($150) to complete. Before leaving an overseas visitor to navigate the capital based on the whims of an algorithm, The Korea Times set out to fieldtest the AI-recommended itinerary. Can AI craft a tour that can capture the spirit and nuance of local history, or does it merely stitch together what it finds online without underst...",
+        "fullText": [
+          "Artificial intelligence (AI)-assisted travel often has a goal of finding cheaper flight tickets or affordable accommodation options. Recently, however, an acquaintance of mine living in Seattle reached out, asking for advice on planning her upcoming trip to Korea.",
+          "She confessed to relying heavily on generative AI. Seeking an immersive “time-travel” itinerary that would take her to important historical sites related to late 19th and early 20th century events, she asked Google Gemini to craft a one-day historical tour through Seoul that would cost around 200,000 won ($150) to complete.",
+          "Before leaving an overseas visitor to navigate the capital based on the whims of an algorithm, The Korea Times set out to fieldtest the AI-recommended itinerary. Can AI craft a tour that can capture the spirit and nuance of local history, or does it merely stitch together what it finds online without underst..."
+        ],
+        "words": [
+          "tourists",
+          "through",
+          "history"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korean Air-Asiana merger puts LCCs' long-haul business model to test",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260814/korean-air-asiana-merger-puts-lccs-long-haul-business-model-to-test?utm_source=rss",
+        "summary": "The viability of Trinity Airways and Air Premia’s long-haul businesses remains in doubt, as both budget carriers struggle to build stable profit structures to keep their expanded operations afloat, industry officials said Thursday. The two airlines had been widely seen as major beneficiaries of remedies imposed by competition authorities to address concerns stemming from Korean Air’s acquisition of Asiana Airlines. The measures required Korean Air and Asiana to make room for rival carriers on routes where regulators are concerned the merger could reduce competition. Under these measures, Trinity Airways, formerly T’way Air, took over four European routes, flying from Incheon to Paris, Rome, Barcelona and Frankfurt. Air Premia was also selected to operate an Incheon-Honolulu route under measures aimed at preserving competition following the merger. The expansion has given the low-cost car...",
+        "fullText": [
+          "The viability of Trinity Airways and Air Premia’s long-haul businesses remains in doubt, as both budget carriers struggle to build stable profit structures to keep their expanded operations afloat, industry officials said Thursday. The two airlines had been widely seen as major beneficiaries of remedies imposed by competition authorities to address concerns stemming from Korean Air’s acquisition of Asiana Airlines.",
+          "The measures required Korean Air and Asiana to make room for rival carriers on routes where regulators are concerned the merger could reduce competition. Under these measures, Trinity Airways, formerly T’way Air, took over four European routes, flying from Incheon to Paris, Rome, Barcelona and Frankfurt.",
+          "Air Premia was also selected to operate an Incheon-Honolulu route under measures aimed at preserving competition following the merger. The expansion has given the low-cost car..."
+        ],
+        "words": [
+          "air-asiana",
+          "merger",
+          "long-haul"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "For sEODo Band, 'Joseon pop' is feeling before formula",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260814/for-seodo-band-joseon-pop-is-feeling-before-formula?utm_source=rss",
+        "summary": "Before sEODo BAND had much of an audience, it had a problem familiar to every new act — it needed 30 minutes of music to play at performances. The solution came from a source most rock bands would not think to raid. The band took the highlight passages of the traditional pansori \"Chunhyangga,\" strung five of them together and found that the half-hour set told the whole story of the 18th-century Korean love epic from beginning to end. That set is now, nine years later, the band's first full-length album, \"ONE,\" expected for release on Friday. \"It turned out to be more fully realized than we expected,\" the band's vocalist, sEODo, said during an interview at The Korea Times headquarters in central Seoul, Aug. 3. \"Making a full-length in that shape became something the band had wanted to do for years.\" The album's title carries more in Korean than it can in English. \"ONE,\" or \"won,\" means ci...",
+        "fullText": [
+          "Before sEODo BAND had much of an audience, it had a problem familiar to every new act — it needed 30 minutes of music to play at performances. The solution came from a source most rock bands would not think to raid.",
+          "The band took the highlight passages of the traditional pansori \"Chunhyangga,\" strung five of them together and found that the half-hour set told the whole story of the 18th-century Korean love epic from beginning to end. That set is now, nine years later, the band's first full-length album, \"ONE,\" expected for release on Friday.",
+          "\"It turned out to be more fully realized than we expected,\" the band's vocalist, sEODo, said during an interview at The Korea Times headquarters in central Seoul, Aug. 3.",
+          "\"Making a full-length in that shape became something the band had wanted to do for years. \" The album's title carries more in Korean than it can in English.",
+          "\"ONE,\" or \"won,\" means ci..."
+        ],
+        "words": [
+          "joseon",
+          "feeling",
+          "before"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "S&P 500 hits record high as rate-hike worries ease",
+        "url": "https://www.koreatimes.co.kr/world/20260814/sp-500-hits-record-high-as-rate-hike-worries-ease?utm_source=rss",
+        "summary": "The S&P 500 climbed to a record high on Thursday, fueled by advances in Sandisk and other heavyweight technology stocks, as tame producer price inflation data supported expectations the Federal Reserve will not raise interest rates at its September meeting. Memory chip makers Sandisk and Micron Technology surged 16 percent and 6.7 percent, respectively. Broadcom added 1.3 percent and Meta Platforms rose 2.8 percent. Strong forecasts in recent weeks from companies including Microsoft and Amazon have reduced investors' concerns about massive spending on AI data centers. Shares of AI cloud company CoreWeave were flat on Thursday. CoreWeave surged 19 percent a day earlier after lifting its annual capital spending forecast. \"The AI earnings-driven tech boom continues,\" said Jay Hatfield, CEO of Infrastructure Capital Advisors in New York. \"It's an earnings boom, not a bubble.\" The S&P 500 was...",
+        "fullText": [
+          "The S&P 500 climbed to a record high on Thursday, fueled by advances in Sandisk and other heavyweight technology stocks, as tame producer price inflation data supported expectations the Federal Reserve will not raise interest rates at its September meeting. Memory chip makers Sandisk and Micron Technology surged 16 percent and 6.",
+          "7 percent, respectively. Broadcom added 1.",
+          "3 percent and Meta Platforms rose 2. 8 percent.",
+          "Strong forecasts in recent weeks from companies including Microsoft and Amazon have reduced investors' concerns about massive spending on AI data centers. Shares of AI cloud company CoreWeave were flat on Thursday.",
+          "CoreWeave surged 19 percent a day earlier after lifting its annual capital spending forecast. \"The AI earnings-driven tech boom continues,\" said Jay Hatfield, CEO of Infrastructure Capital Advisors in New York.",
+          "\"It's an earnings boom, not a bubble. \" The S&P 500 was..."
+        ],
+        "words": [
+          "record",
+          "rate-hike",
+          "worries"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort",
+        "url": "https://www.koreatimes.co.kr/world/20260814/hundreds-still-missing-in-colombia-as-desperation-grips-earthquake-rescue-effort?utm_source=rss",
+        "summary": "CALI/PEREIRA, Colombia — Hopes of finding more survivors from the powerful earthquake that rocked Colombia early this week were fading on Thursday as rescue workers narrowed their searches, while families in the worst-hit areas waited for news of missing relatives. In Cali, the country's third-largest city, crews have turned their attention from a search-and-rescue effort to debris removal at most sites, a sign the disaster response was entering a grimmer phase after the crucial first 72 hours. The 7.4-magnitude quake struck shortly after 7:30 a.m. local time on Monday, toppling apartment blocks, damaging homes, schools and hospitals and sending residents into the streets across western Colombia, home to the country's coffee farms. At least 273 people were killed — many in Cali and Pereira, a city in the coffee region —and more than 3,800 injured, according to government data on Thursday...",
+        "fullText": [
+          "CALI/PEREIRA, Colombia — Hopes of finding more survivors from the powerful earthquake that rocked Colombia early this week were fading on Thursday as rescue workers narrowed their searches, while families in the worst-hit areas waited for news of missing relatives. In Cali, the country's third-largest city, crews have turned their attention from a search-and-rescue effort to debris removal at most sites, a sign the disaster response was entering a grimmer phase after the crucial first 72 hours.",
+          "The 7. 4-magnitude quake struck shortly after 7:30 a.",
+          "m. local time on Monday, toppling apartment blocks, damaging homes, schools and hospitals and sending residents into the streets across western Colombia, home to the country's coffee farms.",
+          "At least 273 people were killed — many in Cali and Pereira, a city in the coffee region —and more than 3,800 injured, according to government data on Thursday..."
+        ],
+        "words": [
+          "hundreds",
+          "missing",
+          "colombia"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea's Kim could seek Trump summit after US midterms: expert",
+        "url": "https://www.koreatimes.co.kr/world/20260814/n-koreas-kim-could-seek-trump-summit-after-us-midterms-expert?utm_source=rss",
+        "summary": "WASHINGTON — North Korean leader Kim Jong-un could seek renewed summitry with U.S. President Donald Trump, potentially after the U.S. midterm elections this fall, if Pyongyang adopts a \"revisionist\" approach to help cement its status as a nuclear-armed state, an expert said Thursday. Victor Cha, president of the geopolitics and foreign policy department and Korea Chair at the Center for Strategic and International Studies (CSIS), laid out a scenario for renewed Trump-Kim summitry in an analysis posted on the CSIS website. The analysis came amid lingering speculation that despite Trump's openness to talks with Kim, Pyongyang might have little interest in reengaging with Washington given that it has deepened economic, diplomatic and military cooperation with Moscow, and reinforced ties with Beijing. \"The main driver relates to the extent to which Kim Jong-un is revisionist, and not status-...",
+        "fullText": [
+          "WASHINGTON — North Korean leader Kim Jong-un could seek renewed summitry with U. S.",
+          "President Donald Trump, potentially after the U. S.",
+          "midterm elections this fall, if Pyongyang adopts a \"revisionist\" approach to help cement its status as a nuclear-armed state, an expert said Thursday. Victor Cha, president of the geopolitics and foreign policy department and Korea Chair at the Center for Strategic and International Studies (CSIS), laid out a scenario for renewed Trump-Kim summitry in an analysis posted on the CSIS website.",
+          "The analysis came amid lingering speculation that despite Trump's openness to talks with Kim, Pyongyang might have little interest in reengaging with Washington given that it has deepened economic, diplomatic and military cooperation with Moscow, and reinforced ties with Beijing. \"The main driver relates to the extent to which Kim Jong-un is revisionist, and not status-..."
+        ],
+        "words": [
+          "summit",
+          "midterms",
+          "expert"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump's secret plane switch: What if a Korean president did the same?",
+        "url": "https://www.koreatimes.co.kr/world/20260814/trumps-secret-plane-switch-what-if-a-korean-president-did-the-same?utm_source=rss",
+        "summary": "SEATTLE — President Donald Trump’s secret plane switch while leaving Turkey last month has become a major talking point in U.S. media this week. What if the same thing happened in South Korea? Trump publicly boarded Air Force One after attending a NATO summit in Ankara on July 8. But before departure, he was secretly moved via an airport catering truck to a smaller C-32A military aircraft following intelligence about a credible threat against him. The presidential jet departed separately with Secretary of State Marco Rubio, Treasury Secretary Scott Bessent, other White House officials, staff and journalists aboard as part of the decoy operation. The operation has received extensive coverage since The Washington Post first revealed it this week, with questions emerging in the media and online about the decision to use the presidential jet as a decoy while carrying officials, staff and jou...",
+        "fullText": [
+          "SEATTLE — President Donald Trump’s secret plane switch while leaving Turkey last month has become a major talking point in U. S.",
+          "media this week. What if the same thing happened in South Korea?",
+          "Trump publicly boarded Air Force One after attending a NATO summit in Ankara on July 8. But before departure, he was secretly moved via an airport catering truck to a smaller C-32A military aircraft following intelligence about a credible threat against him.",
+          "The presidential jet departed separately with Secretary of State Marco Rubio, Treasury Secretary Scott Bessent, other White House officials, staff and journalists aboard as part of the decoy operation. The operation has received extensive coverage since The Washington Post first revealed it this week, with questions emerging in the media and online about the decision to use the presidential jet as a decoy while carrying officials, staff and jou..."
+        ],
+        "words": [
+          "secret",
+          "switch",
+          "president"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-13",
     "label": "Thursday, August 13, 2026",
     "title": "Korea News Brief",
