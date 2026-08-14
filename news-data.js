@@ -1,5 +1,158 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-15",
+    "label": "Saturday, August 15, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US sculptor Austen Brantley exhibits at CICA Museum in Gimpo",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260815/us-sculptor-austen-brantley-exhibits-at-cica-museum-in-gimpo?utm_source=rss",
+        "summary": "American figurative sculptor Austen Brantley takes inspiration from artwork across many eras, from Mesopotamia and ancient Greece to the Gandharan period and African artistic traditions. “I feel like there's a lot of intention and spiritualism put into the craftsmanship of the work, and it's all saying something,” he said. A self-taught artist, he discovered sculpture when his ceramics teacher recognized his ability during his junior year at Berkley High School in Michigan. He has maintained a full-time professional studio practice since 2014, and he has made over 3,000 sculptures. His emotionally resonant sculptures explore the figure as a vessel for memory, identity, mythology and collective history. His sculptures are recognized for their introspective expressions, dynamic compositions, tactile surfaces and carefully developed patinas. “My figures often occupy quiet psychological spac...",
+        "fullText": [
+          "American figurative sculptor Austen Brantley takes inspiration from artwork across many eras, from Mesopotamia and ancient Greece to the Gandharan period and African artistic traditions. “I feel like there's a lot of intention and spiritualism put into the craftsmanship of the work, and it's all saying something,” he said.",
+          "A self-taught artist, he discovered sculpture when his ceramics teacher recognized his ability during his junior year at Berkley High School in Michigan. He has maintained a full-time professional studio practice since 2014, and he has made over 3,000 sculptures.",
+          "His emotionally resonant sculptures explore the figure as a vessel for memory, identity, mythology and collective history. His sculptures are recognized for their introspective expressions, dynamic compositions, tactile surfaces and carefully developed patinas.",
+          "“My figures often occupy quiet psychological spac..."
+        ],
+        "words": [
+          "sculptor",
+          "austen",
+          "brantley"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Julia Mellor's mission to globalize soju",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260815/julia-mellors-mission-to-globalize-soju?utm_source=rss",
+        "summary": "Many people think of soju, Korea's iconic distilled alcoholic beverage, as a cheap, low-quality liquor that comes in a green bottle and causes a killer hangover. But Julia Mellor, founder of The Sool Company, has made it her mission to evangelize the traditional rice-based version of the drink. Recently, she set up a booth at the International Dutch Distillers Festival, where she gave two soju masterclasses for 110 guests introducing 3 craft sojus paired with Korean snacks. \"It was a totally Dutch festival, so the audience was very green and probably 90 percent of attendees had never heard of soju, so it was a really great opportunity,\" Mellor said of the event. \"The encouraging thing is that once people taste these premium Korean spirits without preconceived ideas, the quality speaks for itself. To have the opportunity to present Korean soju to such a new audience with no background kno...",
+        "fullText": [
+          "Many people think of soju, Korea's iconic distilled alcoholic beverage, as a cheap, low-quality liquor that comes in a green bottle and causes a killer hangover. But Julia Mellor, founder of The Sool Company, has made it her mission to evangelize the traditional rice-based version of the drink.",
+          "Recently, she set up a booth at the International Dutch Distillers Festival, where she gave two soju masterclasses for 110 guests introducing 3 craft sojus paired with Korean snacks. \"It was a totally Dutch festival, so the audience was very green and probably 90 percent of attendees had never heard of soju, so it was a really great opportunity,\" Mellor said of the event.",
+          "\"The encouraging thing is that once people taste these premium Korean spirits without preconceived ideas, the quality speaks for itself. To have the opportunity to present Korean soju to such a new audience with no background kno..."
+        ],
+        "words": [
+          "mellor",
+          "mission",
+          "globalize"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "A surprise credit after an overseas purchase: Tariff refunds now flowing through shippers",
+        "url": "https://www.koreatimes.co.kr/world/20260815/a-surprise-credit-after-an-overseas-purchase-tariff-refunds-now-flowing-through-shippers?utm_source=rss",
+        "summary": "NEW YORK — If you bought something from an overseas vendor last year, it might be time to check your bank account. Shippers including FedEx and UPS that acted as customs brokers for imported packages and received tariff refunds from the U.S. government have started to pass on those refunds to the customers that originally paid the tariffs. The refunds to consumers are the last step in a monthslong process that kicked off in February when the Supreme Court struck down sweeping tariffs implemented by President Donald Trump in March 2025 under the 1977 International Emergency Economic Powers Act on goods from almost every country. The court ordered the government to return the tariffs it collected. So far, about $100 billion in tariffs have been refunded to companies who paid them under a system set up by U.S. Customs and Border Protection. That doesn't mean Americans will get anywhere clos...",
+        "fullText": [
+          "NEW YORK — If you bought something from an overseas vendor last year, it might be time to check your bank account. Shippers including FedEx and UPS that acted as customs brokers for imported packages and received tariff refunds from the U.",
+          "S. government have started to pass on those refunds to the customers that originally paid the tariffs.",
+          "The refunds to consumers are the last step in a monthslong process that kicked off in February when the Supreme Court struck down sweeping tariffs implemented by President Donald Trump in March 2025 under the 1977 International Emergency Economic Powers Act on goods from almost every country. The court ordered the government to return the tariffs it collected.",
+          "So far, about $100 billion in tariffs have been refunded to companies who paid them under a system set up by U. S.",
+          "Customs and Border Protection. That doesn't mean Americans will get anywhere clos..."
+        ],
+        "words": [
+          "surprise",
+          "credit",
+          "overseas"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Wall Street holds near its record following latest weak update on US economy",
+        "url": "https://www.koreatimes.co.kr/world/20260815/wall-street-holds-near-its-record-following-latest-weak-update-on-us-economy?utm_source=rss",
+        "summary": "NEW YORK — U.S. stocks are drifting near their record heights Friday following the latest report on the economy to come in surprisingly weak, this time about how much shoppers are spending at retailers. Such data could keep interest rates low, which is something Wall Street loves, but it also raises the risk of a slowing economy when inflation is still high. The S&P 500 slipped 0.2 percent from its all-time high set the day before. The Dow Jones Industrial Average was down 113 points, or 0.2 percent, as of 11:45 a.m. Eastern time, and the Nasdaq composite was 0.5 percent lower. Stocks gave up modest gains from earlier in the morning after oil prices swung higher. The price for a barrel of Brent crude rose 0.9 percent to $87.88 as uncertainty continues about when the war with Iran will allow oil tankers to freely exit the Persian Gulf again. Also raising uncertainty was a report showing s...",
+        "fullText": [
+          "NEW YORK — U. S.",
+          "stocks are drifting near their record heights Friday following the latest report on the economy to come in surprisingly weak, this time about how much shoppers are spending at retailers. Such data could keep interest rates low, which is something Wall Street loves, but it also raises the risk of a slowing economy when inflation is still high.",
+          "The S&P 500 slipped 0. 2 percent from its all-time high set the day before.",
+          "The Dow Jones Industrial Average was down 113 points, or 0. 2 percent, as of 11:45 a.",
+          "m. Eastern time, and the Nasdaq composite was 0.",
+          "5 percent lower. Stocks gave up modest gains from earlier in the morning after oil prices swung higher.",
+          "The price for a barrel of Brent crude rose 0. 9 percent to $87.",
+          "88 as uncertainty continues about when the war with Iran will allow oil tankers to freely exit the Persian Gulf again. Also raising uncertainty was a report showing s..."
+        ],
+        "words": [
+          "street",
+          "record",
+          "following"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US retail sales weakest in over a year, consumer sentiment plunges",
+        "url": "https://www.koreatimes.co.kr/world/20260815/us-retail-sales-weakest-in-over-a-year-consumer-sentiment-plunges?utm_source=rss",
+        "summary": "WASHINGTON — U.S. retail sales gave their weakest showing in more than a year and consumer sentiment plunged, data showed Friday, as households battered by fallout from President Donald Trump's Iran war curbed spending and raised their expectations of inflation. Total U.S. retail sales were down 0.6 percent in July from the previous month, at $763.6 billion, said the Department of Commerce. A new U.S. consumer sentiment survey by the University of Michigan showed confidence dropped by around eight percent in August, ending two months of gains. The United States and Israel launched the war against Iran on February 28, plunging the Middle East into conflict and sending energy prices skyrocketing as Tehran retaliated by attacking Washington's Gulf allies and snarling a fifth of the world's oil and gas supplies. The war has sent inflation -- already elevated from the U.S. Federal Reserve's l...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "retail sales gave their weakest showing in more than a year and consumer sentiment plunged, data showed Friday, as households battered by fallout from President Donald Trump's Iran war curbed spending and raised their expectations of inflation. Total U.",
+          "S. retail sales were down 0.",
+          "6 percent in July from the previous month, at $763. 6 billion, said the Department of Commerce.",
+          "A new U. S.",
+          "consumer sentiment survey by the University of Michigan showed confidence dropped by around eight percent in August, ending two months of gains. The United States and Israel launched the war against Iran on February 28, plunging the Middle East into conflict and sending energy prices skyrocketing as Tehran retaliated by attacking Washington's Gulf allies and snarling a fifth of the world's oil and gas supplies.",
+          "The war has sent inflation -- already elevated from the U. S.",
+          "Federal Reserve's l..."
+        ],
+        "words": [
+          "retail",
+          "weakest",
+          "consumer"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Schools serving US military families put new emphasis on Western civilization and Christianity",
+        "url": "https://www.koreatimes.co.kr/world/20260815/schools-serving-us-military-families-put-new-emphasis-on-western-civilization-and-christianity?utm_source=rss",
+        "summary": "WASHINGTON — The Department of Defense is introducing a course centered on Western civilization and Christianity this fall in the schools it operates for military families, part of an effort by Defense Secretary Pete Hegseth to redirect the education system toward patriotic values and classical learning. The Department of Defense Education Activity operates about 160 schools across 11 countries and educates roughly 70,000 students who are children of active-duty military or civilian service members. Conservatives have eyed the schools — which, unlike most public schools, are run by the federal government — as a testing ground for reshaping education. The Western civilization course planned for this fall will use a textbook published by Encounter Books, a conservative publishing house. Titled \"The Golden Thread: A History of the Western Tradition, Volume I: The Ancient World and Christend...",
+        "fullText": [
+          "WASHINGTON — The Department of Defense is introducing a course centered on Western civilization and Christianity this fall in the schools it operates for military families, part of an effort by Defense Secretary Pete Hegseth to redirect the education system toward patriotic values and classical learning. The Department of Defense Education Activity operates about 160 schools across 11 countries and educates roughly 70,000 students who are children of active-duty military or civilian service members.",
+          "Conservatives have eyed the schools — which, unlike most public schools, are run by the federal government — as a testing ground for reshaping education. The Western civilization course planned for this fall will use a textbook published by Encounter Books, a conservative publishing house.",
+          "Titled \"The Golden Thread: A History of the Western Tradition, Volume I: The Ancient World and Christend..."
+        ],
+        "words": [
+          "schools",
+          "serving",
+          "military"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say",
+        "url": "https://www.koreatimes.co.kr/world/20260815/us-could-not-verify-israeli-warnings-of-iran-plots-against-trump-sources-say?utm_source=rss",
+        "summary": "WASHINGTON — The U.S. has received several warnings from Israel over the past year that Iran intended to assassinate President Donald Trump, including before a secret Air Force One ruse in Turkey, which U.S. intelligence officials could not independently verify, according to a current U.S. official and two former officials. The warnings, passed to U.S. intelligence agencies and in some cases relayed directly by Israeli officials to senior White House officials, included possible plots to shoot Trump with a sniper or recruit someone to attack him with a knife at a large public event, the sources said. The tips began in the lead-up to the 12-day war in June 2025 and intensified prior to the U.S. decision to go to war in Iran in February, the sources said. The most detailed warning came ahead of the NATO summit in Ankara in July, the U.S. official and the other person familiar with the matt...",
+        "fullText": [
+          "WASHINGTON — The U. S.",
+          "has received several warnings from Israel over the past year that Iran intended to assassinate President Donald Trump, including before a secret Air Force One ruse in Turkey, which U. S.",
+          "intelligence officials could not independently verify, according to a current U. S.",
+          "official and two former officials. The warnings, passed to U.",
+          "S. intelligence agencies and in some cases relayed directly by Israeli officials to senior White House officials, included possible plots to shoot Trump with a sniper or recruit someone to attack him with a knife at a large public event, the sources said.",
+          "The tips began in the lead-up to the 12-day war in June 2025 and intensified prior to the U. S.",
+          "decision to go to war in Iran in February, the sources said. The most detailed warning came ahead of the NATO summit in Ankara in July, the U.",
+          "S. official and the other person familiar with the matt..."
+        ],
+        "words": [
+          "verify",
+          "israeli",
+          "warnings"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "label": "Friday, August 14, 2026",
     "title": "Korea News Brief",
