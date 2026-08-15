@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-16",
+    "label": "Sunday, August 16, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, International, Domestic. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "SIWFF champions beauty of human imperfection in film",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260816/siwff-champions-beauty-of-human-imperfection-in-film?utm_source=rss",
+        "summary": "A flickering screen once was a sign of technological limitation. This year, the Seoul International Women's Film Festival (SIWFF) is using it as a sign of authenticity. Rounding out the summer and wrapping up the month of August, the 28th SIWFF will run from Aug. 20-26. Screenings and industry panels will take place across seven days at Megabox Sinchon and the Korean Film Archive's Cinematheque KOFA, under the festival's longtime slogan, \"See the World Through Women's Eyes!\" This year's theme, \"Reimagining F,\" is a continuation from last year, where the \"F\" has stood for female, film, fellowship and festival. This year’s edition adds a new focus: the flicker. The trailer for the festival sets up the idea. An old CRT television flickers, a praxinoscope spins through a childlike animation and then artificial intelligence (AI) prompts appear typed out on an old typewriter. The imagery plays...",
+        "fullText": [
+          "A flickering screen once was a sign of technological limitation. This year, the Seoul International Women's Film Festival (SIWFF) is using it as a sign of authenticity.",
+          "Rounding out the summer and wrapping up the month of August, the 28th SIWFF will run from Aug. 20-26.",
+          "Screenings and industry panels will take place across seven days at Megabox Sinchon and the Korean Film Archive's Cinematheque KOFA, under the festival's longtime slogan, \"See the World Through Women's Eyes! \" This year's theme, \"Reimagining F,\" is a continuation from last year, where the \"F\" has stood for female, film, fellowship and festival.",
+          "This year’s edition adds a new focus: the flicker. The trailer for the festival sets up the idea.",
+          "An old CRT television flickers, a praxinoscope spins through a childlike animation and then artificial intelligence (AI) prompts appear typed out on an old typewriter. The imagery plays..."
+        ],
+        "words": [
+          "champions",
+          "beauty",
+          "imperfection"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Outside TSMC, ordinary Taiwanese remain detached from its bonuses, Taiwan's 10% growth",
+        "url": "https://www.koreatimes.co.kr/world/20260816/outside-tsmc-ordinary-taiwanese-remain-detached-from-its-bonuses-taiwans-10-growth?utm_source=rss",
+        "summary": "From 3.71 percent to 10.16 percent. When the Institute of Economics at Academia Sinica, Taiwan’s foremost national research institution, released its projection for the country’s annual gross domestic product (GDP) growth in 2026 last month, it represented a staggering 6.45-percentage-point increase from its previous projection made in late December. Such a rate of growth is rarely seen in advanced economies and may even seem downright unrealistic. If Taiwan does exceed a 10 percent growth rate, it will be the first time the country has seen a double-digit growth in 16 years, since 2010. The nation’s GDP already jumped 14.5 percent year-on-year in the first quarter, fueled by a global investment boom in artificial intelligence (AI), while demand for advanced chips and servers is projected to persist into the second half of the year. The glossy growth outlook did not stand alone, as other...",
+        "fullText": [
+          "From 3. 71 percent to 10.",
+          "16 percent. When the Institute of Economics at Academia Sinica, Taiwan’s foremost national research institution, released its projection for the country’s annual gross domestic product (GDP) growth in 2026 last month, it represented a staggering 6.",
+          "45-percentage-point increase from its previous projection made in late December. Such a rate of growth is rarely seen in advanced economies and may even seem downright unrealistic.",
+          "If Taiwan does exceed a 10 percent growth rate, it will be the first time the country has seen a double-digit growth in 16 years, since 2010. The nation’s GDP already jumped 14.",
+          "5 percent year-on-year in the first quarter, fueled by a global investment boom in artificial intelligence (AI), while demand for advanced chips and servers is projected to persist into the second half of the year. The glossy growth outlook did not stand alone, as other..."
+        ],
+        "words": [
+          "outside",
+          "ordinary",
+          "taiwanese"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'Invictus spirit' shines beyond medals for wounded veterans",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260816/invictus-spirit-shines-beyond-medals-for-wounded-veterans?utm_source=rss",
+        "summary": "At the wheelchair curling final of the Invictus Games, an international sporting event for wounded, injured and sick service personnel and veterans, held in Vancouver, Canada, in February 2025, gasps erupted around the arena when Britain's final draw shot fell short. As the Korean team secured its first gold medal of the games, Lee Hwan-kyung, 53, a key player on the team, turned his head toward the British players. His eyes fell on an athlete who had lost an arm after being injured during military service. Lee watched as the athlete pushed a delivery stick with all his remaining strength while struggling to maintain his balance. Lee lowered his head and sobbed for a long time. Speaking to Hankook Ilbo in Goyang, Gyeonggi Province, Aug. 6, Lee recalled the moment. \"I think I felt a sense of kinship and solidarity, knowing that the opposing player must have gone through difficult times, j...",
+        "fullText": [
+          "At the wheelchair curling final of the Invictus Games, an international sporting event for wounded, injured and sick service personnel and veterans, held in Vancouver, Canada, in February 2025, gasps erupted around the arena when Britain's final draw shot fell short. As the Korean team secured its first gold medal of the games, Lee Hwan-kyung, 53, a key player on the team, turned his head toward the British players.",
+          "His eyes fell on an athlete who had lost an arm after being injured during military service. Lee watched as the athlete pushed a delivery stick with all his remaining strength while struggling to maintain his balance.",
+          "Lee lowered his head and sobbed for a long time. Speaking to Hankook Ilbo in Goyang, Gyeonggi Province, Aug.",
+          "6, Lee recalled the moment. \"I think I felt a sense of kinship and solidarity, knowing that the opposing player must have gone through difficult times, j..."
+        ],
+        "words": [
+          "invictus",
+          "spirit",
+          "shines"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "US Congratulates S. Korea on Liberation Day",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203611",
+        "summary": "[International] : The United States has congratulated South Korea on the anniversary of Korea's liberation from Japan's colonial rule in 1945. In a press statement on Friday, U.S. Secretary of State Marco Rubio said the two sides have cultivated an alliance grounded in shared values, mutual trust, and an ... [more...]",
+        "fullText": [
+          "[International] : The United States has congratulated South Korea on the anniversary of Korea's liberation from Japan's colonial rule in 1945. In a press statement on Friday, U.",
+          "S. Secretary of State Marco Rubio said the two sides have cultivated an alliance grounded in shared values, mutual trust, and an ...",
+          "[more... ]"
+        ],
+        "words": [
+          "congratulates",
+          "liberation",
+          "international"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Xi Values Development of S. Korea-China Relations Marking Anniv. of Founding of S. Korean Gov't",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203610",
+        "summary": "[International] : Chinese President Xi Jinping has said he values the development of bilateral relations with South Korea in a message marking the 78th anniversary of the establishment of the South Korean government. According to China's state-run Xinhua News Agency Saturday, Xi called the two countries important ... [more...]",
+        "fullText": [
+          "[International] : Chinese President Xi Jinping has said he values the development of bilateral relations with South Korea in a message marking the 78th anniversary of the establishment of the South Korean government. According to China's state-run Xinhua News Agency Saturday, Xi called the two countries important ...",
+          "[more... ]"
+        ],
+        "words": [
+          "values",
+          "development",
+          "korea-china"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Iran Dismisses Trump's Claim over Strait of Hormuz",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203609",
+        "summary": "[International] : Iran has dismissed U.S. President Donald Trump's latest claim that he will soon declare the Strait of Hormuz as U.S. territory. On X on Saturday, Iran's Deputy Foreign Minister Kazem Gharibabadi said the waterway \"has been Iranian, is Iranian and will remain Iranian,\" and that it will be opened ... [more...]",
+        "fullText": [
+          "[International] : Iran has dismissed U. S.",
+          "President Donald Trump's latest claim that he will soon declare the Strait of Hormuz as U. S.",
+          "territory. On X on Saturday, Iran's Deputy Foreign Minister Kazem Gharibabadi said the waterway \"has been Iranian, is Iranian and will remain Iranian,\" and that it will be opened ...",
+          "[more... ]"
+        ],
+        "words": [
+          "dismisses",
+          "strait",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Military Vehicles Mobilized to Supply Water to Drought-Stricken S. Gyeongsang",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203608",
+        "summary": "[Domestic] : Some 100 vehicles from the Army, Navy, Air Force and Marine Corps have been mobilized to supply agricultural water to the drought-stricken South Gyeongsang Province. According to the Army and provincial fire authorities, 102 vehicles from the military branches are set to be dispatched to the affected ... [more...]",
+        "fullText": [
+          "[Domestic] : Some 100 vehicles from the Army, Navy, Air Force and Marine Corps have been mobilized to supply agricultural water to the drought-stricken South Gyeongsang Province. According to the Army and provincial fire authorities, 102 vehicles from the military branches are set to be dispatched to the affected ...",
+          "[more... ]"
+        ],
+        "words": [
+          "military",
+          "vehicles",
+          "mobilized"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "label": "Saturday, August 15, 2026",
     "title": "Korea News Brief",
