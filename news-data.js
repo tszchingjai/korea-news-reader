@@ -1,5 +1,139 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-17",
+    "label": "Monday, August 17, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Weather, Domestic, Science. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Ex-comedian Pyo In-bong becomes homeless-serving pastor near Seoul Station",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260817/ex-comedian-pyo-in-bong-becomes-homeless-serving-pastor-near-seoul-station?utm_source=rss",
+        "summary": "Former comedian Pyo In-bong has taken on a new role, making \"bungeoppang\" or fish-shaped pastries, near Seoul Station and serving them to homeless people. Thursday's episode of MBN’s \"Exclusive World\" highlighted Pyo’s dramatically changed life. Pyo, who rose to fame playing nurse Pyo in the sitcom \"Soonpoong Clinic,\" was also a member of the comedy group Tintin Five alongside Hong Rok-gi, Kim Kyung-sik and Lee Dong-woo. Today, he runs a performance planning and production company while also serving as a pastor and continuing his cultural missionary work. On the program, Pyo and his wife volunteered at Seoul Station, handing out free food, including bungeoppang to homeless people. The couple began volunteer work in 2024 after Pyo’s wife suggested giving people living on the streets during the cold season a little warmth and comfort. Pyo said he began a new life as a pastor eight years ag...",
+        "fullText": [
+          "Former comedian Pyo In-bong has taken on a new role, making \"bungeoppang\" or fish-shaped pastries, near Seoul Station and serving them to homeless people. Thursday's episode of MBN’s \"Exclusive World\" highlighted Pyo’s dramatically changed life.",
+          "Pyo, who rose to fame playing nurse Pyo in the sitcom \"Soonpoong Clinic,\" was also a member of the comedy group Tintin Five alongside Hong Rok-gi, Kim Kyung-sik and Lee Dong-woo. Today, he runs a performance planning and production company while also serving as a pastor and continuing his cultural missionary work.",
+          "On the program, Pyo and his wife volunteered at Seoul Station, handing out free food, including bungeoppang to homeless people. The couple began volunteer work in 2024 after Pyo’s wife suggested giving people living on the streets during the cold season a little warmth and comfort.",
+          "Pyo said he began a new life as a pastor eight years ag..."
+        ],
+        "words": [
+          "ex-comedian",
+          "in-bong",
+          "becomes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Engineers over lawyers? Chip boom reshapes K-drama, dating market",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260817/engineers-over-lawyers-chip-boom-reshapes-k-drama-dating-market?utm_source=rss",
+        "summary": "\"Hynix almighty!\" The exclamation did not come from a church, but rather a luxury clothing store in Seoul. When a clerk spotted a customer wearing a vest with the logo of chipmaker SK hynix printed prominently across it, she gave him the royal treatment. She repeatedly exclaimed \"Hynix almighty!\" The clerk completely changed her attitude toward the balding man in a shabby jacket, whom she had previously greeted with a mocking tone. The scene, part of an April episode of Coupang Play comedy show \"SNL Korea 8,\" satirizes a rapidly changing social climate. The public view of engineers — men once deemed as \"engineering nerds\" — has transformed due to the semiconductor industry boom and massive performance bonuses that came with it. Shift in office romance settings The global chip and artificial intelligence (AI) boom has reshaped the conventions of television romance. Electronics companies a...",
+        "fullText": [
+          "\"Hynix almighty! \" The exclamation did not come from a church, but rather a luxury clothing store in Seoul.",
+          "When a clerk spotted a customer wearing a vest with the logo of chipmaker SK hynix printed prominently across it, she gave him the royal treatment. She repeatedly exclaimed \"Hynix almighty!",
+          "\" The clerk completely changed her attitude toward the balding man in a shabby jacket, whom she had previously greeted with a mocking tone. The scene, part of an April episode of Coupang Play comedy show \"SNL Korea 8,\" satirizes a rapidly changing social climate.",
+          "The public view of engineers — men once deemed as \"engineering nerds\" — has transformed due to the semiconductor industry boom and massive performance bonuses that came with it. Shift in office romance settings The global chip and artificial intelligence (AI) boom has reshaped the conventions of television romance.",
+          "Electronics companies a..."
+        ],
+        "words": [
+          "engineers",
+          "lawyers",
+          "reshapes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Korean fan culture meets religion in Gen Z Buddhism",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20260817/korean-fan-culture-meets-religion-in-gen-z-buddhism?utm_source=rss",
+        "summary": "It takes an avid fan to know how to commit. That explains how the Buddha became the ultimate favorite for 28-year-old artist Gye So-young, a Gen Z creator who previously channeled her devotion into anime, K-pop icons G-Dragon and BLACKPINK's Jennie, and baseball star Shohei Ohtani. Gye, a Buddhist painter who runs the YouTube channel \"Biguni Yeonseupsaeng\" (Buddhist nun trainee), chronicles this spiritual shift in her debut essay collection, \"The Buddha Is My Bias: An Otaku's At-Home Exploration of Buddhism,\" released July 30 by Bulkwang Publishing. The book departs from the usual solemnity of religious literature with its cheerful premise of an art student treating ancient philosophy as her latest obsession. The book stands out by offering a playful Gen Z take on Buddhist teachings. Gye maps the Buddhist idea of impermanence — the reality that all things change — to G-Dragon's hit song...",
+        "fullText": [
+          "It takes an avid fan to know how to commit. That explains how the Buddha became the ultimate favorite for 28-year-old artist Gye So-young, a Gen Z creator who previously channeled her devotion into anime, K-pop icons G-Dragon and BLACKPINK's Jennie, and baseball star Shohei Ohtani.",
+          "Gye, a Buddhist painter who runs the YouTube channel \"Biguni Yeonseupsaeng\" (Buddhist nun trainee), chronicles this spiritual shift in her debut essay collection, \"The Buddha Is My Bias: An Otaku's At-Home Exploration of Buddhism,\" released July 30 by Bulkwang Publishing. The book departs from the usual solemnity of religious literature with its cheerful premise of an art student treating ancient philosophy as her latest obsession.",
+          "The book stands out by offering a playful Gen Z take on Buddhist teachings. Gye maps the Buddhist idea of impermanence — the reality that all things change — to G-Dragon's hit song..."
+        ],
+        "words": [
+          "culture",
+          "religion",
+          "buddhism"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Landslide Alert Set to 'Caution' in Southern Regions as Heavy Rain Forecast",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203619",
+        "summary": "[Domestic] : Amid forecasts of heavy rain in southern parts of the country, landslide warnings have been raised to the \"caution\" level in several areas. The Korea Forest Service said the landslide risk alert levels for Gwangju, South Jeolla Province; Busan; Ulsan; and South Gyeongsang Province were raised from the ... [more...]",
+        "fullText": [
+          "[Domestic] : Amid forecasts of heavy rain in southern parts of the country, landslide warnings have been raised to the \"caution\" level in several areas. The Korea Forest Service said the landslide risk alert levels for Gwangju, South Jeolla Province; Busan; Ulsan; and South Gyeongsang Province were raised from the ...",
+          "[more... ]"
+        ],
+        "words": [
+          "landslide",
+          "caution",
+          "southern"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Heavy Rain to Hit Southern Regions",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203618",
+        "summary": "[Science] : Rain is expected across most of the country Sunday, with heavy downpours forecast for the southern regions and Jeju Island. According to the Korea Meteorological Administration, intense rainfall is expected to concentrate in the South Gyeongsang region from the afternoon, with heavy rain advisories issued ... [more...]",
+        "fullText": [
+          "[Science] : Rain is expected across most of the country Sunday, with heavy downpours forecast for the southern regions and Jeju Island. According to the Korea Meteorological Administration, intense rainfall is expected to concentrate in the South Gyeongsang region from the afternoon, with heavy rain advisories issued ...",
+          "[more... ]"
+        ],
+        "words": [
+          "southern",
+          "regions",
+          "science"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "Pro-Japanese Property Investigation Commission to Relaunch in December",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203617",
+        "summary": "[Politics] : The commission tasked with investigating and recovering property belonging to pro‑Japanese collaborators will be revived at the end of this year, 16 years after the previous body was dissolved. According to legal sources on Sunday, the Special Act on Asset Confiscation for Pro‑Japanese and ... [more...]",
+        "fullText": [
+          "[Politics] : The commission tasked with investigating and recovering property belonging to pro‑Japanese collaborators will be revived at the end of this year, 16 years after the previous body was dissolved. According to legal sources on Sunday, the Special Act on Asset Confiscation for Pro‑Japanese and ...",
+          "[more... ]"
+        ],
+        "words": [
+          "pro-japanese",
+          "property",
+          "investigation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Trump Posts Photo of 2019 Panmunjom Meeting With Kim Jong-un",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203616",
+        "summary": "[International] : United States President Donald Trump posted a photo on social media Saturday of his 2019 meeting with North Korean leader Kim Jong-un at the inter-Korean border village of Panmunjom. Trump shared the photo on Truth Social, showing him standing alongside Kim at the Joint Security Area, writing that despite ... [more...]",
+        "fullText": [
+          "[International] : United States President Donald Trump posted a photo on social media Saturday of his 2019 meeting with North Korean leader Kim Jong-un at the inter-Korean border village of Panmunjom. Trump shared the photo on Truth Social, showing him standing alongside Kim at the Joint Security Area, writing that despite ...",
+          "[more... ]"
+        ],
+        "words": [
+          "panmunjom",
+          "meeting",
+          "jong-un"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-16",
     "label": "Sunday, August 16, 2026",
     "title": "Korea News Brief",
