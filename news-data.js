@@ -1,5 +1,162 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-18",
+    "label": "Tuesday, August 18, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] The tree at Panmunjeom, 50 years later",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260818/morning-calm-tales-the-tree-at-panmunjeom-50-years-later?utm_source=rss",
+        "summary": "On the morning of Aug. 18, 1976, a work detail entered the Joint Security Area (JSA) at Panmunjeom to perform what should have been a routine task: trimming the branches of a poplar tree. Within minutes, two U.S. Army officers were dead. Capt. Arthur Bonifas and 1st Lt. Mark Barrett were killed by North Korean guards during a confrontation that lasted only a few minutes. Several other American and South Korean members of the detail were also injured. This Aug. 18 marks the 50th anniversary of their deaths. The event became known as the Axe Murder Incident, one of the most infamous confrontations in the history of the Korean Demilitarized Zone (DMZ). I can still remember when it happened. In August 1976, I was in the U.S. Air Force attending technical training school when I first heard about the killings at Panmunjeom. Korea was far away, and I could not have imagined that the events unfo...",
+        "fullText": [
+          "On the morning of Aug. 18, 1976, a work detail entered the Joint Security Area (JSA) at Panmunjeom to perform what should have been a routine task: trimming the branches of a poplar tree.",
+          "Within minutes, two U. S.",
+          "Army officers were dead. Capt.",
+          "Arthur Bonifas and 1st Lt. Mark Barrett were killed by North Korean guards during a confrontation that lasted only a few minutes.",
+          "Several other American and South Korean members of the detail were also injured. This Aug.",
+          "18 marks the 50th anniversary of their deaths. The event became known as the Axe Murder Incident, one of the most infamous confrontations in the history of the Korean Demilitarized Zone (DMZ).",
+          "I can still remember when it happened. In August 1976, I was in the U.",
+          "S. Air Force attending technical training school when I first heard about the killings at Panmunjeom.",
+          "Korea was far away, and I could not have imagined that the events unfo..."
+        ],
+        "words": [
+          "morning",
+          "panmunjeom",
+          "detail"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Trump hints at Kim talks, says making Korea situation 'safer'",
+        "url": "https://www.koreatimes.co.kr/world/20260818/trump-hints-at-kim-talks-says-making-korea-situation-safer?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump hinted Monday at fresh interactions with Kim Jong Un and said he was making the situation safer through his ties to the North Korean leader. Trump's vague comments came a day after he ordered the scaling back of U.S. military drills with ally South Korea and praised his relationship with Pyongyang's Kim. Asked why Kim hadn't replied to his requests for a conversation, Trump told reporters in the Oval Office: \"How do you know he hasn't responded?\" When pressed about whether Kim had actually responded, Trump replied after a pause: \"Yeah, he has.\" Trump then added \"it's very positive\" after he was asked what stage the conversations with Kim were at — but provided no further detail. In the past, the U.S. president has given similarly vague accounts of unconfirmed conversations with other foreign leaders including Russia's Vladimir Putin and China's Xi...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump hinted Monday at fresh interactions with Kim Jong Un and said he was making the situation safer through his ties to the North Korean leader. Trump's vague comments came a day after he ordered the scaling back of U.",
+          "S. military drills with ally South Korea and praised his relationship with Pyongyang's Kim.",
+          "Asked why Kim hadn't replied to his requests for a conversation, Trump told reporters in the Oval Office: \"How do you know he hasn't responded? \" When pressed about whether Kim had actually responded, Trump replied after a pause: \"Yeah, he has.",
+          "\" Trump then added \"it's very positive\" after he was asked what stage the conversations with Kim were at — but provided no further detail. In the past, the U.",
+          "S. president has given similarly vague accounts of unconfirmed conversations with other foreign leaders including Russia's Vladimir Putin and China's Xi..."
+        ],
+        "words": [
+          "making",
+          "situation",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US lawmakers push back against Trump's move to cut Korea drills",
+        "url": "https://www.koreatimes.co.kr/world/20260818/us-lawmakers-push-back-against-trumps-move-to-cut-korea-drills?utm_source=rss",
+        "summary": "SEATTLE — U.S. lawmakers from both parties are pushing back against President Donald Trump’s order to sharply scale back joint military exercises with South Korea, warning that the move could weaken the alliance and benefit U.S. adversaries. The criticism has come largely from Democrats, but Republican Sen. Thom Tillis of North Carolina has also publicly challenged Trump’s decision, making the congressional pushback bipartisan. Sen. Jack Reed of Rhode Island, the top Democrat on the Senate Armed Services Committee, called the move “another inane, haphazard decision by President Trump and his chaotic administration.” “When President Trump cuts military exercises to flatter a dictator or punishes South Korea for declining to join a war he started, all of our allies — and adversaries — think that America’s commitments are negotiable,” Reed said in a statement. “Kim Jong Un has won a propaga...",
+        "fullText": [
+          "SEATTLE — U. S.",
+          "lawmakers from both parties are pushing back against President Donald Trump’s order to sharply scale back joint military exercises with South Korea, warning that the move could weaken the alliance and benefit U. S.",
+          "adversaries. The criticism has come largely from Democrats, but Republican Sen.",
+          "Thom Tillis of North Carolina has also publicly challenged Trump’s decision, making the congressional pushback bipartisan. Sen.",
+          "Jack Reed of Rhode Island, the top Democrat on the Senate Armed Services Committee, called the move “another inane, haphazard decision by President Trump and his chaotic administration. ” “When President Trump cuts military exercises to flatter a dictator or punishes South Korea for declining to join a war he started, all of our allies — and adversaries — think that America’s commitments are negotiable,” Reed said in a statement.",
+          "“Kim Jong Un has won a propaga..."
+        ],
+        "words": [
+          "lawmakers",
+          "against",
+          "drills"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Pentagon says 'no changes' to announce about ongoing Korea-US exercise",
+        "url": "https://www.koreatimes.co.kr/world/20260818/pentagon-says-no-changes-to-announce-about-ongoing-korea-us-exercise?utm_source=rss",
+        "summary": "WASHINGTON — The U.S. Defense Department said Monday that it has \"no changes\" to announce regarding the ongoing South Korea-U.S. military exercise, a day after President Donald Trump said he instructed the Pentagon to \"substantially\" reduce allied exercises. Trump unveiled his directive on the combined exercises with South Korea in a social media post on Sunday, as Seoul and Washington kicked off their annual Ulchi Freedom Shield exercise intended to strengthen the allies' capabilities against potential North Korean aggression. \"We have no changes to announce regarding Ulchi Freedom Shield 2026 at this time,\" a Pentagon official told Yonhap News Agency via email. He referred questions regarding Trump's comments or the broader scope of his policy direction to the White House. The White House did not respond immediately to questions from Yonhap News Agency. In Sunday's Truth Social post, T...",
+        "fullText": [
+          "WASHINGTON — The U. S.",
+          "Defense Department said Monday that it has \"no changes\" to announce regarding the ongoing South Korea-U. S.",
+          "military exercise, a day after President Donald Trump said he instructed the Pentagon to \"substantially\" reduce allied exercises. Trump unveiled his directive on the combined exercises with South Korea in a social media post on Sunday, as Seoul and Washington kicked off their annual Ulchi Freedom Shield exercise intended to strengthen the allies' capabilities against potential North Korean aggression.",
+          "\"We have no changes to announce regarding Ulchi Freedom Shield 2026 at this time,\" a Pentagon official told Yonhap News Agency via email. He referred questions regarding Trump's comments or the broader scope of his policy direction to the White House.",
+          "The White House did not respond immediately to questions from Yonhap News Agency. In Sunday's Truth Social post, T..."
+        ],
+        "words": [
+          "pentagon",
+          "changes",
+          "announce"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US midterm election betting races past 2024 congressional total, data shows",
+        "url": "https://www.koreatimes.co.kr/world/20260818/us-midterm-election-betting-races-past-2024-congressional-total-data-shows?utm_source=rss",
+        "summary": "Betting on November's U.S. midterm elections has already hit $133 million, surpassing the $92.4 million wagered during the 2024 congressional election cycle, the Anti-Corruption Data Collective said on Monday. The non-profit research and advocacy group forecast that total wagers on the 2026 midterms could reach $1.6 billion if betting activity accelerates at the same pace as it did in 2024. The data underscores the rapid growth of prediction markets, as rising retail and institutional adoption drives users to platforms such as Polymarket and Kalshi, which allow betting on real-world outcomes ranging from politics and economics to popular culture. The breakneck growth has been accompanied by increasing regulatory scrutiny, with critics arguing that the platforms amount to gambling. The prediction market companies, as well as the Trump administration, have said they are financial markets,...",
+        "fullText": [
+          "Betting on November's U. S.",
+          "midterm elections has already hit $133 million, surpassing the $92. 4 million wagered during the 2024 congressional election cycle, the Anti-Corruption Data Collective said on Monday.",
+          "The non-profit research and advocacy group forecast that total wagers on the 2026 midterms could reach $1. 6 billion if betting activity accelerates at the same pace as it did in 2024.",
+          "The data underscores the rapid growth of prediction markets, as rising retail and institutional adoption drives users to platforms such as Polymarket and Kalshi, which allow betting on real-world outcomes ranging from politics and economics to popular culture. The breakneck growth has been accompanied by increasing regulatory scrutiny, with critics arguing that the platforms amount to gambling.",
+          "The prediction market companies, as well as the Trump administration, have said they are financial markets,..."
+        ],
+        "words": [
+          "midterm",
+          "election",
+          "betting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US stocks hang near their record heights",
+        "url": "https://www.koreatimes.co.kr/world/20260818/us-stocks-hang-near-their-record-heights?utm_source=rss",
+        "summary": "NEW YORK — U.S. stocks are drifting near their record heights on Monday, ahead of a week where profit reports from the nation’s biggest retailers could give a hint about how shoppers are dealing with high inflation and a slowing job market. The S&P 500 slipped 0.1 percent but remains near its all-time high set Thursday. The Dow Jones Industrial Average was down 209 points, or 0.4 percent, as of noon Eastern time, and the Nasdaq composite was 0.2 percent higher. Wall Street has run to records in large part because profits are booming for U.S. companies. Those in the S&P 500 index are on track to deliver growth of roughly 50 percent for earnings per share in the spring from a year earlier, according to FactSet. That’s much better than analysts expected and would be the best since five years ago, when the economy was erupting out of the chasm created by the COVID pandemic. Nearly all the co...",
+        "fullText": [
+          "NEW YORK — U. S.",
+          "stocks are drifting near their record heights on Monday, ahead of a week where profit reports from the nation’s biggest retailers could give a hint about how shoppers are dealing with high inflation and a slowing job market. The S&P 500 slipped 0.",
+          "1 percent but remains near its all-time high set Thursday. The Dow Jones Industrial Average was down 209 points, or 0.",
+          "4 percent, as of noon Eastern time, and the Nasdaq composite was 0. 2 percent higher.",
+          "Wall Street has run to records in large part because profits are booming for U. S.",
+          "companies. Those in the S&P 500 index are on track to deliver growth of roughly 50 percent for earnings per share in the spring from a year earlier, according to FactSet.",
+          "That’s much better than analysts expected and would be the best since five years ago, when the economy was erupting out of the chasm created by the COVID pandemic. Nearly all the co..."
+        ],
+        "words": [
+          "stocks",
+          "record",
+          "heights"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff",
+        "url": "https://www.koreatimes.co.kr/world/20260818/gold-shows-early-signs-of-reclaiming-safe-haven-appeal-after-iran-war-selloff?utm_source=rss",
+        "summary": "LONDON — Gold's 9 percent rebound in August to around $4,400 an ounce suggests bullion is starting to regain favour with institutional investors and central banks, leaving the market better placed to extend gains as it moves beyond the initial shock of the U.S.-Israeli war with Iran. The outbreak of the war in late February drove gold from a record high of $5,595 per ounce in January to below $4,000 in June as investors sought liquidity and some central banks tapped reserves to support domestic economies amid an oil price rally. \"It feels as though the handbrake has finally been released from gold,\" said Ross Norman, an independent analyst. Gold prices have broken above two key resistance levels this month, helped by lower oil prices and softer U.S. inflation data that reduced expectations for future rate hikes. \"If oil doesn't steal the show again, if the situation in the Middle East do...",
+        "fullText": [
+          "LONDON — Gold's 9 percent rebound in August to around $4,400 an ounce suggests bullion is starting to regain favour with institutional investors and central banks, leaving the market better placed to extend gains as it moves beyond the initial shock of the U. S.",
+          "-Israeli war with Iran. The outbreak of the war in late February drove gold from a record high of $5,595 per ounce in January to below $4,000 in June as investors sought liquidity and some central banks tapped reserves to support domestic economies amid an oil price rally.",
+          "\"It feels as though the handbrake has finally been released from gold,\" said Ross Norman, an independent analyst. Gold prices have broken above two key resistance levels this month, helped by lower oil prices and softer U.",
+          "S. inflation data that reduced expectations for future rate hikes.",
+          "\"If oil doesn't steal the show again, if the situation in the Middle East do..."
+        ],
+        "words": [
+          "reclaiming",
+          "safe-haven",
+          "appeal"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "label": "Monday, August 17, 2026",
     "title": "Korea News Brief",
