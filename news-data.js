@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-19",
+    "label": "Wednesday, August 19, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[K-LIT REVIEW] Sapphic love blooms in post-apocalyptic wasteland of 'Everything Happened at Once'",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20260819/k-lit-review-sapphic-love-blooms-in-post-apocalyptic-wasteland-of-everything-happened-at-once?utm_source=rss",
+        "summary": "Would the world come to an end if a deadly virus spread through our modern metropolises? Would panic breed lawlessness, unwinding centuries of civilization and plunging even the most advanced nations into chaos? Having come out the other end of the COVID-19 pandemic, we know the answers to these questions. Unfortunately, the same cannot be said for the young protagonists of Choi Jin-young’s novel “Everything Happened at Once,” translated into English by Soje. In the book, pandemonium descends as an unknown and deadly virus sweeps across the world. With the death toll in Korea topping 100,000 in a single day, the nation crumbles in a cloud of confusion and fear. Laws, ethics and all the threads tying modern civilization together disintegrate as the primal drive for survival takes over. Crime skyrockets, violence becomes constant and once-peaceful neighborhoods fill with death and destruct...",
+        "fullText": [
+          "Would the world come to an end if a deadly virus spread through our modern metropolises? Would panic breed lawlessness, unwinding centuries of civilization and plunging even the most advanced nations into chaos?",
+          "Having come out the other end of the COVID-19 pandemic, we know the answers to these questions. Unfortunately, the same cannot be said for the young protagonists of Choi Jin-young’s novel “Everything Happened at Once,” translated into English by Soje.",
+          "In the book, pandemonium descends as an unknown and deadly virus sweeps across the world. With the death toll in Korea topping 100,000 in a single day, the nation crumbles in a cloud of confusion and fear.",
+          "Laws, ethics and all the threads tying modern civilization together disintegrate as the primal drive for survival takes over. Crime skyrockets, violence becomes constant and once-peaceful neighborhoods fill with death and destruct..."
+        ],
+        "words": [
+          "review",
+          "sapphic",
+          "blooms"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Keeping China-ROK relations healthy, stable and moving upward",
+        "url": "https://www.koreatimes.co.kr/opinion/20260819/keeping-china-rok-relations-healthy-stable-and-moving-upward?utm_source=rss",
+        "summary": "In five days, China and the Republic of Korea (ROK) will mark the 34th anniversary of the establishment of diplomatic relations. There is an old Chinese saying from Confucius: “At 30, one stands on one’s own; at 40, one is free from doubts.” The same, in some ways, is true of relations between countries. Last year, as Korea’s new government had just taken office, I expressed my hopes for China-ROK relations in three phrases: look back, look anew and set out again. Much has changed over the past year and much of it is encouraging. Most notably, President Xi Jinping and President Lee Jae Myung paid reciprocal visits within two months, giving fresh impetus to bilateral relations and opening a new chapter in our ties. This is broadly the direction in which China-ROK relations are moving, while some issues still call for joint efforts. Under the new circumstances, both sides should build on t...",
+        "fullText": [
+          "In five days, China and the Republic of Korea (ROK) will mark the 34th anniversary of the establishment of diplomatic relations. There is an old Chinese saying from Confucius: “At 30, one stands on one’s own; at 40, one is free from doubts.",
+          "” The same, in some ways, is true of relations between countries. Last year, as Korea’s new government had just taken office, I expressed my hopes for China-ROK relations in three phrases: look back, look anew and set out again.",
+          "Much has changed over the past year and much of it is encouraging. Most notably, President Xi Jinping and President Lee Jae Myung paid reciprocal visits within two months, giving fresh impetus to bilateral relations and opening a new chapter in our ties.",
+          "This is broadly the direction in which China-ROK relations are moving, while some issues still call for joint efforts. Under the new circumstances, both sides should build on t..."
+        ],
+        "words": [
+          "keeping",
+          "china-rok",
+          "relations"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Meta targeted kids to boost Instagram, Facebook use, lawyer says as landmark trial begins",
+        "url": "https://www.koreatimes.co.kr/world/20260819/meta-targeted-kids-to-boost-instagram-facebook-use-lawyer-says-as-landmark-trial-begins?utm_source=rss",
+        "summary": "OAKLAND — Meta Platforms intentionally sought to addict children to its Facebook and Instagram platforms, a lawyer for California said on Tuesday at the start of a trial that could reshape some of the most popular apps on the planet. A bipartisan group of 29 U.S. states is suing Meta, seeking potentially tens or hundreds of billions of dollars in penalties and changes to how Meta does business. Four lead states — California, Colorado, Kentucky and New Jersey — accuse Meta of designing Facebook and Instagram to hook young users, fueling anxiety, depression and even suicide, and misleading consumers about the platforms' safety. Jurors will hear claims by all 29 states that Meta violated federal law by improperly collecting and using personal data of children while they used its platforms. Megan O'Neill, a deputy attorney general for California, told the eight-person jury in Oakland, Califo...",
+        "fullText": [
+          "OAKLAND — Meta Platforms intentionally sought to addict children to its Facebook and Instagram platforms, a lawyer for California said on Tuesday at the start of a trial that could reshape some of the most popular apps on the planet. A bipartisan group of 29 U.",
+          "S. states is suing Meta, seeking potentially tens or hundreds of billions of dollars in penalties and changes to how Meta does business.",
+          "Four lead states — California, Colorado, Kentucky and New Jersey — accuse Meta of designing Facebook and Instagram to hook young users, fueling anxiety, depression and even suicide, and misleading consumers about the platforms' safety. Jurors will hear claims by all 29 states that Meta violated federal law by improperly collecting and using personal data of children while they used its platforms.",
+          "Megan O'Neill, a deputy attorney general for California, told the eight-person jury in Oakland, Califo..."
+        ],
+        "words": [
+          "targeted",
+          "instagram",
+          "facebook"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump is threatening to bomb Oman, but why?",
+        "url": "https://www.koreatimes.co.kr/world/20260819/trump-is-threatening-to-bomb-oman-but-why?utm_source=rss",
+        "summary": "The world knows that U.S. President Donald Trump is angry with Iran But he’s not happy with the small country lying across the Strait of Hormuz from the Islamic Republic, either: Oman. Oman has played a relatively low-profile role since the Iran war began, including as a mediator. But its geography has thrust the sultanate into the uncomfortable position of negotiating with Tehran over management of the strait while facing Trump’s threats. Trump this week told Fox News reporter Trey Yingst that the U.S. would bomb Oman if it “gets in the way,” using an expletive for emphasis. It’s not the first such threat he’s made. Oman has not commented. Here’s a look at the country in the middle of the Washington-Tehran tug-of-war. Trump is not happy about emerging Oman-Iran deal Trump threatened Oman because he’s not happy that it’s close to a deal with Iran over the strait, two regional officials s...",
+        "fullText": [
+          "The world knows that U. S.",
+          "President Donald Trump is angry with Iran But he’s not happy with the small country lying across the Strait of Hormuz from the Islamic Republic, either: Oman. Oman has played a relatively low-profile role since the Iran war began, including as a mediator.",
+          "But its geography has thrust the sultanate into the uncomfortable position of negotiating with Tehran over management of the strait while facing Trump’s threats. Trump this week told Fox News reporter Trey Yingst that the U.",
+          "S. would bomb Oman if it “gets in the way,” using an expletive for emphasis.",
+          "It’s not the first such threat he’s made. Oman has not commented.",
+          "Here’s a look at the country in the middle of the Washington-Tehran tug-of-war. Trump is not happy about emerging Oman-Iran deal Trump threatened Oman because he’s not happy that it’s close to a deal with Iran over the strait, two regional officials s..."
+        ],
+        "words": [
+          "threatening",
+          "president",
+          "donald"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Sinking AI stocks pull Wall Street further from its record",
+        "url": "https://www.koreatimes.co.kr/world/20260819/sinking-ai-stocks-pull-wall-street-further-from-its-record?utm_source=rss",
+        "summary": "NEW YORK — Wall Street is pulling further from its all-time high on Tuesday as AI stocks get back to sinking. The S&P 500 fell 0.5 percent and is on track for a third straight modest loss since setting its all-time high on Thursday. The Dow Jones Industrial Average was down 56 points, or 0.1 percent, as of 12:25 p.m. Eastern time, and the Nasdaq composite was 1.1 percent lower. Leading the way lower were stocks that have been big winners in the boom around artificial-intelligence technology. They’ve been veering up and down this summer on worries that their prices shot too high in the AI frenzy and that the strong demand for memory, processors and other building blocks of data centers may fizzle out if AI proves less profitable than promised. Micron Technology dropped 7 percent, and the seller of computer memory was one of the heaviest weights on the S&P 500. So were chip companies Nvidi...",
+        "fullText": [
+          "NEW YORK — Wall Street is pulling further from its all-time high on Tuesday as AI stocks get back to sinking. The S&P 500 fell 0.",
+          "5 percent and is on track for a third straight modest loss since setting its all-time high on Thursday. The Dow Jones Industrial Average was down 56 points, or 0.",
+          "1 percent, as of 12:25 p. m.",
+          "Eastern time, and the Nasdaq composite was 1. 1 percent lower.",
+          "Leading the way lower were stocks that have been big winners in the boom around artificial-intelligence technology. They’ve been veering up and down this summer on worries that their prices shot too high in the AI frenzy and that the strong demand for memory, processors and other building blocks of data centers may fizzle out if AI proves less profitable than promised.",
+          "Micron Technology dropped 7 percent, and the seller of computer memory was one of the heaviest weights on the S&P 500. So were chip companies Nvidi..."
+        ],
+        "words": [
+          "sinking",
+          "stocks",
+          "street"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says no Iran talks planned, claims Hormuz 'new US territory'",
+        "url": "https://www.koreatimes.co.kr/world/20260819/trump-says-no-iran-talks-planned-claims-hormuz-new-us-territory?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said Tuesday that no talks with Iran are underway or scheduled, as he posted a map showing the Strait of Hormuz as a new American territory in a fresh jibe at Tehran. Trump has been pressing his threat to claim sovereignty over the crucial energy waterway as the nearly six-month-old Iran war grinds on with little sign of resolution. Trump's envoy and son-in-law Jared Kushner had said on Monday that the United States and Iran were having \"very positive and active conversations,\" but the president denied that was the case. \"There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect,\" Trump wrote on social media Tuesday. \"The Hormuz Strait is open and operating. All water mines have been removed or detonated.\" U.S. sources told AFP there had been \"positive\" discus...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said Tuesday that no talks with Iran are underway or scheduled, as he posted a map showing the Strait of Hormuz as a new American territory in a fresh jibe at Tehran. Trump has been pressing his threat to claim sovereignty over the crucial energy waterway as the nearly six-month-old Iran war grinds on with little sign of resolution.",
+          "Trump's envoy and son-in-law Jared Kushner had said on Monday that the United States and Iran were having \"very positive and active conversations,\" but the president denied that was the case. \"There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran.",
+          "The Naval Blockade remains in full force and effect,\" Trump wrote on social media Tuesday. \"The Hormuz Strait is open and operating.",
+          "All water mines have been removed or detonated. \" U.",
+          "S. sources told AFP there had been \"positive\" discus..."
+        ],
+        "words": [
+          "planned",
+          "claims",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Colombia estimates quake damage at $9.6 billion",
+        "url": "https://www.koreatimes.co.kr/world/20260819/colombia-estimates-quake-damage-at-96-billion?utm_source=rss",
+        "summary": "BOGOTA — The powerful earthquake that killed hundreds of people in western Colombia caused $9.57 billion in economic losses, President Abelardo de la Espriella said on Tuesday, issuing a preliminary estimate. The 7.4-magnitude tremor, which struck on August 10, was the most powerful in Colombia in nearly half a century. The death toll stands at 289, with a further 4,187 injured and 143 missing. Nearly 27,000 homes were destroyed, leaving many people sleeping in the streets or in public parks. Dozens of hospitals and schools also collapsed or were damaged. \"Imagine the scale of the disaster,\" said De la Espriella, a political novice who took office just three days before the disaster. The crisis has been a baptism of fire for De la Espriella, a right-wing lawyer and business magnate who was elected on a promise to flush out the drug-trafficking rebels that control part of Colombia. He sai...",
+        "fullText": [
+          "BOGOTA — The powerful earthquake that killed hundreds of people in western Colombia caused $9. 57 billion in economic losses, President Abelardo de la Espriella said on Tuesday, issuing a preliminary estimate.",
+          "The 7. 4-magnitude tremor, which struck on August 10, was the most powerful in Colombia in nearly half a century.",
+          "The death toll stands at 289, with a further 4,187 injured and 143 missing. Nearly 27,000 homes were destroyed, leaving many people sleeping in the streets or in public parks.",
+          "Dozens of hospitals and schools also collapsed or were damaged. \"Imagine the scale of the disaster,\" said De la Espriella, a political novice who took office just three days before the disaster.",
+          "The crisis has been a baptism of fire for De la Espriella, a right-wing lawyer and business magnate who was elected on a promise to flush out the drug-trafficking rebels that control part of Colombia. He sai..."
+        ],
+        "words": [
+          "colombia",
+          "estimates",
+          "damage"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-18",
     "label": "Tuesday, August 18, 2026",
     "title": "Korea News Brief",
