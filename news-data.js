@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-20",
+    "label": "Thursday, August 20, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Inter-Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US said to halve tariffs on Canada steel, aluminum in trade deal, Bloomberg News reports",
+        "url": "https://www.koreatimes.co.kr/world/20260820/us-said-to-halve-tariffs-on-canada-steel-aluminum-in-trade-deal-bloomberg-news-reports?utm_source=rss",
+        "summary": "The tentative trade deal between the U.S. and Canada would lower tariffs on certain Canadian exports of steel and aluminum to 25 percent, Bloomberg News reported on Wednesday, citing people familiar with the matter. Reuters could not immediately verify the report.",
+        "fullText": [
+          "The tentative trade deal between the U. S.",
+          "and Canada would lower tariffs on certain Canadian exports of steel and aluminum to 25 percent, Bloomberg News reported on Wednesday, citing people familiar with the matter. Reuters could not immediately verify the report."
+        ],
+        "words": [
+          "tariffs",
+          "canada",
+          "aluminum"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Ex-Meta executive says Zuckerberg put growth before child safety",
+        "url": "https://www.koreatimes.co.kr/world/20260820/ex-meta-executive-says-zuckerberg-put-growth-before-child-safety?utm_source=rss",
+        "summary": "OAKLAND, Calif. — A former engineering director at Meta Platforms testified on Wednesday that CEO Mark Zuckerberg fostered a culture that treated child safety as secondary to growth and engagement on Facebook and Instagram. Arturo Bejar, a vocal Meta critic, made the allegation during his second day of testimony in a landmark trial over claims brought by a coalition of states that could reshape Facebook and Instagram, some of the most popular apps on the planet. California, Colorado, Kentucky and New Jersey accuse Meta of designing the platforms to hook young users, fueling anxiety, depression and even suicide, and misleading consumers about their safety. Those states and 25 others also accuse Meta of violating federal law by improperly collecting and using personal data of children under 13 while they used its platforms. The trial began on Tuesday and is expected to last six weeks. Zuck...",
+        "fullText": [
+          "OAKLAND, Calif. — A former engineering director at Meta Platforms testified on Wednesday that CEO Mark Zuckerberg fostered a culture that treated child safety as secondary to growth and engagement on Facebook and Instagram.",
+          "Arturo Bejar, a vocal Meta critic, made the allegation during his second day of testimony in a landmark trial over claims brought by a coalition of states that could reshape Facebook and Instagram, some of the most popular apps on the planet. California, Colorado, Kentucky and New Jersey accuse Meta of designing the platforms to hook young users, fueling anxiety, depression and even suicide, and misleading consumers about their safety.",
+          "Those states and 25 others also accuse Meta of violating federal law by improperly collecting and using personal data of children under 13 while they used its platforms. The trial began on Tuesday and is expected to last six weeks.",
+          "Zuck..."
+        ],
+        "words": [
+          "ex-meta",
+          "executive",
+          "zuckerberg"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Gold surges over 3% as US Treasury announcement hurts yields, dollar",
+        "url": "https://www.koreatimes.co.kr/world/20260820/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar?utm_source=rss",
+        "summary": "Gold surged over 3 percent to its highest in over two-and-a-half months on Wednesday after a surprise liquidity support announcement by the U.S. Treasury knocked down bond yields and the dollar ahead of the release of the Federal Reserve's July meeting minutes. Spot gold climbed 3.6 percent to $4,487.91 per ounce by 2:10 p.m. EDT (1810 GMT) after touching its highest level since June 4 at $4,499.20 earlier in the session. U.S. gold futures settled 2.8 percenthigher at $4,545.30. On the technical front, spot gold broke above its 100-day moving average of around $4,381. \"This was totally unexpected. Very bullish for gold due to lower yields on longer-dated Treasuries and as it may help to bring the dollar lower,\" said Robert Gottlieb, an industry expert and former head of precious metals at Koch Supply and Trading. The U.S. dollar index fell 0.8 percent, making dollar-priced gold less expe...",
+        "fullText": [
+          "Gold surged over 3 percent to its highest in over two-and-a-half months on Wednesday after a surprise liquidity support announcement by the U. S.",
+          "Treasury knocked down bond yields and the dollar ahead of the release of the Federal Reserve's July meeting minutes. Spot gold climbed 3.",
+          "6 percent to $4,487. 91 per ounce by 2:10 p.",
+          "m. EDT (1810 GMT) after touching its highest level since June 4 at $4,499.",
+          "20 earlier in the session. U.",
+          "S. gold futures settled 2.",
+          "8 percenthigher at $4,545. 30.",
+          "On the technical front, spot gold broke above its 100-day moving average of around $4,381. \"This was totally unexpected.",
+          "Very bullish for gold due to lower yields on longer-dated Treasuries and as it may help to bring the dollar lower,\" said Robert Gottlieb, an industry expert and former head of precious metals at Koch Supply and Trading. The U.",
+          "S. dollar index fell 0.",
+          "8 percent, making dollar-priced gold less expe..."
+        ],
+        "words": [
+          "surges",
+          "treasury",
+          "announcement"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Trump says N. Korea has 57 nuclear weapons, plans to meet Kim later this year",
+        "url": "https://www.koreatimes.co.kr/world/20260820/trump-says-n-korea-has-57-nuclear-weapons-plans-to-meet-kim-later-this-year?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said Wednesday that he planned to meet with North Korean leader Kim Jong Un, and said the Asian nation held 57 \"very powerful\" nuclear weapons. The remarks come as Trump ordered Pentagon officials to cut short joint exercises with the South Korean military, writing in a Sunday social media post that they sent a message to Pyongyang that was \"totally inappropriate and hostile, to a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful.\" During Trump's first term, Kim called Trump a “mentally deranged U.S. dotard” and threatened that he had use of a \"nuclear button\" on his desk. The leaders' relationship cooled after face-to-face meetings in 2018 and 2019, including a brief exchange at the demilitarized zone between the Koreas in which Trump became the first sitting U.S. president to step into North Korea...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said Wednesday that he planned to meet with North Korean leader Kim Jong Un, and said the Asian nation held 57 \"very powerful\" nuclear weapons. The remarks come as Trump ordered Pentagon officials to cut short joint exercises with the South Korean military, writing in a Sunday social media post that they sent a message to Pyongyang that was \"totally inappropriate and hostile, to a Country that, as long as Donald J.",
+          "Trump has been President, has been unthreatening and respectful. \" During Trump's first term, Kim called Trump a “mentally deranged U.",
+          "S. dotard” and threatened that he had use of a \"nuclear button\" on his desk.",
+          "The leaders' relationship cooled after face-to-face meetings in 2018 and 2019, including a brief exchange at the demilitarized zone between the Koreas in which Trump became the first sitting U. S.",
+          "president to step into North Korea..."
+        ],
+        "words": [
+          "nuclear",
+          "weapons",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "4th-generation Koryoin Irina Park recounts life of her great-grandfather",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260820/4th-generation-koryoin-irina-park-recounts-life-of-her-great-grandfather?utm_source=rss",
+        "summary": "A black-and-white photograph sits inside the file folder of Irina Park, 37, a fourth-generation Koryoin, who works in trade in Seoul. Koryoin, also known as Koryo-saram, are ethnic Koreans from former Soviet republics. The young man in the photograph, whose records were written in 1937, was also 37 at the time. Nearly nine decades later, Park, now the same age as the man in the photograph, quietly speaks to the 37-year-old Park Kyung-hwan of 1937. Dear Kyung-hwan, It has been several years since I began searching for traces of you, and only now have I finally come face to face with you. When I first unfolded that old black-and-white photograph, your eyes and lips strangely did not seem unfamiliar. I stared at you for a long time, struck by your gentle eyes and full lips, and by how much your handsome face resembled my father’s. The only record we had of you was the three Korean character...",
+        "fullText": [
+          "A black-and-white photograph sits inside the file folder of Irina Park, 37, a fourth-generation Koryoin, who works in trade in Seoul. Koryoin, also known as Koryo-saram, are ethnic Koreans from former Soviet republics.",
+          "The young man in the photograph, whose records were written in 1937, was also 37 at the time. Nearly nine decades later, Park, now the same age as the man in the photograph, quietly speaks to the 37-year-old Park Kyung-hwan of 1937.",
+          "Dear Kyung-hwan, It has been several years since I began searching for traces of you, and only now have I finally come face to face with you. When I first unfolded that old black-and-white photograph, your eyes and lips strangely did not seem unfamiliar.",
+          "I stared at you for a long time, struck by your gentle eyes and full lips, and by how much your handsome face resembled my father’s. The only record we had of you was the three Korean character..."
+        ],
+        "words": [
+          "th-generation",
+          "koryoin",
+          "recounts"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "At home, K-drama audiences are hooked on teaching wrongdoers a lesson — and not just unruly students",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260820/at-home-k-drama-audiences-are-hooked-on-teaching-wrongdoers-a-lesson-and-not-just-unruly-students?utm_source=rss",
+        "summary": "Looking at recently released Korean dramas, it appears that the average Korean viewer is ready to see someone being taught a lesson. From schools and office hallways to courtrooms, the prevailing plots of well-crafted productions revolve around identifying villains or injustices that go unpunished by the law or the system, and taking matters into one’s own hands to deliver justice — and, along with it, catharsis. A prime example is “Taxi Driver 3,” an SBS Friday-Saturday drama that aired from late last year into early 2026. Following the success of its first two seasons, the third season also concluded with enormous success and earned lead actor Lee Je-hoon his second grand prize at the SBS Drama Awards. The drama follows a private revenge service disguised as a taxi company, named Rainbow Transport Corp., and its employee Kim Do-gi, who exacts revenge on perpetrators at the request of t...",
+        "fullText": [
+          "Looking at recently released Korean dramas, it appears that the average Korean viewer is ready to see someone being taught a lesson. From schools and office hallways to courtrooms, the prevailing plots of well-crafted productions revolve around identifying villains or injustices that go unpunished by the law or the system, and taking matters into one’s own hands to deliver justice — and, along with it, catharsis.",
+          "A prime example is “Taxi Driver 3,” an SBS Friday-Saturday drama that aired from late last year into early 2026. Following the success of its first two seasons, the third season also concluded with enormous success and earned lead actor Lee Je-hoon his second grand prize at the SBS Drama Awards.",
+          "The drama follows a private revenge service disguised as a taxi company, named Rainbow Transport Corp. , and its employee Kim Do-gi, who exacts revenge on perpetrators at the request of t..."
+        ],
+        "words": [
+          "k-drama",
+          "audiences",
+          "hooked"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "N. Korean Leader’s Sister: Scaling Back Joint Drills Not Enough",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203686",
+        "summary": "[Politics] : North Korean leader Kim Jong-un’s sister says the shorter duration of the South Korea-U.S. military exercise does not change its offensive nature and the U.S. won’t get the response it seeks from her country. Kim Yo-jong on Wednesday night released a statement via the North’s state-run Korean ... [more...]",
+        "fullText": [
+          "[Politics] : North Korean leader Kim Jong-un’s sister says the shorter duration of the South Korea-U. S.",
+          "military exercise does not change its offensive nature and the U. S.",
+          "won’t get the response it seeks from her country. Kim Yo-jong on Wednesday night released a statement via the North’s state-run Korean ...",
+          "[more... ]"
+        ],
+        "words": [
+          "leader",
+          "sister",
+          "scaling"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "label": "Wednesday, August 19, 2026",
     "title": "Korea News Brief",
