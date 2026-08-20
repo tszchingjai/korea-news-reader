@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-21",
+    "label": "Friday, August 21, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Korea, Economy, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Iran's main trade partners at risk from Trump's 'economic warfare'",
+        "url": "https://www.koreatimes.co.kr/world/20260821/irans-main-trade-partners-at-risk-from-trumps-economic-warfare?utm_source=rss",
+        "summary": "PARIS — U.S. President Donald Trump has pledged \"economic warfare\" against Iran, threatening any country that trades with the Islamic republic following months of stop-start hostilities. Here are the main players who could lose out if they continue to trade with Iran: China More than a quarter of Iran's trade takes place with China, with $18 billion in imports and $14.5 billion in exports in 2024, according to World Trade Organization (WTO) data. Hydrocarbons and chemical compounds like industrial alcohols and plastics accounted for the bulk of Tehran's exports to Beijing. In exchange, Iran bought industrial machinery, electronic equipment, cars and metals from China. UAE Before it announced this week that it was suspending all trade with Iran, the United Arab Emirates was a significant trading partner. In 2024, 30.6 percent of imports to Iran came from the UAE, valued at about $21 billi...",
+        "fullText": [
+          "PARIS — U. S.",
+          "President Donald Trump has pledged \"economic warfare\" against Iran, threatening any country that trades with the Islamic republic following months of stop-start hostilities. Here are the main players who could lose out if they continue to trade with Iran: China More than a quarter of Iran's trade takes place with China, with $18 billion in imports and $14.",
+          "5 billion in exports in 2024, according to World Trade Organization (WTO) data. Hydrocarbons and chemical compounds like industrial alcohols and plastics accounted for the bulk of Tehran's exports to Beijing.",
+          "In exchange, Iran bought industrial machinery, electronic equipment, cars and metals from China. UAE Before it announced this week that it was suspending all trade with Iran, the United Arab Emirates was a significant trading partner.",
+          "In 2024, 30. 6 percent of imports to Iran came from the UAE, valued at about $21 billi..."
+        ],
+        "words": [
+          "partners",
+          "economic",
+          "warfare"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Iran calls new US sanctions 'economic terrorism,' 'crimes against humanity'",
+        "url": "https://www.koreatimes.co.kr/world/20260821/iran-calls-new-us-sanctions-economic-terrorism-crimes-against-humanity?utm_source=rss",
+        "summary": "TEHRAN — Iran accused the United States of \"economic terrorism\" and \"crimes against humanity\" on Thursday, after Washington said it would ramp up sanctions to heap pressure on Tehran. \"Undoubtedly, the US economic sanctions against Iran, which have targeted the fundamental human rights of every Iranian citizen, are a case of 'economic terrorism' and 'crimes against humanity,' and the perpetrators and instigators of these sanctions are deserving of trial and punishment for committing such heinous crimes,\" Iran's foreign ministry said in a statement carried by state media.",
+        "fullText": [
+          "TEHRAN — Iran accused the United States of \"economic terrorism\" and \"crimes against humanity\" on Thursday, after Washington said it would ramp up sanctions to heap pressure on Tehran. \"Undoubtedly, the US economic sanctions against Iran, which have targeted the fundamental human rights of every Iranian citizen, are a case of 'economic terrorism' and 'crimes against humanity,' and the perpetrators and instigators of these sanctions are deserving of trial and punishment for committing such heinous crimes,\" Iran's foreign ministry said in a statement carried by state media."
+        ],
+        "words": [
+          "sanctions",
+          "economic",
+          "terrorism"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Oil hits more than 3-week high as Trump tries to raise pressure on Iran",
+        "url": "https://www.koreatimes.co.kr/world/20260821/oil-hits-more-than-3-week-high-as-trump-tries-to-raise-pressure-on-iran?utm_source=rss",
+        "summary": "NEW YORK — Oil prices rose to more than a three-week high on Thursday after U.S. President Donald Trump warned of retaliation against nations supporting Iran, his latest attempt to resolve a war that has stranded millions of barrels of Middle Eastern oil. Brent crude futures were up $2.20, or 2.4 percent, to $93.82 a barrel at 11:36 a.m. EDT, while U.S. West Texas Intermediate crude futures for September rose $2.33 to $88.16 a barrel. Both benchmarks hit their highest prices since July 24 and gained for a fifth straight session. The September WTI contract expires later on Thursday. Trump on Wednesday threatened \"economic warfare and isolation on an unprecedented scale\" against Tehran, warning of consequences for any country that provided \"any type of lifeline to Iran.\" U.S. Treasury Secretary Scott Bessent said he would hold a press conference on Monday \"to talk about exactly what we're...",
+        "fullText": [
+          "NEW YORK — Oil prices rose to more than a three-week high on Thursday after U. S.",
+          "President Donald Trump warned of retaliation against nations supporting Iran, his latest attempt to resolve a war that has stranded millions of barrels of Middle Eastern oil. Brent crude futures were up $2.",
+          "20, or 2. 4 percent, to $93.",
+          "82 a barrel at 11:36 a. m.",
+          "EDT, while U. S.",
+          "West Texas Intermediate crude futures for September rose $2. 33 to $88.",
+          "16 a barrel. Both benchmarks hit their highest prices since July 24 and gained for a fifth straight session.",
+          "The September WTI contract expires later on Thursday. Trump on Wednesday threatened \"economic warfare and isolation on an unprecedented scale\" against Tehran, warning of consequences for any country that provided \"any type of lifeline to Iran.",
+          "\" U. S.",
+          "Treasury Secretary Scott Bessent said he would hold a press conference on Monday \"to talk about exactly what we're..."
+        ],
+        "words": [
+          "pressure",
+          "prices",
+          "three-week"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Shein aims for Sept. 1 IPO, sources say",
+        "url": "https://www.koreatimes.co.kr/world/20260821/shein-aims-for-sept-1-ipo-sources-say?utm_source=rss",
+        "summary": "Shein aims to launch its Hong Kong initial public offering on Monday, according to a source familiar with the matter, and is targeting a listing on Sept. 1, two other sources said, slightly later than previously planned. While Sept. 1 is the target date, the listing could happen a few days later, one of the sources said. Reuters reported last week that Shein had been aiming to list on August 28. The delay, first reported by the South China Morning Post, comes as slower growth and rising costs have dampened investor appetite for Shein. The online fast-fashion retailer was seen just a few years ago as a disruptive challenger to established retailers such as H&M and Zara, thanks to its rapid supply chain and ultra-low prices. Among cornerstone investors in the IPO is the asset management arm of UBS Group, which would be investing in Shein for the first time, according to a fourth source wit...",
+        "fullText": [
+          "Shein aims to launch its Hong Kong initial public offering on Monday, according to a source familiar with the matter, and is targeting a listing on Sept. 1, two other sources said, slightly later than previously planned.",
+          "While Sept. 1 is the target date, the listing could happen a few days later, one of the sources said.",
+          "Reuters reported last week that Shein had been aiming to list on August 28. The delay, first reported by the South China Morning Post, comes as slower growth and rising costs have dampened investor appetite for Shein.",
+          "The online fast-fashion retailer was seen just a few years ago as a disruptive challenger to established retailers such as H&M and Zara, thanks to its rapid supply chain and ultra-low prices. Among cornerstone investors in the IPO is the asset management arm of UBS Group, which would be investing in Shein for the first time, according to a fourth source wit..."
+        ],
+        "words": [
+          "sources",
+          "launch",
+          "initial"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US warns allies, China to back economic war on Iran",
+        "url": "https://www.koreatimes.co.kr/world/20260821/us-warns-allies-china-to-back-economic-war-on-iran?utm_source=rss",
+        "summary": "WASHINGTON — The United States on Thursday warned allies and China alike to join President Donald Trump's new campaign to isolate the Iranian economy and \"collapse\" the government in Tehran. U.S. Treasury Secretary Scott Bessent's comments underscored how Trump is shifting to economic rather than military pressure on Tehran as his unpopular war drags towards the six-month mark. Under pressure at home over the impact of the war and with crucial midterm elections looming, Trump had on Wednesday promised the \"most crushing\" economic operation ever against Iran. \"It is going to work in Iran and we are going to collapse this regime,\" Bessent told U.S. broadcaster CNBC. Bessent underlined that Washington expects both allies and rivals to join the ramped-up campaign on Iran. \"This is going to be the greatest coordinated economic isolation in the history of the world. And we are going to them an...",
+        "fullText": [
+          "WASHINGTON — The United States on Thursday warned allies and China alike to join President Donald Trump's new campaign to isolate the Iranian economy and \"collapse\" the government in Tehran. U.",
+          "S. Treasury Secretary Scott Bessent's comments underscored how Trump is shifting to economic rather than military pressure on Tehran as his unpopular war drags towards the six-month mark.",
+          "Under pressure at home over the impact of the war and with crucial midterm elections looming, Trump had on Wednesday promised the \"most crushing\" economic operation ever against Iran. \"It is going to work in Iran and we are going to collapse this regime,\" Bessent told U.",
+          "S. broadcaster CNBC.",
+          "Bessent underlined that Washington expects both allies and rivals to join the ramped-up campaign on Iran. \"This is going to be the greatest coordinated economic isolation in the history of the world.",
+          "And we are going to them an..."
+        ],
+        "words": [
+          "allies",
+          "economic",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee meets SK chairman for possible discussion on chip projects: sources",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260821/lee-meets-sk-chairman-for-possible-discussion-on-chip-projects-sources?utm_source=rss",
+        "summary": "President Lee Jae Myung met with SK Group Chairman Chey Tae-won on Thursday, sources said, with the two presumed to have discussed the country's three mega projects centered on semiconductors and artificial intelligence (AI). Lee and Chey met over dinner, according to the sources, possibly discussing a wide array of issues related to the three mega projects initiative, including SK hynix Inc.'s investment in the southwestern region. The talks came amid speculation that the United States is demanding South Korean investment in its semiconductor industry as part of Seoul's investment commitment to the country, although Industry Minister Kim Jung-kwan said earlier in the day that no related talks had been held with Washington. Lee and Chey also met the previous month at an AI summit in San Francisco. The presidential office declined to comment on Thursday's meeting, noting it cannot confirm...",
+        "fullText": [
+          "President Lee Jae Myung met with SK Group Chairman Chey Tae-won on Thursday, sources said, with the two presumed to have discussed the country's three mega projects centered on semiconductors and artificial intelligence (AI). Lee and Chey met over dinner, according to the sources, possibly discussing a wide array of issues related to the three mega projects initiative, including SK hynix Inc.",
+          "'s investment in the southwestern region. The talks came amid speculation that the United States is demanding South Korean investment in its semiconductor industry as part of Seoul's investment commitment to the country, although Industry Minister Kim Jung-kwan said earlier in the day that no related talks had been held with Washington.",
+          "Lee and Chey also met the previous month at an AI summit in San Francisco. The presidential office declined to comment on Thursday's meeting, noting it cannot confirm..."
+        ],
+        "words": [
+          "chairman",
+          "possible",
+          "discussion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Why you may look older after summer",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260821/why-you-may-look-older-after-summer?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. Summer takes a toll on more than just your energy levels. The intense sunlight and sweltering heat can also leave your skin looking more tired and aged. Ultraviolet (UV) radiation is considered one of the main causes of premature skin aging. Strong UV exposure can damage elastin and collagen in the dermis, increasing the likelihood of age spots, fine lines and wrinkles. A healthy diet can help protect the skin from premature aging, while poor dietary habits may accelerate the process. Based on information from Healthline and other health and medical sources, here are some foods that may help slow skin aging. Why does skin look older after summer? Summer can accelerate skin aging in several ways. To maintain an average temperature of around 31 to 33 degrees Celsius, the skin expands its capillaries and releases heat. As the skin works to dissip...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "Summer takes a toll on more than just your energy levels. The intense sunlight and sweltering heat can also leave your skin looking more tired and aged.",
+          "Ultraviolet (UV) radiation is considered one of the main causes of premature skin aging. Strong UV exposure can damage elastin and collagen in the dermis, increasing the likelihood of age spots, fine lines and wrinkles.",
+          "A healthy diet can help protect the skin from premature aging, while poor dietary habits may accelerate the process. Based on information from Healthline and other health and medical sources, here are some foods that may help slow skin aging.",
+          "Why does skin look older after summer? Summer can accelerate skin aging in several ways.",
+          "To maintain an average temperature of around 31 to 33 degrees Celsius, the skin expands its capillaries and releases heat. As the skin works to dissip..."
+        ],
+        "words": [
+          "summer",
+          "articles",
+          "kormedi"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "label": "Thursday, August 20, 2026",
     "title": "Korea News Brief",
