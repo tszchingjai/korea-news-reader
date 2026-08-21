@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-22",
+    "label": "Saturday, August 22, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Weather, Politics, Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "S. Korea, US must address drill cuts for 'productive' engagement with Kim: expert",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260822/s-korea-us-must-address-drill-cuts-for-productive-engagement-with-kim-expert?utm_source=rss",
+        "summary": "WASHINGTON — An expert on Friday called on South Korea and the United States to address the \"political fallout\" of U.S. President Donald Trump's decision to scale back their military exercises, noting that the \"unnecessary crisis\" between the allies has created a roadblock to a coordinated approach toward Pyongyang. Ankit Panda, a senior fellow in the nuclear policy program at the Carnegie Endowment for International Peace, made the case in an article released by the Bulletin of the Atomic Scientists, a nonprofit research group, noting that Trump should focus on \"coexistence\" with North Korea rather than denuclearization should diplomacy with North Korean leader Kim Jong-un materialize. \"The unnecessary crisis with South Korea caused by the president's instincts to both seek engagement with Kim without understanding North Korea's position — and to punish Seoul for its perceived distance...",
+        "fullText": [
+          "WASHINGTON — An expert on Friday called on South Korea and the United States to address the \"political fallout\" of U. S.",
+          "President Donald Trump's decision to scale back their military exercises, noting that the \"unnecessary crisis\" between the allies has created a roadblock to a coordinated approach toward Pyongyang. Ankit Panda, a senior fellow in the nuclear policy program at the Carnegie Endowment for International Peace, made the case in an article released by the Bulletin of the Atomic Scientists, a nonprofit research group, noting that Trump should focus on \"coexistence\" with North Korea rather than denuclearization should diplomacy with North Korean leader Kim Jong-un materialize.",
+          "\"The unnecessary crisis with South Korea caused by the president's instincts to both seek engagement with Kim without understanding North Korea's position — and to punish Seoul for its perceived distance..."
+        ],
+        "words": [
+          "address",
+          "productive",
+          "engagement"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths: first figures",
+        "url": "https://www.koreatimes.co.kr/world/20260822/heatwave-hit-europe-logs-over-30000-excess-summer-deaths-first-figures?utm_source=rss",
+        "summary": "PARIS — Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heatwaves and drought which scientists have blamed on man-made climate change, according to provisional figures. Between mid-July and mid-August, the continent's EuroMomo monitoring platform estimates that Europe saw more than 32,000 excess deaths — with summer yet to come to an end. While EuroMomo does not publish breakdowns of deaths by country, various national health authorities have published provisional tolls covering comparable periods stretching roughly between the end of May and August. An AFP count of those tallies found 33,000 excess deaths or deaths directly linked to the heat across just eight countries: Austria, Belgium, England, France, Germany, the Netherlands, Portugal and Spain. Two deadly weeks According to EuroMomo's latest weekly estimates, the last week of June appears to hav...",
+        "fullText": [
+          "PARIS — Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heatwaves and drought which scientists have blamed on man-made climate change, according to provisional figures. Between mid-July and mid-August, the continent's EuroMomo monitoring platform estimates that Europe saw more than 32,000 excess deaths — with summer yet to come to an end.",
+          "While EuroMomo does not publish breakdowns of deaths by country, various national health authorities have published provisional tolls covering comparable periods stretching roughly between the end of May and August. An AFP count of those tallies found 33,000 excess deaths or deaths directly linked to the heat across just eight countries: Austria, Belgium, England, France, Germany, the Netherlands, Portugal and Spain.",
+          "Two deadly weeks According to EuroMomo's latest weekly estimates, the last week of June appears to hav..."
+        ],
+        "words": [
+          "heatwave-hit",
+          "europe",
+          "excess"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Russian drones kill 14 people at shopping mall in central Ukraine",
+        "url": "https://www.koreatimes.co.kr/world/20260822/russian-drones-kill-14-people-at-shopping-mall-in-central-ukraine?utm_source=rss",
+        "summary": "KYIV — Russian drones struck a shopping center in the city of Kryvyi Rih in central Ukraine on Friday, killing 14 people and wounding scores of others, authorities said. The city is the hometown of President Volodymyr Zelenskyy, who described the attack as a double-tap strike, in which an initial wave of drones hit the area, followed by a second wave as rescue workers responded. “Attacks like these are nothing less than terrorist acts,” Zelenskyy wrote on social media. Local administration head Oleksandr Vilkul put the death toll of 14, adding that 121 people were injured, including 22 children. He said the rescue operation was ongoing. Kryvyi Rih has been hit multiple times during the more than 4-year-old war, with one of the deadliest occurring in April 2025, when 20 people, including nine children, were killed. Friday’s attack came just 24 hours after Russia pounded the Ukrainian capi...",
+        "fullText": [
+          "KYIV — Russian drones struck a shopping center in the city of Kryvyi Rih in central Ukraine on Friday, killing 14 people and wounding scores of others, authorities said. The city is the hometown of President Volodymyr Zelenskyy, who described the attack as a double-tap strike, in which an initial wave of drones hit the area, followed by a second wave as rescue workers responded.",
+          "“Attacks like these are nothing less than terrorist acts,” Zelenskyy wrote on social media. Local administration head Oleksandr Vilkul put the death toll of 14, adding that 121 people were injured, including 22 children.",
+          "He said the rescue operation was ongoing. Kryvyi Rih has been hit multiple times during the more than 4-year-old war, with one of the deadliest occurring in April 2025, when 20 people, including nine children, were killed.",
+          "Friday’s attack came just 24 hours after Russia pounded the Ukrainian capi..."
+        ],
+        "words": [
+          "russian",
+          "drones",
+          "people"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
+        "url": "https://www.koreatimes.co.kr/world/20260822/gold-rallies-to-3-month-high-on-weaker-dollar-bullish-technicals?utm_source=rss",
+        "summary": "Gold climbed to a more than three-month high on Friday, on track for its third straight weekly gain, aided by a break above key technical levels as the U.S. Treasury's buyback support plan dragged on the dollar. Spot gold climbed 2.1 percent to $4,612.17 per ounce by 12:29 p.m. EDT (1629 GMT), earlier touching $4,620.14 — its highest since May 15. U.S. gold futures rose 2.2 percent to $4,670.60. Prices have gained over 5 percent so far this week, including the biggest one-day rise since early February on Wednesday. The metal is also trading above all key moving averages, having broken above the closely watched 200-day moving average of around $4,513, a move technical analysts typically view as bullish. \"A big factor, of course, is technical... next step is $4,700 if this momentum continues, but also I think it's been very much driven by a drop in the U.S. dollar,\" said Bart Melek, global...",
+        "fullText": [
+          "Gold climbed to a more than three-month high on Friday, on track for its third straight weekly gain, aided by a break above key technical levels as the U. S.",
+          "Treasury's buyback support plan dragged on the dollar. Spot gold climbed 2.",
+          "1 percent to $4,612. 17 per ounce by 12:29 p.",
+          "m. EDT (1629 GMT), earlier touching $4,620.",
+          "14 — its highest since May 15. U.",
+          "S. gold futures rose 2.",
+          "2 percent to $4,670. 60.",
+          "Prices have gained over 5 percent so far this week, including the biggest one-day rise since early February on Wednesday. The metal is also trading above all key moving averages, having broken above the closely watched 200-day moving average of around $4,513, a move technical analysts typically view as bullish.",
+          "\"A big factor, of course, is technical... next step is $4,700 if this momentum continues, but also I think it's been very much driven by a drop in the U.",
+          "S. dollar,\" said Bart Melek, global..."
+        ],
+        "words": [
+          "rallies",
+          "-month",
+          "weaker"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US plans $725 million payment towards its large UN debt",
+        "url": "https://www.koreatimes.co.kr/world/20260822/us-plans-725-million-payment-towards-its-large-un-debt?utm_source=rss",
+        "summary": "WASHINGTON/GENEVA — The Trump administration has started the process to transfer $725 million to the United Nations, a congressional notification seen by Reuters showed, a move aid experts said was a welcome step towards paying billions in dues owed. There was no immediate response from Washington to questions about the reasons for the payment from an administration which has slashed funding to many U.N. agencies and blasted the global body for not living up to its potential. The money - mentioned in an August 4 State Department notification letter to Congress that has not been reported - is set to go through before an expected speech by U.S. President Donald Trump to the U.N. General Assembly in New York next month. 'It keeps the ship afloat a little longer' U.N. Secretary-General Antonio Guterres said this year that the U.N. faced \"imminent financial collapse\" due to unpaid contributio...",
+        "fullText": [
+          "WASHINGTON/GENEVA — The Trump administration has started the process to transfer $725 million to the United Nations, a congressional notification seen by Reuters showed, a move aid experts said was a welcome step towards paying billions in dues owed. There was no immediate response from Washington to questions about the reasons for the payment from an administration which has slashed funding to many U.",
+          "N. agencies and blasted the global body for not living up to its potential.",
+          "The money - mentioned in an August 4 State Department notification letter to Congress that has not been reported - is set to go through before an expected speech by U. S.",
+          "President Donald Trump to the U. N.",
+          "General Assembly in New York next month. 'It keeps the ship afloat a little longer' U.",
+          "N. Secretary-General Antonio Guterres said this year that the U.",
+          "N. faced \"imminent financial collapse\" due to unpaid contributio..."
+        ],
+        "words": [
+          "million",
+          "payment",
+          "towards"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
+        "url": "https://www.koreatimes.co.kr/world/20260822/nato-members-discuss-strait-of-hormuz-options-without-alliance-involvement?utm_source=rss",
+        "summary": "BRUSSELS — NATO's top commander convened a videoconference earlier this week to facilitate possible contributions to support freedom of navigation in the Strait of Hormuz, his spokesperson told Reuters, adding that this is not a NATO mission. “Supreme Headquarters Allied Powers Europe hosted a meeting of interested Allies at the chief of defence level on Wednesday, 19 Aug 26, in order to facilitate their possible contributions to support freedom of navigation in the Strait of Hormuz,\" a spokesperson for the alliance's top commander U.S. Air Force General Alexus Grynkewich said on Friday. \"To be clear, this is not a NATO mission. But given NATO’s unique strengths in its ability to bring together Allies and understand the capabilities they bring to bear, it makes sense for NATO to facilitate in this way,\" the spokesperson added. NATO allies have sought to avoid direct involvement in the Ir...",
+        "fullText": [
+          "BRUSSELS — NATO's top commander convened a videoconference earlier this week to facilitate possible contributions to support freedom of navigation in the Strait of Hormuz, his spokesperson told Reuters, adding that this is not a NATO mission. “Supreme Headquarters Allied Powers Europe hosted a meeting of interested Allies at the chief of defence level on Wednesday, 19 Aug 26, in order to facilitate their possible contributions to support freedom of navigation in the Strait of Hormuz,\" a spokesperson for the alliance's top commander U.",
+          "S. Air Force General Alexus Grynkewich said on Friday.",
+          "\"To be clear, this is not a NATO mission. But given NATO’s unique strengths in its ability to bring together Allies and understand the capabilities they bring to bear, it makes sense for NATO to facilitate in this way,\" the spokesperson added.",
+          "NATO allies have sought to avoid direct involvement in the Ir..."
+        ],
+        "words": [
+          "members",
+          "discuss",
+          "strait"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US approves potential $125 million arms sale to S. Korea",
+        "url": "https://www.koreatimes.co.kr/world/20260822/us-approves-potential-125-million-arms-sale-to-s-korea?utm_source=rss",
+        "summary": "WASHINGTON — The U.S. State Department on Friday said it had approved the potential sale of AIM-9X Sidewinder Block II tactical missiles and related equipment to South Korea for an estimated $125 million, with RTX Corp as the principal contractor.",
+        "fullText": [
+          "WASHINGTON — The U. S.",
+          "State Department on Friday said it had approved the potential sale of AIM-9X Sidewinder Block II tactical missiles and related equipment to South Korea for an estimated $125 million, with RTX Corp as the principal contractor."
+        ],
+        "words": [
+          "approves",
+          "potential",
+          "million"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-21",
     "label": "Friday, August 21, 2026",
     "title": "Korea News Brief",
