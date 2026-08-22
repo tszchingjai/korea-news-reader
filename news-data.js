@@ -1,5 +1,146 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-23",
+    "label": "Sunday, August 23, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Korea, Culture, International, Science. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "How Hanroro beat K-pop powerhouse HYBE, SM, JYP and YG",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260823/how-hanroro-beat-k-pop-powerhouse-hybe-sm-jyp-and-yg?utm_source=rss",
+        "summary": "Last spring a vocal instructor at a private music studio that trains students for college auditions in the greater Seoul area took a call from a mother. The woman was not asking about admissions to a college music program. She asked the instructor, surnamed Lee, to look out for her child, who was under heavy stress from the college admissions grind. The student Lee met at the studio had started university the year before, found her major a poor fit, became socially isolated and dropped out. She was preparing to apply all over again. At the first lesson Lee showed her a list of songs that work well for training. The student wanted something else. \"She told me she wanted to sing the song with those lyrics — 'I won't abandon you. You think the same, don't you?'\" Lee said. The song was \"0+0,\" by the rock singer Hanroro. Reached by phone on Aug. 13, Lee explained why that request stood out. \"...",
+        "fullText": [
+          "Last spring a vocal instructor at a private music studio that trains students for college auditions in the greater Seoul area took a call from a mother. The woman was not asking about admissions to a college music program.",
+          "She asked the instructor, surnamed Lee, to look out for her child, who was under heavy stress from the college admissions grind. The student Lee met at the studio had started university the year before, found her major a poor fit, became socially isolated and dropped out.",
+          "She was preparing to apply all over again. At the first lesson Lee showed her a list of songs that work well for training.",
+          "The student wanted something else. \"She told me she wanted to sing the song with those lyrics — 'I won't abandon you.",
+          "You think the same, don't you? '\" Lee said.",
+          "The song was \"0+0,\" by the rock singer Hanroro. Reached by phone on Aug.",
+          "13, Lee explained why that request stood out. \"..."
+        ],
+        "words": [
+          "hanroro",
+          "powerhouse",
+          "spring"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Which day is best for flight booking? Travel expert shares tips for finding cheaper airfares",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260823/which-day-is-best-for-flight-booking-travel-expert-shares-tips-for-finding-cheaper-airfares?utm_source=rss",
+        "summary": "Airfares account for a significant portion of travel expenses, yet prices fluctuate constantly, leaving travelers wondering when the best time is to book the cheapest tickets. Against this backdrop, travel price comparison platform Skyscanner recently launched the Skyscanner Smart Travel Awards for Korea’s tourism industry, with value for money included as one of its award categories. The inaugural winners, announced on July 29, were Jeju Air for Best Value Short-Haul Airline, Korean Air for Best Booking Experience among airlines, and Hana Tour for Best Booking Experience among online travel agencies. Jessica Min, a travel expert at Skyscanner, spoke about whether there are any reliable ways to find cheaper airfares. Q. There are plenty of tips online for finding cheap flights, such as using incognito mode, searching on Tuesdays or looking for flights at 3 a.m. Are any of these actually...",
+        "fullText": [
+          "Airfares account for a significant portion of travel expenses, yet prices fluctuate constantly, leaving travelers wondering when the best time is to book the cheapest tickets. Against this backdrop, travel price comparison platform Skyscanner recently launched the Skyscanner Smart Travel Awards for Korea’s tourism industry, with value for money included as one of its award categories.",
+          "The inaugural winners, announced on July 29, were Jeju Air for Best Value Short-Haul Airline, Korean Air for Best Booking Experience among airlines, and Hana Tour for Best Booking Experience among online travel agencies. Jessica Min, a travel expert at Skyscanner, spoke about whether there are any reliable ways to find cheaper airfares.",
+          "Q. There are plenty of tips online for finding cheap flights, such as using incognito mode, searching on Tuesdays or looking for flights at 3 a.",
+          "m. Are any of these actually..."
+        ],
+        "words": [
+          "flight",
+          "booking",
+          "travel"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Culture",
+        "source": "KBS World",
+        "title": "KATSEYE's 'Wild' Debuts at Career-Best No. 2 on UK Official Albums Chart",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203752",
+        "summary": "[Culture] : KATSEYE's latest album \"Wild\" has earned the team's career-best ranking on the U.K. Official Albums Chart. Released on August 14, the third mini album by the global K-pop girl group, jointly launched between K-pop powerhouse Hybe and U.S. label Geffen Records, debuted at No. 2 on the Official Albums Chart ... [more...]",
+        "fullText": [
+          "[Culture] : KATSEYE's latest album \"Wild\" has earned the team's career-best ranking on the U. K.",
+          "Official Albums Chart. Released on August 14, the third mini album by the global K-pop girl group, jointly launched between K-pop powerhouse Hybe and U.",
+          "S. label Geffen Records, debuted at No.",
+          "2 on the Official Albums Chart ... [more...",
+          "]"
+        ],
+        "words": [
+          "katseye",
+          "debuts",
+          "career-best"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Trump Again Makes Territorial Claim over Strait of Hormuz",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203751",
+        "summary": "[International] : U.S. President Donald Trump has repeated a territorial claim over the Strait of Hormuz. Speaking at a rally in Myrtle Beach, South Carolina on Friday, Trump said Iran cannot be allowed to have a nuclear weapon, warning that otherwise \"you'll see some very bad things.\" Trump also said the Iranians ... [more...]",
+        "fullText": [
+          "[International] : U. S.",
+          "President Donald Trump has repeated a territorial claim over the Strait of Hormuz. Speaking at a rally in Myrtle Beach, South Carolina on Friday, Trump said Iran cannot be allowed to have a nuclear weapon, warning that otherwise \"you'll see some very bad things.",
+          "\" Trump also said the Iranians ... [more...",
+          "]"
+        ],
+        "words": [
+          "territorial",
+          "strait",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "KMA: Cloudy Skies, Sporadic Showers Expected Sunday",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203750",
+        "summary": "[Science] : Cloudy skies are forecast nationwide on Sunday, with some areas expected to see sporadic showers. According to the Korea Meteorological Administration, bouts of rain are expected in the inland areas of northeastern Gyeonggi Province and the central and northern inland regions of Gangwon Province during ... [more...]",
+        "fullText": [
+          "[Science] : Cloudy skies are forecast nationwide on Sunday, with some areas expected to see sporadic showers. According to the Korea Meteorological Administration, bouts of rain are expected in the inland areas of northeastern Gyeonggi Province and the central and northern inland regions of Gangwon Province during ...",
+          "[more... ]"
+        ],
+        "words": [
+          "cloudy",
+          "sporadic",
+          "showers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Volunteer Firefighters Join Recovery Efforts in Rain-Ravaged Geoje, Tongyeong",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203749",
+        "summary": "[Domestic] : Recovery efforts continue in the cities of Geoje and Tongyeong in South Gyeongsang Province on Saturday, following heavy downpours that ravaged the southern region earlier this week. Provincial and city officials said the difficult process includes cleaning up flooded homes, removing soil and debris, and ... [more...]",
+        "fullText": [
+          "[Domestic] : Recovery efforts continue in the cities of Geoje and Tongyeong in South Gyeongsang Province on Saturday, following heavy downpours that ravaged the southern region earlier this week. Provincial and city officials said the difficult process includes cleaning up flooded homes, removing soil and debris, and ...",
+          "[more... ]"
+        ],
+        "words": [
+          "volunteer",
+          "firefighters",
+          "recovery"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Recovery Efforts Underway across Rain-Battered Geoje Island and Tongyeong",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203748",
+        "summary": "[Domestic] : Anchor: All-out recovery efforts are underway in Geoje Island and the coastal city of Tongyeong this weekend, with hundreds of volunteer firefighters from across the country lending a helping hand. Kim Bum-soo has more. Report: The southern island of Geoje recorded nearly a meter of rain over a few ... [more...]",
+        "fullText": [
+          "[Domestic] : Anchor: All-out recovery efforts are underway in Geoje Island and the coastal city of Tongyeong this weekend, with hundreds of volunteer firefighters from across the country lending a helping hand. Kim Bum-soo has more.",
+          "Report: The southern island of Geoje recorded nearly a meter of rain over a few ... [more...",
+          "]"
+        ],
+        "words": [
+          "recovery",
+          "efforts",
+          "underway"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "label": "Saturday, August 22, 2026",
     "title": "Korea News Brief",
