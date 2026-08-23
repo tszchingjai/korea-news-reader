@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-24",
+    "label": "Monday, August 24, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Weather, Science, Domestic, Culture. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Busan Biennale examines authority with exhibition at closed school",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260824/busan-biennale-examines-authority-with-exhibition-at-closed-school?utm_source=rss",
+        "summary": "This year's Busan Biennale kicks off Saturday for a 65-day run, assembling 46 artists and collectives from over 22 countries around topics that embody the city's long history of resilience and solidarity. It unfolds at three unique venues across the southeastern city: Busan Museum of Contemporary Art, Space OneZ and the former Busan Nam High School. For co-artistic director Evelyn Simons, having exhibitions at a former school is a reminder of the central theme, \"Dissident Chorus.\" \"We wanted to play with that atmosphere of being in a context where you come to learn, but also are in such a transformative moment in your life,\" she said. \"These two layers coexist and sometimes conflict with one another: coming of age, learning to get to know yourself, navigating group dynamics, notions of authority, power being exerted onto your body and mind, discipline and expectations.\" The tension betwe...",
+        "fullText": [
+          "This year's Busan Biennale kicks off Saturday for a 65-day run, assembling 46 artists and collectives from over 22 countries around topics that embody the city's long history of resilience and solidarity. It unfolds at three unique venues across the southeastern city: Busan Museum of Contemporary Art, Space OneZ and the former Busan Nam High School.",
+          "For co-artistic director Evelyn Simons, having exhibitions at a former school is a reminder of the central theme, \"Dissident Chorus. \" \"We wanted to play with that atmosphere of being in a context where you come to learn, but also are in such a transformative moment in your life,\" she said.",
+          "\"These two layers coexist and sometimes conflict with one another: coming of age, learning to get to know yourself, navigating group dynamics, notions of authority, power being exerted onto your body and mind, discipline and expectations. \" The tension betwe..."
+        ],
+        "words": [
+          "biennale",
+          "examines",
+          "authority"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Is Korea really unsuitable for winemaking? This winemaker in Geochang says no",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260824/is-korea-really-unsuitable-for-winemaking-this-winemaker-in-geochang-says-no?utm_source=rss",
+        "summary": "In the quiet mountain village of Ungyang-myeon, Geochang County, South Gyeongsang Province, sits a modest country home. Beside it are a small winery and a vineyard spanning about 18,000 square meters. Compared with the vast vineyards of Europe’s famous wine regions, the place feels more like a humble Korean grape farm than a grand vineyard. Yet the organically grown grapes harvested here are transformed into Jeong Ssang-eun Wine, a natural wine that has wine lovers across Korea lining up to get their hands on. The winery, run by first-generation grape farmers Jeong Ssang-eun and Lim Hye-sook and their son, second-generation winemaker Jeong Gyu-song, produces only about 9,000 bottles a year due to its small scale. Despite the limited supply, their wines often sell out soon after they become available. Hankook Ilbo visited Jeong Ssang-eun Winery on Aug. 14 to explore the family’s approach...",
+        "fullText": [
+          "In the quiet mountain village of Ungyang-myeon, Geochang County, South Gyeongsang Province, sits a modest country home. Beside it are a small winery and a vineyard spanning about 18,000 square meters.",
+          "Compared with the vast vineyards of Europe’s famous wine regions, the place feels more like a humble Korean grape farm than a grand vineyard. Yet the organically grown grapes harvested here are transformed into Jeong Ssang-eun Wine, a natural wine that has wine lovers across Korea lining up to get their hands on.",
+          "The winery, run by first-generation grape farmers Jeong Ssang-eun and Lim Hye-sook and their son, second-generation winemaker Jeong Gyu-song, produces only about 9,000 bottles a year due to its small scale. Despite the limited supply, their wines often sell out soon after they become available.",
+          "Hankook Ilbo visited Jeong Ssang-eun Winery on Aug. 14 to explore the family’s approach..."
+        ],
+        "words": [
+          "really",
+          "unsuitable",
+          "winemaking"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Meet Kim Seo-yeon, who found her own path to Finnish National Ballet",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20260824/meet-kim-seo-yeon-who-found-her-own-path-to-finnish-national-ballet?utm_source=rss",
+        "summary": "The Finnish National Ballet has chosen a photo of Korean ballerina Kim Seo-yeon, 24, as the featured image on the website promoting its upcoming production of \"The Lady of the Camellias,\" by choreographer John Neumeier, which will be staged next April. Kim, who joined the company in 2020 and was promoted to first soloist in 2024, is set to take on leading roles in several productions in the new season, including \"Swan Lake,\" which opens this month. Korean dancers performing with leading ballet companies around the world are no longer unusual, but Kim’s rise as the face of Finland’s national ballet company is notable. Kim, who briefly returned to Korea during her summer vacation, spoke with Hankook Ilbo at the Seoul Arts Center in southern Seoul. “Finnish audiences tend to be reserved and don’t cheer loudly from their seats, but outside the theater they’ll recognize me, come over to say h...",
+        "fullText": [
+          "The Finnish National Ballet has chosen a photo of Korean ballerina Kim Seo-yeon, 24, as the featured image on the website promoting its upcoming production of \"The Lady of the Camellias,\" by choreographer John Neumeier, which will be staged next April. Kim, who joined the company in 2020 and was promoted to first soloist in 2024, is set to take on leading roles in several productions in the new season, including \"Swan Lake,\" which opens this month.",
+          "Korean dancers performing with leading ballet companies around the world are no longer unusual, but Kim’s rise as the face of Finland’s national ballet company is notable. Kim, who briefly returned to Korea during her summer vacation, spoke with Hankook Ilbo at the Seoul Arts Center in southern Seoul.",
+          "“Finnish audiences tend to be reserved and don’t cheer loudly from their seats, but outside the theater they’ll recognize me, come over to say h..."
+        ],
+        "words": [
+          "seo-yeon",
+          "finnish",
+          "national"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Haenam Quake Prompts Alert Upgrade, No Impact on Nuclear Facilities",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203760",
+        "summary": "[Science] : The nation's nuclear safety regulator said Sunday that a magnitude three-point-one earthquake that struck near Haenam early in the morning caused no abnormalities at any nuclear reactor facilities. The quake occurred at 6:43 a.m., about 21 kilometers west‑northwest of Haenam, South Jeolla Province. ... [more...]",
+        "fullText": [
+          "[Science] : The nation's nuclear safety regulator said Sunday that a magnitude three-point-one earthquake that struck near Haenam early in the morning caused no abnormalities at any nuclear reactor facilities. The quake occurred at 6:43 a.",
+          "m. , about 21 kilometers west‑northwest of Haenam, South Jeolla Province.",
+          "... [more...",
+          "]"
+        ],
+        "words": [
+          "haenam",
+          "prompts",
+          "upgrade"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Domestic",
+        "source": "KBS World",
+        "title": "Former Bongeunsa Head Monk Myeongjin Dies in Jeju, Funeral Set for Tuesday",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203759",
+        "summary": "[Domestic] : The funeral for Ven. Myeongjin, former head of Bongeunsa Temple in central Seoul, will be held as a joint religious and civil society service, with a memorial altar to be set up at the temple. According to people close to the late monk, his remains, currently at Seogwipo Medical Center, are expected to be ... [more...]",
+        "fullText": [
+          "[Domestic] : The funeral for Ven. Myeongjin, former head of Bongeunsa Temple in central Seoul, will be held as a joint religious and civil society service, with a memorial altar to be set up at the temple.",
+          "According to people close to the late monk, his remains, currently at Seogwipo Medical Center, are expected to be ... [more...",
+          "]"
+        ],
+        "words": [
+          "former",
+          "bongeunsa",
+          "myeongjin"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Science",
+        "source": "KBS World",
+        "title": "Sweltering Heat to Continue Through Monday",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203758",
+        "summary": "[Science] : Hot and humid weather will persist Sunday and Monday, with occasional periods of increased cloud cover. According to the Korea Meteorological Administration, heat wave advisories remain in effect for Seoul, parts of Gyeonggi Province, and much of Chungcheong Province and southern regions. Monday ... [more...]",
+        "fullText": [
+          "[Science] : Hot and humid weather will persist Sunday and Monday, with occasional periods of increased cloud cover. According to the Korea Meteorological Administration, heat wave advisories remain in effect for Seoul, parts of Gyeonggi Province, and much of Chungcheong Province and southern regions.",
+          "Monday ... [more...",
+          "]"
+        ],
+        "words": [
+          "sweltering",
+          "continue",
+          "through"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Culture",
+        "source": "KBS World",
+        "title": "‘Spider-Man: Brand New Day’ Tops 8 Million Admissions in S. Korea",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203757",
+        "summary": "[Culture] : \"Spider-Man: Brand New Day\" has surpassed 8 million cumulative admissions in South Korea. Distributor Sony Pictures said Sunday that the fourth installment in the Spider-Man series drew eight-point-05 million moviegoers as of its 26th day in theaters. The film reached the milestone nine days earlier than ... [more...]",
+        "fullText": [
+          "[Culture] : \"Spider-Man: Brand New Day\" has surpassed 8 million cumulative admissions in South Korea. Distributor Sony Pictures said Sunday that the fourth installment in the Spider-Man series drew eight-point-05 million moviegoers as of its 26th day in theaters.",
+          "The film reached the milestone nine days earlier than ... [more...",
+          "]"
+        ],
+        "words": [
+          "spider-man",
+          "million",
+          "admissions"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-23",
     "label": "Sunday, August 23, 2026",
     "title": "Korea News Brief",
