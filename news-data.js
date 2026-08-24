@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-25",
+    "label": "Tuesday, August 25, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'No Permission to Dance': Venue closure in Busan leads to petition to change laws on live performances",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260825/no-permission-to-dance-venue-closure-in-busan-leads-to-petition-to-change-laws-on-live-performances?utm_source=rss",
+        "summary": "Korea may seem to the outsider like a land of K-pop idols and dancing, but the truth is different for those who live here. Due to restrictions, people in Korea have to be careful about where they dance, because if they bust a move in a cafe, bar, restaurant or live music venue, they could get it shut down. The latest victim of this \"K-Footloose\" regulation is Ovantgarde, a music venue and pub in the southeastern city of Busan. The venue was shut down after municipal authorities visited to respond to an unrelated complaint. Although the complaint turned out to be nothing, the officials observed a band performing in front of an audience, and reported the venue for allowing \"dancing,\" in violation of the rules governing its restaurant license. One of the owners of Ovantgarde disputed the officials' claim that patrons were dancing, calling it an \"interpretation\" and saying instead that audie...",
+        "fullText": [
+          "Korea may seem to the outsider like a land of K-pop idols and dancing, but the truth is different for those who live here. Due to restrictions, people in Korea have to be careful about where they dance, because if they bust a move in a cafe, bar, restaurant or live music venue, they could get it shut down.",
+          "The latest victim of this \"K-Footloose\" regulation is Ovantgarde, a music venue and pub in the southeastern city of Busan. The venue was shut down after municipal authorities visited to respond to an unrelated complaint.",
+          "Although the complaint turned out to be nothing, the officials observed a band performing in front of an audience, and reported the venue for allowing \"dancing,\" in violation of the rules governing its restaurant license. One of the owners of Ovantgarde disputed the officials' claim that patrons were dancing, calling it an \"interpretation\" and saying instead that audie..."
+        ],
+        "words": [
+          "permission",
+          "closure",
+          "petition"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump approval at record low as support for Iran war falls: Reuters/Ipsos",
+        "url": "https://www.koreatimes.co.kr/world/20260825/trump-approval-at-record-low-as-support-for-iran-war-falls-reutersipsos?utm_source=rss",
+        "summary": "WASHINGTON — U.S. public approval of the war with Iran fell to its lowest level since the conflict's early days, helping to hold President Donald Trump's popularity at a record low, according to a Reuters/Ipsos poll that closed on Monday. The four-day poll showed just 31 percent of Americans support U.S. military action against Iran, down from 37 percent in a March Reuters/Ipsos poll and 34 percent earlier this month. The decline was driven by fewer self-identified Republicans backing the conflict. Some 69 percent of Republican respondents support the war, compared with 77 percent in March. The war has been dragging on Trump's public standing this year, and for the second survey in a row just 33 percent of respondents said they approved of the Republican's performance in the White House, the lowest level in polls from Trump's first or second term. Some 83 percent of the country thinks th...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "public approval of the war with Iran fell to its lowest level since the conflict's early days, helping to hold President Donald Trump's popularity at a record low, according to a Reuters/Ipsos poll that closed on Monday. The four-day poll showed just 31 percent of Americans support U.",
+          "S. military action against Iran, down from 37 percent in a March Reuters/Ipsos poll and 34 percent earlier this month.",
+          "The decline was driven by fewer self-identified Republicans backing the conflict. Some 69 percent of Republican respondents support the war, compared with 77 percent in March.",
+          "The war has been dragging on Trump's public standing this year, and for the second survey in a row just 33 percent of respondents said they approved of the Republican's performance in the White House, the lowest level in polls from Trump's first or second term. Some 83 percent of the country thinks th..."
+        ],
+        "words": [
+          "approval",
+          "record",
+          "support"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US Treasury chief vows to cut every 'economic lifeline' of Iran",
+        "url": "https://www.koreatimes.co.kr/world/20260825/us-treasury-chief-vows-to-cut-every-economic-lifeline-of-iran?utm_source=rss",
+        "summary": "WASHINGTON — U.S. Treasury Secretary Scott Bessent on Monday laid out plans for the \"economic asphyxiation\" of Iran, expanding Washington's secondary sanctions threats and warning of dire consequences for countries that decline to join the pressure campaign. Bessent's address comes almost six months into a war on Tehran that has ground to a stalemate, with stalled peace talks and Iran preventing most traffic through the crucial Strait of Hormuz. \"Around the globe, our objective is to sever every economic lifeline that sustains this tyrannical regime until Tehran stands alone,\" Bessent told a press conference. \"We are going to hold everyone accountable, and this is economic asphyxiation of this regime.\" He added that countries not joining U.S. sanctions would \"share in the isolation\" of Iran, and noted that Trump is making phone calls to world leaders with requests to stop their interacti...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "Treasury Secretary Scott Bessent on Monday laid out plans for the \"economic asphyxiation\" of Iran, expanding Washington's secondary sanctions threats and warning of dire consequences for countries that decline to join the pressure campaign. Bessent's address comes almost six months into a war on Tehran that has ground to a stalemate, with stalled peace talks and Iran preventing most traffic through the crucial Strait of Hormuz.",
+          "\"Around the globe, our objective is to sever every economic lifeline that sustains this tyrannical regime until Tehran stands alone,\" Bessent told a press conference. \"We are going to hold everyone accountable, and this is economic asphyxiation of this regime.",
+          "\" He added that countries not joining U. S.",
+          "sanctions would \"share in the isolation\" of Iran, and noted that Trump is making phone calls to world leaders with requests to stop their interacti..."
+        ],
+        "words": [
+          "treasury",
+          "economic",
+          "lifeline"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "California cancels talks with Paramount over Warner Bros deal",
+        "url": "https://www.koreatimes.co.kr/world/20260825/california-cancels-talks-with-paramount-over-warner-bros-deal?utm_source=rss",
+        "summary": "California Attorney General Rob Bonta canceled a meeting with Paramount Skydance representatives scheduled for Monday to begin settlement acquisition of Warner Bros Discovery, his office talks over the state's lawsuit seeking to block Paramount's proposed said. Paramount has pushed for a settlement in the case, as it faces a mountain of fees and costs to keep the deal together if the lawsuit continues to a trial scheduled for March. Bonta and his partner states have so far won key rulings, giving them leverage if settlement talks continue. Bonta accused Paramount of leaking details of a meeting held on Friday and acting in bad faith, a claim Paramount has denied. \"Not only did Paramount leak the alleged substance of settlement discussions, but they misrepresented these discussions, demonstrating a lack of good faith,\" Bonta said, adding his office met with Paramount on Friday. \"As soon a...",
+        "fullText": [
+          "California Attorney General Rob Bonta canceled a meeting with Paramount Skydance representatives scheduled for Monday to begin settlement acquisition of Warner Bros Discovery, his office talks over the state's lawsuit seeking to block Paramount's proposed said. Paramount has pushed for a settlement in the case, as it faces a mountain of fees and costs to keep the deal together if the lawsuit continues to a trial scheduled for March.",
+          "Bonta and his partner states have so far won key rulings, giving them leverage if settlement talks continue. Bonta accused Paramount of leaking details of a meeting held on Friday and acting in bad faith, a claim Paramount has denied.",
+          "\"Not only did Paramount leak the alleged substance of settlement discussions, but they misrepresented these discussions, demonstrating a lack of good faith,\" Bonta said, adding his office met with Paramount on Friday. \"As soon a..."
+        ],
+        "words": [
+          "california",
+          "cancels",
+          "paramount"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says to double tariffs on Canada autos as trade fight heats up",
+        "url": "https://www.koreatimes.co.kr/world/20260825/trump-says-to-double-tariffs-on-canada-autos-as-trade-fight-heats-up?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said Monday that he would double tariffs on Canadian vehicles beginning next year, as the neighboring countries spiral towards an escalating trade war. \"On January First, 2027, Tariffs on all Cars, Trucks, both large and small, Automotive Parts, and Steel, will be increased to 50 percent,\" Trump wrote on his Truth Social platform. The current U.S. tariff impacting Canadian autos stands at 25 percent for non-U.S. content, while imported steel to the United States generally faces a 50-percent duty. U.S. automakers did not immediately respond to queries on the matter. Trump's latest threat comes after the North American neighbors failed Friday to reach a deal to avert new 50-percent U.S. tariffs on select Canadian goods. The duties took effect on Saturday. Canadian Prime Minister Mark Carney has since announced retaliatory tariffs targeting the Unite...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said Monday that he would double tariffs on Canadian vehicles beginning next year, as the neighboring countries spiral towards an escalating trade war. \"On January First, 2027, Tariffs on all Cars, Trucks, both large and small, Automotive Parts, and Steel, will be increased to 50 percent,\" Trump wrote on his Truth Social platform.",
+          "The current U. S.",
+          "tariff impacting Canadian autos stands at 25 percent for non-U. S.",
+          "content, while imported steel to the United States generally faces a 50-percent duty. U.",
+          "S. automakers did not immediately respond to queries on the matter.",
+          "Trump's latest threat comes after the North American neighbors failed Friday to reach a deal to avert new 50-percent U. S.",
+          "tariffs on select Canadian goods. The duties took effect on Saturday.",
+          "Canadian Prime Minister Mark Carney has since announced retaliatory tariffs targeting the Unite..."
+        ],
+        "words": [
+          "double",
+          "tariffs",
+          "canada"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "S. Korea, US diplomats stress 'close' communication on NK, peninsula peace",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260825/s-korea-us-diplomats-stress-close-communication-on-nk-peninsula-peace?utm_source=rss",
+        "summary": "SEOUL/WASHINGTON — The top diplomats of South Korea and the United States have agreed to continue \"close\" communication and cooperation to address North Korea's nuclear issue and promote peace on the Korean Peninsula during a call, Seoul's foreign ministry said Tuesday. Foreign Minister Cho Hyun and U.S. Secretary of State Marco Rubio held phone talks on Monday (Seoul time), as U.S. President Donald Trump recently declined to answer a question about whether his goal in reengaging with North Korean leader Kim Jong-un is denuclearization, spawning concerns that the United States could acknowledge the North as a nuclear-armed state. In a press release on their talks, the ministry did not mention whether the chief diplomats reaffirmed their commitment to North Korea's denuclearization despite the two sides' emphasis on the importance of cooperation on North Korea's nuclear quandary. \"The min...",
+        "fullText": [
+          "SEOUL/WASHINGTON — The top diplomats of South Korea and the United States have agreed to continue \"close\" communication and cooperation to address North Korea's nuclear issue and promote peace on the Korean Peninsula during a call, Seoul's foreign ministry said Tuesday. Foreign Minister Cho Hyun and U.",
+          "S. Secretary of State Marco Rubio held phone talks on Monday (Seoul time), as U.",
+          "S. President Donald Trump recently declined to answer a question about whether his goal in reengaging with North Korean leader Kim Jong-un is denuclearization, spawning concerns that the United States could acknowledge the North as a nuclear-armed state.",
+          "In a press release on their talks, the ministry did not mention whether the chief diplomats reaffirmed their commitment to North Korea's denuclearization despite the two sides' emphasis on the importance of cooperation on North Korea's nuclear quandary. \"The min..."
+        ],
+        "words": [
+          "diplomats",
+          "stress",
+          "communication"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "What are Iran's options to escalate further in face of US economic threats?",
+        "url": "https://www.koreatimes.co.kr/world/20260825/what-are-irans-options-to-escalate-further-in-face-of-us-economic-threats?utm_source=rss",
+        "summary": "U.S. threats to impose \"the toughest sanctions in history\" to force Iran to buckle to its demands after nearly six months of war have raised the prospect of a new round of escalation in the Gulf. How could Iran respond to the economic pressure? Can Iran stop more oil getting out of the Middle East? Mohsen Rezaei, the former Revolutionary Guards chief and secretary of Iran's Supreme National Security Council, has already threatened to shut down oil exports — one of Tehran's main strategic approaches since the war began on February 28. \"If the economic war continues, not a single drop of oil will be exported, neither through the Strait of Hormuz nor from anywhere in the Persian Gulf,\" he said. Iranian attacks and threats to shipping have already stopped most traffic through the Strait of Hormuz, largely shutting down a waterway that carried around a fifth of global energy before the confli...",
+        "fullText": [
+          "U. S.",
+          "threats to impose \"the toughest sanctions in history\" to force Iran to buckle to its demands after nearly six months of war have raised the prospect of a new round of escalation in the Gulf. How could Iran respond to the economic pressure?",
+          "Can Iran stop more oil getting out of the Middle East? Mohsen Rezaei, the former Revolutionary Guards chief and secretary of Iran's Supreme National Security Council, has already threatened to shut down oil exports — one of Tehran's main strategic approaches since the war began on February 28.",
+          "\"If the economic war continues, not a single drop of oil will be exported, neither through the Strait of Hormuz nor from anywhere in the Persian Gulf,\" he said. Iranian attacks and threats to shipping have already stopped most traffic through the Strait of Hormuz, largely shutting down a waterway that carried around a fifth of global energy before the confli..."
+        ],
+        "words": [
+          "options",
+          "escalate",
+          "further"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "label": "Monday, August 24, 2026",
     "title": "Korea News Brief",
