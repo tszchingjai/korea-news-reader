@@ -1,5 +1,155 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-26",
+    "label": "Wednesday, August 26, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Inter-Korea, Economy, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Iran, Oman say discussed temporary Hormuz corridor, mine-clearing",
+        "url": "https://www.koreatimes.co.kr/world/20260826/iran-oman-say-discussed-temporary-hormuz-corridor-mine-clearing?utm_source=rss",
+        "summary": "MUSCAT, Oman — Iran and Oman's foreign ministers on Tuesday said they discussed a framework for a temporary transit corridor through the Strait of Hormuz and a mine-clearing project in the waterway, which they both border. The strait became a flashpoint early in the Middle East war, and the two countries have recently sought to hammer out a plan to regulate transit through it, as laid out in a June U.S.-Iran memorandum of understanding. Omani Foreign Minister Badr Albusaidi and his Iranian counterpart Abbas Araghchi \"discussed a phased framework that could provide a practical and implementable basis for moving forward\" during talks in Tehran, a joint statement shared by Oman said. The framework \"includes the establishment of a joint temporary navigational corridor through the Strait of Hormuz and an agreement to implement a joint project to clear the Strait of mines,\" the statement added...",
+        "fullText": [
+          "MUSCAT, Oman — Iran and Oman's foreign ministers on Tuesday said they discussed a framework for a temporary transit corridor through the Strait of Hormuz and a mine-clearing project in the waterway, which they both border. The strait became a flashpoint early in the Middle East war, and the two countries have recently sought to hammer out a plan to regulate transit through it, as laid out in a June U.",
+          "S. -Iran memorandum of understanding.",
+          "Omani Foreign Minister Badr Albusaidi and his Iranian counterpart Abbas Araghchi \"discussed a phased framework that could provide a practical and implementable basis for moving forward\" during talks in Tehran, a joint statement shared by Oman said. The framework \"includes the establishment of a joint temporary navigational corridor through the Strait of Hormuz and an agreement to implement a joint project to clear the Strait of mines,\" the statement added..."
+        ],
+        "words": [
+          "discussed",
+          "temporary",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, has died at 80",
+        "url": "https://www.koreatimes.co.kr/world/20260826/dolly-parton-music-star-actor-and-beloved-figure-who-spanned-generations-has-died-at-80?utm_source=rss",
+        "summary": "NASHVILLE, Tenn. — Dolly Parton, the country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim, has died. She was 80 years old. Known for her curvy physique, massive blonde wigs and skin-tight outfits that served her self-deprecating wit, she was among the most beloved personalities in music and beyond — the rare celebrity whose appeal transcended generations, geography and politics. She wrote hundreds of songs, including classics like “Jolene,” “Coat of Many Colors” and “I Will Always Love You,” that totaled more than 100 million worldwide sales and more than 1 billion online streams. Parton, who plucked bejeweled banjos, guitar and dulcimers with her long fingernails during performances, was a generous philanthropist and successful businesswoman whose pro...",
+        "fullText": [
+          "NASHVILLE, Tenn. — Dolly Parton, the country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim, has died.",
+          "She was 80 years old. Known for her curvy physique, massive blonde wigs and skin-tight outfits that served her self-deprecating wit, she was among the most beloved personalities in music and beyond — the rare celebrity whose appeal transcended generations, geography and politics.",
+          "She wrote hundreds of songs, including classics like “Jolene,” “Coat of Many Colors” and “I Will Always Love You,” that totaled more than 100 million worldwide sales and more than 1 billion online streams. Parton, who plucked bejeweled banjos, guitar and dulcimers with her long fingernails during performances, was a generous philanthropist and successful businesswoman whose pro..."
+        ],
+        "words": [
+          "parton",
+          "beloved",
+          "figure"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Trump reiterates remarks on S. Korea-US exercise cuts, 'very good' ties with NK's Kim",
+        "url": "https://www.koreatimes.co.kr/world/20260826/trump-reiterates-remarks-on-s-korea-us-exercise-cuts-very-good-ties-with-nks-kim?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump on Tuesday reiterated his earlier remarks about a directive to scale back South Korea-U.S. military exercises and his \"very good\" relationship with North Korean leader Kim Jong-un, as he seeks to reengage with Kim this year. Trump posted the message on social media, which was identical to his Aug. 16 post, except for a change in tense, amid speculation that he could pursue a meeting with Kim during his next trip to Asia, likely for the Asia-Pacific Economic Cooperation summit in Shenzhen, China, in November. Earlier this month, he instructed the Pentagon to \"substantially\" scale back the allied military exercises. Subsequently, Seoul and Washington shortened the duration of the annual combined Ulchi Freedom Shield exercise to five days from 11 days, with other field training events reduced or canceled. \"Based on my very good relationship with Kim...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump on Tuesday reiterated his earlier remarks about a directive to scale back South Korea-U. S.",
+          "military exercises and his \"very good\" relationship with North Korean leader Kim Jong-un, as he seeks to reengage with Kim this year. Trump posted the message on social media, which was identical to his Aug.",
+          "16 post, except for a change in tense, amid speculation that he could pursue a meeting with Kim during his next trip to Asia, likely for the Asia-Pacific Economic Cooperation summit in Shenzhen, China, in November. Earlier this month, he instructed the Pentagon to \"substantially\" scale back the allied military exercises.",
+          "Subsequently, Seoul and Washington shortened the duration of the annual combined Ulchi Freedom Shield exercise to five days from 11 days, with other field training events reduced or canceled. \"Based on my very good relationship with Kim..."
+        ],
+        "words": [
+          "reiterates",
+          "remarks",
+          "korea-us"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Could China's cabbage scandal hurt kimchi's booming popularity in US?",
+        "url": "https://www.koreatimes.co.kr/world/20260826/could-chinas-cabbage-scandal-hurt-kimchis-booming-popularity-in-us?utm_source=rss",
+        "summary": "SEATTLE — A food safety scandal involving formaldehyde-treated napa cabbage in China is raising a new question for kimchi’s fast-growing presence in the United States: Could the controversy hurt American consumers’ appetite for the Korean staple? Chinese authorities recently confirmed that napa cabbages were illegally soaked in a solution containing formaldehyde, a chemical classified as a human carcinogen, to keep them fresh during transportation, prompting an investigation and efforts to trace where the affected produce was distributed. The case quickly raised concerns about kimchi, whose main ingredient is typically napa cabbage. South Korea has strengthened inspections of cabbage imported from China and is seeking to determine whether produce linked to the case entered the country. There is currently no evidence that affected cabbage or kimchi has reached the U.S. Still, the controve...",
+        "fullText": [
+          "SEATTLE — A food safety scandal involving formaldehyde-treated napa cabbage in China is raising a new question for kimchi’s fast-growing presence in the United States: Could the controversy hurt American consumers’ appetite for the Korean staple? Chinese authorities recently confirmed that napa cabbages were illegally soaked in a solution containing formaldehyde, a chemical classified as a human carcinogen, to keep them fresh during transportation, prompting an investigation and efforts to trace where the affected produce was distributed.",
+          "The case quickly raised concerns about kimchi, whose main ingredient is typically napa cabbage. South Korea has strengthened inspections of cabbage imported from China and is seeking to determine whether produce linked to the case entered the country.",
+          "There is currently no evidence that affected cabbage or kimchi has reached the U. S.",
+          "Still, the controve..."
+        ],
+        "words": [
+          "cabbage",
+          "scandal",
+          "kimchi"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "ICE arrests jumped to nearly 50,000 in July, highest monthly total of Trump's second term",
+        "url": "https://www.koreatimes.co.kr/world/20260826/ice-arrests-jumped-to-nearly-50000-in-july-highest-monthly-total-of-trumps-second-term?utm_source=rss",
+        "summary": "WASHINGTON — U.S. Immigration and Customs Enforcement arrested nearly 50,000 people during July , the highest single monthly arrest total during the second Trump administration, according to new figures. The spike in immigration arrests shows that the administration has continued to advance its mass deportations agenda despite a shift in approach earlier this year from high-profile operations in large American cities that sparked a public outcry to arrests that have garnered less attention but have nonetheless been disruptive. The July arrest tally of 49,571 marks a 15 percent jump from 43,021 arrests a month earlier and a 70 percent increase from 29,241 in February, in the aftermath of the Trump administration’s enforcement surge in Minnesota, according to government data that was provided by ICE to the University of California, Berkeley’s Deportation Data Project and analyzed by The As...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "Immigration and Customs Enforcement arrested nearly 50,000 people during July , the highest single monthly arrest total during the second Trump administration, according to new figures. The spike in immigration arrests shows that the administration has continued to advance its mass deportations agenda despite a shift in approach earlier this year from high-profile operations in large American cities that sparked a public outcry to arrests that have garnered less attention but have nonetheless been disruptive.",
+          "The July arrest tally of 49,571 marks a 15 percent jump from 43,021 arrests a month earlier and a 70 percent increase from 29,241 in February, in the aftermath of the Trump administration’s enforcement surge in Minnesota, according to government data that was provided by ICE to the University of California, Berkeley’s Deportation Data Project and analyzed by The As..."
+        ],
+        "words": [
+          "arrests",
+          "jumped",
+          "nearly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump threatens to rename Lake Ontario as 'Lake America'",
+        "url": "https://www.koreatimes.co.kr/world/20260826/trump-threatens-to-rename-lake-ontario-as-lake-america?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said Tuesday he was considering renaming Lake Ontario as \"Lake America\" as his trade war with Canada escalated. The threat — which Trump backed up with a map featuring the new name — mirrored his move to rename the Gulf of Mexico as the Gulf of America last year. Trump stepped up his rhetoric as Canada announced a volley of tit-for-tat tariffs on U.S. goods after trade talks between the historically close allies broke down on Friday. \"The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don't expect to be doing much business with Ontario any longer,\" Trump said on his Truth Social network. Lake Ontario is one of the five Great Lakes located on the border between Canada and the United States. It shares a name with the Canadian province of Ontario, which borders the lake along with the U.S...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said Tuesday he was considering renaming Lake Ontario as \"Lake America\" as his trade war with Canada escalated. The threat — which Trump backed up with a map featuring the new name — mirrored his move to rename the Gulf of Mexico as the Gulf of America last year.",
+          "Trump stepped up his rhetoric as Canada announced a volley of tit-for-tat tariffs on U. S.",
+          "goods after trade talks between the historically close allies broke down on Friday. \"The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don't expect to be doing much business with Ontario any longer,\" Trump said on his Truth Social network.",
+          "Lake Ontario is one of the five Great Lakes located on the border between Canada and the United States. It shares a name with the Canadian province of Ontario, which borders the lake along with the U.",
+          "S..."
+        ],
+        "words": [
+          "threatens",
+          "rename",
+          "ontario"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Oil falls over 4% as investors shrug off US sanctions on Iran",
+        "url": "https://www.koreatimes.co.kr/world/20260826/oil-falls-over-4-as-investors-shrug-off-us-sanctions-on-iran?utm_source=rss",
+        "summary": "NEW YORK — Oil prices fell about 4 percent to a one-week low on Tuesday as traders shrugged off the latest U.S. sanctions campaign against Iran, viewing economic pressure as posing less risk to oil supplies than a military escalation. Brent crude futures were down $3.83, or 4.2 percent, to $88.34 a barrel by 11:44 a.m. EDT, while U.S. West Texas Intermediate crude futures fell $3.34, or 3.9 percent, to $81.67. Both benchmarks hit their lowest levels since August 17. The shift from military conflict to economic pressure in the U.S.-Israeli war with Iran has reduced some of the oil market's anxiety, said Saxo Bank head of commodity strategy Ole Hansen, adding the U.S. sanctions announcement was not as forceful as some traders had expected. Treasury Secretary Scott Bessent unveiled the measures on Monday, almost six months into a conflict the U.S. has struggled to resolve. But he declined t...",
+        "fullText": [
+          "NEW YORK — Oil prices fell about 4 percent to a one-week low on Tuesday as traders shrugged off the latest U. S.",
+          "sanctions campaign against Iran, viewing economic pressure as posing less risk to oil supplies than a military escalation. Brent crude futures were down $3.",
+          "83, or 4. 2 percent, to $88.",
+          "34 a barrel by 11:44 a. m.",
+          "EDT, while U. S.",
+          "West Texas Intermediate crude futures fell $3. 34, or 3.",
+          "9 percent, to $81. 67.",
+          "Both benchmarks hit their lowest levels since August 17. The shift from military conflict to economic pressure in the U.",
+          "S. -Israeli war with Iran has reduced some of the oil market's anxiety, said Saxo Bank head of commodity strategy Ole Hansen, adding the U.",
+          "S. sanctions announcement was not as forceful as some traders had expected.",
+          "Treasury Secretary Scott Bessent unveiled the measures on Monday, almost six months into a conflict the U. S.",
+          "has struggled to resolve. But he declined t..."
+        ],
+        "words": [
+          "investors",
+          "sanctions",
+          "prices"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-25",
     "label": "Tuesday, August 25, 2026",
     "title": "Korea News Brief",
