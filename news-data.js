@@ -1,5 +1,151 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-27",
+    "label": "Thursday, August 27, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Inter-Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Tomorrow X Together to launch new world tour in November",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260827/tomorrow-x-together-to-launch-new-world-tour-in-november?utm_source=rss",
+        "summary": "K-pop boy group Tomorrow X Together will embark on a new world tour, beginning with three concerts in Seoul from Nov. 13-15, its agency BigHit Music said Thursday. The \"Steal the Wind\" tour will then continue in other Asian countries, North America and Europe through June next year, according to the agency. The quintet's previous world tour, \"Act: Tomorrow,\" drew some 564,000 fans across 29 shows in 17 cities around the world.",
+        "fullText": [
+          "K-pop boy group Tomorrow X Together will embark on a new world tour, beginning with three concerts in Seoul from Nov. 13-15, its agency BigHit Music said Thursday.",
+          "The \"Steal the Wind\" tour will then continue in other Asian countries, North America and Europe through June next year, according to the agency. The quintet's previous world tour, \"Act: Tomorrow,\" drew some 564,000 fans across 29 shows in 17 cities around the world."
+        ],
+        "words": [
+          "tomorrow",
+          "together",
+          "launch"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open sharply higher on robust earnings from Nvidia",
+        "url": "https://www.koreatimes.co.kr/economy/20260827/seoul-stocks-open-sharply-higher-on-robust-earnings-from-nvidia?utm_source=rss",
+        "summary": "Seoul stocks opened sharply higher Thursday as Nvidia's market estimate-beating strong earnings helped ease woes over a slowdown in demand for semiconductors. The benchmark Korea Composite Stock Price Index (KOSPI) rose 159.24 points, or 2.34 percent, to 6,967.45. Overnight, major stock indexes on Wall Street closed lower, with the S&P 500 and the tech-heavy Nasdaq inching down 0.02 percent and 0.08 percent, respectively. Nvidia's second-quarter earnings, revealed after the closing bell, eased fears of an artificial intelligence (AI) bubble, as the company's sales more than doubled from a year earlier, topping Wall Street expectations. The company said it expects its fiscal 2028 income to grow by 70 percent, also topping analyst expectations. Investors are also keeping an eye on the Bank of Korea's rate decision to be made later in the day. Most market heavyweights were trading higher. T...",
+        "fullText": [
+          "Seoul stocks opened sharply higher Thursday as Nvidia's market estimate-beating strong earnings helped ease woes over a slowdown in demand for semiconductors. The benchmark Korea Composite Stock Price Index (KOSPI) rose 159.",
+          "24 points, or 2. 34 percent, to 6,967.",
+          "45. Overnight, major stock indexes on Wall Street closed lower, with the S&P 500 and the tech-heavy Nasdaq inching down 0.",
+          "02 percent and 0. 08 percent, respectively.",
+          "Nvidia's second-quarter earnings, revealed after the closing bell, eased fears of an artificial intelligence (AI) bubble, as the company's sales more than doubled from a year earlier, topping Wall Street expectations. The company said it expects its fiscal 2028 income to grow by 70 percent, also topping analyst expectations.",
+          "Investors are also keeping an eye on the Bank of Korea's rate decision to be made later in the day. Most market heavyweights were trading higher.",
+          "T..."
+        ],
+        "words": [
+          "stocks",
+          "sharply",
+          "higher"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "The contradictory messaging in the pursuit of 'peaceful coexistence'",
+        "url": "https://www.koreatimes.co.kr/opinion/20260827/the-contradictory-messaging-in-the-pursuit-of-peaceful-coexistence?utm_source=rss",
+        "summary": "On the anniversary of Korea’s Liberation Day, President Lee Jae Myung reaffirmed his government’s desire for peaceful coexistence with North Korea. For the past year, Lee’s government has endeavored to restore diplomatic engagement with Pyongyang through reassurance of its commitment to ending mutual hostility, disavowing unification by absorption, and mutual respect for each other’s political systems. Though likely not coordinated with Seoul, U.S. President Donald Trump also drew media attention this month by expressing similar sentiment in favor of peaceful engagement with Kim Jong-un’s regime. Reducing the scale of the recent Korea-U.S. military exercise in August, Trump repeated his claim that he has a good relationship with the North Korean leader and said he planned to meet with Kim later this year. Much of the news speculation and analysis since then has been on whether Pyongyang...",
+        "fullText": [
+          "On the anniversary of Korea’s Liberation Day, President Lee Jae Myung reaffirmed his government’s desire for peaceful coexistence with North Korea. For the past year, Lee’s government has endeavored to restore diplomatic engagement with Pyongyang through reassurance of its commitment to ending mutual hostility, disavowing unification by absorption, and mutual respect for each other’s political systems.",
+          "Though likely not coordinated with Seoul, U. S.",
+          "President Donald Trump also drew media attention this month by expressing similar sentiment in favor of peaceful engagement with Kim Jong-un’s regime. Reducing the scale of the recent Korea-U.",
+          "S. military exercise in August, Trump repeated his claim that he has a good relationship with the North Korean leader and said he planned to meet with Kim later this year.",
+          "Much of the news speculation and analysis since then has been on whether Pyongyang..."
+        ],
+        "words": [
+          "contradictory",
+          "messaging",
+          "pursuit"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean coach leads Vietnam to top ASEAN football title",
+        "url": "https://www.koreatimes.co.kr/sports/20260827/korean-coach-leads-vietnam-to-top-asean-football-title?utm_source=rss",
+        "summary": "Korean head coach Kim Sang-sik has led Vietnam to their second straight title at the top Southeast Asian men's football tournament. Vietnam defeated Thailand 4-2 on aggregate in the two-legged final of the ASEAN Hyundai Cup that wrapped up late Wednesday in Hanoi. Vietnam won the opening leg 2-0 in Bangkok on Saturday, before the two countries played to a 2-2 draw in the Vietnamese capital Wednesday. This was the 16th edition of the biennial tournament, and the first with the Korean automaker Hyundai Motor as the title sponsor. The title was Vietnam's fourth overall, and their third under a Korean head coach — with Park Hang-seo in charge in 2018 and with Kim in 2024 and 2026. Kim, who also coaches Vietnam's under-23 national team, led the country to the ASEAN U-23 Championship title and the Southeast Asian Games gold medal in 2025. Vietnam's senior team has now gone undefeated in a coun...",
+        "fullText": [
+          "Korean head coach Kim Sang-sik has led Vietnam to their second straight title at the top Southeast Asian men's football tournament. Vietnam defeated Thailand 4-2 on aggregate in the two-legged final of the ASEAN Hyundai Cup that wrapped up late Wednesday in Hanoi.",
+          "Vietnam won the opening leg 2-0 in Bangkok on Saturday, before the two countries played to a 2-2 draw in the Vietnamese capital Wednesday. This was the 16th edition of the biennial tournament, and the first with the Korean automaker Hyundai Motor as the title sponsor.",
+          "The title was Vietnam's fourth overall, and their third under a Korean head coach — with Park Hang-seo in charge in 2018 and with Kim in 2024 and 2026. Kim, who also coaches Vietnam's under-23 national team, led the country to the ASEAN U-23 Championship title and the Southeast Asian Games gold medal in 2025.",
+          "Vietnam's senior team has now gone undefeated in a coun..."
+        ],
+        "words": [
+          "vietnam",
+          "football",
+          "sang-sik"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Less testing was a choice. So is the future",
+        "url": "https://www.koreatimes.co.kr/opinion/20260827/less-testing-was-a-choice-so-is-the-future?utm_source=rss",
+        "summary": "The risk of nuclear war does not rest on a single decision. It accumulates, test by test, each explosion edging the world closer to potential catastrophe. That escalation carries a cost of its own, too: Every nuclear weapon test leaves a scar on land and on water, and some who lived near test sites have carried that cost for generations, long after the testing itself ended. The International Day against Nuclear Tests (IDANT) exists because those dangers remain part of our shared history, and because governments still face the same choice every year. There was a time when the ground shook often. For four decades, the test site at Semipalatinsk was one of the places that felt it most, until its closure 35 years ago silenced a stretch of the Kazakh steppe. That decision reflected a broader shift away from nuclear testing. In the years before the Comprehensive Nuclear-Test-Ban Treaty (CTBT),...",
+        "fullText": [
+          "The risk of nuclear war does not rest on a single decision. It accumulates, test by test, each explosion edging the world closer to potential catastrophe.",
+          "That escalation carries a cost of its own, too: Every nuclear weapon test leaves a scar on land and on water, and some who lived near test sites have carried that cost for generations, long after the testing itself ended. The International Day against Nuclear Tests (IDANT) exists because those dangers remain part of our shared history, and because governments still face the same choice every year.",
+          "There was a time when the ground shook often. For four decades, the test site at Semipalatinsk was one of the places that felt it most, until its closure 35 years ago silenced a stretch of the Kazakh steppe.",
+          "That decision reflected a broader shift away from nuclear testing. In the years before the Comprehensive Nuclear-Test-Ban Treaty (CTBT),..."
+        ],
+        "words": [
+          "testing",
+          "choice",
+          "future"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "After lengthy struggle, veteran swimmer An Se-hyeon falls back in love with her sport",
+        "url": "https://www.koreatimes.co.kr/sports/20260827/after-lengthy-struggle-veteran-swimmer-an-se-hyeon-falls-back-in-love-with-her-sport?utm_source=rss",
+        "summary": "For the past eight or so years, Korean swimmer An Se-hyeon kept falling in and out of love with her sport. An was at the peak of her powers around 2017 and 2018. At the 2017 world championships in Budapest, she finished fourth in the women's 200-meter butterfly, the highest placement by a Korean female swimmer at the competition. Her time of 2:06.67 still stands as the national record. Also at the 2017 worlds, An established the national record with 57.07 seconds in the 100m butterfly and it has not been touched since. In 2018, An picked up two bronze medals at the Asian Games — in the 100m butterfly and the 4x100m mixed medley relay. She was still in her early 20s then, seemingly just entering her prime. Instead, she gradually faded into obscurity, as the rest of the Korean swimming team began picking up medals at the Olympics, Asian Games and world championships. An became a forgotten...",
+        "fullText": [
+          "For the past eight or so years, Korean swimmer An Se-hyeon kept falling in and out of love with her sport. An was at the peak of her powers around 2017 and 2018.",
+          "At the 2017 world championships in Budapest, she finished fourth in the women's 200-meter butterfly, the highest placement by a Korean female swimmer at the competition. Her time of 2:06.",
+          "67 still stands as the national record. Also at the 2017 worlds, An established the national record with 57.",
+          "07 seconds in the 100m butterfly and it has not been touched since. In 2018, An picked up two bronze medals at the Asian Games — in the 100m butterfly and the 4x100m mixed medley relay.",
+          "She was still in her early 20s then, seemingly just entering her prime. Instead, she gradually faded into obscurity, as the rest of the Korean swimming team began picking up medals at the Olympics, Asian Games and world championships.",
+          "An became a forgotten..."
+        ],
+        "words": [
+          "lengthy",
+          "struggle",
+          "veteran"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "9 Koreans remain missing in Nepal floods; gov't team to be dispatched",
+        "url": "https://www.koreatimes.co.kr/world/20260827/9-koreans-remain-missing-in-nepal-floods-govt-team-to-be-dispatched?utm_source=rss",
+        "summary": "Nine Koreans remain unaccounted for following massive flooding in Nepal, with the government set to dispatch a joint rapid response team to the scene Thursday to support search and rescue efforts, Seoul's foreign ministry said. The nine missing Koreans are six employees of plant builder Doosan Enerbility Co. and three of Korea South-East Power Co., a state-run power generation company. They were working on a hydropower plant in Nepal's Rasuwa district when the flooding occurred Wednesday, according to the ministry. Separately, 10 other Koreans affiliated with Doosan who had been stranded in the area were confirmed safe but were still awaiting rescue, the ministry said. They were among about 200 foreign employees who had evacuated the area while working on the construction project. The government team, comprising officials from the foreign ministry, police and fire authorities, is schedul...",
+        "fullText": [
+          "Nine Koreans remain unaccounted for following massive flooding in Nepal, with the government set to dispatch a joint rapid response team to the scene Thursday to support search and rescue efforts, Seoul's foreign ministry said. The nine missing Koreans are six employees of plant builder Doosan Enerbility Co.",
+          "and three of Korea South-East Power Co. , a state-run power generation company.",
+          "They were working on a hydropower plant in Nepal's Rasuwa district when the flooding occurred Wednesday, according to the ministry. Separately, 10 other Koreans affiliated with Doosan who had been stranded in the area were confirmed safe but were still awaiting rescue, the ministry said.",
+          "They were among about 200 foreign employees who had evacuated the area while working on the construction project. The government team, comprising officials from the foreign ministry, police and fire authorities, is schedul..."
+        ],
+        "words": [
+          "koreans",
+          "remain",
+          "missing"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-26",
     "label": "Wednesday, August 26, 2026",
     "title": "Korea News Brief",
