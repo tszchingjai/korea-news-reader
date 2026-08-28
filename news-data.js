@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-28",
+    "label": "Friday, August 28, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "3 killed in paint ingredient factory fire in Cheonan",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260828/3-killed-in-paint-ingredient-factory-fire-in-cheonan?utm_source=rss",
+        "summary": "CHEONAN — A fire broke out at a paint ingredient factory in the city of Cheonan on Friday, leaving three people dead, officials said. Firefighters discovered the bodies of the victims at the site in Cheonan, some 80 kilometers south of Seoul, after the blaze broke out at 11:43 a.m., according to the Cheonan firefighting headquarters. Interior Minister Yun Ho-jung instructed officials to mobilize all available resources and personnel for rescue and firefighting efforts, according to his office.",
+        "fullText": [
+          "CHEONAN — A fire broke out at a paint ingredient factory in the city of Cheonan on Friday, leaving three people dead, officials said. Firefighters discovered the bodies of the victims at the site in Cheonan, some 80 kilometers south of Seoul, after the blaze broke out at 11:43 a.",
+          "m. , according to the Cheonan firefighting headquarters.",
+          "Interior Minister Yun Ho-jung instructed officials to mobilize all available resources and personnel for rescue and firefighting efforts, according to his office."
+        ],
+        "words": [
+          "killed",
+          "ingredient",
+          "factory"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's Protestant church offer condolences to Nepal floods victims",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260828/koreas-protestant-church-offer-condolences-to-nepal-floods-victims?utm_source=rss",
+        "summary": "Korea's Protestant churches on Friday offered condolences to the victims of catastrophic flash floods in Nepal. \"We deeply mourn those who have lost their lives and extend our heartfelt sympathies to those who have lost their family members and homes,\" the United Christian Churches of Korea, an organization representing Protestant churches in the country, said in a statement. The organization said it has consulted missionaries in nearby areas and will work with them, as well as the local Korean community, to support restoration measures. The National Council of Churches in Korea, another umbrella organization of Protestant churches, also issued a statement offering condolences to the victims and expressing concerns over climate warming. The country's Catholic and Buddhist communities have also expressed condolences for victims and pledged to take part in relief efforts.",
+        "fullText": [
+          "Korea's Protestant churches on Friday offered condolences to the victims of catastrophic flash floods in Nepal. \"We deeply mourn those who have lost their lives and extend our heartfelt sympathies to those who have lost their family members and homes,\" the United Christian Churches of Korea, an organization representing Protestant churches in the country, said in a statement.",
+          "The organization said it has consulted missionaries in nearby areas and will work with them, as well as the local Korean community, to support restoration measures. The National Council of Churches in Korea, another umbrella organization of Protestant churches, also issued a statement offering condolences to the victims and expressing concerns over climate warming.",
+          "The country's Catholic and Buddhist communities have also expressed condolences for victims and pledged to take part in relief efforts."
+        ],
+        "words": [
+          "protestant",
+          "church",
+          "condolences"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul expands tick surveillance to prevent infection surge during autumn",
+        "url": "https://www.koreatimes.co.kr/southkorea/health/20260828/seoul-expands-tick-surveillance-to-prevent-infection-surge-during-autumn?utm_source=rss",
+        "summary": "Seoul is stepping up surveillance of disease-carrying ticks in parks and along walking trails as autumn approaches, following Korea's first Severe Fever with Thrombocytopenia Syndrome (SFTS) death of the year, reported on Jeju Island on Aug. 5. From April through October, the Seoul Research Institute of Public Health and Environment is conducting intensive monitoring across high-risk green spaces. Field researchers are targeting Han River parks, ecological reserves, popular hiking paths, barefoot walking zones and dog parks where dense vegetation and human activity intersect. The institute has collected approximately 480 ticks through August, with laboratory tests confirming zero cases of the SFTS virus among the gathered specimens so far. First identified in East Asia, SFTS is a viral infection transmitted through the bite of an infected hard tick, primarily the Asian bush tick (Haemaph...",
+        "fullText": [
+          "Seoul is stepping up surveillance of disease-carrying ticks in parks and along walking trails as autumn approaches, following Korea's first Severe Fever with Thrombocytopenia Syndrome (SFTS) death of the year, reported on Jeju Island on Aug. 5.",
+          "From April through October, the Seoul Research Institute of Public Health and Environment is conducting intensive monitoring across high-risk green spaces. Field researchers are targeting Han River parks, ecological reserves, popular hiking paths, barefoot walking zones and dog parks where dense vegetation and human activity intersect.",
+          "The institute has collected approximately 480 ticks through August, with laboratory tests confirming zero cases of the SFTS virus among the gathered specimens so far. First identified in East Asia, SFTS is a viral infection transmitted through the bite of an infected hard tick, primarily the Asian bush tick (Haemaph..."
+        ],
+        "words": [
+          "expands",
+          "surveillance",
+          "prevent"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Special counsel seeks 5-year sentence for ex-PM Han over dereliction of duty",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260828/special-counsel-seeks-5-year-sentence-for-ex-pm-han-over-dereliction-of-duty?utm_source=rss",
+        "summary": "A special counsel team on Friday sought a five-year jail term for former Prime Minister Han Duck-soo for failing to fulfill his constitutional duty by refusing to appoint Constitutional Court justices. Special counsel Cho Eun-suk's team made the request during the final hearing of Han's trial at the Seoul Central District Court on charges including dereliction of duty. The team claimed Han violated constitutional order by refusing to appoint the justices, without sufficient legal grounds. Han is accused of failing to appoint candidates for justices nominated by the National Assembly while serving as the acting president in the aftermath of the martial law imposition by ousted former President Yoon Suk Yeol in late 2024. The former prime minister was initially sentenced to a 23-year prison term for playing a key role in an insurrection, which was later reduced by an appellate court to a 1...",
+        "fullText": [
+          "A special counsel team on Friday sought a five-year jail term for former Prime Minister Han Duck-soo for failing to fulfill his constitutional duty by refusing to appoint Constitutional Court justices. Special counsel Cho Eun-suk's team made the request during the final hearing of Han's trial at the Seoul Central District Court on charges including dereliction of duty.",
+          "The team claimed Han violated constitutional order by refusing to appoint the justices, without sufficient legal grounds. Han is accused of failing to appoint candidates for justices nominated by the National Assembly while serving as the acting president in the aftermath of the martial law imposition by ousted former President Yoon Suk Yeol in late 2024.",
+          "The former prime minister was initially sentenced to a 23-year prison term for playing a key role in an insurrection, which was later reduced by an appellate court to a 1..."
+        ],
+        "words": [
+          "special",
+          "counsel",
+          "sentence"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Samsung helps flood-hit communities in Korea",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260828/samsung-helps-flood-hit-communities-in-korea?utm_source=rss",
+        "summary": "Samsung will donate 3 billion won ($2.2 million) to help residents and communities in parts of North and South Gyeongsang provinces recover from damage caused by torrential rainfall this summer, the company said Friday. Nine Samsung affiliates, including Samsung Electronics, Samsung C&T and Samsung Life Insurance, are participating in the effort. Samsung Heavy Industries, which also sustained some damage from the flooding, is also taking part in the relief effort, the conglomerate said. The donation will support recovery efforts in Geoje and Tongyeong in South Gyeongsang Province and Andong and Uiseong in North Gyeongsang Province, among other affected areas. Samsung will also provide 1,000 emergency relief kits and 300 disaster relief shelters through the Korean Red Cross. The kits contain basic necessities including blankets, clothing, towels and toiletries, while the shelters provide...",
+        "fullText": [
+          "Samsung will donate 3 billion won ($2. 2 million) to help residents and communities in parts of North and South Gyeongsang provinces recover from damage caused by torrential rainfall this summer, the company said Friday.",
+          "Nine Samsung affiliates, including Samsung Electronics, Samsung C&T and Samsung Life Insurance, are participating in the effort. Samsung Heavy Industries, which also sustained some damage from the flooding, is also taking part in the relief effort, the conglomerate said.",
+          "The donation will support recovery efforts in Geoje and Tongyeong in South Gyeongsang Province and Andong and Uiseong in North Gyeongsang Province, among other affected areas. Samsung will also provide 1,000 emergency relief kits and 300 disaster relief shelters through the Korean Red Cross.",
+          "The kits contain basic necessities including blankets, clothing, towels and toiletries, while the shelters provide..."
+        ],
+        "words": [
+          "samsung",
+          "flood-hit",
+          "communities"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Nongshim brings Shin Ramyun to world's biggest gaming expo",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260828/nongshim-brings-shin-ramyun-to-worlds-biggest-gaming-expo?utm_source=rss",
+        "summary": "Nongshim is betting that a bowl of spicy noodles can speak the language of gamers as the Korean food company brings Shin Ramyun to Gamescom 2026 in Cologne, Germany, this week. The company is participating in the world's largest video game event, which runs through Sunday, with an immersive booth in Hall 8 built around a Shin Ramyun factory. Visitors can become virtual factory employees and take part in four games, including “Pumping Game” and “Topping Ball,” earning points that can be exchanged for Shin Ramyun merchandise and “KPop Demon Hunters” collaboration goods. Nongshim is also the sole sponsor of Gamescom beach this year, transforming the outdoor rest area under the theme “TASTE SHIN.” The space features a Shin Ramyun Toomba tasting area, a photo zone and a lounge where visitors can sample the product and take a break from the exhibition. Nongshim said it is using the event to br...",
+        "fullText": [
+          "Nongshim is betting that a bowl of spicy noodles can speak the language of gamers as the Korean food company brings Shin Ramyun to Gamescom 2026 in Cologne, Germany, this week. The company is participating in the world's largest video game event, which runs through Sunday, with an immersive booth in Hall 8 built around a Shin Ramyun factory.",
+          "Visitors can become virtual factory employees and take part in four games, including “Pumping Game” and “Topping Ball,” earning points that can be exchanged for Shin Ramyun merchandise and “KPop Demon Hunters” collaboration goods. Nongshim is also the sole sponsor of Gamescom beach this year, transforming the outdoor rest area under the theme “TASTE SHIN.",
+          "” The space features a Shin Ramyun Toomba tasting area, a photo zone and a lounge where visitors can sample the product and take a break from the exhibition. Nongshim said it is using the event to br..."
+        ],
+        "words": [
+          "nongshim",
+          "brings",
+          "ramyun"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Booker Prize winner Paul Lynch, author Danielle McLaughlin to visit Seoul in September",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20260828/booker-prize-winner-paul-lynch-author-danielle-mclaughlin-to-visit-seoul-in-september?utm_source=rss",
+        "summary": "The Embassy of Ireland in Seoul will host Booker Prize-winning novelist Paul Lynch and short-story writer Danielle McLaughlin in September, marking Lynch's first visit to Korea, the embassy said. Lynch, author of \"Prophet Song,\" which won the 2023 Booker Prize — Britain's leading literary award for English-language fiction — will hold a public conversation with readers on Sept. 11 at 7 p.m. at Daesan Hall in Seoul's Gwanghwamun area. The talk, titled \"Imagination That Awakens Reality,\" will explore how literature reflects real-world events and how imagination can offer new ways of understanding the present. \"Prophet Song\" follows an ordinary family in a fictional Ireland gripped by totalitarian rule, using their experience to examine the spread of authoritarianism, loss of freedom, displacement and human dignity. The novel won international acclaim for its realism and dystopian imaginati...",
+        "fullText": [
+          "The Embassy of Ireland in Seoul will host Booker Prize-winning novelist Paul Lynch and short-story writer Danielle McLaughlin in September, marking Lynch's first visit to Korea, the embassy said. Lynch, author of \"Prophet Song,\" which won the 2023 Booker Prize — Britain's leading literary award for English-language fiction — will hold a public conversation with readers on Sept.",
+          "11 at 7 p. m.",
+          "at Daesan Hall in Seoul's Gwanghwamun area. The talk, titled \"Imagination That Awakens Reality,\" will explore how literature reflects real-world events and how imagination can offer new ways of understanding the present.",
+          "\"Prophet Song\" follows an ordinary family in a fictional Ireland gripped by totalitarian rule, using their experience to examine the spread of authoritarianism, loss of freedom, displacement and human dignity. The novel won international acclaim for its realism and dystopian imaginati..."
+        ],
+        "words": [
+          "booker",
+          "winner",
+          "author"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "label": "Thursday, August 27, 2026",
     "title": "Korea News Brief",
