@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-30",
+    "label": "Sunday, August 30, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Inter-Korea, Weather, Korea, Law. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Russian strike on Ukrainian warehouse kills 37 in war's deadliest attack this year",
+        "url": "https://www.koreatimes.co.kr/world/20260830/russian-strike-on-ukrainian-warehouse-kills-37-in-wars-deadliest-attack-this-year?utm_source=rss",
+        "summary": "MYLA, Ukraine — A Russian drone struck a warehouse west of Kyiv that Ukrainian officials say was storing shells, mines and other ammunition, sparking massive explosions and fires that swept through dozens of nearby homes and buildings and killing 37 people. The Friday night attack on the warehouse in Myla, a village in the Bucha district, was the war’s deadliest attack this year and came on the second of three days of nearly round-the-clock Russian strikes that have severely disrupted life in and around the Ukrainian capital. Attacks on the capital and, to a lesser extent, the rest of Ukraine have been nearly constant since Thursday. Kyiv officials say Russia builds up missile stocks and launches major attacks every few days, hoping to exhaust Ukrainian defenses through the sheer weight of numbers. The warehouse strike sparked fires that raced through homes and damaged at least 50 reside...",
+        "fullText": [
+          "MYLA, Ukraine — A Russian drone struck a warehouse west of Kyiv that Ukrainian officials say was storing shells, mines and other ammunition, sparking massive explosions and fires that swept through dozens of nearby homes and buildings and killing 37 people. The Friday night attack on the warehouse in Myla, a village in the Bucha district, was the war’s deadliest attack this year and came on the second of three days of nearly round-the-clock Russian strikes that have severely disrupted life in and around the Ukrainian capital.",
+          "Attacks on the capital and, to a lesser extent, the rest of Ukraine have been nearly constant since Thursday. Kyiv officials say Russia builds up missile stocks and launches major attacks every few days, hoping to exhaust Ukrainian defenses through the sheer weight of numbers.",
+          "The warehouse strike sparked fires that raced through homes and damaged at least 50 reside..."
+        ],
+        "words": [
+          "russian",
+          "strike",
+          "ukrainian"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea replaces defense minister with Kim Song-gi in military reshuffle: KCNA",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260830/n-korea-replaces-defense-minister-with-kim-song-gi-in-military-reshuffle-kcna?utm_source=rss",
+        "summary": "North Korea has replaced its defense minister in a reshuffle of senior military leadership, state media reported Sunday. Kim Song-gi, director of the General Political Bureau of the North's Korean People's Army, was appointed as the country's new defense minister, replacing No Kwang-chol, according to the North's Korean Central News Agency (KCNA). No was removed as defense minister and from the Party's central leadership and appointed first vice-director of the Munitions Industry Department of the Workers' Party of Korea (WPK) Central Committee. The reshuffle was decided at the second meeting of the ninth WPK Central Military Commission held the previous day, which was guided by leader Kim Jong-un, the report said. In the latest reshuffle, veteran military official Pak Jong-chon was appointed vice-chairman of the WPK Central Military Commission after being re-elected as a member of the P...",
+        "fullText": [
+          "North Korea has replaced its defense minister in a reshuffle of senior military leadership, state media reported Sunday. Kim Song-gi, director of the General Political Bureau of the North's Korean People's Army, was appointed as the country's new defense minister, replacing No Kwang-chol, according to the North's Korean Central News Agency (KCNA).",
+          "No was removed as defense minister and from the Party's central leadership and appointed first vice-director of the Munitions Industry Department of the Workers' Party of Korea (WPK) Central Committee. The reshuffle was decided at the second meeting of the ninth WPK Central Military Commission held the previous day, which was guided by leader Kim Jong-un, the report said.",
+          "In the latest reshuffle, veteran military official Pak Jong-chon was appointed vice-chairman of the WPK Central Military Commission after being re-elected as a member of the P..."
+        ],
+        "words": [
+          "replaces",
+          "defense",
+          "minister"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Fake office in Seoul helps reclusive youth fight social isolation",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260830/fake-office-in-seoul-helps-reclusive-youth-fight-social-isolation?utm_source=rss",
+        "summary": "In a quiet community center in western Seoul, 33 young adults recently committed to a novel daily routine: waking up, dressing and reporting for work at a company that exists entirely to help them reenter society. For many, stepping through the front door marked their tentative first foray into the outside world after months or even years spent largely behind closed bedroom doors. They are the newest employees at \"NEET Company,\" a virtual firm operating in Seodaemun District through Oct. 19. Despite its corporate veneer, this office imposes no sales targets, demands no career milestones and measures no corporate performance metrics. Designed specifically for reclusive youth and those classified as NEET — an acronym for adults not in education, employment or training — the municipal initiative acts as a low-stakes buffer zone. Its goal is to help participants rebuild daily life rhythms an...",
+        "fullText": [
+          "In a quiet community center in western Seoul, 33 young adults recently committed to a novel daily routine: waking up, dressing and reporting for work at a company that exists entirely to help them reenter society. For many, stepping through the front door marked their tentative first foray into the outside world after months or even years spent largely behind closed bedroom doors.",
+          "They are the newest employees at \"NEET Company,\" a virtual firm operating in Seodaemun District through Oct. 19.",
+          "Despite its corporate veneer, this office imposes no sales targets, demands no career milestones and measures no corporate performance metrics. Designed specifically for reclusive youth and those classified as NEET — an acronym for adults not in education, employment or training — the municipal initiative acts as a low-stakes buffer zone.",
+          "Its goal is to help participants rebuild daily life rhythms an..."
+        ],
+        "words": [
+          "office",
+          "reclusive",
+          "social"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "As women crowd ballparks, K-drama actors take on new professions",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260830/as-women-crowd-ballparks-k-drama-actors-take-on-new-professions?utm_source=rss",
+        "summary": "Kim Woo-bin and Ryu Seung-ryong have little in common in terms of age or acting style. Their filmographies, however, are about to gain one common thread, and it has something to do with baseball. In December, Kim is set to appear in tvN drama “Gift,” a tentative English title, as a former baseball player who coaches a high school baseball team. Ryu, meanwhile, stars as a famous baseball player in the film “Portrait of a Family,” which opens next month. They are not the only ones. Suddenly baseball players and coaches have become some of the most sought-after characters in the Korean drama and film industry; Gong Myoung is currently filming MBC drama “Your Ground,” a tentative English title set to air at the end of this year, in which he plays a pitcher. Kim Rae-won will appear as a coach in SBS drama “Full Count,” expected to air next year. There are more baseball-related projects on the...",
+        "fullText": [
+          "Kim Woo-bin and Ryu Seung-ryong have little in common in terms of age or acting style. Their filmographies, however, are about to gain one common thread, and it has something to do with baseball.",
+          "In December, Kim is set to appear in tvN drama “Gift,” a tentative English title, as a former baseball player who coaches a high school baseball team. Ryu, meanwhile, stars as a famous baseball player in the film “Portrait of a Family,” which opens next month.",
+          "They are not the only ones. Suddenly baseball players and coaches have become some of the most sought-after characters in the Korean drama and film industry; Gong Myoung is currently filming MBC drama “Your Ground,” a tentative English title set to air at the end of this year, in which he plays a pitcher.",
+          "Kim Rae-won will appear as a coach in SBS drama “Full Count,” expected to air next year. There are more baseball-related projects on the..."
+        ],
+        "words": [
+          "ballparks",
+          "k-drama",
+          "actors"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "High notes, salutes and protests: Why national anthems spark controversy in sports",
+        "url": "https://www.koreatimes.co.kr/sports/20260830/high-notes-salutes-and-protests-why-national-anthems-spark-controversy-in-sports?utm_source=rss",
+        "summary": "During a game bewteen the NC Dinos and the Kiwoom Heroes at Changwon NC Park on May 16, singer Eom Ji-young drew considerable controversy with her rendition of the national anthem, “Aegukga.” Unlike the conventional style of singing the anthem, Eom incorporated high notes and various vocal flourishes. A video of her performance quickly spread online, prompting criticism that she had undermined the anthem’s essence and purity. Eom eventually apologized. “National ceremonies” at Korean baseball stadiums have repeatedly found themselves at the center of controversy. During the 2017 World Baseball Classic, Kim Tae-kyun came under fire after saluting during the playing of the national anthem, imitating Lee Dae-eun, who at the time was a member of the Korean Police Baseball Team. Kim later apologized on his YouTube channel, saying he did not fully understand the precise meaning of the salute a...",
+        "fullText": [
+          "During a game bewteen the NC Dinos and the Kiwoom Heroes at Changwon NC Park on May 16, singer Eom Ji-young drew considerable controversy with her rendition of the national anthem, “Aegukga. ” Unlike the conventional style of singing the anthem, Eom incorporated high notes and various vocal flourishes.",
+          "A video of her performance quickly spread online, prompting criticism that she had undermined the anthem’s essence and purity. Eom eventually apologized.",
+          "“National ceremonies” at Korean baseball stadiums have repeatedly found themselves at the center of controversy. During the 2017 World Baseball Classic, Kim Tae-kyun came under fire after saluting during the playing of the national anthem, imitating Lee Dae-eun, who at the time was a member of the Korean Police Baseball Team.",
+          "Kim later apologized on his YouTube channel, saying he did not fully understand the precise meaning of the salute a..."
+        ],
+        "words": [
+          "salutes",
+          "protests",
+          "national"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Fed Chair Concerned about Rising Inflation, Hints at Rate Hike",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203913",
+        "summary": "[International] : U.S. Federal Reserve Chair Kevin Warsh has expressed concern over the rising inflation and hinted at a rate hike in the months ahead if needed. During his speech at the Fed's annual symposium in Jackson Hole, Wyoming on Friday, Warsh said although readings from this summer were \"better than ... [more...]",
+        "fullText": [
+          "[International] : U. S.",
+          "Federal Reserve Chair Kevin Warsh has expressed concern over the rising inflation and hinted at a rate hike in the months ahead if needed. During his speech at the Fed's annual symposium in Jackson Hole, Wyoming on Friday, Warsh said although readings from this summer were \"better than ...",
+          "[more... ]"
+        ],
+        "words": [
+          "concerned",
+          "rising",
+          "inflation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "KBS World",
+        "title": "China's Jan.-May Supply of Refined Oil to N. Korea Nears 39% of Annual Threshold",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203912",
+        "summary": "[Inter-Korea] : China says it has supplied North Korea with approximately 113-thousand barrels of refined oil between March and May this year. According to documents posted on the website of the UN Security Council's North Korea sanctions committee, China reported supplying the North 20-thousand-848 barrels in ... [more...]",
+        "fullText": [
+          "[Inter-Korea] : China says it has supplied North Korea with approximately 113-thousand barrels of refined oil between March and May this year. According to documents posted on the website of the UN Security Council's North Korea sanctions committee, China reported supplying the North 20-thousand-848 barrels in ...",
+          "[more... ]"
+        ],
+        "words": [
+          "supply",
+          "refined",
+          "annual"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-29",
     "label": "Saturday, August 29, 2026",
     "title": "Korea News Brief",
