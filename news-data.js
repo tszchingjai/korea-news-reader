@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-29",
+    "label": "Saturday, August 29, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "BOYNEXTDOOR's Sungho named new host of 'Show! Music Core'",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260829/boynextdoors-sungho-named-new-host-of-show-music-core?utm_source=rss",
+        "summary": "BOYNEXTDOOR member Sungho has been named a new host of MBC's weekly K-pop music program \"Show! Music Core.\" The position opened after ZEROBASEONE's Kim Gyuvin and TWS' Dohoon stepped down following the Aug. 22 broadcast, ending their approximately 17-month run as hosts. Sungho is set to host the show alongside another new host who has yet to be announced. Sungho debuted as a member of BOYNEXTDOOR in May 2023 and has since been active with the six-member boy group. The group has gained popularity with songs including \"If I Say, I Love You\" and \"Hollywood Action,\" and released its first full-length album, \"HOME,\" in June. BOYNEXTDOOR is also set to return Sept. 28 with a repackaged version of its first studio album. Sungho will become the latest BOYNEXTDOOR member to take on a hosting role for a major Korean music program. Fellow member Jaehyun previously hosted Mnet's \"M Countdown,\" while...",
+        "fullText": [
+          "BOYNEXTDOOR member Sungho has been named a new host of MBC's weekly K-pop music program \"Show! Music Core.",
+          "\" The position opened after ZEROBASEONE's Kim Gyuvin and TWS' Dohoon stepped down following the Aug. 22 broadcast, ending their approximately 17-month run as hosts.",
+          "Sungho is set to host the show alongside another new host who has yet to be announced. Sungho debuted as a member of BOYNEXTDOOR in May 2023 and has since been active with the six-member boy group.",
+          "The group has gained popularity with songs including \"If I Say, I Love You\" and \"Hollywood Action,\" and released its first full-length album, \"HOME,\" in June. BOYNEXTDOOR is also set to return Sept.",
+          "28 with a repackaged version of its first studio album. Sungho will become the latest BOYNEXTDOOR member to take on a hosting role for a major Korean music program.",
+          "Fellow member Jaehyun previously hosted Mnet's \"M Countdown,\" while..."
+        ],
+        "words": [
+          "boynextdoor",
+          "sungho",
+          "member"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "The evolution of Taegeukgi",
+        "url": "https://www.koreatimes.co.kr/opinion/20260829/the-evolution-of-taegeukgi?utm_source=rss",
+        "summary": "I recently walked around the National Museum of Korea, taking in the various sights, the objects, the stories, the pagodas, the lakes and everything else. It's a remarkable building, and one that I love spending time in. I'm also glad that Korea now has enough confidence to convey and share its history so passionately with people. At one point, I found myself standing beneath the Korean flag. This was in the section on the Korean Empire. There I was, looking at it … but it was different from normal. It wasn't the Sam-taegeuk, which features blue, red and yellow. Yet at the same time, it wasn't the regular Taegeuk we see on the flag today, with the red and blue divided into distinct halves. On this one, the red and blue swirls melted into each other. They didn't stay on their own side. Instead, they invaded. They flooded. They blended into each other, creating a very fluid and flexible im...",
+        "fullText": [
+          "I recently walked around the National Museum of Korea, taking in the various sights, the objects, the stories, the pagodas, the lakes and everything else. It's a remarkable building, and one that I love spending time in.",
+          "I'm also glad that Korea now has enough confidence to convey and share its history so passionately with people. At one point, I found myself standing beneath the Korean flag.",
+          "This was in the section on the Korean Empire. There I was, looking at it … but it was different from normal.",
+          "It wasn't the Sam-taegeuk, which features blue, red and yellow. Yet at the same time, it wasn't the regular Taegeuk we see on the flag today, with the red and blue divided into distinct halves.",
+          "On this one, the red and blue swirls melted into each other. They didn't stay on their own side.",
+          "Instead, they invaded. They flooded.",
+          "They blended into each other, creating a very fluid and flexible im..."
+        ],
+        "words": [
+          "evolution",
+          "taegeukgi",
+          "recently"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US targets Egyptian bank's UAE branches under new push for Iran's economic isolation",
+        "url": "https://www.koreatimes.co.kr/world/20260829/us-targets-egyptian-banks-uae-branches-under-new-push-for-irans-economic-isolation?utm_source=rss",
+        "summary": "WASHINGTON — The Trump administration is taking steps to limit an Egyptian bank's operations in the United Arab Emirates, accusing the financial institution of serving as an economic lifeline to Tehran's leadership as the U.S. war against Iran reaches the six-month mark. Under a new rule proposed Friday by the Treasury Department, the Emirati branches of Banque Misr, Egypt’s second-largest bank, would be severed from access to the U.S. financial system. It follows Treasury Secretary Scott Bessent's announcement this week of a new campaign to push countries that still do business with the already heavily sanctioned Islamic Republic to sever their financial ties or face retaliation from the United States. In stopping short of imposing sanctions on the Egyptian bank, the move signals the Republican administration's reluctance to penalize major trading partners that do business with Iran, in...",
+        "fullText": [
+          "WASHINGTON — The Trump administration is taking steps to limit an Egyptian bank's operations in the United Arab Emirates, accusing the financial institution of serving as an economic lifeline to Tehran's leadership as the U. S.",
+          "war against Iran reaches the six-month mark. Under a new rule proposed Friday by the Treasury Department, the Emirati branches of Banque Misr, Egypt’s second-largest bank, would be severed from access to the U.",
+          "S. financial system.",
+          "It follows Treasury Secretary Scott Bessent's announcement this week of a new campaign to push countries that still do business with the already heavily sanctioned Islamic Republic to sever their financial ties or face retaliation from the United States. In stopping short of imposing sanctions on the Egyptian bank, the move signals the Republican administration's reluctance to penalize major trading partners that do business with Iran, in..."
+        ],
+        "words": [
+          "targets",
+          "egyptian",
+          "branches"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Nepal needs help in technical areas, not search and rescue, foreign minister says",
+        "url": "https://www.koreatimes.co.kr/world/20260829/nepal-needs-help-in-technical-areas-not-search-and-rescue-foreign-minister-says?utm_source=rss",
+        "summary": "KATHMANDU — Nepal needs foreign help in specialised and technical areas in which it does not have expertise in the aftermath of the devastating flood that hit its Himalayan border with China this week, but not in search and rescue, its foreign minister told Reuters. A glacier collapse on Wednesday unleashed a huge torrent of rock, ice, mud and debris through Himalayan mountain river systems, killing nearly 600 people in Nepal and China's Tibet, with more than 2,000 still unaccounted for. Shisir Khanal said Kathmandu needs foreign help in areas such as rescuing people stuck in tunnels, opening transport and communication services in places where bridges have been destroyed, identification of dead bodies, DNA testing and storing bodies for longer durations. \"We have already made requests for such specialised services and technical assistance in areas where we don't have enough expertise an...",
+        "fullText": [
+          "KATHMANDU — Nepal needs foreign help in specialised and technical areas in which it does not have expertise in the aftermath of the devastating flood that hit its Himalayan border with China this week, but not in search and rescue, its foreign minister told Reuters. A glacier collapse on Wednesday unleashed a huge torrent of rock, ice, mud and debris through Himalayan mountain river systems, killing nearly 600 people in Nepal and China's Tibet, with more than 2,000 still unaccounted for.",
+          "Shisir Khanal said Kathmandu needs foreign help in areas such as rescuing people stuck in tunnels, opening transport and communication services in places where bridges have been destroyed, identification of dead bodies, DNA testing and storing bodies for longer durations. \"We have already made requests for such specialised services and technical assistance in areas where we don't have enough expertise an..."
+        ],
+        "words": [
+          "technical",
+          "search",
+          "rescue"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Korean response team continues search efforts for 9 missing in Nepal floods",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260829/korean-response-team-continues-search-efforts-for-9-missing-in-nepal-floods?utm_source=rss",
+        "summary": "KATHMANDU/SEOUL — A Korean response team in Nepal was expected to continue search efforts Saturday for nine nationals still missing after devastating flash floods, attempting to reach the search site by helicopter after unsuccessful attempts the previous day. Six employees of Doosan Enerbility Co. and three of Korea South-East Power Co. remain unaccounted for for a fourth day following the massive floods in Nepal's north-central Himalayan border area. They were working at a construction site in the Rasuwa district when the floods struck the region Wednesday. Ten other Doosan workers who had been isolated at a different location have been moved to safety. A Korean government response team in Kathmandu on Friday unsuccessfully sought to deploy chartered helicopters to the flood site where the missing Koreans might be located. Nepali authorities restricted the flights, citing unpredictable...",
+        "fullText": [
+          "KATHMANDU/SEOUL — A Korean response team in Nepal was expected to continue search efforts Saturday for nine nationals still missing after devastating flash floods, attempting to reach the search site by helicopter after unsuccessful attempts the previous day. Six employees of Doosan Enerbility Co.",
+          "and three of Korea South-East Power Co. remain unaccounted for for a fourth day following the massive floods in Nepal's north-central Himalayan border area.",
+          "They were working at a construction site in the Rasuwa district when the floods struck the region Wednesday. Ten other Doosan workers who had been isolated at a different location have been moved to safety.",
+          "A Korean government response team in Kathmandu on Friday unsuccessfully sought to deploy chartered helicopters to the flood site where the missing Koreans might be located. Nepali authorities restricted the flights, citing unpredictable..."
+        ],
+        "words": [
+          "response",
+          "continues",
+          "search"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says US has entered deal with Venezuela to take control of 65 bil. barrels of oil reserves",
+        "url": "https://www.koreatimes.co.kr/world/20260829/trump-says-us-has-entered-deal-with-venezuela-to-take-control-of-65-bil-barrels-of-oil-reserves?utm_source=rss",
+        "summary": "WASHINGTON — President Donald Trump on Friday said the U.S. has entered an agreement with Venezuela to take control of 65 billion barrels of the South American country’s oil reserves. Trump in a social media post announced the agreement he said was negotiated by Secretary of State Marco Rubio , Defense Secretary Pete Hegseth and Venezuela’s interim President Delcy Rodriguez. “The United States of America has just entered into an Agreement with the Country of Venezuela on, THE BIGGEST OIL DEAL IN WORLD HISTORY!” Trump wrote. The Venezuelan government’s press office did not immediately respond to a request for comment. The announcement of the deal comes nearly nine months after the U.S. military at Trump’s direction carried out an operation to capture Venezuela’s president Nicolás Maduro and spirit him to the United States to face federal narcoterrorism and drug trafficking charges. Trump...",
+        "fullText": [
+          "WASHINGTON — President Donald Trump on Friday said the U. S.",
+          "has entered an agreement with Venezuela to take control of 65 billion barrels of the South American country’s oil reserves. Trump in a social media post announced the agreement he said was negotiated by Secretary of State Marco Rubio , Defense Secretary Pete Hegseth and Venezuela’s interim President Delcy Rodriguez.",
+          "“The United States of America has just entered into an Agreement with the Country of Venezuela on, THE BIGGEST OIL DEAL IN WORLD HISTORY! ” Trump wrote.",
+          "The Venezuelan government’s press office did not immediately respond to a request for comment. The announcement of the deal comes nearly nine months after the U.",
+          "S. military at Trump’s direction carried out an operation to capture Venezuela’s president Nicolás Maduro and spirit him to the United States to face federal narcoterrorism and drug trafficking charges.",
+          "Trump..."
+        ],
+        "words": [
+          "entered",
+          "venezuela",
+          "control"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Go Woo-suk designated for assignment by Minnesota Twins",
+        "url": "https://www.koreatimes.co.kr/sports/20260829/go-woo-suk-designated-for-assignment-by-minnesota-twins?utm_source=rss",
+        "summary": "Korean pitcher Go Woo-suk has been designated for assignment by the Minnesota Twins, the latest snag in his quest to stick in Major League Baseball (MLB) The Twins made the move Friday (local time), with Go having been with their Triple-A affiliate, the St. Paul Saints, since late July after a cup of coffee in MLB. Once a player is designated for assignment, he can be traded or placed on irrevocable waivers within seven days. And if the player clears waivers — that is, if no team picks that player from waivers — then the player may be sent outright to the minors or released, becoming a free agent. Since the annual trade deadline has already passed, Go will wait and see if any team will claim him off waivers. Go made his long-awaited MLB debut with the Twins on July 9, more than two years after first moving to the United States by signing with the San Diego Padres. But Go lasted just four...",
+        "fullText": [
+          "Korean pitcher Go Woo-suk has been designated for assignment by the Minnesota Twins, the latest snag in his quest to stick in Major League Baseball (MLB) The Twins made the move Friday (local time), with Go having been with their Triple-A affiliate, the St. Paul Saints, since late July after a cup of coffee in MLB.",
+          "Once a player is designated for assignment, he can be traded or placed on irrevocable waivers within seven days. And if the player clears waivers — that is, if no team picks that player from waivers — then the player may be sent outright to the minors or released, becoming a free agent.",
+          "Since the annual trade deadline has already passed, Go will wait and see if any team will claim him off waivers. Go made his long-awaited MLB debut with the Twins on July 9, more than two years after first moving to the United States by signing with the San Diego Padres.",
+          "But Go lasted just four..."
+        ],
+        "words": [
+          "woo-suk",
+          "designated",
+          "assignment"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-28",
     "label": "Friday, August 28, 2026",
     "title": "Korea News Brief",
