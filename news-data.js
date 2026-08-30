@@ -1,5 +1,158 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-08-31",
+    "label": "Monday, August 31, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Industrial output flat in July; retail sales down, facility investment up",
+        "url": "https://www.koreatimes.co.kr/economy/20260831/industrial-output-flat-in-july-retail-sales-down-facility-investment-up?utm_source=rss",
+        "summary": "Korea's industrial output remained flat in July from a month earlier, data showed Monday, with retail sales losing ground, while facility investment advanced. Industrial production remained unchanged in July from a month earlier, according to data from the Ministry of Data and Statistics. Output in the mining and manufacturing sector, a key pillar of the economy, edged up 0.2 percent on the back of the electronic component segment. The output in the automobile industry, on the other hand, fell 4.5 percent. Retail sales, a gauge of private spending, backtracked 2.4 percent over the period, led mostly by durable goods, including cars. Facility investment shot up 7.5 percent in July from a month earlier, the latest findings showed.",
+        "fullText": [
+          "Korea's industrial output remained flat in July from a month earlier, data showed Monday, with retail sales losing ground, while facility investment advanced. Industrial production remained unchanged in July from a month earlier, according to data from the Ministry of Data and Statistics.",
+          "Output in the mining and manufacturing sector, a key pillar of the economy, edged up 0. 2 percent on the back of the electronic component segment.",
+          "The output in the automobile industry, on the other hand, fell 4. 5 percent.",
+          "Retail sales, a gauge of private spending, backtracked 2. 4 percent over the period, led mostly by durable goods, including cars.",
+          "Facility investment shot up 7. 5 percent in July from a month earlier, the latest findings showed."
+        ],
+        "words": [
+          "industrial",
+          "output",
+          "retail"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
+        "url": "https://www.koreatimes.co.kr/world/20260831/g20-countries-should-consider-more-trade-barriers-with-china-to-cut-imbalances-bessent-says?utm_source=rss",
+        "summary": "ASHEVILLE, North Carolina — U.S. Treasury Secretary Scott Bessent told Reuters on Sunday that he will encourage G20 member countries to re-examine their terms of trade with China as part of efforts to shrink global imbalances and press Beijing to rebalance its economy away from exports towards more domestic consumption. Bessent said in an interview ahead of a G20 finance leaders meeting that the current flood of exports from China was unsustainable, even though the U.S. direct trade position with China was \"rapidly improving.\" \"The world cannot have a China with a $1.2 trillion trade surplus,\" Bessent said. \"In China, the economy is quite weak, and they are trying to export their way out of it, and they need to rebalance their economy.\" The U.S. has walled off its economy from many Chinese exports with high tariffs and outright bans on some Chinese products including autos, leading China...",
+        "fullText": [
+          "ASHEVILLE, North Carolina — U. S.",
+          "Treasury Secretary Scott Bessent told Reuters on Sunday that he will encourage G20 member countries to re-examine their terms of trade with China as part of efforts to shrink global imbalances and press Beijing to rebalance its economy away from exports towards more domestic consumption. Bessent said in an interview ahead of a G20 finance leaders meeting that the current flood of exports from China was unsustainable, even though the U.",
+          "S. direct trade position with China was \"rapidly improving.",
+          "\" \"The world cannot have a China with a $1. 2 trillion trade surplus,\" Bessent said.",
+          "\"In China, the economy is quite weak, and they are trying to export their way out of it, and they need to rebalance their economy. \" The U.",
+          "S. has walled off its economy from many Chinese exports with high tariffs and outright bans on some Chinese products including autos, leading China..."
+        ],
+        "words": [
+          "countries",
+          "should",
+          "consider"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "2 Koreans tie for 14th at PGA Tour playoff finale",
+        "url": "https://www.koreatimes.co.kr/sports/20260831/2-koreans-tie-for-14th-at-pga-tour-playoff-finale?utm_source=rss",
+        "summary": "Kim Si-woo and Tom Kim have closed out the PGA Tour playoffs by tying for 14th place at the finale in Atlanta. The two unrelated Kims both shot a nine-under 271 at the Tour Championship at East Lake Golf Club in the capital of the U.S. state of Georgia on Sunday (local time). They ended up seven strokes behind the champion, world No. 1 Scottie Scheffler, and each took home $545,000. The Tour Championship is open only to the top-30 players in FedEx Cup points following two playoff events, the FedEx St. Jude Championship and the BMW Championship. Kim Si-woo was fourth, and Tom Kim ranked 29th. Both players shot in the 60s in all four rounds, with Tom Kim wrapping things up with his third straight round of two-under 68, while Kim Si-woo followed his 65 in the third round with a 69 in the final round. Kim Si-woo, 31, has been one of the most consistent players on the tour this year. He has h...",
+        "fullText": [
+          "Kim Si-woo and Tom Kim have closed out the PGA Tour playoffs by tying for 14th place at the finale in Atlanta. The two unrelated Kims both shot a nine-under 271 at the Tour Championship at East Lake Golf Club in the capital of the U.",
+          "S. state of Georgia on Sunday (local time).",
+          "They ended up seven strokes behind the champion, world No. 1 Scottie Scheffler, and each took home $545,000.",
+          "The Tour Championship is open only to the top-30 players in FedEx Cup points following two playoff events, the FedEx St. Jude Championship and the BMW Championship.",
+          "Kim Si-woo was fourth, and Tom Kim ranked 29th. Both players shot in the 60s in all four rounds, with Tom Kim wrapping things up with his third straight round of two-under 68, while Kim Si-woo followed his 65 in the third round with a 69 in the final round.",
+          "Kim Si-woo, 31, has been one of the most consistent players on the tour this year. He has h..."
+        ],
+        "words": [
+          "koreans",
+          "playoff",
+          "finale"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Iran is attacking US forces in Jordan, Fox News reports, citing US source",
+        "url": "https://www.koreatimes.co.kr/world/20260831/iran-is-attacking-us-forces-in-jordan-fox-news-reports-citing-us-source?utm_source=rss",
+        "summary": "WASHINGTON — Iran is attacking U.S. forces stationed in Jordan, Fox News reporter Trey Yingst said on Sunday, citing a U.S. source. There has been no significant impact so far, the reporter's X post said, adding that nearly all incoming missiles \"have been intercepted at this point.\"",
+        "fullText": [
+          "WASHINGTON — Iran is attacking U. S.",
+          "forces stationed in Jordan, Fox News reporter Trey Yingst said on Sunday, citing a U. S.",
+          "source. There has been no significant impact so far, the reporter's X post said, adding that nearly all incoming missiles \"have been intercepted at this point.",
+          "\""
+        ],
+        "words": [
+          "attacking",
+          "forces",
+          "jordan"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US strikes Iranian rocket launchers on Strait of Hormuz in first military action in weeks",
+        "url": "https://www.koreatimes.co.kr/world/20260831/us-strikes-iranian-rocket-launchers-on-strait-of-hormuz-in-first-military-action-in-weeks?utm_source=rss",
+        "summary": "WASHINGTON — U.S. forces struck Iranian rocket launchers on the Strait of Hormuz in their first military action in a month on Sunday, breaking a lull in fighting during an intermittent war that has lasted more than six months. Iran swiftly vowed to retaliate for what it called a deadly attack. Forces with the Revolutionary Guard Corps were observed preparing to launch rockets with sea mines into the strait, according to Tim Hawkins, a spokesperson for the U.S. Central Command. The U.S. military last week completed clearing sea mines from the strait’s international shipping routes. Semiofficial news outlets in Iran reported sounds of explosions near Larak island on the strait. The Guard in a statement carried by Iran's state broadcaster noted “the martyrdom and injury of several of our fighters and compatriots.” A return to open conflict would be dangerous for the region, where Iran has t...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "forces struck Iranian rocket launchers on the Strait of Hormuz in their first military action in a month on Sunday, breaking a lull in fighting during an intermittent war that has lasted more than six months. Iran swiftly vowed to retaliate for what it called a deadly attack.",
+          "Forces with the Revolutionary Guard Corps were observed preparing to launch rockets with sea mines into the strait, according to Tim Hawkins, a spokesperson for the U. S.",
+          "Central Command. The U.",
+          "S. military last week completed clearing sea mines from the strait’s international shipping routes.",
+          "Semiofficial news outlets in Iran reported sounds of explosions near Larak island on the strait. The Guard in a statement carried by Iran's state broadcaster noted “the martyrdom and injury of several of our fighters and compatriots.",
+          "” A return to open conflict would be dangerous for the region, where Iran has t..."
+        ],
+        "words": [
+          "strikes",
+          "iranian",
+          "rocket"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Kim Hyo-joo finishes runner-up on LPGA Tour",
+        "url": "https://www.koreatimes.co.kr/sports/20260831/kim-hyo-joo-finishes-runner-up-on-lpga-tour?utm_source=rss",
+        "summary": "Korean veteran Kim Hyo-joo has come up short of her third win of the 2026 LPGA season, settling for her second runner-up finish of the year instead. Kim shot 12-under 276 to end up two strokes behind the champion, Yin Ruoning of China, at the FM Championship at TPC Boston in Norton, Massachusetts, on Sunday (local time). Kim began the final round trailing Yin by one shot and carded a one-under 71 in the final round with three birdies and two bogeys. Yin, meanwhile, shot 70 with five birdies and three bogeys. Kim, who won in back-to-back weeks in March, also had a runner-up finish at the Dow Championship in June. The 31-year-old finished outside the top 10 in five straight tournaments following the Dow Championship. She had a chance to become the third player to win at least three times on the LPGA Tour this year but faltered down the stretch at the FM Championship. Kim moved ahead of Yin...",
+        "fullText": [
+          "Korean veteran Kim Hyo-joo has come up short of her third win of the 2026 LPGA season, settling for her second runner-up finish of the year instead. Kim shot 12-under 276 to end up two strokes behind the champion, Yin Ruoning of China, at the FM Championship at TPC Boston in Norton, Massachusetts, on Sunday (local time).",
+          "Kim began the final round trailing Yin by one shot and carded a one-under 71 in the final round with three birdies and two bogeys. Yin, meanwhile, shot 70 with five birdies and three bogeys.",
+          "Kim, who won in back-to-back weeks in March, also had a runner-up finish at the Dow Championship in June. The 31-year-old finished outside the top 10 in five straight tournaments following the Dow Championship.",
+          "She had a chance to become the third player to win at least three times on the LPGA Tour this year but faltered down the stretch at the FM Championship. Kim moved ahead of Yin..."
+        ],
+        "words": [
+          "hyo-joo",
+          "finishes",
+          "runner-up"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "ENHYPEN claims 1st No. 1 on Billboard 200 with 'The Sin: Bliss'",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260831/enhypen-claims-1st-no-1-on-billboard-200-with-the-sin-bliss?utm_source=rss",
+        "summary": "The latest album from K-pop boy group ENHYPEN has debuted at No. 1 on the U.S. Billboard's main albums chart, earning the group its first chart-topper. Billboard said in a preview of this week's chart on Sunday (U.S. time) that the band's eighth EP, \"The Sin: Bliss,\" took the top spot on the Billboard 200, ahead of Ella Langley's \"Dandelion\" and Olivia Rodrigo's \"you seem pretty sad for a girl so in love.\" This marks the first time the group has reached No. 1 since its debut in November 2020. Before ENHYPEN, BTS, SuperM, Stray Kids, Ateez and Tomorrow X Together had reached No. 1 on the Billboard 200 among K-pop boy groups. Among girl groups, BLACKPINK, NewJeans, TWICE and Katseye have taken the honor, while the original soundtrack album for Netflix's global hit animation \"KPop Demon Hunters\" had also led the chart. \"The Sin: Bliss\" marks the band's seventh album in the top 10, all achie...",
+        "fullText": [
+          "The latest album from K-pop boy group ENHYPEN has debuted at No. 1 on the U.",
+          "S. Billboard's main albums chart, earning the group its first chart-topper.",
+          "Billboard said in a preview of this week's chart on Sunday (U. S.",
+          "time) that the band's eighth EP, \"The Sin: Bliss,\" took the top spot on the Billboard 200, ahead of Ella Langley's \"Dandelion\" and Olivia Rodrigo's \"you seem pretty sad for a girl so in love. \" This marks the first time the group has reached No.",
+          "1 since its debut in November 2020. Before ENHYPEN, BTS, SuperM, Stray Kids, Ateez and Tomorrow X Together had reached No.",
+          "1 on the Billboard 200 among K-pop boy groups. Among girl groups, BLACKPINK, NewJeans, TWICE and Katseye have taken the honor, while the original soundtrack album for Netflix's global hit animation \"KPop Demon Hunters\" had also led the chart.",
+          "\"The Sin: Bliss\" marks the band's seventh album in the top 10, all achie..."
+        ],
+        "words": [
+          "enhypen",
+          "claims",
+          "billboard"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "label": "Sunday, August 30, 2026",
     "title": "Korea News Brief",
