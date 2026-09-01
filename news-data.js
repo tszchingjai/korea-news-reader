@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-01",
+    "label": "Tuesday, September 1, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Weather, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open lower amid resumed military attacks in Mideast",
+        "url": "https://www.koreatimes.co.kr/economy/20260901/seoul-stocks-open-lower-amid-resumed-military-attacks-in-mideast?utm_source=rss",
+        "summary": "Korean stocks opened lower Tuesday, dragged down by losses on Wall Street due to a resumption of military clashes between the United States and Iran. After opening 0.52 percent down, the benchmark Korea Composite Stock Price Index (KOSPI) extended losses, trading 84.81 points, or 1.24 percent, lower at 6,735.21 as of 9:15 a.m. Overnight, major U.S. stocks closed lower as renewed U.S.-Iran airstrike exchanges and Federal Reserve Chair Kevin Warsh's hawkish speech fueled worries about inflation. The Dow Jones Industrial Average fell 0.7 percent and the S&P 500 lost 0.33 percent, while the Nasdaq composite declined 0.12 percent. In Seoul, market heavyweights led the decline. Market bellwether Samsung Electronics sank 2.31 percent, and its chipmaking rival SK hynix fell 1.19 percent. Top carmaker Hyundai Motor retreated 1.12 percent, and defense giant Hanwha Aerospace lost 2.45 percent. Howe...",
+        "fullText": [
+          "Korean stocks opened lower Tuesday, dragged down by losses on Wall Street due to a resumption of military clashes between the United States and Iran. After opening 0.",
+          "52 percent down, the benchmark Korea Composite Stock Price Index (KOSPI) extended losses, trading 84. 81 points, or 1.",
+          "24 percent, lower at 6,735. 21 as of 9:15 a.",
+          "m. Overnight, major U.",
+          "S. stocks closed lower as renewed U.",
+          "S. -Iran airstrike exchanges and Federal Reserve Chair Kevin Warsh's hawkish speech fueled worries about inflation.",
+          "The Dow Jones Industrial Average fell 0. 7 percent and the S&P 500 lost 0.",
+          "33 percent, while the Nasdaq composite declined 0. 12 percent.",
+          "In Seoul, market heavyweights led the decline. Market bellwether Samsung Electronics sank 2.",
+          "31 percent, and its chipmaking rival SK hynix fell 1. 19 percent.",
+          "Top carmaker Hyundai Motor retreated 1. 12 percent, and defense giant Hanwha Aerospace lost 2.",
+          "45 percent. Howe..."
+        ],
+        "words": [
+          "stocks",
+          "resumed",
+          "military"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Sacramento should save the program that is saving the grid",
+        "url": "https://www.koreatimes.co.kr/opinion/20260901/sacramento-should-save-the-program-that-is-saving-the-grid?utm_source=rss",
+        "summary": "Your power bill is too high. Electricity prices have risen by as much as 40% since 2020, far outpacing overall inflation. And after decades of nearly flat growth in energy consumption, data centers are driving up grid demand for the first time in roughly 35 years. Then heat waves, like the one currently cooking Southern California, push the whole system to the edge. That’s why In 2022, California launched the Demand Side Grid Support program. I ran the Department of Energy during the Biden administration. I know innovation when I see it. California’s grid program has been historic and should serve as a model for the entire United States. To understand the program, start with how the grid becomes strained. During a heat wave, like the one currently cooking Southern California, millions of people turn on their air conditioning to keep cool. Suddenly, their homes use a lot more power. Certa...",
+        "fullText": [
+          "Your power bill is too high. Electricity prices have risen by as much as 40% since 2020, far outpacing overall inflation.",
+          "And after decades of nearly flat growth in energy consumption, data centers are driving up grid demand for the first time in roughly 35 years. Then heat waves, like the one currently cooking Southern California, push the whole system to the edge.",
+          "That’s why In 2022, California launched the Demand Side Grid Support program. I ran the Department of Energy during the Biden administration.",
+          "I know innovation when I see it. California’s grid program has been historic and should serve as a model for the entire United States.",
+          "To understand the program, start with how the grid becomes strained. During a heat wave, like the one currently cooking Southern California, millions of people turn on their air conditioning to keep cool.",
+          "Suddenly, their homes use a lot more power. Certa..."
+        ],
+        "words": [
+          "sacramento",
+          "should",
+          "program"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Ha Young leaves 'The Trauma Code' after family controversy",
+        "url": "https://www.koreatimes.co.kr/entertainment/20260901/ha-young-leaves-the-trauma-code-after-family-controversy?utm_source=rss",
+        "summary": "Actor Ha Young, who had come under fire over allegations surrounding her great-grandfather's pro-Japanese activities during Japan's 1910-45 colonial rule of Korea, will not appear in the next season of the Netflix series \"The Trauma Code: Heroes on Call,\" the streaming platform said Tuesday. The move comes after the actor issued an apology about the controversy last month, saying she had only partially known about her great-grandfather's life and is ashamed of speaking about him as a source of family pride. \"Respecting the actor's position, Ha Young will not appear in the next season of 'The Trauma Code: Heroes on Call,'\" Netflix said. The actor, whose legal name is Ahn Ha-young, appeared as nurse Cheon Jang-mi in the first season of the popular medical drama and was set to shoot the second season with fellow actors Ju Ji-hoon and Choo Young-woo. While appearing on an episode of the KBS...",
+        "fullText": [
+          "Actor Ha Young, who had come under fire over allegations surrounding her great-grandfather's pro-Japanese activities during Japan's 1910-45 colonial rule of Korea, will not appear in the next season of the Netflix series \"The Trauma Code: Heroes on Call,\" the streaming platform said Tuesday. The move comes after the actor issued an apology about the controversy last month, saying she had only partially known about her great-grandfather's life and is ashamed of speaking about him as a source of family pride.",
+          "\"Respecting the actor's position, Ha Young will not appear in the next season of 'The Trauma Code: Heroes on Call,'\" Netflix said. The actor, whose legal name is Ahn Ha-young, appeared as nurse Cheon Jang-mi in the first season of the popular medical drama and was set to shoot the second season with fellow actors Ju Ji-hoon and Choo Young-woo.",
+          "While appearing on an episode of the KBS..."
+        ],
+        "words": [
+          "leaves",
+          "trauma",
+          "family"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's monthly exports surge 68.7% in August on strong chip shipments",
+        "url": "https://www.koreatimes.co.kr/economy/20260901/koreas-monthly-exports-surge-687-in-august-on-strong-chip-shipments?utm_source=rss",
+        "summary": "Korea's monthly exports soared 68.7 percent in August from a year earlier on solid chip shipments, data showed Tuesday. Outbound shipments came to $98.25 billion in August, according to the Ministry of Trade, Industry and Resources. Imports climbed 22.6 percent on-year to $63.51 billion, resulting in a trade surplus of $34.75 billion.",
+        "fullText": [
+          "Korea's monthly exports soared 68. 7 percent in August from a year earlier on solid chip shipments, data showed Tuesday.",
+          "Outbound shipments came to $98. 25 billion in August, according to the Ministry of Trade, Industry and Resources.",
+          "Imports climbed 22. 6 percent on-year to $63.",
+          "51 billion, resulting in a trade surplus of $34. 75 billion."
+        ],
+        "words": [
+          "monthly",
+          "exports",
+          "august"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Pitcher Go Woo-suk becomes free agent with possible reunion with ex-KBO team looming",
+        "url": "https://www.koreatimes.co.kr/sports/20260901/pitcher-go-woo-suk-becomes-free-agent-with-possible-reunion-with-ex-kbo-team-looming?utm_source=rss",
+        "summary": "Korean pitcher Go Woo-suk has become a free agent after refusing an outright assignment to the minor league by the Minnesota Twins. The Twins announced Monday (U.S. local time) that Go elected free agency instead of accepting another stint with their Triple-A club, the St. Paul Saints. The Twins had designated Go for assignment Friday. Once a player is designated for assignment, he can be traded or placed on irrevocable waivers within seven days. And if the player clears waivers — that is, if no team picks that player from waivers — then he may be sent outright to the minors or released, becoming a free agent. With the annual trade deadline already gone, Go waited to see if any team would pick him off waivers. After no team did, the Twins sought to send the Korean pitcher back to St. Paul. However, a player who has previously been outrighted in his career has the right to refuse a minor-...",
+        "fullText": [
+          "Korean pitcher Go Woo-suk has become a free agent after refusing an outright assignment to the minor league by the Minnesota Twins. The Twins announced Monday (U.",
+          "S. local time) that Go elected free agency instead of accepting another stint with their Triple-A club, the St.",
+          "Paul Saints. The Twins had designated Go for assignment Friday.",
+          "Once a player is designated for assignment, he can be traded or placed on irrevocable waivers within seven days. And if the player clears waivers — that is, if no team picks that player from waivers — then he may be sent outright to the minors or released, becoming a free agent.",
+          "With the annual trade deadline already gone, Go waited to see if any team would pick him off waivers. After no team did, the Twins sought to send the Korean pitcher back to St.",
+          "Paul. However, a player who has previously been outrighted in his career has the right to refuse a minor-..."
+        ],
+        "words": [
+          "pitcher",
+          "woo-suk",
+          "becomes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Robot outpolls Congressman after mishaps",
+        "url": "https://www.koreatimes.co.kr/opinion/20260901/robot-outpolls-congressman-after-mishaps?utm_source=rss",
+        "summary": "This story reports on robot outpolls congressman after mishaps.",
+        "fullText": [
+          "This story reports on robot outpolls congressman after mishaps."
+        ],
+        "words": [
+          "outpolls",
+          "congressman",
+          "mishaps"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Kim Yong-beom, presidential chief of staff for policy, resigns: Cheong Wa Dae",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260901/kim-yong-beom-presidential-chief-of-staff-for-policy-resigns-cheong-wa-dae?utm_source=rss",
+        "summary": "Cheong Wa Dae said, Tuesday, that Kim Yong-beom, chief of staff for policy, has resigned from his post. Presidential spokesperson Kang Yu-jung said Kim tendered his resignation, Monday, and that President Lee Jae Myung accepted it Tuesday. Kim stepped down about 15 months after being appointed the first presidential policy chief of the Lee administration. His resignation comes amid speculation that he is taking responsibility for mounting public criticism over financial market turmoil surrounding single-stock leveraged exchange-traded funds (ETFs).",
+        "fullText": [
+          "Cheong Wa Dae said, Tuesday, that Kim Yong-beom, chief of staff for policy, has resigned from his post. Presidential spokesperson Kang Yu-jung said Kim tendered his resignation, Monday, and that President Lee Jae Myung accepted it Tuesday.",
+          "Kim stepped down about 15 months after being appointed the first presidential policy chief of the Lee administration. His resignation comes amid speculation that he is taking responsibility for mounting public criticism over financial market turmoil surrounding single-stock leveraged exchange-traded funds (ETFs)."
+        ],
+        "words": [
+          "yong-beom",
+          "presidential",
+          "policy"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "label": "Monday, August 31, 2026",
     "title": "Korea News Brief",
