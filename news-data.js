@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-02",
+    "label": "Wednesday, September 2, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers International, Korea, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "International",
+        "source": "KBS World",
+        "title": "Ex-US Nat'l Security Advisor: Trump Will Seek to Meet Kim Jong-un in Pyongyang",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203977",
+        "summary": "[International] : John Bolton, former national security advisor under the first Donald Trump administration, says Trump will seek to meet with North Korean leader Kim Jong-un in Pyongyang. Bolton made the remark on Tuesday at a forum hosted by the Institute for Corean-American Studies (ICAS) in Washington, citing that ... [more...]",
+        "fullText": [
+          "[International] : John Bolton, former national security advisor under the first Donald Trump administration, says Trump will seek to meet with North Korean leader Kim Jong-un in Pyongyang. Bolton made the remark on Tuesday at a forum hosted by the Institute for Corean-American Studies (ICAS) in Washington, citing that ...",
+          "[more... ]"
+        ],
+        "words": [
+          "security",
+          "advisor",
+          "jong-un"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Consumer prices up 3.1% in August amid high oil prices",
+        "url": "https://www.koreatimes.co.kr/economy/20260902/consumer-prices-up-31-in-august-amid-high-oil-prices?utm_source=rss",
+        "summary": "Korea's consumer prices moved up 3.1 percent in August from a year earlier as oil prices remained elevated. According to data from the Ministry of Data and Statistics, consumer price growth hovered above 3 percent in August, accelerating from a 2.8 percent on-year rise in July. The August increase was led by fuel prices, with diesel prices rising sharply by 19.6 percent and gasoline prices advancing 11.5 percent. Korea relies heavily on imports to meet its energy needs.",
+        "fullText": [
+          "Korea's consumer prices moved up 3. 1 percent in August from a year earlier as oil prices remained elevated.",
+          "According to data from the Ministry of Data and Statistics, consumer price growth hovered above 3 percent in August, accelerating from a 2. 8 percent on-year rise in July.",
+          "The August increase was led by fuel prices, with diesel prices rising sharply by 19. 6 percent and gasoline prices advancing 11.",
+          "5 percent. Korea relies heavily on imports to meet its energy needs."
+        ],
+        "words": [
+          "consumer",
+          "prices",
+          "august"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "White House says US policy on N. Korea unchanged, reaffirms Trump's openness to dialogue with Kim",
+        "url": "https://www.koreatimes.co.kr/world/20260902/white-house-says-us-policy-on-n-korea-unchanged-reaffirms-trumps-openness-to-dialogue-with-kim?utm_source=rss",
+        "summary": "WASHINGTON — The United States' policy on North Korea remains unchanged, a White House official said Tuesday, while reaffirming U.S. President Donald Trump's openness to dialogue with North Korean leader Kim Jong-un \"without any preconditions.\" The official made the remarks in response to Yonhap News Agency's question about whether the White House has been seriously preparing for a potential Trump-Kim summit, amid questions about whether Trump would continue to pursue the North's denuclearization or shift toward goals short of denuclearization, such as tension reduction. \"U.S. policy on North Korea has not changed. President Trump remains open to talking with Kim Jong-un without any preconditions,\" the official said in an email. The official pointed out that in his first term, Trump held three summits with Kim that \"stabilized the Korean Peninsula.\" Questions about whether the Trump admi...",
+        "fullText": [
+          "WASHINGTON — The United States' policy on North Korea remains unchanged, a White House official said Tuesday, while reaffirming U. S.",
+          "President Donald Trump's openness to dialogue with North Korean leader Kim Jong-un \"without any preconditions. \" The official made the remarks in response to Yonhap News Agency's question about whether the White House has been seriously preparing for a potential Trump-Kim summit, amid questions about whether Trump would continue to pursue the North's denuclearization or shift toward goals short of denuclearization, such as tension reduction.",
+          "\"U. S.",
+          "policy on North Korea has not changed. President Trump remains open to talking with Kim Jong-un without any preconditions,\" the official said in an email.",
+          "The official pointed out that in his first term, Trump held three summits with Kim that \"stabilized the Korean Peninsula. \" Questions about whether the Trump admi..."
+        ],
+        "words": [
+          "policy",
+          "unchanged",
+          "reaffirms"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "TUNEXX tunes in to single frequency on 2nd EP 'BLUE MODE'",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260902/tunexx-tunes-in-to-single-frequency-on-2nd-ep-blue-mode?utm_source=rss",
+        "summary": "There's a passage in the bridge of rookie boy band TUNEXX's new title track that the members simply call the \"kill part.\" \"If I mess it up, I'm the one who gets killed,\" Sungjun said. \"If I actually pull it off, it's whoever's watching. I'm practicing hard so it lands the second way.\" It was a bold line in an otherwise pretty quiet morning. The seven-member rookie group met with The Korea Times in central Seoul on Aug. 20 for an interview ahead of its first comeback, in what was also the members' first official opportunity to speak directly with the press. Questions drew pauses. Answers sometimes trailed off halfway through and several members looked toward leader Dongkyu before speaking. They had, after all, debuted only five months earlier. TUNEXX will release its second EP, \"BLUE MODE,\" on Sept. 2 at 6 p.m., marking the IST Entertainment group's first comeback since its March debut wi...",
+        "fullText": [
+          "There's a passage in the bridge of rookie boy band TUNEXX's new title track that the members simply call the \"kill part. \" \"If I mess it up, I'm the one who gets killed,\" Sungjun said.",
+          "\"If I actually pull it off, it's whoever's watching. I'm practicing hard so it lands the second way.",
+          "\" It was a bold line in an otherwise pretty quiet morning. The seven-member rookie group met with The Korea Times in central Seoul on Aug.",
+          "20 for an interview ahead of its first comeback, in what was also the members' first official opportunity to speak directly with the press. Questions drew pauses.",
+          "Answers sometimes trailed off halfway through and several members looked toward leader Dongkyu before speaking. They had, after all, debuted only five months earlier.",
+          "TUNEXX will release its second EP, \"BLUE MODE,\" on Sept. 2 at 6 p.",
+          "m. , marking the IST Entertainment group's first comeback since its March debut wi..."
+        ],
+        "words": [
+          "tunexx",
+          "single",
+          "frequency"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Bessent says Strait of Hormuz would be 'worthless piece of water' as oil pipelines bypass it",
+        "url": "https://www.koreatimes.co.kr/world/20260902/bessent-says-strait-of-hormuz-would-be-worthless-piece-of-water-as-oil-pipelines-bypass-it?utm_source=rss",
+        "summary": "WASHINGTON — U.S. Treasury Secretary Scott Bessent said Tuesday that the Strait of Hormuz will be \"like a worthless piece of water\" in two years as oil will be shipped through land-based pipelines, bypassing the crucial waterway. Bessent made the remarks during a fireside chat with FOX Business Network host Larry Kudlow at the Group of 20 finance ministers' meetings in Asheville, North Carolina, as Washington and Tehran have exchanged strikes, heightening tensions in the strait. \"We can see the Iranians are trying to use the Strait of Hormuz as a choke point. It's not a choke point for the U.S., but it is a choke point for many other countries,\" the secretary said. \"That will be bypassed in two years. In two years, the Strait of Hormuz will be like a worthless piece of water. Oil will be going on pipelines across the land,\" he added. During the Middle East war, Iran has effectively block...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "Treasury Secretary Scott Bessent said Tuesday that the Strait of Hormuz will be \"like a worthless piece of water\" in two years as oil will be shipped through land-based pipelines, bypassing the crucial waterway. Bessent made the remarks during a fireside chat with FOX Business Network host Larry Kudlow at the Group of 20 finance ministers' meetings in Asheville, North Carolina, as Washington and Tehran have exchanged strikes, heightening tensions in the strait.",
+          "\"We can see the Iranians are trying to use the Strait of Hormuz as a choke point. It's not a choke point for the U.",
+          "S. , but it is a choke point for many other countries,\" the secretary said.",
+          "\"That will be bypassed in two years. In two years, the Strait of Hormuz will be like a worthless piece of water.",
+          "Oil will be going on pipelines across the land,\" he added. During the Middle East war, Iran has effectively block..."
+        ],
+        "words": [
+          "bessent",
+          "strait",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Rise of runner-friendly cafes show Koreans' new wellness trend",
+        "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260902/rise-of-runner-friendly-cafes-show-koreans-new-wellness-trend?utm_source=rss",
+        "summary": "Runner-friendly cafes are appearing near popular running routes across Korea. The businesses are gaining ground around well-known running destinations, including Seoul's Han River, Olympic Park and Seoul Forest, Busan's Haeundae Beach and the coast of Jeju Island. Customers at these cafes can receive perks, such as beverage discounts and bag storage, by proving they completed a run that day. The concept aims to make post-run coffee or brunch part of a broader wellness routine. It differs from public facilities like the Seoul Metropolitan Government's Runner Station, which offers changing rooms and lockers, or sportswear brands' rental hubs that lend out running shoes and apparel. While the concept began as a way to attract more customers, most cafe operators say they are driven more by enthusiasm for running culture than by profit. \"As a runner myself, I made the cafe runner-friendly in...",
+        "fullText": [
+          "Runner-friendly cafes are appearing near popular running routes across Korea. The businesses are gaining ground around well-known running destinations, including Seoul's Han River, Olympic Park and Seoul Forest, Busan's Haeundae Beach and the coast of Jeju Island.",
+          "Customers at these cafes can receive perks, such as beverage discounts and bag storage, by proving they completed a run that day. The concept aims to make post-run coffee or brunch part of a broader wellness routine.",
+          "It differs from public facilities like the Seoul Metropolitan Government's Runner Station, which offers changing rooms and lockers, or sportswear brands' rental hubs that lend out running shoes and apparel. While the concept began as a way to attract more customers, most cafe operators say they are driven more by enthusiasm for running culture than by profit.",
+          "\"As a runner myself, I made the cafe runner-friendly in..."
+        ],
+        "words": [
+          "runner-friendly",
+          "koreans",
+          "wellness"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "How Korea's national museum turned ancient artifacts into costume-play sensation",
+        "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260902/how-koreas-national-museum-turned-ancient-artifacts-into-costume-play-sensation?utm_source=rss",
+        "summary": "For one day, Korea’s most revered artifacts are no longer kept behind museum glass. Instead, they stride down runways, pose for selfies and perform choreography in front of crowds — as visitors dressed as golden Buddhist sculptures, smiling 57 B.C.-935 A.D. Silla roof tiles, Bronze Age bells and even a life-size map of the Korean Peninsula. If Halloween is the annual occasion when people borrow the identities of fictional characters, the National Museum of Korea’s costume-play contest has become a distinctly Korean version: one day in September when participants become the cultural treasures they love most. This year, “Dress Like a Museum” drew 275 teams and 643 participants — more than triple last year’s 83 entries — turning what began as a museum participation program two years ago into a fast-growing heritage fandom event. Contestants are not only asked to imitate heritage but also to...",
+        "fullText": [
+          "For one day, Korea’s most revered artifacts are no longer kept behind museum glass. Instead, they stride down runways, pose for selfies and perform choreography in front of crowds — as visitors dressed as golden Buddhist sculptures, smiling 57 B.",
+          "C. -935 A.",
+          "D. Silla roof tiles, Bronze Age bells and even a life-size map of the Korean Peninsula.",
+          "If Halloween is the annual occasion when people borrow the identities of fictional characters, the National Museum of Korea’s costume-play contest has become a distinctly Korean version: one day in September when participants become the cultural treasures they love most. This year, “Dress Like a Museum” drew 275 teams and 643 participants — more than triple last year’s 83 entries — turning what began as a museum participation program two years ago into a fast-growing heritage fandom event.",
+          "Contestants are not only asked to imitate heritage but also to..."
+        ],
+        "words": [
+          "national",
+          "museum",
+          "turned"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "label": "Tuesday, September 1, 2026",
     "title": "Korea News Brief",
