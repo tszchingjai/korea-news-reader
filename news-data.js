@@ -1,5 +1,157 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-03",
+    "label": "Thursday, September 3, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Weather, Economy, Law. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Italian rock duo brings 'Little Boys' state of mind to Korea",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260903/italian-rock-duo-brings-little-boys-state-of-mind-to-korea?utm_source=rss",
+        "summary": "“Little Boys isn’t really about age. It’s a state of mind. It’s about keeping something of Peter Pan alive inside you — that restless, curious and slightly reckless energy you have when you still see the world as something to challenge. We never want to lose that.” This is how vocalist and guitarist Elle Bertone explained the origins of the power rock duo's name, Little Boys. She added that part of the band’s ethos is holding onto curiosities that bring them to places they are yet to understand. “In that sense, we still feel like little boys.” It’s this state of mind that the Italian two-piece act is bringing to Korea with their extensive 16-show tour of Korea this September and October. On stage, the duo goes beyond child’s play — turning that childlike spirit into something loud and unstoppable, creating a playground of their own. Bertone, a former classical pianist, opted to tinker wi...",
+        "fullText": [
+          "“Little Boys isn’t really about age. It’s a state of mind.",
+          "It’s about keeping something of Peter Pan alive inside you — that restless, curious and slightly reckless energy you have when you still see the world as something to challenge. We never want to lose that.",
+          "” This is how vocalist and guitarist Elle Bertone explained the origins of the power rock duo's name, Little Boys. She added that part of the band’s ethos is holding onto curiosities that bring them to places they are yet to understand.",
+          "“In that sense, we still feel like little boys. ” It’s this state of mind that the Italian two-piece act is bringing to Korea with their extensive 16-show tour of Korea this September and October.",
+          "On stage, the duo goes beyond child’s play — turning that childlike spirit into something loud and unstoppable, creating a playground of their own. Bertone, a former classical pianist, opted to tinker wi..."
+        ],
+        "words": [
+          "italian",
+          "brings",
+          "little"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says Korea, Japan, others going to Alaska to 'load up' with oil, build pipelines",
+        "url": "https://www.koreatimes.co.kr/world/20260903/trump-says-korea-japan-others-going-to-alaska-to-load-up-with-oil-build-pipelines?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said Wednesday that South Korea, Japan and other countries are going to Alaska to \"load up with oil and build pipelines,\" as he highlighted his support for the state ahead of the November midterm elections. Trump made the remarks during a press availability at the White House, mentioning Sen. Dan Sullivan (R-AK) who is up for reelection. \"I definitely know nobody has helped Alaska like Donald Trump. We've invested billions and billions of dollars and created trillions of dollars in value,\" he said. \"You have Japan. You have South Korea. You have all of these people now going to Alaska to load up with fuel, load up with oil, build pipelines, everything else. Dan Sullivan's done a great job,\" he added, noting his intention to visit Alaska to help Republican candidates. The Trump administration has sought to elicit cooperation from South Korea, Japan...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said Wednesday that South Korea, Japan and other countries are going to Alaska to \"load up with oil and build pipelines,\" as he highlighted his support for the state ahead of the November midterm elections. Trump made the remarks during a press availability at the White House, mentioning Sen.",
+          "Dan Sullivan (R-AK) who is up for reelection. \"I definitely know nobody has helped Alaska like Donald Trump.",
+          "We've invested billions and billions of dollars and created trillions of dollars in value,\" he said. \"You have Japan.",
+          "You have South Korea. You have all of these people now going to Alaska to load up with fuel, load up with oil, build pipelines, everything else.",
+          "Dan Sullivan's done a great job,\" he added, noting his intention to visit Alaska to help Republican candidates. The Trump administration has sought to elicit cooperation from South Korea, Japan..."
+        ],
+        "words": [
+          "others",
+          "alaska",
+          "pipelines"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Solo queens crowd September's K-pop comeback race",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260903/solo-queens-crowd-septembers-k-pop-comeback-race?utm_source=rss",
+        "summary": "The heat has finally started to break, but nobody told the K-pop release calendar. September opens with Chung Ha, Kwon Eun-bi, Lisa and Jisoo all putting out new music in just a four day span, the densest run of solo releases by women in K-pop this year. The month only gets busier, with a long-delayed first full-length album, a debut EP, a band's second wave and a rapid-turnaround return from HYBE's girl group LE SSERAFIM still to come. Solo queens open the month Chung Ha started the run on Tuesday, releasing the digital single \"México\" through MORE VISION. It is her first new music since \"Save me,\" the birthday single she put out in February. Kwon Eun-bi then arrives Sept. 3 with the digital single \"DEJAVU,\" her first release in a year and four months. It is also her first since signing with RBW in April, after ending a long run with Woollim Entertainment at the end of March. RBW has be...",
+        "fullText": [
+          "The heat has finally started to break, but nobody told the K-pop release calendar. September opens with Chung Ha, Kwon Eun-bi, Lisa and Jisoo all putting out new music in just a four day span, the densest run of solo releases by women in K-pop this year.",
+          "The month only gets busier, with a long-delayed first full-length album, a debut EP, a band's second wave and a rapid-turnaround return from HYBE's girl group LE SSERAFIM still to come. Solo queens open the month Chung Ha started the run on Tuesday, releasing the digital single \"México\" through MORE VISION.",
+          "It is her first new music since \"Save me,\" the birthday single she put out in February. Kwon Eun-bi then arrives Sept.",
+          "3 with the digital single \"DEJAVU,\" her first release in a year and four months. It is also her first since signing with RBW in April, after ending a long run with Woollim Entertainment at the end of March.",
+          "RBW has be..."
+        ],
+        "words": [
+          "queens",
+          "september",
+          "comeback"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Kwon Eun-bi opens new chapter with 1st single since label move",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260903/kwon-eun-bi-opens-new-chapter-with-1st-single-since-label-move?utm_source=rss",
+        "summary": "K-pop singer Kwon Eun-bi has taken to numbering versions of herself. The first one, she said, was spent working out who she actually was. The second one starts Thursday. \"The Kwon Eun-bi at Woollim Entertainment was a time of getting to know myself,\" the singer said during an interview with The Korea Times at a cafe in Seoul's Gwangjin District, Monday. \"Going solo meant having to think hard about who I am, and that was quite difficult at the time. I'd had so little time alone that I hadn't thought about it much.\" The second, she said, \"feels like a fresh start, finally knowing what I enjoy doing.\" Some of what she found was smaller than expected. \"I discovered that I like little things more than I'd expected. Traveling abroad, meeting friends and giving out small gifts,\" she said. \"I was always the older sister, always the leader, so I lived pretending to be that person. Turns out I was...",
+        "fullText": [
+          "K-pop singer Kwon Eun-bi has taken to numbering versions of herself. The first one, she said, was spent working out who she actually was.",
+          "The second one starts Thursday. \"The Kwon Eun-bi at Woollim Entertainment was a time of getting to know myself,\" the singer said during an interview with The Korea Times at a cafe in Seoul's Gwangjin District, Monday.",
+          "\"Going solo meant having to think hard about who I am, and that was quite difficult at the time. I'd had so little time alone that I hadn't thought about it much.",
+          "\" The second, she said, \"feels like a fresh start, finally knowing what I enjoy doing. \" Some of what she found was smaller than expected.",
+          "\"I discovered that I like little things more than I'd expected. Traveling abroad, meeting friends and giving out small gifts,\" she said.",
+          "\"I was always the older sister, always the leader, so I lived pretending to be that person. Turns out I was..."
+        ],
+        "words": [
+          "eun-bi",
+          "chapter",
+          "single"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "RAS Korea lecture takes aim at early 20th-century vernacular Korean humor",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260903/ras-korea-lecture-takes-aim-at-early-20th-century-vernacular-korean-humor?utm_source=rss",
+        "summary": "There's a lot of information out there about Korean history, whether through academic study, historical sites or even period K-dramas. We know, or at least think we know, how society functioned, how people dressed, where they lived and so on. But was Korea ever funny? The history of humor in Korea has been largely overlooked by historians. When a visiting professor at Korea University introduced a 1916-published joke book to his class, it got the attention of G.S. Hand, then a grad student, now a professional literature translator. \"I decided to start translating these jokes the moment I saw them because they're hilarious — at least sometimes — and I don't think many people know about them,\" he said. \"Scholars of Korean modern literature usually study things from later than that, classical literature scholars usually study things from earlier, and neither group is all that interested in...",
+        "fullText": [
+          "There's a lot of information out there about Korean history, whether through academic study, historical sites or even period K-dramas. We know, or at least think we know, how society functioned, how people dressed, where they lived and so on.",
+          "But was Korea ever funny? The history of humor in Korea has been largely overlooked by historians.",
+          "When a visiting professor at Korea University introduced a 1916-published joke book to his class, it got the attention of G. S.",
+          "Hand, then a grad student, now a professional literature translator. \"I decided to start translating these jokes the moment I saw them because they're hilarious — at least sometimes — and I don't think many people know about them,\" he said.",
+          "\"Scholars of Korean modern literature usually study things from later than that, classical literature scholars usually study things from earlier, and neither group is all that interested in..."
+        ],
+        "words": [
+          "lecture",
+          "th-century",
+          "vernacular"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US pounds Iran, Tehran strikes back at bases in biggest exchange since July",
+        "url": "https://www.koreatimes.co.kr/world/20260903/us-pounds-iran-tehran-strikes-back-at-bases-in-biggest-exchange-since-july?utm_source=rss",
+        "summary": "WASHINGTON/DUBAI — Iranians and their Arab neighbours feared a return of war on Wednesday after the biggest exchange of fire between Tehran and Washington since July, with U.S. forces striking Iran's southern coast and Iran firing at American bases across the region. The United States threatened more devastating strikes. Iran accused Washington of hitting a wedding party, killing four people and wounding dozens. Its health minister later said 18 people in total had been killed and 108 injured in the latest wave of U.S. strikes. Asian and European stocks tumbled after the airstrikes, though Wall Street opened higher as investors focused instead on AI developments. Oil prices were marginally firmer in a volatile session that had earlier seen them hit levels not reached since July, amid concerns over the impact of the war on the global economy. 'Like the end of the world' The U.S. military...",
+        "fullText": [
+          "WASHINGTON/DUBAI — Iranians and their Arab neighbours feared a return of war on Wednesday after the biggest exchange of fire between Tehran and Washington since July, with U. S.",
+          "forces striking Iran's southern coast and Iran firing at American bases across the region. The United States threatened more devastating strikes.",
+          "Iran accused Washington of hitting a wedding party, killing four people and wounding dozens. Its health minister later said 18 people in total had been killed and 108 injured in the latest wave of U.",
+          "S. strikes.",
+          "Asian and European stocks tumbled after the airstrikes, though Wall Street opened higher as investors focused instead on AI developments. Oil prices were marginally firmer in a volatile session that had earlier seen them hit levels not reached since July, amid concerns over the impact of the war on the global economy.",
+          "'Like the end of the world' The U. S.",
+          "military..."
+        ],
+        "words": [
+          "pounds",
+          "tehran",
+          "strikes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "1 adult hurt, no kids harmed in Virginia elementary school shooting",
+        "url": "https://www.koreatimes.co.kr/world/20260903/1-adult-hurt-no-kids-harmed-in-virginia-elementary-school-shooting?utm_source=rss",
+        "summary": "An adult was wounded in a shooting at a Virginia elementary school Wednesday morning, according to an official who responded to the scene and confirmed no children were injured. Jim Wood, a Waynesboro city council member whose district includes Westwood Hills Elementary School, said in a phone interview that the shooting was an isolated event and that the shooter is no longer a threat. He declined to further elaborate on the suspect's status. “This is a one-on-one incident,” said Wood, who was at a nearby event Wednesday morning and went to the scene. He later went to a church, where he said children were being reunited with their families. The adult victim was taken to a hospital with injuries not considered life-threatening, Wood said. Robin Lawson, a spokeswoman for Virginia State Police, also confirmed that initial reports indicate one adult was injured and no children were harmed. W...",
+        "fullText": [
+          "An adult was wounded in a shooting at a Virginia elementary school Wednesday morning, according to an official who responded to the scene and confirmed no children were injured. Jim Wood, a Waynesboro city council member whose district includes Westwood Hills Elementary School, said in a phone interview that the shooting was an isolated event and that the shooter is no longer a threat.",
+          "He declined to further elaborate on the suspect's status. “This is a one-on-one incident,” said Wood, who was at a nearby event Wednesday morning and went to the scene.",
+          "He later went to a church, where he said children were being reunited with their families. The adult victim was taken to a hospital with injuries not considered life-threatening, Wood said.",
+          "Robin Lawson, a spokeswoman for Virginia State Police, also confirmed that initial reports indicate one adult was injured and no children were harmed. W..."
+        ],
+        "words": [
+          "harmed",
+          "virginia",
+          "elementary"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "label": "Wednesday, September 2, 2026",
     "title": "Korea News Brief",
