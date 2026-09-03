@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-04",
+    "label": "Friday, September 4, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea extends current account surplus in July amid strong exports",
+        "url": "https://www.koreatimes.co.kr/economy/20260904/korea-extends-current-account-surplus-in-july-amid-strong-exports?utm_source=rss",
+        "summary": "Korea posted a current account surplus in July, central bank data showed Friday, led by robust exports amid the global artificial intelligence (AI) boom. The current account surplus totaled $42 billion in July, down $7.65 billion from a month earlier, according to data from the Bank of Korea (BOK). Compared with the same month a year earlier, the figure jumped $30.1 billion. It marked the second-largest monthly figure following $49.73 billion set in June. It was also the highest for any July. The BOK said the goods account posted a surplus of $40.43 billion in July, as exports shot up 65.3 percent on-year to $100.4 billion. The central bank added the primary income account also logged a $4.35 billion surplus following an increase in the equity income. Korea has reported a current account surplus every month since May 2023, making July the 39th consecutive month the balance has remained i...",
+        "fullText": [
+          "Korea posted a current account surplus in July, central bank data showed Friday, led by robust exports amid the global artificial intelligence (AI) boom. The current account surplus totaled $42 billion in July, down $7.",
+          "65 billion from a month earlier, according to data from the Bank of Korea (BOK). Compared with the same month a year earlier, the figure jumped $30.",
+          "1 billion. It marked the second-largest monthly figure following $49.",
+          "73 billion set in June. It was also the highest for any July.",
+          "The BOK said the goods account posted a surplus of $40. 43 billion in July, as exports shot up 65.",
+          "3 percent on-year to $100. 4 billion.",
+          "The central bank added the primary income account also logged a $4. 35 billion surplus following an increase in the equity income.",
+          "Korea has reported a current account surplus every month since May 2023, making July the 39th consecutive month the balance has remained i..."
+        ],
+        "words": [
+          "extends",
+          "current",
+          "account"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Chip tariff talks with US based on understanding Korea won't be disadvantaged: Seoul official",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260904/chip-tariff-talks-with-us-based-on-understanding-korea-wont-be-disadvantaged-seoul-official?utm_source=rss",
+        "summary": "Korea's Industry Minister Kim Jung-kwan said Thursday that Seoul and Washington are continuing talks on U.S. semiconductor tariffs under the understanding that Korea would not be put at a disadvantage compared with its competitors. Kim made the remarks during a meeting with reporters at an event marking four U.S. companies' plans to invest in Korea, a day after U.S. Commerce Secretary Howard Lutnick said that President Donald Trump's administration is working to develop a \"targeted\" and \"thoughtful\" tariff policy for semiconductors. \"During tariff negotiations in October, the U.S. already said that it would not treat Korean semiconductors less favorably than those of its competitors,\" he said. \"I believe the two countries are continuing discussions in this spirit.\" The minister also pointed out the semiconductor-related portion of a joint fact sheet that Seoul and Washington published in...",
+        "fullText": [
+          "Korea's Industry Minister Kim Jung-kwan said Thursday that Seoul and Washington are continuing talks on U. S.",
+          "semiconductor tariffs under the understanding that Korea would not be put at a disadvantage compared with its competitors. Kim made the remarks during a meeting with reporters at an event marking four U.",
+          "S. companies' plans to invest in Korea, a day after U.",
+          "S. Commerce Secretary Howard Lutnick said that President Donald Trump's administration is working to develop a \"targeted\" and \"thoughtful\" tariff policy for semiconductors.",
+          "\"During tariff negotiations in October, the U. S.",
+          "already said that it would not treat Korean semiconductors less favorably than those of its competitors,\" he said. \"I believe the two countries are continuing discussions in this spirit.",
+          "\" The minister also pointed out the semiconductor-related portion of a joint fact sheet that Seoul and Washington published in..."
+        ],
+        "words": [
+          "tariff",
+          "understanding",
+          "disadvantaged"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Seoul to host inaugural intercontinental political party dialogue",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260904/seoul-to-host-inaugural-intercontinental-political-party-dialogue?utm_source=rss",
+        "summary": "Seoul will host the first-ever Inter-Continental Dialogue among Political Parties (ICDPP) from Sept. 6 to 9, bringing together up to 23 political parties from 24 countries across Asia, Africa, the Americas and Europe to explore how political organizations can jointly address growing global uncertainties. The inaugural conference, organized by the Secretariat of the International Conference of Asian Political Parties (ICAPP), is themed \"From Vision to Reality\" and will focus on frameworks for sustainable intercontinental cooperation. Participants are expected to adopt the Seoul Declaration, outlining a road map for future multilateral dialogue managed by the ICAPP. The conference will be chaired by Chung Eui-yong, a former Korean foreign minister and national security adviser under the Moon Jae-in administration. Standing committee members, including co-Chairman Mushahid Hussain Sayed of...",
+        "fullText": [
+          "Seoul will host the first-ever Inter-Continental Dialogue among Political Parties (ICDPP) from Sept. 6 to 9, bringing together up to 23 political parties from 24 countries across Asia, Africa, the Americas and Europe to explore how political organizations can jointly address growing global uncertainties.",
+          "The inaugural conference, organized by the Secretariat of the International Conference of Asian Political Parties (ICAPP), is themed \"From Vision to Reality\" and will focus on frameworks for sustainable intercontinental cooperation. Participants are expected to adopt the Seoul Declaration, outlining a road map for future multilateral dialogue managed by the ICAPP.",
+          "The conference will be chaired by Chung Eui-yong, a former Korean foreign minister and national security adviser under the Moon Jae-in administration. Standing committee members, including co-Chairman Mushahid Hussain Sayed of..."
+        ],
+        "words": [
+          "inaugural",
+          "intercontinental",
+          "political"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Presidential policy chief's exit fuels hopes for softer crypto regulation",
+        "url": "https://www.koreatimes.co.kr/economy/cryptocurrency/20260904/presidential-policy-chiefs-exit-fuels-hopes-for-softer-crypto-regulation?utm_source=rss",
+        "summary": "Korea’s cryptocurrency industry is weighing the prospect of regulatory relief following the sudden resignation of presidential chief of staff for policy Kim Yong-beom, who had aggressively pushed to curb major shareholder dominance in local crypto exchanges, industry officials said Thursday. Kim submitted his resignation Monday amid continued criticism that single-stock leveraged exchange-traded funds (ETFs) introduced in May under his leadership have been contributing to heightened stock market volatility. President Lee Jae Myung accepted his resignation Tuesday, with no successor named yet. Kim, a former senior financial bureaucrat who previously headed the crypto think tank Hashed Open Research, was initially expected to foster pro-industry regulations upon taking office in June 2025. Instead, his tenure saw a push to cap major exchange shareholders’ equity at 20 percent, which would...",
+        "fullText": [
+          "Korea’s cryptocurrency industry is weighing the prospect of regulatory relief following the sudden resignation of presidential chief of staff for policy Kim Yong-beom, who had aggressively pushed to curb major shareholder dominance in local crypto exchanges, industry officials said Thursday. Kim submitted his resignation Monday amid continued criticism that single-stock leveraged exchange-traded funds (ETFs) introduced in May under his leadership have been contributing to heightened stock market volatility.",
+          "President Lee Jae Myung accepted his resignation Tuesday, with no successor named yet. Kim, a former senior financial bureaucrat who previously headed the crypto think tank Hashed Open Research, was initially expected to foster pro-industry regulations upon taking office in June 2025.",
+          "Instead, his tenure saw a push to cap major exchange shareholders’ equity at 20 percent, which would..."
+        ],
+        "words": [
+          "presidential",
+          "policy",
+          "softer"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean shamanism terms",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260904/korean-shamanism-terms?utm_source=rss",
+        "summary": "• Musok and mugyo are common names for Korean shamanism. Musok is an older term associated with shamanism as a folk tradition, while mugyo is a newer term often used in more scholarly contexts. • Mudang is the gender-neutral term for shamans. The less common \"baksu\" refers exclusively to male practitioners. • Mansin is a respectful term for shamans, meaning “10,000 spirits.” • Sinbyeong, or “spirit sickness” is an illness experienced by someone who is called by spirits. It usually manifests as a period of poor health encompassing both physical and psychological symptoms, and improves once the person is initiated as a shaman. • Gangsinmu become shamans as the result of spirit possession. They are called to the practice after experiencing sinbyeong. • Seseupmu are shamans who inherit their positions, which are transmitted through families. They do not usually experience sinbyeong. • Gut ar...",
+        "fullText": [
+          "• Musok and mugyo are common names for Korean shamanism. Musok is an older term associated with shamanism as a folk tradition, while mugyo is a newer term often used in more scholarly contexts.",
+          "• Mudang is the gender-neutral term for shamans. The less common \"baksu\" refers exclusively to male practitioners.",
+          "• Mansin is a respectful term for shamans, meaning “10,000 spirits. ” • Sinbyeong, or “spirit sickness” is an illness experienced by someone who is called by spirits.",
+          "It usually manifests as a period of poor health encompassing both physical and psychological symptoms, and improves once the person is initiated as a shaman. • Gangsinmu become shamans as the result of spirit possession.",
+          "They are called to the practice after experiencing sinbyeong. • Seseupmu are shamans who inherit their positions, which are transmitted through families.",
+          "They do not usually experience sinbyeong. • Gut ar..."
+        ],
+        "words": [
+          "shamanism",
+          "common",
+          "associated"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[WEEKENDER] Korean shamanism spreads far beyond its homeland",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260904/weekender-korean-shamanism-spreads-far-beyond-its-homeland?utm_source=rss",
+        "summary": "As Korea has taken its place among the world leaders in technology, many facets of its traditional culture also have found their way to a global audience. Through a series of appearances in media and popular streaming content, Korean shamanism has achieved a a new level of global awareness in recent years. For some, the idea of Korean shamanism being a global entity began 20 years ago with the arrival of Andrea Kalff, a woman from Prien am Chiemsee, Germany, who became the very first European to become a Korean shaman. Kalff was raised in a Catholic family in Bavaria, with little knowledge or interest in any kind of shamanism, let alone the Korean version. “Since childhood, I had experienced unusual dreams, intuitive perceptions, illnesses that physicians could not explain and psychological crises that correspond to what Korean tradition understands as 'sinbyeong',” she explained, refere...",
+        "fullText": [
+          "As Korea has taken its place among the world leaders in technology, many facets of its traditional culture also have found their way to a global audience. Through a series of appearances in media and popular streaming content, Korean shamanism has achieved a a new level of global awareness in recent years.",
+          "For some, the idea of Korean shamanism being a global entity began 20 years ago with the arrival of Andrea Kalff, a woman from Prien am Chiemsee, Germany, who became the very first European to become a Korean shaman. Kalff was raised in a Catholic family in Bavaria, with little knowledge or interest in any kind of shamanism, let alone the Korean version.",
+          "“Since childhood, I had experienced unusual dreams, intuitive perceptions, illnesses that physicians could not explain and psychological crises that correspond to what Korean tradition understands as 'sinbyeong',” she explained, refere..."
+        ],
+        "words": [
+          "weekender",
+          "shamanism",
+          "spreads"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Who was Kim Keum-hwa?",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260904/who-was-kim-keum-hwa?utm_source=rss",
+        "summary": "Kim Keum-hwa (1931-2019) was a master shaman born in Jangyon, South Hwanghae Province, in what is now North Korea — a region once known for its rich shamanic traditions. Affected by \"sinbyeong\" (spirit sickness) as a child, she was taken to a local shaman where she soon began her apprenticeship as a \"gangsinmu\" (a \"spirit-conjuring\" shaman). Kim performed her first complete ritual at the age of 15, and by 20, she was renowned in her local area. She was forced to move south during the 1950-53 Korean War, though she did not stop her shaman practice during the tumultuous time. As a high-level \"mansin\" (\"10,000 spirits\"), her central shamanic god was General Cho, whom she regarded as her guardian spirit. In her ritual practice, Kim also invoked figures such as the Dragon King; the spirit of the big dipper; and the mountain spirit Sansin; as well as numerous other spirits and deities. Kim des...",
+        "fullText": [
+          "Kim Keum-hwa (1931-2019) was a master shaman born in Jangyon, South Hwanghae Province, in what is now North Korea — a region once known for its rich shamanic traditions. Affected by \"sinbyeong\" (spirit sickness) as a child, she was taken to a local shaman where she soon began her apprenticeship as a \"gangsinmu\" (a \"spirit-conjuring\" shaman).",
+          "Kim performed her first complete ritual at the age of 15, and by 20, she was renowned in her local area. She was forced to move south during the 1950-53 Korean War, though she did not stop her shaman practice during the tumultuous time.",
+          "As a high-level \"mansin\" (\"10,000 spirits\"), her central shamanic god was General Cho, whom she regarded as her guardian spirit. In her ritual practice, Kim also invoked figures such as the Dragon King; the spirit of the big dipper; and the mountain spirit Sansin; as well as numerous other spirits and deities.",
+          "Kim des..."
+        ],
+        "words": [
+          "keum-hwa",
+          "master",
+          "shaman"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "label": "Thursday, September 3, 2026",
     "title": "Korea News Brief",
