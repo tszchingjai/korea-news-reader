@@ -1,5 +1,151 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-05",
+    "label": "Saturday, September 5, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'10 SNUs' plan faces backlash over funding gap, selection process",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260905/10-snus-plan-faces-backlash-over-funding-gap-selection-process?utm_source=rss",
+        "summary": "The government's initiative to create “10 Seoul National Universities” is facing growing backlash following the selection of three universities for concentrated funding, prompting questions over the transparency of the selection process and concerns that the initiative could create a new hierarchy among regional national universities. The Ministry of Education on Tuesday selected Pusan National University, Chonnam National University and Chungnam National University as the first beneficiaries of the initiative. Each will receive 70 billion won ($51 million) in government funding to advance education in artificial intelligence and industries tied to regional strategic priorities. While the three selected universities will each receive roughly 100 billion won more in government funding than last year, the six other regional flagship national universities will receive only about 40 billion...",
+        "fullText": [
+          "The government's initiative to create “10 Seoul National Universities” is facing growing backlash following the selection of three universities for concentrated funding, prompting questions over the transparency of the selection process and concerns that the initiative could create a new hierarchy among regional national universities. The Ministry of Education on Tuesday selected Pusan National University, Chonnam National University and Chungnam National University as the first beneficiaries of the initiative.",
+          "Each will receive 70 billion won ($51 million) in government funding to advance education in artificial intelligence and industries tied to regional strategic priorities. While the three selected universities will each receive roughly 100 billion won more in government funding than last year, the six other regional flagship national universities will receive only about 40 billion..."
+        ],
+        "words": [
+          "backlash",
+          "funding",
+          "selection"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea can lead in AI for older people, UN expert says",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260905/korea-can-lead-in-ai-for-older-people-un-expert-says?utm_source=rss",
+        "summary": "Korea is uniquely positioned to lead global efforts to design and test more inclusive artificial intelligence (AI) systems for older people, combining its advanced technological capabilities with the world’s fastest-aging population, according to a U.N. expert. The country’s rapid technological development and equally fast demographic transition give it an unusual opportunity — and responsibility — to develop an age-inclusive model that can be adopted by other countries, said Zvezdan Pirtosek, the U.N. Independent Expert on the Enjoyment of All Human Rights by Older Persons. Korea became a super-aged society in late 2024, as people aged 65 and older accounted for more than 20 percent of the population. The share is expected to continue to rise as its total fertility rate remains the world’s lowest, at around 0.8. “I think Korea can lead discussions about these very, very important and ti...",
+        "fullText": [
+          "Korea is uniquely positioned to lead global efforts to design and test more inclusive artificial intelligence (AI) systems for older people, combining its advanced technological capabilities with the world’s fastest-aging population, according to a U. N.",
+          "expert. The country’s rapid technological development and equally fast demographic transition give it an unusual opportunity — and responsibility — to develop an age-inclusive model that can be adopted by other countries, said Zvezdan Pirtosek, the U.",
+          "N. Independent Expert on the Enjoyment of All Human Rights by Older Persons.",
+          "Korea became a super-aged society in late 2024, as people aged 65 and older accounted for more than 20 percent of the population. The share is expected to continue to rise as its total fertility rate remains the world’s lowest, at around 0.",
+          "8. “I think Korea can lead discussions about these very, very important and ti..."
+        ],
+        "words": [
+          "people",
+          "expert",
+          "uniquely"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "ASEM forum calls for age-inclusive AI",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260905/asem-forum-calls-for-age-inclusive-ai?utm_source=rss",
+        "summary": "Older people should be treated as rights-holders and active participants in the development and use of artificial intelligence (AI), rather than passive beneficiaries of technology or care, experts said at an international forum in Seoul on Wednesday. The forum, co-hosted by the ASEM Global Ageing Center, the National Human Rights Commission of Korea and the Korea office of Germany’s Friedrich Naumann Foundation for Freedom, brought together experts from international organizations, academia, civil society and government to discuss the opportunities and risks AI presents for ageing societies. Speakers said AI can help older people live independently, maintain social connections and access information and services but warned that the rapid spread of automated AI systems could also intensify age-based discrimination, digital exclusion, privacy risks and threats to individual autonomy. “AI...",
+        "fullText": [
+          "Older people should be treated as rights-holders and active participants in the development and use of artificial intelligence (AI), rather than passive beneficiaries of technology or care, experts said at an international forum in Seoul on Wednesday. The forum, co-hosted by the ASEM Global Ageing Center, the National Human Rights Commission of Korea and the Korea office of Germany’s Friedrich Naumann Foundation for Freedom, brought together experts from international organizations, academia, civil society and government to discuss the opportunities and risks AI presents for ageing societies.",
+          "Speakers said AI can help older people live independently, maintain social connections and access information and services but warned that the rapid spread of automated AI systems could also intensify age-based discrimination, digital exclusion, privacy risks and threats to individual autonomy. “AI..."
+        ],
+        "words": [
+          "age-inclusive",
+          "people",
+          "should"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Under new program, Korea preps Mongolian migrant workers before arrival",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260905/under-new-program-korea-preps-mongolian-migrant-workers-before-arrival?utm_source=rss",
+        "summary": "Long before Mongolian workers board their flights to Seoul, their preparation for Korea's fast-paced industrial shop floors will now begin at home in Ulaanbaatar — part of a new push by labor officials to prevent workplace accidents before foreign hires even touch down. The Korea Labor-Foundation (KLF) said Friday that Secretary-General Park Jong-pil was leading a four-day delegation to Ulaanbaatar, Mongolia, from Wednesday through Saturday to streamline the training and integration pipeline for Mongolian workers bound for Korean factories and job sites under the Employment Permit System (EPS). Rather than waiting for foreign laborers to undergo safety briefings after entering the country, the initiative links predeparture instruction in Mongolia directly with post-arrival orientation in Korea. By sharing standardized safety materials developed alongside the Korea Occupational Safety and...",
+        "fullText": [
+          "Long before Mongolian workers board their flights to Seoul, their preparation for Korea's fast-paced industrial shop floors will now begin at home in Ulaanbaatar — part of a new push by labor officials to prevent workplace accidents before foreign hires even touch down. The Korea Labor-Foundation (KLF) said Friday that Secretary-General Park Jong-pil was leading a four-day delegation to Ulaanbaatar, Mongolia, from Wednesday through Saturday to streamline the training and integration pipeline for Mongolian workers bound for Korean factories and job sites under the Employment Permit System (EPS).",
+          "Rather than waiting for foreign laborers to undergo safety briefings after entering the country, the initiative links predeparture instruction in Mongolia directly with post-arrival orientation in Korea. By sharing standardized safety materials developed alongside the Korea Occupational Safety and..."
+        ],
+        "words": [
+          "program",
+          "mongolian",
+          "migrant"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] Descending into Korea's first PC bangs",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260905/morning-calm-tales-descending-into-koreas-first-pc-bangs?utm_source=rss",
+        "summary": "The first time I went to a PC bang in Korea, it wasn’t for the internet. It was 1998, and I went with several of my students to play StarCraft, a game they raved about the way Americans talked about the Super Bowl. Like every other trend that swept the nation, PC bangs were appearing faster than a pop-up window on your computer screen. They were the cheapest way of accessing the internet in Korea, especially at the height of the Asian financial crisis. I knew what PC meant — personal computer. A bulky monitor and CPU that clicked and whirred, and occasionally froze for no reason. But “bang”? In Korea, bang means room, a simple word, functional and to the point. The PC bang we went to was located in a neighborhood of traditional shops, coffee houses, eateries, pharmacies and a traditional medicine shop with a strange-looking apparatus inside — less a pharmacy than a set piece from an old...",
+        "fullText": [
+          "The first time I went to a PC bang in Korea, it wasn’t for the internet. It was 1998, and I went with several of my students to play StarCraft, a game they raved about the way Americans talked about the Super Bowl.",
+          "Like every other trend that swept the nation, PC bangs were appearing faster than a pop-up window on your computer screen. They were the cheapest way of accessing the internet in Korea, especially at the height of the Asian financial crisis.",
+          "I knew what PC meant — personal computer. A bulky monitor and CPU that clicked and whirred, and occasionally froze for no reason.",
+          "But “bang”? In Korea, bang means room, a simple word, functional and to the point.",
+          "The PC bang we went to was located in a neighborhood of traditional shops, coffee houses, eateries, pharmacies and a traditional medicine shop with a strange-looking apparatus inside — less a pharmacy than a set piece from an old..."
+        ],
+        "words": [
+          "morning",
+          "descending",
+          "internet"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US, China gear up for mid-September AI safety talks",
+        "url": "https://www.koreatimes.co.kr/world/20260905/us-china-gear-up-for-mid-september-ai-safety-talks?utm_source=rss",
+        "summary": "BEIJING — The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters, as rapidly advancing frontier AI capabilities reach a global tipping point. The talks, the first official bilateral discussions devoted exclusively to AI between the U.S. and China since U.S. President Donald Trump took office for a second time, will be led by U.S. Treasury Secretary Scott Bessent on the U.S. side, the sources, who were briefed on the planning, said on condition of anonymity. Reuters is reporting the tentative mid-September period for the first time. A U.S. Treasury spokesperson said no meeting is planned. Trump and Chinese President Xi Jinping are due to meet on September 24 during a summit in Washington. The U.S. wants to discuss cooperation on monitoring AI-directed cyberattacks, and has floated a prop...",
+        "fullText": [
+          "BEIJING — The U. S.",
+          "and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters, as rapidly advancing frontier AI capabilities reach a global tipping point. The talks, the first official bilateral discussions devoted exclusively to AI between the U.",
+          "S. and China since U.",
+          "S. President Donald Trump took office for a second time, will be led by U.",
+          "S. Treasury Secretary Scott Bessent on the U.",
+          "S. side, the sources, who were briefed on the planning, said on condition of anonymity.",
+          "Reuters is reporting the tentative mid-September period for the first time. A U.",
+          "S. Treasury spokesperson said no meeting is planned.",
+          "Trump and Chinese President Xi Jinping are due to meet on September 24 during a summit in Washington. The U.",
+          "S. wants to discuss cooperation on monitoring AI-directed cyberattacks, and has floated a prop..."
+        ],
+        "words": [
+          "mid-september",
+          "safety",
+          "beijing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
+        "url": "https://www.koreatimes.co.kr/world/20260905/trump-says-if-the-fed-doesnt-cut-rates-hell-stop-trading-with-some-nations?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump on Friday said that unless the Federal Reserve cut interest rates, he would stop trading with countries with which the United States had a deficit. \"High interest rates put the U.S.A. at a very unfair disadvantage, and I won't allow that to happen!\" said Trump, who has repeatedly demanded that the Fed cut rates. The Bureau of Labor Statistics on Friday reported stronger-than-expected job creation in August, prompting traders to boost bets on a hike later this month. \"We should have the LOWEST RATE of any country in the World ... LOWER THE RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT,\" Trump said in a Truth Social post.",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump on Friday said that unless the Federal Reserve cut interest rates, he would stop trading with countries with which the United States had a deficit. \"High interest rates put the U.",
+          "S. A.",
+          "at a very unfair disadvantage, and I won't allow that to happen! \" said Trump, who has repeatedly demanded that the Fed cut rates.",
+          "The Bureau of Labor Statistics on Friday reported stronger-than-expected job creation in August, prompting traders to boost bets on a hike later this month. \"We should have the LOWEST RATE of any country in the World ...",
+          "LOWER THE RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT,\" Trump said in a Truth Social post."
+        ],
+        "words": [
+          "trading",
+          "nations",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-04",
     "label": "Friday, September 4, 2026",
     "title": "Korea News Brief",
