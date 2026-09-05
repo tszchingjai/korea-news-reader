@@ -1,5 +1,156 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-06",
+    "label": "Sunday, September 6, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Free canine hotels: Gangnam District's answer to Chuseok pet separation anxiety",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260906/free-canine-hotels-gangnam-districts-answer-to-chuseok-pet-separation-anxiety?utm_source=rss",
+        "summary": "When millions of Koreans take to the highways for Chuseok, the nation's autumn harvest festival — returning to their ancestral hometowns to perform traditional rites and share elaborate feasts with family — they typically face three major anxieties: gridlocked traffic, probing questions from relatives and deciding what to do with the dog. For residents of Gangnam District, the popular upscale area south of the Han River, the local government may not be able to help with probing questions from relatives, but it's stepping in to solve the canine conundrum. District officials said Friday that they will operate a free dog care shelter program during the upcoming holiday, offering up to five days of complimentary lodging for 50 eligible pups between Sept. 23 and Oct. 5. Gangnam is home to roughly 47,000 registered pets — the highest concentration of any district in Seoul. As Korea's birthrate...",
+        "fullText": [
+          "When millions of Koreans take to the highways for Chuseok, the nation's autumn harvest festival — returning to their ancestral hometowns to perform traditional rites and share elaborate feasts with family — they typically face three major anxieties: gridlocked traffic, probing questions from relatives and deciding what to do with the dog. For residents of Gangnam District, the popular upscale area south of the Han River, the local government may not be able to help with probing questions from relatives, but it's stepping in to solve the canine conundrum.",
+          "District officials said Friday that they will operate a free dog care shelter program during the upcoming holiday, offering up to five days of complimentary lodging for 50 eligible pups between Sept. 23 and Oct.",
+          "5. Gangnam is home to roughly 47,000 registered pets — the highest concentration of any district in Seoul.",
+          "As Korea's birthrate..."
+        ],
+        "words": [
+          "canine",
+          "hotels",
+          "gangnam"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[COVER STORY] Japan's shareholder activism boom: Benchmark for Korea, or cautionary tale?",
+        "url": "https://www.koreatimes.co.kr/economy/20260906/cover-story-japans-shareholder-activism-boom-benchmark-for-korea-or-cautionary-tale?utm_source=rss",
+        "summary": "Korea and Japan have long shared a corporate governance problem: companies in which insiders, such as founding families, wield outsized influence often at the expense of minority shareholders. Both governments have sought to shift that balance by strengthening shareholder rights and pressing companies to improve governance and capital efficiency. Japan moved first, introducing a stewardship code in 2014 and a corporate governance code the following year. The Tokyo Stock Exchange's 2023 directive urging management to be \"conscious of cost of capital and stock price\" gave activists a clearer framework for engagement. That supportive policy environment has helped turn Japan into one of the biggest markets for shareholder activism. The accompanying focus on capital efficiency has also helped underpin the rise in Japanese equities. Japan accounted for 56 percent of Asia's 205 activist campaig...",
+        "fullText": [
+          "Korea and Japan have long shared a corporate governance problem: companies in which insiders, such as founding families, wield outsized influence often at the expense of minority shareholders. Both governments have sought to shift that balance by strengthening shareholder rights and pressing companies to improve governance and capital efficiency.",
+          "Japan moved first, introducing a stewardship code in 2014 and a corporate governance code the following year. The Tokyo Stock Exchange's 2023 directive urging management to be \"conscious of cost of capital and stock price\" gave activists a clearer framework for engagement.",
+          "That supportive policy environment has helped turn Japan into one of the biggest markets for shareholder activism. The accompanying focus on capital efficiency has also helped underpin the rise in Japanese equities.",
+          "Japan accounted for 56 percent of Asia's 205 activist campaig..."
+        ],
+        "words": [
+          "shareholder",
+          "activism",
+          "benchmark"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[COVER STORY] From Tiger to Align, shareholder activism takes root in Korea",
+        "url": "https://www.koreatimes.co.kr/economy/20260906/cover-story-from-tiger-to-align-shareholder-activism-takes-root-in-korea?utm_source=rss",
+        "summary": "When a U.S. fund began challenging SK Telecom in 1999, corporate Korea was only beginning to learn what shareholder activism looked like. The country had only recently emerged from the depths of the Asian financial crisis, and its capital markets were opening rapidly to foreign investors. Tiger Management built a 6.6 percent stake in the country's largest wireless carrier and pressed for changes, including stronger external oversight and a greater say in how the company was run. The Chey family, one of Korea's chaebol dynasties and the controlling family behind SK Group, spent about 2 trillion won defending its grip on the group. Within months, Tiger had reaped about 630 billion won ($463.6 million) from selling its stake. The idea that an outside investor could buy into a major Korean company and publicly demand change was still novel — and deeply unsettling to many companies. Tiger's w...",
+        "fullText": [
+          "When a U. S.",
+          "fund began challenging SK Telecom in 1999, corporate Korea was only beginning to learn what shareholder activism looked like. The country had only recently emerged from the depths of the Asian financial crisis, and its capital markets were opening rapidly to foreign investors.",
+          "Tiger Management built a 6. 6 percent stake in the country's largest wireless carrier and pressed for changes, including stronger external oversight and a greater say in how the company was run.",
+          "The Chey family, one of Korea's chaebol dynasties and the controlling family behind SK Group, spent about 2 trillion won defending its grip on the group. Within months, Tiger had reaped about 630 billion won ($463.",
+          "6 million) from selling its stake. The idea that an outside investor could buy into a major Korean company and publicly demand change was still novel — and deeply unsettling to many companies.",
+          "Tiger's w..."
+        ],
+        "words": [
+          "shareholder",
+          "activism",
+          "challenging"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[RESTAURANT OF THE WEEK] Maple House returns strong after renovation",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260906/restaurant-of-the-week-maple-house-returns-strong-after-renovation?utm_source=rss",
+        "summary": "There's usually not much point in reviewing a restaurant a second time. I can only think of one restaurant that has been spotlighted in this column twice: CALI Kitchen, which got an initial rave in 2023 and then a farewell before closing a year later. The second Restaurant of the Week to wear that lofty accolade twice is going to be Maple House in central Seoul's Haebangchon, which was published almost two years ago. Formerly a Korean brunch cafe with an excellent food menu, it closed down a few months ago, and I probably wasn't the only one saddened. It reopened after a quick renovation, now taking on a bit more of the character of a Western-style diner, featuring great food — albeit with some changes. When factoring in price, quality and quantity, Maple House remains my favorite place for breakfast food in Seoul. The breakfast portion of the menu has been significantly expanded, provid...",
+        "fullText": [
+          "There's usually not much point in reviewing a restaurant a second time. I can only think of one restaurant that has been spotlighted in this column twice: CALI Kitchen, which got an initial rave in 2023 and then a farewell before closing a year later.",
+          "The second Restaurant of the Week to wear that lofty accolade twice is going to be Maple House in central Seoul's Haebangchon, which was published almost two years ago. Formerly a Korean brunch cafe with an excellent food menu, it closed down a few months ago, and I probably wasn't the only one saddened.",
+          "It reopened after a quick renovation, now taking on a bit more of the character of a Western-style diner, featuring great food — albeit with some changes. When factoring in price, quality and quantity, Maple House remains my favorite place for breakfast food in Seoul.",
+          "The breakfast portion of the menu has been significantly expanded, provid..."
+        ],
+        "words": [
+          "restaurant",
+          "returns",
+          "strong"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Long-term foreign resident exhibits 50 years of photography in Korea",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260906/long-term-foreign-resident-exhibits-50-years-of-photography-in-korea?utm_source=rss",
+        "summary": "After half a century spent living in Korea, U.S. photographer Tom Coyner is exhibiting his work at his first solo gallery exhibition. Fifteen framed prints, several unframed prints for sale and a large number of his photos displayed on a large monitor, dating back to his arrival with the Peace Corps in 1975, will be displayed at KOTE Gallery in central Seoul's Insa-dong neighborhood from Sept. 15-20. Coyner came to Korea in August 1975, starting off training English teachers at a rural middle school, and later developing an advanced English and American society course for the Ministry of Agriculture. Throughout his two-year stint, he was busy snapping pictures with his camera. \"It was an interesting challenge of temples, landscapes and people,\" he said of his photographic adventures in the 1970s. \"Much of the time, I waited impatiently for people to get out of the way of my temple shots,...",
+        "fullText": [
+          "After half a century spent living in Korea, U. S.",
+          "photographer Tom Coyner is exhibiting his work at his first solo gallery exhibition. Fifteen framed prints, several unframed prints for sale and a large number of his photos displayed on a large monitor, dating back to his arrival with the Peace Corps in 1975, will be displayed at KOTE Gallery in central Seoul's Insa-dong neighborhood from Sept.",
+          "15-20. Coyner came to Korea in August 1975, starting off training English teachers at a rural middle school, and later developing an advanced English and American society course for the Ministry of Agriculture.",
+          "Throughout his two-year stint, he was busy snapping pictures with his camera. \"It was an interesting challenge of temples, landscapes and people,\" he said of his photographic adventures in the 1970s.",
+          "\"Much of the time, I waited impatiently for people to get out of the way of my temple shots,..."
+        ],
+        "words": [
+          "long-term",
+          "foreign",
+          "resident"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US strikes 3 Iranian oil tankers after IRGC attack on American naval ship",
+        "url": "https://www.koreatimes.co.kr/world/20260906/us-strikes-3-iranian-oil-tankers-after-irgc-attack-on-american-naval-ship?utm_source=rss",
+        "summary": "DUBAI — U.S. forces struck three Iranian oil tankers on Saturday, U.S. Central Command said, including one off the coast of Kharg Island, near Iran's key oil export hub. The strikes were carried out after Iran's Islamic Revolutionary Guard Corps launched ballistic missiles at two U.S. Navy ships, Central Command said. “Let the message to the IRGC be clear: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours,\" said Admiral Brad Cooper, head of U.S. Central Command. Iran responded by threatening intensified strikes against U.S. military vessels in the region. \"If the evil, insecurity and harassment of Iranian ships and the naval blockade of Iran continue, the strikes of the Islamic Republic of Iran's armed forces against U.S. military vessels in the region will be more severe than before and there is a possibility of their expansion,\" I...",
+        "fullText": [
+          "DUBAI — U. S.",
+          "forces struck three Iranian oil tankers on Saturday, U. S.",
+          "Central Command said, including one off the coast of Kharg Island, near Iran's key oil export hub. The strikes were carried out after Iran's Islamic Revolutionary Guard Corps launched ballistic missiles at two U.",
+          "S. Navy ships, Central Command said.",
+          "“Let the message to the IRGC be clear: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours,\" said Admiral Brad Cooper, head of U. S.",
+          "Central Command. Iran responded by threatening intensified strikes against U.",
+          "S. military vessels in the region.",
+          "\"If the evil, insecurity and harassment of Iranian ships and the naval blockade of Iran continue, the strikes of the Islamic Republic of Iran's armed forces against U. S.",
+          "military vessels in the region will be more severe than before and there is a possibility of their expansion,\" I..."
+        ],
+        "words": [
+          "strikes",
+          "iranian",
+          "tankers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Iranian official warns Korea's Hormuz deployment would mean joining war",
+        "url": "https://www.koreatimes.co.kr/world/20260906/iranian-official-warns-koreas-hormuz-deployment-would-mean-joining-war?utm_source=rss",
+        "summary": "A senior Iranian official has warned South Korea against deploying military assets to the Strait of Hormuz, saying any action against Iran would be considered direct participation in the war. “Any South Korean involvement against Iran in the Strait of Hormuz would amount to direct military participation in the aggression and war against Iran,” the unnamed senior political and security official was quoted as saying by Al Mayadeen, a Lebanon-based news network aligned with Iran and Hezbollah, on Friday. The official also urged Seoul not to “sacrifice its interests and reputation” by supporting U.S. military operations. The warning comes as South Korea weighs a possible contribution to efforts to secure the key waterway amid growing pressure from Washington. Seoul said Friday that no decision has been made. A senior U.S. administration official said Washington was “still waiting for South K...",
+        "fullText": [
+          "A senior Iranian official has warned South Korea against deploying military assets to the Strait of Hormuz, saying any action against Iran would be considered direct participation in the war. “Any South Korean involvement against Iran in the Strait of Hormuz would amount to direct military participation in the aggression and war against Iran,” the unnamed senior political and security official was quoted as saying by Al Mayadeen, a Lebanon-based news network aligned with Iran and Hezbollah, on Friday.",
+          "The official also urged Seoul not to “sacrifice its interests and reputation” by supporting U. S.",
+          "military operations. The warning comes as South Korea weighs a possible contribution to efforts to secure the key waterway amid growing pressure from Washington.",
+          "Seoul said Friday that no decision has been made. A senior U.",
+          "S. administration official said Washington was “still waiting for South K..."
+        ],
+        "words": [
+          "iranian",
+          "official",
+          "hormuz"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "label": "Saturday, September 5, 2026",
     "title": "Korea News Brief",
