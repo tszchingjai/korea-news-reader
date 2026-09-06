@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-07",
+    "label": "Monday, September 7, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee arrives in France, set for summit with Macron in Paris",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260907/lee-arrives-in-france-set-for-summit-with-macron-in-paris?utm_source=rss",
+        "summary": "NICE, France — President Lee Jae Myung arrived in Nice, France, on Sunday on a four-day visit that will later take him to Paris for a bilateral summit with French President Emmanuel Macron. On Monday, Lee is set to attend the Lumiere Summit on the future of cinema in nearby Saint-Paul-de-Vence, where he and Macron will co-chair the event. On Tuesday, the Korean president will travel to Paris where he will make a two-day state visit. Shortly after arriving in Paris, Lee will hold a one-on-one luncheon with Macron, followed by their summit talks and a dinner banquet hosted by the French president and his wife, Brigitte Macron, at the Elysee Palace. On Wednesday, Lee will meet Yael Braun-Pivet, speaker of the lower house of the French parliament, and Mathias Cormann, secretary-general of the Organization for Economic Cooperation and Development (OECD), before heading home. Lee's trip to Fra...",
+        "fullText": [
+          "NICE, France — President Lee Jae Myung arrived in Nice, France, on Sunday on a four-day visit that will later take him to Paris for a bilateral summit with French President Emmanuel Macron. On Monday, Lee is set to attend the Lumiere Summit on the future of cinema in nearby Saint-Paul-de-Vence, where he and Macron will co-chair the event.",
+          "On Tuesday, the Korean president will travel to Paris where he will make a two-day state visit. Shortly after arriving in Paris, Lee will hold a one-on-one luncheon with Macron, followed by their summit talks and a dinner banquet hosted by the French president and his wife, Brigitte Macron, at the Elysee Palace.",
+          "On Wednesday, Lee will meet Yael Braun-Pivet, speaker of the lower house of the French parliament, and Mathias Cormann, secretary-general of the Organization for Economic Cooperation and Development (OECD), before heading home. Lee's trip to Fra..."
+        ],
+        "words": [
+          "arrives",
+          "france",
+          "summit"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Naver winds down services to bolster AI, commerce businesses",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20260907/naver-winds-down-services-to-bolster-ai-commerce-businesses?utm_source=rss",
+        "summary": "Naver is stepping up efforts to streamline its business portfolio by shutting down underperforming or slow-growing services and reallocating resources to artificial intelligence (AI), commerce and other higher-growth digital infrastructure. The internet giant recently announced that it will shut down its music streaming platform VIBE on Dec. 31, about eight years after its launch in June 2018, with new subscriptions and payments to be suspended from Nov. 27. The decision comes as VIBE struggled to gain traction in an increasingly competitive domestic music streaming market. According to the market tracker Wiseapp Retail, the platform’s monthly active users fell to 460,000 in June from around 1.5 million in 2023, putting it far behind YouTube Music, Spotify and Melon. Naver has already shifted toward partnerships with established platforms, adding Spotify’s premium plan to its Naver Plus...",
+        "fullText": [
+          "Naver is stepping up efforts to streamline its business portfolio by shutting down underperforming or slow-growing services and reallocating resources to artificial intelligence (AI), commerce and other higher-growth digital infrastructure. The internet giant recently announced that it will shut down its music streaming platform VIBE on Dec.",
+          "31, about eight years after its launch in June 2018, with new subscriptions and payments to be suspended from Nov. 27.",
+          "The decision comes as VIBE struggled to gain traction in an increasingly competitive domestic music streaming market. According to the market tracker Wiseapp Retail, the platform’s monthly active users fell to 460,000 in June from around 1.",
+          "5 million in 2023, putting it far behind YouTube Music, Spotify and Melon. Naver has already shifted toward partnerships with established platforms, adding Spotify’s premium plan to its Naver Plus..."
+        ],
+        "words": [
+          "services",
+          "bolster",
+          "commerce"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Busan-Taiwan flights surge as city captures Taiwanese tourists' hearts",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20260907/busan-taiwan-flights-surge-as-city-captures-taiwanese-tourists-hearts?utm_source=rss",
+        "summary": "Flights between Busan and Taiwan are surging as more Taiwanese tourists visit the southeastern port city, reflecting strong demand from Taiwan, Busan's top source of foreign tourists in recent years. According to Korea Airports Corp. aviation statistics released Sunday, a total of 6,609 flights operated between Busan and Taiwan this year through July, equaling the total for all of 2024 and already reaching 82.9 percent of the 7,976 flights recorded in 2025. Passenger traffic on the route reached more than 1.14 million through July this year, surpassing the 1.06 million passengers recorded in 2024 but slightly below the 1.33 million in 2025. Starlux Airlines and EVA Airways are among the Taiwanese carriers that have launched new routes to Busan, while Korean airlines have also increased their flights. The expansion is driven by the lack of traffic rights restrictions on the route, which l...",
+        "fullText": [
+          "Flights between Busan and Taiwan are surging as more Taiwanese tourists visit the southeastern port city, reflecting strong demand from Taiwan, Busan's top source of foreign tourists in recent years. According to Korea Airports Corp.",
+          "aviation statistics released Sunday, a total of 6,609 flights operated between Busan and Taiwan this year through July, equaling the total for all of 2024 and already reaching 82. 9 percent of the 7,976 flights recorded in 2025.",
+          "Passenger traffic on the route reached more than 1. 14 million through July this year, surpassing the 1.",
+          "06 million passengers recorded in 2024 but slightly below the 1. 33 million in 2025.",
+          "Starlux Airlines and EVA Airways are among the Taiwanese carriers that have launched new routes to Busan, while Korean airlines have also increased their flights. The expansion is driven by the lack of traffic rights restrictions on the route, which l..."
+        ],
+        "words": [
+          "busan-taiwan",
+          "flights",
+          "captures"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Tighter delisting rules put $5.9 bil. of retail money at risk",
+        "url": "https://www.koreatimes.co.kr/economy/20260907/tighter-delisting-rules-put-59-bil-of-retail-money-at-risk?utm_source=rss",
+        "summary": "More than 3 million retail investors hold penny stocks and low-market-cap shares that could be at risk of delisting as Korea tightens listing requirements, data showed Sunday. Their holdings were valued at nearly 8 trillion won ($5.9 billion). A total of 238 companies on the benchmark KOSPI and secondary Kosdaq either traded below 1,000 won a share or failed to meet minimum market capitalization requirements, according to the Korea Exchange. Of those, 61 were listed on the KOSPI and 177 on the Kosdaq, meaning the number of affected Kosdaq companies was nearly three times higher. These companies had a combined 3,126,710 retail shareholders, with their holdings valued at 7.85 trillion won, based on their latest annual reports, according to Rep. Park Min-kyu of the ruling Democratic Party of Korea, who obtained and released the data. The tally may include duplication because one investor ca...",
+        "fullText": [
+          "More than 3 million retail investors hold penny stocks and low-market-cap shares that could be at risk of delisting as Korea tightens listing requirements, data showed Sunday. Their holdings were valued at nearly 8 trillion won ($5.",
+          "9 billion). A total of 238 companies on the benchmark KOSPI and secondary Kosdaq either traded below 1,000 won a share or failed to meet minimum market capitalization requirements, according to the Korea Exchange.",
+          "Of those, 61 were listed on the KOSPI and 177 on the Kosdaq, meaning the number of affected Kosdaq companies was nearly three times higher. These companies had a combined 3,126,710 retail shareholders, with their holdings valued at 7.",
+          "85 trillion won, based on their latest annual reports, according to Rep. Park Min-kyu of the ruling Democratic Party of Korea, who obtained and released the data.",
+          "The tally may include duplication because one investor ca..."
+        ],
+        "words": [
+          "tighter",
+          "delisting",
+          "retail"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Game or combat sport? Inaugural virtual taekwondo competition draws fans at Asian Games",
+        "url": "https://www.koreatimes.co.kr/sports/20260907/game-or-combat-sport-inaugural-virtual-taekwondo-competition-draws-fans-at-asian-games?utm_source=rss",
+        "summary": "A competitor wearing a white taekwondo uniform stands barefoot on a mat. A virtual reality (VR) headset covers the athlete’s face, while five sensors are attached to the back, thighs and shins. The opponent stands in the same space, but several meters away. When the match begins, the two competitors exchange kicks without actually touching each other. Instead of watching the athletes on the mat, spectators watch their VR avatars on a screen. This is virtual taekwondo, which will make its official Asian Games debut at the 2026 Asian Games in Aichi-Nagoya, which open on Sept. 19. The sport was first introduced at the International Olympic Committee’s Olympic Esports Series in 2023 and has made its way into the Asian Games just three years later. Each competitor battles on a 4-meter-by-4-meter mat for 60 seconds, with matches decided by a best-of-three format. Much like Tekken, another espo...",
+        "fullText": [
+          "A competitor wearing a white taekwondo uniform stands barefoot on a mat. A virtual reality (VR) headset covers the athlete’s face, while five sensors are attached to the back, thighs and shins.",
+          "The opponent stands in the same space, but several meters away. When the match begins, the two competitors exchange kicks without actually touching each other.",
+          "Instead of watching the athletes on the mat, spectators watch their VR avatars on a screen. This is virtual taekwondo, which will make its official Asian Games debut at the 2026 Asian Games in Aichi-Nagoya, which open on Sept.",
+          "19. The sport was first introduced at the International Olympic Committee’s Olympic Esports Series in 2023 and has made its way into the Asian Games just three years later.",
+          "Each competitor battles on a 4-meter-by-4-meter mat for 60 seconds, with matches decided by a best-of-three format. Much like Tekken, another espo..."
+        ],
+        "words": [
+          "combat",
+          "inaugural",
+          "virtual"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "How was Roh Moo-hyun different from Lee Jae Myung?",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260907/how-was-roh-moo-hyun-different-from-lee-jae-myung?utm_source=rss",
+        "summary": "Former President Roh Moo-hyun remains a figure of the present in South Korean politics. He is still one of the pillars used to explain the identity of the ruling Democratic Party of Korea (DPK), while his name is repeatedly invoked to lend legitimacy to particular political factions or policy agendas. Ahead of the DPK’s national convention in August, candidates for party leadership competed to put forward their own interpretations of Roh, while even whether someone attended his funeral became a point of contention in debates over who could claim to be the party’s legitimate heir. The abolition of prosecutors’ supplementary investigative powers was also described as “a homework assignment left by the late president.” As different political forces invoke only the version of Roh that serves their own interests, concerns have grown that misconceptions about him are spreading and that younger...",
+        "fullText": [
+          "Former President Roh Moo-hyun remains a figure of the present in South Korean politics. He is still one of the pillars used to explain the identity of the ruling Democratic Party of Korea (DPK), while his name is repeatedly invoked to lend legitimacy to particular political factions or policy agendas.",
+          "Ahead of the DPK’s national convention in August, candidates for party leadership competed to put forward their own interpretations of Roh, while even whether someone attended his funeral became a point of contention in debates over who could claim to be the party’s legitimate heir. The abolition of prosecutors’ supplementary investigative powers was also described as “a homework assignment left by the late president.",
+          "” As different political forces invoke only the version of Roh that serves their own interests, concerns have grown that misconceptions about him are spreading and that younger..."
+        ],
+        "words": [
+          "moo-hyun",
+          "different",
+          "former"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Chuseok Ritual Table Costs Estimated at over 300,000 Won at Traditional Markets",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204057",
+        "summary": "[Economy] : The cost of preparing a traditional Chuseok ancestral ritual table at traditional markets has risen slightly from a year earlier, with a four‑person household expected to spend just over 300-thousand won, or about 220 U.S. dollars. Korea Price Information, a professional price research agency, said Sunday ... [more...]",
+        "fullText": [
+          "[Economy] : The cost of preparing a traditional Chuseok ancestral ritual table at traditional markets has risen slightly from a year earlier, with a four‑person household expected to spend just over 300-thousand won, or about 220 U. S.",
+          "dollars. Korea Price Information, a professional price research agency, said Sunday ...",
+          "[more... ]"
+        ],
+        "words": [
+          "chuseok",
+          "ritual",
+          "estimated"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-06",
     "label": "Sunday, September 6, 2026",
     "title": "Korea News Brief",
