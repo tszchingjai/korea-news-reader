@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-08",
+    "label": "Tuesday, September 8, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea's economy grows 0.6% in Q2, matching initial estimate: BOK",
+        "url": "https://www.koreatimes.co.kr/economy/20260908/koreas-economy-grows-06-in-q2-matching-initial-estimate-bok?utm_source=rss",
+        "summary": "The Korean economy grew 0.6 percent in the second quarter from a quarter earlier, driven by strong exports and investments related to artificial intelligence (AI), central bank data showed Tuesday. The country's real gross domestic product (GDP) — a key measure of economic growth -- rose 0.6 percent in the April-June period from three months earlier, according to preliminary data from the Bank of Korea (BOK). On a yearly basis, the economy expanded 3.7 percent in the second quarter, extending its growth momentum after expanding 3.8 percent on-year in the first quarter. The on-quarter figure matched the BOK's earlier estimate released last month, but it revised up growth in construction investment and intellectual property investment by 0.1 percentage point each, while cutting government consumption growth by 0.1 percentage point. The country's nominal GDP grew 9.2 percent in the three-mo...",
+        "fullText": [
+          "The Korean economy grew 0. 6 percent in the second quarter from a quarter earlier, driven by strong exports and investments related to artificial intelligence (AI), central bank data showed Tuesday.",
+          "The country's real gross domestic product (GDP) — a key measure of economic growth -- rose 0. 6 percent in the April-June period from three months earlier, according to preliminary data from the Bank of Korea (BOK).",
+          "On a yearly basis, the economy expanded 3. 7 percent in the second quarter, extending its growth momentum after expanding 3.",
+          "8 percent on-year in the first quarter. The on-quarter figure matched the BOK's earlier estimate released last month, but it revised up growth in construction investment and intellectual property investment by 0.",
+          "1 percentage point each, while cutting government consumption growth by 0. 1 percentage point.",
+          "The country's nominal GDP grew 9. 2 percent in the three-mo..."
+        ],
+        "words": [
+          "economy",
+          "matching",
+          "initial"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's science diplomacy in the age of technopolitics",
+        "url": "https://www.koreatimes.co.kr/opinion/20260908/koreas-science-diplomacy-in-the-age-of-technopolitics?utm_source=rss",
+        "summary": "The power of traditional geopolitics is being challenged in the 21st century. Territory, natural resources and military power have long constituted — and remain — the principal foundations of national influence. But technological capabilities are becoming just as important, and sometimes more so, in shaping the fate of nations as they amplify geopolitical advantages, compensate for traditional disadvantages or reshape the balance of power. Science historian Gabrielle Hecht developed the concept of “technopolitics” to describe how political objectives could be embedded in the design of nuclear technology. Today, it encompasses the broader convergence of geopolitics and technology: states increasingly develop, control and employ technology not simply as an industrial asset, but as an instrument of political, economic, diplomatic and security strategies. This shift has become increasingly e...",
+        "fullText": [
+          "The power of traditional geopolitics is being challenged in the 21st century. Territory, natural resources and military power have long constituted — and remain — the principal foundations of national influence.",
+          "But technological capabilities are becoming just as important, and sometimes more so, in shaping the fate of nations as they amplify geopolitical advantages, compensate for traditional disadvantages or reshape the balance of power. Science historian Gabrielle Hecht developed the concept of “technopolitics” to describe how political objectives could be embedded in the design of nuclear technology.",
+          "Today, it encompasses the broader convergence of geopolitics and technology: states increasingly develop, control and employ technology not simply as an industrial asset, but as an instrument of political, economic, diplomatic and security strategies. This shift has become increasingly e..."
+        ],
+        "words": [
+          "science",
+          "diplomacy",
+          "technopolitics"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Sea power is cornerstone of economic security",
+        "url": "https://www.koreatimes.co.kr/opinion/20260908/sea-power-is-cornerstone-of-economic-security?utm_source=rss",
+        "summary": "As military tensions between the United States and Iran have intensified, global attention has once again turned to the Strait of Hormuz. Conflict in the Middle East is nothing new. However, this latest confrontation carries particular significance for Korea because its survival is directly linked to this narrow maritime passage. The Strait of Hormuz, connecting the Persian Gulf to the Gulf of Oman, stretches approximately 160 kilometers in length and narrows to only about 50 kilometers at its tightest point. However, nearly 20 percent of the world's seaborne crude oil passes through this strategic chokepoint. A substantial portion of Korea's imported crude oil also transits the strait. Any blockade or significant disruption to maritime traffic would immediately send shockwaves through the Korean economy. Korea ranks among the world's top economies, yet it remains a classic maritime trad...",
+        "fullText": [
+          "As military tensions between the United States and Iran have intensified, global attention has once again turned to the Strait of Hormuz. Conflict in the Middle East is nothing new.",
+          "However, this latest confrontation carries particular significance for Korea because its survival is directly linked to this narrow maritime passage. The Strait of Hormuz, connecting the Persian Gulf to the Gulf of Oman, stretches approximately 160 kilometers in length and narrows to only about 50 kilometers at its tightest point.",
+          "However, nearly 20 percent of the world's seaborne crude oil passes through this strategic chokepoint. A substantial portion of Korea's imported crude oil also transits the strait.",
+          "Any blockade or significant disruption to maritime traffic would immediately send shockwaves through the Korean economy. Korea ranks among the world's top economies, yet it remains a classic maritime trad..."
+        ],
+        "words": [
+          "cornerstone",
+          "economic",
+          "security"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Trump says Canada's Bombardier cannot sell in US unless it builds there",
+        "url": "https://www.koreatimes.co.kr/world/20260908/trump-says-canadas-bombardier-cannot-sell-in-us-unless-it-builds-there?utm_source=rss",
+        "summary": "WASHINGTON — President Donald Trump said on Monday that Canadian private jet maker Bombardier would no longer be allowed to sell its planes in the United States unless it started manufacturing in the country. \"NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough!\" Trump said in a post on Truth Social. \"If they want our Market, they must build here, and stop treating America like a 'piggybank',” he said. Trump's post comes amid a growing trade dispute between Washington and Ottawa, one of many economic policies in his second term, especially a near global tariff-wall, that have drawn complaints from many US trading partners. Canada is set to introduce a wave of counter tariffs against the United States on Tuesday. The White House did not immediately respond to a request for comment on how Trump would enforce the action or the steps he would take to bar delive...",
+        "fullText": [
+          "WASHINGTON — President Donald Trump said on Monday that Canadian private jet maker Bombardier would no longer be allowed to sell its planes in the United States unless it started manufacturing in the country. \"NO MORE SELLING BOMBARDIER IN THE UNITED STATES!",
+          "Their products aren’t good enough! \" Trump said in a post on Truth Social.",
+          "\"If they want our Market, they must build here, and stop treating America like a 'piggybank',” he said. Trump's post comes amid a growing trade dispute between Washington and Ottawa, one of many economic policies in his second term, especially a near global tariff-wall, that have drawn complaints from many US trading partners.",
+          "Canada is set to introduce a wave of counter tariffs against the United States on Tuesday. The White House did not immediately respond to a request for comment on how Trump would enforce the action or the steps he would take to bar delive..."
+        ],
+        "words": [
+          "canada",
+          "bombardier",
+          "cannot"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Korean Park Ji-hyun joins new int'l basketball league",
+        "url": "https://www.koreatimes.co.kr/sports/20260908/korean-park-ji-hyun-joins-new-intl-basketball-league?utm_source=rss",
+        "summary": "Korean national team fixture and current Women's National Basketball Association (WNBA) player Park Ji-hyun has joined a startup international basketball league. Project B announced its signing of Park on Tuesday, while also unveiling plans to host training camp in Seoul in January next year ahead of its inaugural season. \"The decision to begin this chapter in Seoul reflects Project B's long-term commitment to Korea and its broader belief in Asia as a critical center of basketball's global future,\" said Geoff Prentice, co-founder and CEO of Project B, in a press release. \"We are proud to have the very best Korean players alongside the best players from around the world, bringing global talent together in a country with such a deep passion for the game.\" Project B is the new global league founded by Prentice and Grady Burnett, a former Google and Facebook executive. It is creating separat...",
+        "fullText": [
+          "Korean national team fixture and current Women's National Basketball Association (WNBA) player Park Ji-hyun has joined a startup international basketball league. Project B announced its signing of Park on Tuesday, while also unveiling plans to host training camp in Seoul in January next year ahead of its inaugural season.",
+          "\"The decision to begin this chapter in Seoul reflects Project B's long-term commitment to Korea and its broader belief in Asia as a critical center of basketball's global future,\" said Geoff Prentice, co-founder and CEO of Project B, in a press release. \"We are proud to have the very best Korean players alongside the best players from around the world, bringing global talent together in a country with such a deep passion for the game.",
+          "\" Project B is the new global league founded by Prentice and Grady Burnett, a former Google and Facebook executive. It is creating separat..."
+        ],
+        "words": [
+          "ji-hyun",
+          "basketball",
+          "league"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korean President Lee arrives in Paris for summit with Macron",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260908/korean-president-lee-arrives-in-paris-for-summit-with-macron?utm_source=rss",
+        "summary": "PARIS — Korean President Lee Jae Myung on Monday arrived in Paris, where he is set to hold a summit with French President Emmanuel Macron to discuss ways to enhance bilateral cooperation in security, the economy and other areas. Lee will make a two-day state visit to the French capital from Tuesday, when he will hold a luncheon and summit talks with Macron. Lee and Macron are expected to discuss cooperation in various areas, including security, the economy, science and technology, culture, and people-to-people exchanges, as the two countries mark the 140th anniversary of the establishment of diplomatic relations. Lee will head home Wednesday, wrapping up his four-day trip to France. He earlier visited France's Nice for a first-ever Korea-France summit on the future of the film industry, which he co-hosted with Macron.",
+        "fullText": [
+          "PARIS — Korean President Lee Jae Myung on Monday arrived in Paris, where he is set to hold a summit with French President Emmanuel Macron to discuss ways to enhance bilateral cooperation in security, the economy and other areas. Lee will make a two-day state visit to the French capital from Tuesday, when he will hold a luncheon and summit talks with Macron.",
+          "Lee and Macron are expected to discuss cooperation in various areas, including security, the economy, science and technology, culture, and people-to-people exchanges, as the two countries mark the 140th anniversary of the establishment of diplomatic relations. Lee will head home Wednesday, wrapping up his four-day trip to France.",
+          "He earlier visited France's Nice for a first-ever Korea-France summit on the future of the film industry, which he co-hosted with Macron."
+        ],
+        "words": [
+          "president",
+          "arrives",
+          "summit"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "New labor rules cloud Korea's chip project, draw fire from both sides",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260908/new-labor-rules-cloud-koreas-chip-project-draw-fire-from-both-sides?utm_source=rss",
+        "summary": "Korea’s new labor guidance, intended to draw a line between corporate management rights and workers’ collective bargaining rights, is instead drawing criticism from both sides, with its ambiguity casting doubt over major government-backed chip investment projects. This comes after the Ministry of Employment and Labor issued implementation guidance last week for what is known as the pro-labor “yellow envelope law.” According to the guidance, management decisions themselves — such as building or relocating plants, making overseas investments and adopting artificial intelligence — do not fall under mandatory collective bargaining or lawful industrial action. However, the guidance also says that bargaining and labor disputes may be possible when such decisions lead to concrete changes in employment conditions, including relocations of workers, changes in work arrangements or restructuring. T...",
+        "fullText": [
+          "Korea’s new labor guidance, intended to draw a line between corporate management rights and workers’ collective bargaining rights, is instead drawing criticism from both sides, with its ambiguity casting doubt over major government-backed chip investment projects. This comes after the Ministry of Employment and Labor issued implementation guidance last week for what is known as the pro-labor “yellow envelope law.",
+          "” According to the guidance, management decisions themselves — such as building or relocating plants, making overseas investments and adopting artificial intelligence — do not fall under mandatory collective bargaining or lawful industrial action. However, the guidance also says that bargaining and labor disputes may be possible when such decisions lead to concrete changes in employment conditions, including relocations of workers, changes in work arrangements or restructuring.",
+          "T..."
+        ],
+        "words": [
+          "project",
+          "guidance",
+          "intended"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "label": "Monday, September 7, 2026",
     "title": "Korea News Brief",
