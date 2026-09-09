@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-10",
+    "label": "Thursday, September 10, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "MiCo completes NEM Energy acquisition amid AI-driven gas power boom",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260910/mico-completes-nem-energy-acquisition-amid-ai-driven-gas-power-boom?utm_source=rss",
+        "summary": "MiCo Group has completed its acquisition of Dutch power equipment maker NEM Energy, seeking to capitalize on surging demand for gas-fired power plants as the rapid expansion of artificial intelligence (AI) and data centers strains electricity supplies in North America. MiCo said Tuesday that its subsidiary Hyundai Heavy Industries Power Systems (HPS) had completed payment for acquiring NEM Energy, formally closing the deal. The group plans to combine NEM Energy’s engineering expertise and global customer network with HPS’ large-scale manufacturing capabilities to strengthen its position in the gas-fired power market, particularly in North America. The acquisition comes as power availability has emerged as a critical constraint on the expansion of AI infrastructure. The construction of data centers for generative AI and cloud services is driving electricity demand sharply higher, while ut...",
+        "fullText": [
+          "MiCo Group has completed its acquisition of Dutch power equipment maker NEM Energy, seeking to capitalize on surging demand for gas-fired power plants as the rapid expansion of artificial intelligence (AI) and data centers strains electricity supplies in North America. MiCo said Tuesday that its subsidiary Hyundai Heavy Industries Power Systems (HPS) had completed payment for acquiring NEM Energy, formally closing the deal.",
+          "The group plans to combine NEM Energy’s engineering expertise and global customer network with HPS’ large-scale manufacturing capabilities to strengthen its position in the gas-fired power market, particularly in North America. The acquisition comes as power availability has emerged as a critical constraint on the expansion of AI infrastructure.",
+          "The construction of data centers for generative AI and cloud services is driving electricity demand sharply higher, while ut..."
+        ],
+        "words": [
+          "completes",
+          "energy",
+          "acquisition"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea Eximbank taps Africa's AI, minerals, infrastructure markets",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260910/korea-eximbank-taps-africas-ai-minerals-infrastructure-markets?utm_source=rss",
+        "summary": "The Export-Import Bank of Korea (Korea Eximbank) has signed a memorandum of understanding (MOU) with the African Development Bank (AfDB) to expand financial cooperation in Africa, the state-run lender said Thursday. The agreement was signed in Seoul the previous day by Korea Eximbank Chairman and CEO Hwang Ki-yeon and AfDB President Sidi Ould Tah on the sidelines of the 8th Korea-Africa Economic Cooperation (KOAFEC) Ministerial Conference. The KOAFEC Ministerial Conference is jointly hosted by Korea's Ministry of Finance and Economy, Korea Eximbank and the AfDB to promote economic cooperation between Korea and Africa. The MOU covers financing cooperation in several areas, including artificial intelligence (AI), digital transformation, critical mineral supply chains, and green and renewable energy infrastructure. The two institutions agreed to work together to expand financing for project...",
+        "fullText": [
+          "The Export-Import Bank of Korea (Korea Eximbank) has signed a memorandum of understanding (MOU) with the African Development Bank (AfDB) to expand financial cooperation in Africa, the state-run lender said Thursday. The agreement was signed in Seoul the previous day by Korea Eximbank Chairman and CEO Hwang Ki-yeon and AfDB President Sidi Ould Tah on the sidelines of the 8th Korea-Africa Economic Cooperation (KOAFEC) Ministerial Conference.",
+          "The KOAFEC Ministerial Conference is jointly hosted by Korea's Ministry of Finance and Economy, Korea Eximbank and the AfDB to promote economic cooperation between Korea and Africa. The MOU covers financing cooperation in several areas, including artificial intelligence (AI), digital transformation, critical mineral supply chains, and green and renewable energy infrastructure.",
+          "The two institutions agreed to work together to expand financing for project..."
+        ],
+        "words": [
+          "eximbank",
+          "africa",
+          "minerals"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Spotify committed to exporting K-culture, says APAC executive",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260910/spotify-committed-to-exporting-k-culture-says-apac-executive?utm_source=rss",
+        "summary": "Korea has become a cultural force for many movements today, and Spotify is committed to exporting K-culture globally, an executive from the music streaming platform said. Gautam Talwar, the general manager for Asia-Pacific (APAC) at Spotify, made the remarks in an exclusive interview with Yonhap News Agency in Seoul on Wednesday. \"Korea is a home base for creative expression. It's a cultural force,\" the executive said during the interview. \"We are seeing it in entertainment, in esports or webtoon ... Korea is punching above its weight.\" The ex-Disney executive said K-pop holds a special place in the music streaming platform's history, noting it was an early investor in the genre. In 2014, Spotify unveiled the first-of-its-kind playlist that eventually became home to the K-pop genre on the platform. Now K-pop has opened the door to the discovery of new artists and genres, he explained, as...",
+        "fullText": [
+          "Korea has become a cultural force for many movements today, and Spotify is committed to exporting K-culture globally, an executive from the music streaming platform said. Gautam Talwar, the general manager for Asia-Pacific (APAC) at Spotify, made the remarks in an exclusive interview with Yonhap News Agency in Seoul on Wednesday.",
+          "\"Korea is a home base for creative expression. It's a cultural force,\" the executive said during the interview.",
+          "\"We are seeing it in entertainment, in esports or webtoon ... Korea is punching above its weight.",
+          "\" The ex-Disney executive said K-pop holds a special place in the music streaming platform's history, noting it was an early investor in the genre. In 2014, Spotify unveiled the first-of-its-kind playlist that eventually became home to the K-pop genre on the platform.",
+          "Now K-pop has opened the door to the discovery of new artists and genres, he explained, as..."
+        ],
+        "words": [
+          "spotify",
+          "committed",
+          "exporting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "'Gambling with our lives': AI researcher quits Anthropic",
+        "url": "https://www.koreatimes.co.kr/world/20260910/gambling-with-our-lives-ai-researcher-quits-anthropic?utm_source=rss",
+        "summary": "SAN FRANCISCO — An artificial intelligence researcher who left OpenAI to join Anthropic has decided to leave the industry, accusing both U.S. companies of \"gambling with our lives\" in the race to develop AI models capable of self-improvement. Jacob Coxon, 27, spent the past three years pretraining AI models, first at OpenAI and then, this year, at its rival Anthropic, which he considered more cautious in its approach. Pretraining is the stage where AI models absorb vast quantities of data. \"Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives,\" Coxon said on Tuesday. \"The people building AI earnestly believe that it could kill us all by the end of the decade,\" he said in a post on X. \"This is not a marketing stunt,\" he added. Superintelligence is the theoretical point when AI's capabilities exceed human intelligen...",
+        "fullText": [
+          "SAN FRANCISCO — An artificial intelligence researcher who left OpenAI to join Anthropic has decided to leave the industry, accusing both U. S.",
+          "companies of \"gambling with our lives\" in the race to develop AI models capable of self-improvement. Jacob Coxon, 27, spent the past three years pretraining AI models, first at OpenAI and then, this year, at its rival Anthropic, which he considered more cautious in its approach.",
+          "Pretraining is the stage where AI models absorb vast quantities of data. \"Neither company is acting responsibly.",
+          "They are racing straight to self-improving superintelligence and gambling with our lives,\" Coxon said on Tuesday. \"The people building AI earnestly believe that it could kill us all by the end of the decade,\" he said in a post on X.",
+          "\"This is not a marketing stunt,\" he added. Superintelligence is the theoretical point when AI's capabilities exceed human intelligen..."
+        ],
+        "words": [
+          "gambling",
+          "researcher",
+          "anthropic"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Inside Spotify House Seoul — 3 floors built around the listener",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260910/inside-spotify-house-seoul-3-floors-built-around-the-listener?utm_source=rss",
+        "summary": "A vending machine is stocked with snacks the performers picked themselves. A telephone receiver that plays back a message recorded by whichever artist's number you dial. A Jenga set that assembles a playlist as it comes apart. Spotify has crammed all of this into a three-story building in Seongsu-dong in Seongdong District, one of Seoul's most bustling, trendiest neighborhoods. Spotify House Seoul, the streaming platform's largest Seoul edition to date, opens Thursday at Anderson C and runs through Sunday, with six themed zones spread across the three floors and a separate stage visible from each. Reporters were walked through the finished space Wednesday, the day before the doors were set to open. Live performances fill the first three nights, divided by genre; the closing day drops the concerts and keeps the rooms open. The building is basically a walk-in version of the app. The functi...",
+        "fullText": [
+          "A vending machine is stocked with snacks the performers picked themselves. A telephone receiver that plays back a message recorded by whichever artist's number you dial.",
+          "A Jenga set that assembles a playlist as it comes apart. Spotify has crammed all of this into a three-story building in Seongsu-dong in Seongdong District, one of Seoul's most bustling, trendiest neighborhoods.",
+          "Spotify House Seoul, the streaming platform's largest Seoul edition to date, opens Thursday at Anderson C and runs through Sunday, with six themed zones spread across the three floors and a separate stage visible from each. Reporters were walked through the finished space Wednesday, the day before the doors were set to open.",
+          "Live performances fill the first three nights, divided by genre; the closing day drops the concerts and keeps the rooms open. The building is basically a walk-in version of the app.",
+          "The functi..."
+        ],
+        "words": [
+          "inside",
+          "spotify",
+          "floors"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean arms firms need European joint ventures to expand NATO ties: Czech defense chief",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260910/korean-arms-firms-need-european-joint-ventures-to-expand-nato-ties-czech-defense-chief?utm_source=rss",
+        "summary": "Korean defense companies seeking to expand their ties with NATO member nations may need to establish joint ventures and local production partnerships in member states, following the model they have built in Poland, Czech Deputy Prime Minister and Defense Minister Jaromír Zůna said Monday. “Poland is not only buying (Korea’s K2 tanks). Basically, it is building industry around it in cooperation with South Korean businesses,” Zůna said during an interview with The Korea Times at the Czech Embassy in Seoul. “Poland is a prime example of how it should be done — basically creating a joint venture, transferring technology from South Korea to the European partner,” he said, noting that a number of European countries are considering the K2 as a potential main battle tank. Zůna was in Seoul to attend the Seoul Defense Dialogue, an annual multilateral security forum hosted by Korea’s Ministry of N...",
+        "fullText": [
+          "Korean defense companies seeking to expand their ties with NATO member nations may need to establish joint ventures and local production partnerships in member states, following the model they have built in Poland, Czech Deputy Prime Minister and Defense Minister Jaromír Zůna said Monday. “Poland is not only buying (Korea’s K2 tanks).",
+          "Basically, it is building industry around it in cooperation with South Korean businesses,” Zůna said during an interview with The Korea Times at the Czech Embassy in Seoul. “Poland is a prime example of how it should be done — basically creating a joint venture, transferring technology from South Korea to the European partner,” he said, noting that a number of European countries are considering the K2 as a potential main battle tank.",
+          "Zůna was in Seoul to attend the Seoul Defense Dialogue, an annual multilateral security forum hosted by Korea’s Ministry of N..."
+        ],
+        "words": [
+          "european",
+          "ventures",
+          "expand"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea's employment dilemma: Can older, younger workers really share job market?",
+        "url": "https://www.koreatimes.co.kr/economy/20260910/koreas-employment-dilemma-can-older-younger-workers-really-share-job-market?utm_source=rss",
+        "summary": "Korea’s labor market is caught in a generational dilemma. Young people continue to struggle to land their first jobs, while older workers are hoping to stay on the payroll for longer, as pension income often falls short of what they need for retirement. As the country rapidly ages, policymakers are pursuing a gradual increase in the statutory retirement age from 60 to 65. This prospect has raised a difficult question: Are older workers staying in the workforce at the expense of the younger generation’s first break? A recent survey by the Economic, Social and Labor Council, a presidential advisory body, found that 77 percent of 878 respondents believed Korea needed an employment system that could better accommodate both older and younger workers. But there is little consensus yet on what that would look like in practice. How can the country make room for two generations to coexist when th...",
+        "fullText": [
+          "Korea’s labor market is caught in a generational dilemma. Young people continue to struggle to land their first jobs, while older workers are hoping to stay on the payroll for longer, as pension income often falls short of what they need for retirement.",
+          "As the country rapidly ages, policymakers are pursuing a gradual increase in the statutory retirement age from 60 to 65. This prospect has raised a difficult question: Are older workers staying in the workforce at the expense of the younger generation’s first break?",
+          "A recent survey by the Economic, Social and Labor Council, a presidential advisory body, found that 77 percent of 878 respondents believed Korea needed an employment system that could better accommodate both older and younger workers. But there is little consensus yet on what that would look like in practice.",
+          "How can the country make room for two generations to coexist when th..."
+        ],
+        "words": [
+          "employment",
+          "dilemma",
+          "younger"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-08",
     "label": "Tuesday, September 8, 2026",
     "title": "Korea News Brief",
