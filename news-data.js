@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-11",
+    "label": "Friday, September 11, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea Eximbank steps up financial diplomacy with 10 African nations",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260911/korea-eximbank-steps-up-financial-diplomacy-with-10-african-nations?utm_source=rss",
+        "summary": "Hwang Ki-yeon, chairman and CEO of the Export-Import Bank of Korea (Korea Eximbank), held a series of high-level meetings with officials from 10 African countries in Seoul to discuss development projects and ways to support Korean companies seeking to enter the continent's growing markets, the bank said Friday. The meetings were held on the sidelines of the 8th Korea-Africa Economic Cooperation (KOAFEC) Ministerial Conference, which brought together government delegations from 45 African countries. Hwang met with the vice president of Botswana and finance ministers from Tanzania, Kenya, Rwanda, Ghana, Egypt, Uganda, Zimbabwe, Lesotho and Sierra Leone on Wednesday and Thursday. The talks covered each country's development needs, potential projects financed through the Economic Development Cooperation Fund (EDCF) and ways to facilitate Korean companies' participation in development project...",
+        "fullText": [
+          "Hwang Ki-yeon, chairman and CEO of the Export-Import Bank of Korea (Korea Eximbank), held a series of high-level meetings with officials from 10 African countries in Seoul to discuss development projects and ways to support Korean companies seeking to enter the continent's growing markets, the bank said Friday. The meetings were held on the sidelines of the 8th Korea-Africa Economic Cooperation (KOAFEC) Ministerial Conference, which brought together government delegations from 45 African countries.",
+          "Hwang met with the vice president of Botswana and finance ministers from Tanzania, Kenya, Rwanda, Ghana, Egypt, Uganda, Zimbabwe, Lesotho and Sierra Leone on Wednesday and Thursday. The talks covered each country's development needs, potential projects financed through the Economic Development Cooperation Fund (EDCF) and ways to facilitate Korean companies' participation in development project..."
+        ],
+        "words": [
+          "eximbank",
+          "financial",
+          "diplomacy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's next global advantage: Universities must become indispensable to society",
+        "url": "https://www.koreatimes.co.kr/opinion/20260911/koreas-next-global-advantage-universities-must-become-indispensable-to-society?utm_source=rss",
+        "summary": "Korean universities have spent decades building one of the world’s most impressive higher education systems, helping transform the country into a technology and economic powerhouse. But they now face a very different environment: a shrinking domestic student population, competition for talent, widening differences between Seoul and regional institutions and the rapid transformation of skills through AI. The next phase of competition will require universities to become more distinctive, globally connected and indispensable to society and to make that value visible. The data suggests why this matters. The number of Korean universities in the Times Higher Education (THE) World University Rankings increased from 36 in the 2022 edition to 41 in 2026, a 14 percent increase. But Asia grew by 53 percent and the global field by 32 percent. More significantly, Korea’s representation in the global...",
+        "fullText": [
+          "Korean universities have spent decades building one of the world’s most impressive higher education systems, helping transform the country into a technology and economic powerhouse. But they now face a very different environment: a shrinking domestic student population, competition for talent, widening differences between Seoul and regional institutions and the rapid transformation of skills through AI.",
+          "The next phase of competition will require universities to become more distinctive, globally connected and indispensable to society and to make that value visible. The data suggests why this matters.",
+          "The number of Korean universities in the Times Higher Education (THE) World University Rankings increased from 36 in the 2022 edition to 41 in 2026, a 14 percent increase. But Asia grew by 53 percent and the global field by 32 percent.",
+          "More significantly, Korea’s representation in the global..."
+        ],
+        "words": [
+          "global",
+          "advantage",
+          "universities"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[EXPLAINER] Jeonse: How Korea's homeownership shortcut turned into breeding ground for fraud",
+        "url": "https://www.koreatimes.co.kr/economy/20260911/explainer-jeonse-how-koreas-homeownership-shortcut-turned-into-breeding-ground-for-fraud?utm_source=rss",
+        "summary": "For decades, Korea’s unique “jeonse” rental system was widely seen as a natural stepping stone to homeownership. The system spread during the country’s breakneck economic growth in the 1970s. Under jeonse, tenants pay their landlord a large lump-sum deposit — often equivalent to 60 to 80 percent of the property’s value — instead of monthly rent. The deposit is returned in full when the lease ends, typically after two years. Such distinct rental arrangements took root in part because Korea’s formal housing finance market was still underdeveloped at the time. As rapid urbanization drove millions of people from rural areas into cities, demand for housing surged. But ordinary households had limited access to mortgages, as banks were largely focused on channeling credit into state-led industrial development projects. Jeonse effectively filled that gap as a private alternative to bank financin...",
+        "fullText": [
+          "For decades, Korea’s unique “jeonse” rental system was widely seen as a natural stepping stone to homeownership. The system spread during the country’s breakneck economic growth in the 1970s.",
+          "Under jeonse, tenants pay their landlord a large lump-sum deposit — often equivalent to 60 to 80 percent of the property’s value — instead of monthly rent. The deposit is returned in full when the lease ends, typically after two years.",
+          "Such distinct rental arrangements took root in part because Korea’s formal housing finance market was still underdeveloped at the time. As rapid urbanization drove millions of people from rural areas into cities, demand for housing surged.",
+          "But ordinary households had limited access to mortgages, as banks were largely focused on channeling credit into state-led industrial development projects. Jeonse effectively filled that gap as a private alternative to bank financin..."
+        ],
+        "words": [
+          "explainer",
+          "jeonse",
+          "homeownership"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Foreign victims shut out of Korea's 'jeonse' fraud relief efforts",
+        "url": "https://www.koreatimes.co.kr/economy/20260911/foreign-victims-shut-out-of-koreas-jeonse-fraud-relief-efforts?utm_source=rss",
+        "summary": "At the start of 2022, Nan Ming-ji, a 40-year-old with Chinese citizenship, moved with his parents into a home in Ansan, Gyeonggi Province. The family put down a 140 million won ($104,000) deposit — money his parents had saved since arriving in Korea two decades ago. It was no small sum. But under the country’s distinct “jeonse” system, such large upfront deposits have long been the norm. Instead of paying monthly rent, tenants put down a lump sum that is returned in full when the lease ends. For landlords, the deposits provide access to a large pool of capital they can invest or earn interest on. In October 2023, Nan’s father found a notice saying their home was being put up for auction. Just weeks later, the family learned that their landlord owned several other buildings in his wife’s and brother-in-law’s names. Those properties, too, had been flagged for auction. The family had fallen...",
+        "fullText": [
+          "At the start of 2022, Nan Ming-ji, a 40-year-old with Chinese citizenship, moved with his parents into a home in Ansan, Gyeonggi Province. The family put down a 140 million won ($104,000) deposit — money his parents had saved since arriving in Korea two decades ago.",
+          "It was no small sum. But under the country’s distinct “jeonse” system, such large upfront deposits have long been the norm.",
+          "Instead of paying monthly rent, tenants put down a lump sum that is returned in full when the lease ends. For landlords, the deposits provide access to a large pool of capital they can invest or earn interest on.",
+          "In October 2023, Nan’s father found a notice saying their home was being put up for auction. Just weeks later, the family learned that their landlord owned several other buildings in his wife’s and brother-in-law’s names.",
+          "Those properties, too, had been flagged for auction. The family had fallen..."
+        ],
+        "words": [
+          "foreign",
+          "victims",
+          "jeonse"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Is Trump's $5,000 'dividend' legal and how would it work?",
+        "url": "https://www.koreatimes.co.kr/world/20260911/is-trumps-5000-dividend-legal-and-how-would-it-work?utm_source=rss",
+        "summary": "President Donald Trump on Wednesday proposed a $5,000 \"Trump dividend\" payment to U.S. adults if his Republicans retain control of the House of Representatives and the Senate in the November 3 midterm elections. Here is what we know about Trump's pledge: Who would get the money and where would it come from? Trump said the checks would go to all adult U.S. citizens -- about 240 million people, according to the U.S. Census. That would cost a total of $1.2 trillion. Vice President JD Vance suggested on Fox News after Trump's speech that the U.S. government could draw on tariff revenue, which has been juiced by Trump's trade wars. The Congressional Budget Office estimates the government has taken in $167 billion so far in the fiscal year that ends September 30 -- not nearly enough to cover the cost of Trump's proposed giveaway. The payments would instead widen the government's budget gap, wh...",
+        "fullText": [
+          "President Donald Trump on Wednesday proposed a $5,000 \"Trump dividend\" payment to U. S.",
+          "adults if his Republicans retain control of the House of Representatives and the Senate in the November 3 midterm elections. Here is what we know about Trump's pledge: Who would get the money and where would it come from?",
+          "Trump said the checks would go to all adult U. S.",
+          "citizens -- about 240 million people, according to the U. S.",
+          "Census. That would cost a total of $1.",
+          "2 trillion. Vice President JD Vance suggested on Fox News after Trump's speech that the U.",
+          "S. government could draw on tariff revenue, which has been juiced by Trump's trade wars.",
+          "The Congressional Budget Office estimates the government has taken in $167 billion so far in the fiscal year that ends September 30 -- not nearly enough to cover the cost of Trump's proposed giveaway. The payments would instead widen the government's budget gap, wh..."
+        ],
+        "words": [
+          "dividend",
+          "president",
+          "donald"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "IMF sees 3% global growth in 2026, warns of high risks",
+        "url": "https://www.koreatimes.co.kr/world/20260911/imf-sees-3-global-growth-in-2026-warns-of-high-risks?utm_source=rss",
+        "summary": "WASHINGTON — The IMF said on Thursday the global economy had weathered the energy shock caused by the war in the Middle East better than feared and global economic output was still expected to expand by about 3 percent in 2026, but it cautioned that risks remained high. Julie Kozack, spokesperson for the International Monetary Fund, said oil and gas prices remained elevated and the energy shock from the war was not over. Global debt pressures were also mounting and the disinflation process over the 2022 cost of living crisis had stalled. Global inflationary expectations have risen but remain well-anchored over the longer run, Kozack told a regular IMF briefing. \"So far, despite six months of war in the Middle East, the global economy has been resilient,\" Kozack said, adding that the use of oil and gas reserves had allowed some countries to cope with energy shocks caused by the war, while...",
+        "fullText": [
+          "WASHINGTON — The IMF said on Thursday the global economy had weathered the energy shock caused by the war in the Middle East better than feared and global economic output was still expected to expand by about 3 percent in 2026, but it cautioned that risks remained high. Julie Kozack, spokesperson for the International Monetary Fund, said oil and gas prices remained elevated and the energy shock from the war was not over.",
+          "Global debt pressures were also mounting and the disinflation process over the 2022 cost of living crisis had stalled. Global inflationary expectations have risen but remain well-anchored over the longer run, Kozack told a regular IMF briefing.",
+          "\"So far, despite six months of war in the Middle East, the global economy has been resilient,\" Kozack said, adding that the use of oil and gas reserves had allowed some countries to cope with energy shocks caused by the war, while..."
+        ],
+        "words": [
+          "global",
+          "growth",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks",
+        "url": "https://www.koreatimes.co.kr/world/20260911/oil-surges-6-brent-and-us-crude-both-surpass-100-on-more-tanker-attacks?utm_source=rss",
+        "summary": "NEW YORK — Oil prices jumped more than 6 percent on Thursday, with both major benchmarks trading at over $100 a barrel as the biggest spike in attacks on shipping since the Iran war began fed worries among traders about further disruptions to already tight supplies. Brent crude futures settled up $6.42, or 6.34 percent, at $107.63 a barrel. U.S. oil topped $100 a barrel for the first time since May as West Texas Intermediate crude futures rose $6.43, or 6.69 percent, to $102.48. Both benchmarks hit their highest since May 19 and recorded their steepest increases in nearly two months. Iran-aligned Houthis seized control of Yemen's port of Mocha on Thursday, posing a further threat to Red Sea traffic, while Gulf traffic remains restricted through the Strait of Hormuz as tanker attacks in the region have intensified in recent days. Attacks from Yemen on Saudi energy facilities introduce a f...",
+        "fullText": [
+          "NEW YORK — Oil prices jumped more than 6 percent on Thursday, with both major benchmarks trading at over $100 a barrel as the biggest spike in attacks on shipping since the Iran war began fed worries among traders about further disruptions to already tight supplies. Brent crude futures settled up $6.",
+          "42, or 6. 34 percent, at $107.",
+          "63 a barrel. U.",
+          "S. oil topped $100 a barrel for the first time since May as West Texas Intermediate crude futures rose $6.",
+          "43, or 6. 69 percent, to $102.",
+          "48. Both benchmarks hit their highest since May 19 and recorded their steepest increases in nearly two months.",
+          "Iran-aligned Houthis seized control of Yemen's port of Mocha on Thursday, posing a further threat to Red Sea traffic, while Gulf traffic remains restricted through the Strait of Hormuz as tanker attacks in the region have intensified in recent days. Attacks from Yemen on Saudi energy facilities introduce a f..."
+        ],
+        "words": [
+          "surges",
+          "surpass",
+          "tanker"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "label": "Thursday, September 10, 2026",
     "title": "Korea News Brief",
