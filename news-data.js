@@ -1,5 +1,158 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-12",
+    "label": "Saturday, September 12, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Beyond choreography: K-pop performance directors step into spotlight",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260912/beyond-choreography-k-pop-performance-directors-step-into-spotlight?utm_source=rss",
+        "summary": "As K-pop acts take on increasingly ambitious performances at home and abroad, the people turning their music into a live spectacle are now stepping out from behind the scenes. Performance directors oversee nearly every visual element of a performance, from choreography and dancer formations to costumes, lighting and stage sets. Once largely seen as an extension of choreography in K-pop, the job is increasingly being recognized as a creative role of its own. That distinction has become visible enough to form an entire television competition. Mnet’s “Street World Fighter: Directors’ War,” which premiered Aug. 18, puts 10 established choreographers in competition not simply over who can create the best dance, but over who can best direct a complete performance. Instead of competing with their own dance crews, contestants vie to have their names credited as performance directors. The format...",
+        "fullText": [
+          "As K-pop acts take on increasingly ambitious performances at home and abroad, the people turning their music into a live spectacle are now stepping out from behind the scenes. Performance directors oversee nearly every visual element of a performance, from choreography and dancer formations to costumes, lighting and stage sets.",
+          "Once largely seen as an extension of choreography in K-pop, the job is increasingly being recognized as a creative role of its own. That distinction has become visible enough to form an entire television competition.",
+          "Mnet’s “Street World Fighter: Directors’ War,” which premiered Aug. 18, puts 10 established choreographers in competition not simply over who can create the best dance, but over who can best direct a complete performance.",
+          "Instead of competing with their own dance crews, contestants vie to have their names credited as performance directors. The format..."
+        ],
+        "words": [
+          "beyond",
+          "choreography",
+          "performance"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Taiwan-China row at Gwangju Biennale could have been avoided",
+        "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260912/taiwan-china-row-at-gwangju-biennale-could-have-been-avoided?utm_source=rss",
+        "summary": "JEONNAM-GWANGJU SPECIAL METROPOLITAN CITY — The \"Taiwan Pavilion\" dispute that overshadowed the opening of the 16th Gwangju Biennale last weekend wasn't a mere display of diplomatic tension between China and Taiwan that erupted randomly at an art event. It laid bare a deep-running problem with one of Asia’s best-known contemporary art event organizers and raised a question: Is the organizer's management system working? The biennale, launched in 1995 in the spirit of the May 18 Gwangju Democratic Uprising in 1980, has grown into Korea’s largest and Asia’s oldest and best contemporary art biennale. It has more than 10 billion won ($7.44 million) in public funding and related spending committed to each edition. Its 2026 operating budget was set at about 14.3 billion won, excluding a separate 1 billion won for replenishing its basic assets. It seems that the problem boils down to its precari...",
+        "fullText": [
+          "JEONNAM-GWANGJU SPECIAL METROPOLITAN CITY — The \"Taiwan Pavilion\" dispute that overshadowed the opening of the 16th Gwangju Biennale last weekend wasn't a mere display of diplomatic tension between China and Taiwan that erupted randomly at an art event. It laid bare a deep-running problem with one of Asia’s best-known contemporary art event organizers and raised a question: Is the organizer's management system working?",
+          "The biennale, launched in 1995 in the spirit of the May 18 Gwangju Democratic Uprising in 1980, has grown into Korea’s largest and Asia’s oldest and best contemporary art biennale. It has more than 10 billion won ($7.",
+          "44 million) in public funding and related spending committed to each edition. Its 2026 operating budget was set at about 14.",
+          "3 billion won, excluding a separate 1 billion won for replenishing its basic assets. It seems that the problem boils down to its precari..."
+        ],
+        "words": [
+          "taiwan-china",
+          "gwangju",
+          "biennale"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Korea's hottest new cultural exports take center stage at The Hyundai Seoul",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260912/koreas-hottest-new-cultural-exports-take-center-stage-at-the-hyundai-seoul?utm_source=rss",
+        "summary": "Forget cheap plastic keychains and generic refrigerator magnets. Korea is elevating the humble travel souvenir into a high-design art form, debuting its premier lineup of culturally rooted artisanal goods in the heart of Yeouido. Starting Friday, the Korea Tourism Organization (KTO) unveiled \"Korea Select 25,\" an exclusive 10-day showcase at The Hyundai Seoul running through Sept. 20. Staged on the department store’s lively fifth floor, the pop-up introduces the 25 winning entries of the 2026 Korea Tourism Souvenir Contest to the public for the first time. The crown jewel of this year’s competition — securing the prestigious Presidential Award — is a handcrafted brass tableware set titled \"The Brilliant Stage of Baudeogi, Unfolded on the Dining Table.\" Drawing inspiration from the traditional folding fans used by Baudeogi, Korea’s legendary 19th-century female folk performer from Anseong...",
+        "fullText": [
+          "Forget cheap plastic keychains and generic refrigerator magnets. Korea is elevating the humble travel souvenir into a high-design art form, debuting its premier lineup of culturally rooted artisanal goods in the heart of Yeouido.",
+          "Starting Friday, the Korea Tourism Organization (KTO) unveiled \"Korea Select 25,\" an exclusive 10-day showcase at The Hyundai Seoul running through Sept. 20.",
+          "Staged on the department store’s lively fifth floor, the pop-up introduces the 25 winning entries of the 2026 Korea Tourism Souvenir Contest to the public for the first time. The crown jewel of this year’s competition — securing the prestigious Presidential Award — is a handcrafted brass tableware set titled \"The Brilliant Stage of Baudeogi, Unfolded on the Dining Table.",
+          "\" Drawing inspiration from the traditional folding fans used by Baudeogi, Korea’s legendary 19th-century female folk performer from Anseong..."
+        ],
+        "words": [
+          "hottest",
+          "cultural",
+          "exports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Diesel prices surpass $6 average for first time in history",
+        "url": "https://www.koreatimes.co.kr/world/20260912/diesel-prices-surpass-6-average-for-first-time-in-history?utm_source=rss",
+        "summary": "The average price of diesel jumped over the $6 mark for the first time ever on Friday, setting the stage for broad price hikes in the United States. The national average hit $6.06 per gallon, surpassing the high watermark of $5.82 set in June 2022, AAA reported. The global supply chain's reliance on diesel fuel means rising prices are likely to raise costs in many other areas, including at the grocery store. Diesel prices are up by 55 percent since the United States and Israel launched strikes on Iran in February. It is on pace to record the largest annual percentage increase of all time this year. The war in Iran, coupled with the war between Russia and Ukraine, has created the global fuel market to lose about 8 percent of its diesel supply. \"Refiners have already been maximizing the production of diesel,\" Andy Lipow, president of Lipow Oil Associates, told CNN. \"We simply can't get any...",
+        "fullText": [
+          "The average price of diesel jumped over the $6 mark for the first time ever on Friday, setting the stage for broad price hikes in the United States. The national average hit $6.",
+          "06 per gallon, surpassing the high watermark of $5. 82 set in June 2022, AAA reported.",
+          "The global supply chain's reliance on diesel fuel means rising prices are likely to raise costs in many other areas, including at the grocery store. Diesel prices are up by 55 percent since the United States and Israel launched strikes on Iran in February.",
+          "It is on pace to record the largest annual percentage increase of all time this year. The war in Iran, coupled with the war between Russia and Ukraine, has created the global fuel market to lose about 8 percent of its diesel supply.",
+          "\"Refiners have already been maximizing the production of diesel,\" Andy Lipow, president of Lipow Oil Associates, told CNN. \"We simply can't get any..."
+        ],
+        "words": [
+          "diesel",
+          "prices",
+          "surpass"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "25 years after 9/11, Americans reflect on attack that changed a nation",
+        "url": "https://www.koreatimes.co.kr/world/20260912/25-years-after-911-americans-reflect-on-attack-that-changed-a-nation?utm_source=rss",
+        "summary": "NEW YORK/WASHINGTON — Americans marked the 25th anniversary of the September 11 attacks on Friday with sorrow and somber reflection, honoring the nearly 3,000 people killed when hijacked planes slammed into the World Trade Center, the Pentagon and a Pennsylvania field in a shocking attack that reverberates to this day. In New York, family members of the victims, many carrying pictures of their loved ones, joined Vice President JD Vance and four former U.S. presidents at Ground Zero in Lower Manhattan. The ceremony began, as always, at 8:46 a.m. ET (1246 GMT) with a moment of silence to mark the instant when American Airlines Flight 11 struck the World Trade Center's North Tower in what would become the deadliest attack ever on U.S. soil. Shortly after, victims' family members began reading aloud the names of all 2,977 people who died on September 11, as well as the six people killed in t...",
+        "fullText": [
+          "NEW YORK/WASHINGTON — Americans marked the 25th anniversary of the September 11 attacks on Friday with sorrow and somber reflection, honoring the nearly 3,000 people killed when hijacked planes slammed into the World Trade Center, the Pentagon and a Pennsylvania field in a shocking attack that reverberates to this day. In New York, family members of the victims, many carrying pictures of their loved ones, joined Vice President JD Vance and four former U.",
+          "S. presidents at Ground Zero in Lower Manhattan.",
+          "The ceremony began, as always, at 8:46 a. m.",
+          "ET (1246 GMT) with a moment of silence to mark the instant when American Airlines Flight 11 struck the World Trade Center's North Tower in what would become the deadliest attack ever on U. S.",
+          "soil. Shortly after, victims' family members began reading aloud the names of all 2,977 people who died on September 11, as well as the six people killed in t..."
+        ],
+        "words": [
+          "americans",
+          "reflect",
+          "attack"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Gold climbs on dip-buying, Fed rate hike bets rise after US inflation data",
+        "url": "https://www.koreatimes.co.kr/world/20260912/gold-climbs-on-dip-buying-fed-rate-hike-bets-rise-after-us-inflation-data?utm_source=rss",
+        "summary": "Gold prices firmed over 1 percent on Friday, rebounding from recent losses and finding a short-term floor despite strong U.S. inflation data bolstering expectations of an interest rate hike by the Federal Reserve next week. Spot gold rose 1.2 percent to $4,366.69 per ounce by 11:22 a.m. EDT (1522 GMT). The metal, however, was down about 1.4 percent for the week so far. \"Gold is recovering rapidly after a brief dip, as CPI data may be cementing expectations of a Fed rate hike next week. The volatility is somewhat muted, as market had a hike 70 percent priced in,\" said Tai Wong, an independent metals trader. \"Price action here suggests that gold is finding a short-term base after the recent retreat.\" U.S. gold futures gained 0.1 percent to $4,409.30. Prices fell nearly 2 percent on Thursday after the U.S. Producer Price Index data showed prices increased in line with expectations in August...",
+        "fullText": [
+          "Gold prices firmed over 1 percent on Friday, rebounding from recent losses and finding a short-term floor despite strong U. S.",
+          "inflation data bolstering expectations of an interest rate hike by the Federal Reserve next week. Spot gold rose 1.",
+          "2 percent to $4,366. 69 per ounce by 11:22 a.",
+          "m. EDT (1522 GMT).",
+          "The metal, however, was down about 1. 4 percent for the week so far.",
+          "\"Gold is recovering rapidly after a brief dip, as CPI data may be cementing expectations of a Fed rate hike next week. The volatility is somewhat muted, as market had a hike 70 percent priced in,\" said Tai Wong, an independent metals trader.",
+          "\"Price action here suggests that gold is finding a short-term base after the recent retreat. \" U.",
+          "S. gold futures gained 0.",
+          "1 percent to $4,409. 30.",
+          "Prices fell nearly 2 percent on Thursday after the U. S.",
+          "Producer Price Index data showed prices increased in line with expectations in August..."
+        ],
+        "words": [
+          "climbs",
+          "dip-buying",
+          "inflation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "'That's why we fight': Trump links 9/11 to Iran conflict",
+        "url": "https://www.koreatimes.co.kr/world/20260912/thats-why-we-fight-trump-links-911-to-iran-conflict?utm_source=rss",
+        "summary": "WASHINGTON — President Donald Trump vowed Friday that the United States would never forget the Sept. 11, 2001 attacks and suggested the country was continuing the \"war on terror\" 25 years later by fighting Iran. Speaking at the Pentagon after skipping the main 9/11 commemorations in New York, Republican Trump also hit out at domestic \"fanatics\" in an apparent swipe at Democrats. \"Today we renew the sacred oath that we first swore in their names a quarter of a century ago. We will never, ever forget. That's why we fight today,\" Trump said in a speech. \"We don't have a choice. There can only be victory. We fight hard. We fight to win,\" added the president, who was accompanied by First Lady Melania Trump. One of the jets hijacked on 9/11 hit the Pentagon in Washington, killing 184 people who were remembered by a single bell tolling as their names were read out. But presidents have previousl...",
+        "fullText": [
+          "WASHINGTON — President Donald Trump vowed Friday that the United States would never forget the Sept. 11, 2001 attacks and suggested the country was continuing the \"war on terror\" 25 years later by fighting Iran.",
+          "Speaking at the Pentagon after skipping the main 9/11 commemorations in New York, Republican Trump also hit out at domestic \"fanatics\" in an apparent swipe at Democrats. \"Today we renew the sacred oath that we first swore in their names a quarter of a century ago.",
+          "We will never, ever forget. That's why we fight today,\" Trump said in a speech.",
+          "\"We don't have a choice. There can only be victory.",
+          "We fight hard. We fight to win,\" added the president, who was accompanied by First Lady Melania Trump.",
+          "One of the jets hijacked on 9/11 hit the Pentagon in Washington, killing 184 people who were remembered by a single bell tolling as their names were read out. But presidents have previousl..."
+        ],
+        "words": [
+          "conflict",
+          "washington",
+          "president"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "label": "Friday, September 11, 2026",
     "title": "Korea News Brief",
