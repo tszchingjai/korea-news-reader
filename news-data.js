@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-13",
+    "label": "Sunday, September 13, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Law, Weather, Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Lee Chang-dong's 'Possible Love' wins Grand Jury Prize at Venice Film Festival",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260913/lee-chang-dongs-possible-love-wins-grand-jury-prize-at-venice-film-festival?utm_source=rss",
+        "summary": "Filmmaker Lee Chang-dong claimed the prestigious Silver Lion Gand Jury Prize at the 83rd Venice International Film Festival on Saturday (local time) with his latest feature \"Possible Love.\" The historic victory marks the second time a Korean movie has taken home the award at the world’s oldest film festival, following director Kim Ki-duk’s Golden Lion win with \"Pieta\" in 2012. It also brings closure to a long-standing Venice quest for Lee, who won the Silver Lion for Best Director 24 years ago with \"Oasis\" (2002). \"Possible Love,\" Lee’s first film since \"Burning\" in 2018, stood out as an early favorite. The movie was widely seen as a top contender, ahead of big-name entries like Werner Herzog’s \"Bucking Fastard,\" Lance Oppenheim’s \"Primetime\" and Danny Boyle’s opening film \"Ink.\" \"Possible Love\" centers on the unlikely encounter between two couples brought together through a documentary...",
+        "fullText": [
+          "Filmmaker Lee Chang-dong claimed the prestigious Silver Lion Gand Jury Prize at the 83rd Venice International Film Festival on Saturday (local time) with his latest feature \"Possible Love. \" The historic victory marks the second time a Korean movie has taken home the award at the world’s oldest film festival, following director Kim Ki-duk’s Golden Lion win with \"Pieta\" in 2012.",
+          "It also brings closure to a long-standing Venice quest for Lee, who won the Silver Lion for Best Director 24 years ago with \"Oasis\" (2002). \"Possible Love,\" Lee’s first film since \"Burning\" in 2018, stood out as an early favorite.",
+          "The movie was widely seen as a top contender, ahead of big-name entries like Werner Herzog’s \"Bucking Fastard,\" Lance Oppenheim’s \"Primetime\" and Danny Boyle’s opening film \"Ink. \" \"Possible Love\" centers on the unlikely encounter between two couples brought together through a documentary..."
+        ],
+        "words": [
+          "chang-dong",
+          "possible",
+          "venice"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "[3] Life at the American gold mines in northern Korea: When tigers reigned",
+        "url": "https://www.koreatimes.co.kr/opinion/20260913/3-life-at-the-american-gold-mines-in-northern-korea-when-tigers-reigned?utm_source=rss",
+        "summary": "Situated in the mountainous region of northern Korea, the Oriental Consolidated Mining Company (OCMC) was surrounded by rough, unforgiving terrain that was both isolated and beautiful. Many of the immediate rugged peaks were bare, their forests stripped by the concession’s incessant need for timber. Further away, other hills and mountains were still covered with trees and thick brush — a precarious sanctuary for deer and other small mammals. Pheasants, pigeons, ducks and geese, as well as various other species of bird, graced both the sky and, like the deer, the miners’ tables. Aside from the miners, there were other predators. Large birds of prey ruled the sky, while predators lurked in the forest, drawn by the plentiful game — and occasionally, humans were among their prey. Born in Busan in 1904, Charles John Pedersen, who later received a Nobel Prize, described his brief stay at the m...",
+        "fullText": [
+          "Situated in the mountainous region of northern Korea, the Oriental Consolidated Mining Company (OCMC) was surrounded by rough, unforgiving terrain that was both isolated and beautiful. Many of the immediate rugged peaks were bare, their forests stripped by the concession’s incessant need for timber.",
+          "Further away, other hills and mountains were still covered with trees and thick brush — a precarious sanctuary for deer and other small mammals. Pheasants, pigeons, ducks and geese, as well as various other species of bird, graced both the sky and, like the deer, the miners’ tables.",
+          "Aside from the miners, there were other predators. Large birds of prey ruled the sky, while predators lurked in the forest, drawn by the plentiful game — and occasionally, humans were among their prey.",
+          "Born in Busan in 1904, Charles John Pedersen, who later received a Nobel Prize, described his brief stay at the m..."
+        ],
+        "words": [
+          "american",
+          "northern",
+          "tigers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Owner's property division to change Smilegate's governance",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260913/owners-property-division-to-change-smilegates-governance?utm_source=rss",
+        "summary": "The ruling on Smilegate founder and chief vision officer Kwon Hyuk-bin’s divorce settlement is expected to bring changes to the company’s governance structure, which is currently based on Kwon’s full ownership. The Seoul Family Court on Wednesday ordered Kwon to transfer a 35 percent stake in the company to his wife, surnamed Lee, as part of property division. Although the two sides can appeal and the size of the stake could change, it is highly likely to alter the ownership structure Kwon has maintained since 2012. Smilegate had previously consisted of several separate entities, including Smilegate Holdings, Smilegate Entertainment which operates CrossFire, and Smilegate RPG, which operates Lost Ark. Earlier this year, however, the group merged the entities into a simpler structure fully owned by Kwon. Without public explanation on why he maintains full ownership, the structure has draw...",
+        "fullText": [
+          "The ruling on Smilegate founder and chief vision officer Kwon Hyuk-bin’s divorce settlement is expected to bring changes to the company’s governance structure, which is currently based on Kwon’s full ownership. The Seoul Family Court on Wednesday ordered Kwon to transfer a 35 percent stake in the company to his wife, surnamed Lee, as part of property division.",
+          "Although the two sides can appeal and the size of the stake could change, it is highly likely to alter the ownership structure Kwon has maintained since 2012. Smilegate had previously consisted of several separate entities, including Smilegate Holdings, Smilegate Entertainment which operates CrossFire, and Smilegate RPG, which operates Lost Ark.",
+          "Earlier this year, however, the group merged the entities into a simpler structure fully owned by Kwon. Without public explanation on why he maintains full ownership, the structure has draw..."
+        ],
+        "words": [
+          "property",
+          "division",
+          "change"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Gyeonggi Province partners with Naver to boost local pet product brands",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260913/gyeonggi-province-partners-with-naver-to-boost-local-pet-product-brands?utm_source=rss",
+        "summary": "In a country where pets are increasingly treated as full-fledged family members, Korea’s most populous province is stepping in to give local pet supply startups a digital boost. Gyeonggi Province said it has teamed up with Naver Happybean — the charitable and social impact arm of Korea’s dominant search engine operator — to launch Gyeonggi Petstar, a monthlong online showcase designed to connect homegrown pet businesses directly with consumers nationwide. Running through Oct. 11, the virtual storefront on Naver Happybean’s Empathy Store offers a curated selection of high-quality treats, pet essentials and walking accessories crafted by local small and medium-sized enterprises (SMEs). To entice shoppers, the platform is offering 30 percent discount coupons alongside extra Naver Pay point rewards. The initiative targets a fundamental hurdle for small businesses in Korea's crowded retail ma...",
+        "fullText": [
+          "In a country where pets are increasingly treated as full-fledged family members, Korea’s most populous province is stepping in to give local pet supply startups a digital boost. Gyeonggi Province said it has teamed up with Naver Happybean — the charitable and social impact arm of Korea’s dominant search engine operator — to launch Gyeonggi Petstar, a monthlong online showcase designed to connect homegrown pet businesses directly with consumers nationwide.",
+          "Running through Oct. 11, the virtual storefront on Naver Happybean’s Empathy Store offers a curated selection of high-quality treats, pet essentials and walking accessories crafted by local small and medium-sized enterprises (SMEs).",
+          "To entice shoppers, the platform is offering 30 percent discount coupons alongside extra Naver Pay point rewards. The initiative targets a fundamental hurdle for small businesses in Korea's crowded retail ma..."
+        ],
+        "words": [
+          "gyeonggi",
+          "province",
+          "partners"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Smilegate founder's divorce suit draws attention to game empire built in silence",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260913/smilegate-founders-divorce-suit-draws-attention-to-game-empire-built-in-silence?utm_source=rss",
+        "summary": "A Seoul court's ruling Wednesday on the divorce of Kwon Hyuk-bin, Smilegate’s founder and chief vision officer, drew major attention as it involved a record property division payout in Korea — an order for him to pay 2.55 trillion won ($1.91 billion) to his wife. Despite the record settlement amount and the company's megahit first-person shooter game CrossFire, little is known about Kwon, as he rarely makes public appearances, except for charity events. Smilegate, Korea’s fifth-largest game company by sales, is unlisted and wholly owned by Kwon, often called a game empire built in silence. Though Kwon maintains absolute control over the company, the court found that Smilegate’s founding and growth were not solely attributable to him. The bulk of the payout order is made up of Kwon’s 35 percent stake in the game company, worth 2.49 trillion won, and 65 billion won in cash, meaning the cou...",
+        "fullText": [
+          "A Seoul court's ruling Wednesday on the divorce of Kwon Hyuk-bin, Smilegate’s founder and chief vision officer, drew major attention as it involved a record property division payout in Korea — an order for him to pay 2. 55 trillion won ($1.",
+          "91 billion) to his wife. Despite the record settlement amount and the company's megahit first-person shooter game CrossFire, little is known about Kwon, as he rarely makes public appearances, except for charity events.",
+          "Smilegate, Korea’s fifth-largest game company by sales, is unlisted and wholly owned by Kwon, often called a game empire built in silence. Though Kwon maintains absolute control over the company, the court found that Smilegate’s founding and growth were not solely attributable to him.",
+          "The bulk of the payout order is made up of Kwon’s 35 percent stake in the game company, worth 2. 49 trillion won, and 65 billion won in cash, meaning the cou..."
+        ],
+        "words": [
+          "smilegate",
+          "founder",
+          "divorce"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "How Magok development changed southwestern Seoul's historical landscape",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260913/how-magok-development-changed-southwestern-seouls-historical-landscape?utm_source=rss",
+        "summary": "When I first moved to southwestern Seoul, near Gimpo International Airport, in 2003, the nearby Magok area was a large expanse of fields where rice and vegetables grew and egrets and weasels roamed. It was surrounded on many sides by apartment complexes that were built in the early 1990s, a time when much of Gangseo District was urbanized. Hints of the urban development to come were on the horizon, however. A long, deep gash in Magok’s fields marked where Seoul Metro Line 9 was under construction, and soon after it was covered over, another flurry of construction activity took place as ground broke on the Airport Express (AREX) line. The two lines came together at Magongnaru Station, though for years, the only evidence of its existence was a single, sealed-off subway exit in the middle of the fields. Despite its forlorn appearance in those days, these subway lines with their express trai...",
+        "fullText": [
+          "When I first moved to southwestern Seoul, near Gimpo International Airport, in 2003, the nearby Magok area was a large expanse of fields where rice and vegetables grew and egrets and weasels roamed. It was surrounded on many sides by apartment complexes that were built in the early 1990s, a time when much of Gangseo District was urbanized.",
+          "Hints of the urban development to come were on the horizon, however. A long, deep gash in Magok’s fields marked where Seoul Metro Line 9 was under construction, and soon after it was covered over, another flurry of construction activity took place as ground broke on the Airport Express (AREX) line.",
+          "The two lines came together at Magongnaru Station, though for years, the only evidence of its existence was a single, sealed-off subway exit in the middle of the fields. Despite its forlorn appearance in those days, these subway lines with their express trai..."
+        ],
+        "words": [
+          "development",
+          "changed",
+          "southwestern"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "No more fixating on numbers: Comedians open up about regaining weight",
+        "url": "https://www.koreatimes.co.kr/entertainment/20260913/no-more-fixating-on-numbers-comedians-open-up-about-regaining-weight?utm_source=rss",
+        "summary": "Comedians Hong Yoon-hwa and Kim Shin-young are opening up about regaining weight after major weight-loss journeys, showing how their priorities have shifted toward health and happiness rather than maintaining a certain number on the scale. Hong Yoon-hwa appeared as a special guest on SBS’ entertainment program “Same Bed, Different Dreams 2: You Are My Destiny” on Sept. 8. When Hong appeared on the show, fellow comedian Kim Sook pointed out her changed physique. Hong jokingly acknowledged the change while touching a gold bracelet on her wrist, saying, “It’s gotten a little tight, hasn’t it?” The bracelet was a gift from her husband, comedian Kim Min-ki, after Hong successfully lost 40 kilograms. At the time, Kim reportedly purchased the gold bracelet in a single payment for approximately 9.55 million won ($6,900), drawing considerable attention. The bracelet was seen fitting much more snu...",
+        "fullText": [
+          "Comedians Hong Yoon-hwa and Kim Shin-young are opening up about regaining weight after major weight-loss journeys, showing how their priorities have shifted toward health and happiness rather than maintaining a certain number on the scale. Hong Yoon-hwa appeared as a special guest on SBS’ entertainment program “Same Bed, Different Dreams 2: You Are My Destiny” on Sept.",
+          "8. When Hong appeared on the show, fellow comedian Kim Sook pointed out her changed physique.",
+          "Hong jokingly acknowledged the change while touching a gold bracelet on her wrist, saying, “It’s gotten a little tight, hasn’t it? ” The bracelet was a gift from her husband, comedian Kim Min-ki, after Hong successfully lost 40 kilograms.",
+          "At the time, Kim reportedly purchased the gold bracelet in a single payment for approximately 9. 55 million won ($6,900), drawing considerable attention.",
+          "The bracelet was seen fitting much more snu..."
+        ],
+        "words": [
+          "fixating",
+          "numbers",
+          "comedians"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "label": "Saturday, September 12, 2026",
     "title": "Korea News Brief",
