@@ -1,5 +1,141 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-14",
+    "label": "Monday, September 14, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Inter-Korea, Weather, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump downplays need to check AI development, says he doesn't want to cede edge to China",
+        "url": "https://www.koreatimes.co.kr/world/20260914/trump-downplays-need-to-check-ai-development-says-he-doesnt-want-to-cede-edge-to-china?utm_source=rss",
+        "summary": "DUBLIN — President Donald Trump on Sunday played down the need for his administration to check the development of artificial intelligence, saying he worried about ceding America’s edge over China in a global competition and that winning would help address the risks from the advancing technology. While acknowledging the need for some regulation, Trump provided no specifics about potential rules and attributed warnings about the technology moving too quickly and with little oversight to “negative forces” he did not identify, though industry pioneers have raised such concerns. “We can put guardrails, we can do this and that, but I think you have a lot of negative forces that are bringing it up that ... shouldn’t be bringing it up, and they’re bringing up things that won’t happen,” Trump told reporters during a weekend trip to Ireland . “But whoever wins with AI wins.” Asked later Sunday if...",
+        "fullText": [
+          "DUBLIN — President Donald Trump on Sunday played down the need for his administration to check the development of artificial intelligence, saying he worried about ceding America’s edge over China in a global competition and that winning would help address the risks from the advancing technology. While acknowledging the need for some regulation, Trump provided no specifics about potential rules and attributed warnings about the technology moving too quickly and with little oversight to “negative forces” he did not identify, though industry pioneers have raised such concerns.",
+          "“We can put guardrails, we can do this and that, but I think you have a lot of negative forces that are bringing it up that ... shouldn’t be bringing it up, and they’re bringing up things that won’t happen,” Trump told reporters during a weekend trip to Ireland .",
+          "“But whoever wins with AI wins. ” Asked later Sunday if..."
+        ],
+        "words": [
+          "downplays",
+          "development",
+          "dublin"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "New attacks in Hormuz, Saudi test nerves as war's spread worsens oil disruption",
+        "url": "https://www.koreatimes.co.kr/world/20260914/new-attacks-in-hormuz-saudi-test-nerves-as-wars-spread-worsens-oil-disruption?utm_source=rss",
+        "summary": "ADEN/DUBAI — New strikes on Saudi Arabia and on ships in the Gulf tested nerves in the Middle East on Sunday, after an attack on a Saudi oil pipeline and an advance by Yemen's Houthis threatened to worsen the wartime disruption to global energy supplies. Oil traders were expecting prices to rise again when markets reopen on Monday, following the weekend developments that jeopardise supplies from the world's biggest exporter, Saudi Arabia. The British maritime security agency UKMTO said on Sunday that a vessel had been struck by a projectile as it moved through the Strait of Hormuz, causing a fire and forcing the crew to be evacuated. Iran, for its part, said one person was killed and four crew wounded aboard an Iranian commercial vessel struck off its coast. In Saudi Arabia, state media released video of damage to homes and a mosque from the purported latest cross-border attack by the Ho...",
+        "fullText": [
+          "ADEN/DUBAI — New strikes on Saudi Arabia and on ships in the Gulf tested nerves in the Middle East on Sunday, after an attack on a Saudi oil pipeline and an advance by Yemen's Houthis threatened to worsen the wartime disruption to global energy supplies. Oil traders were expecting prices to rise again when markets reopen on Monday, following the weekend developments that jeopardise supplies from the world's biggest exporter, Saudi Arabia.",
+          "The British maritime security agency UKMTO said on Sunday that a vessel had been struck by a projectile as it moved through the Strait of Hormuz, causing a fire and forcing the crew to be evacuated. Iran, for its part, said one person was killed and four crew wounded aboard an Iranian commercial vessel struck off its coast.",
+          "In Saudi Arabia, state media released video of damage to homes and a mosque from the purported latest cross-border attack by the Ho..."
+        ],
+        "words": [
+          "attacks",
+          "hormuz",
+          "nerves"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea reports latest missile launches, calling it strike drill",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260914/n-korea-reports-latest-missile-launches-calling-it-strike-drill?utm_source=rss",
+        "summary": "North Korean state media reported Monday that Pyongyang has conducted a firepower strike drill involving combined units at all levels of the Korean People's Army. The report came after South Korea's Joint Chiefs of Staff (JCS) detected multiple ballistic missiles launched from the North's Wonsan area toward the East Sea on Saturday, a day after South Korea, the United States and Japan wrapped up a trilateral military exercise. \"Subunits selected from the five artillery and missile joint units participated in the drill,\" the Korean Central News Agency (KCNA) reported. \"The drill involved new combat systems such as attack drones of various kinds, tactical cruise missile, large-caliber thermal-pressure multiple rocket launcher and tactical ballistic missile.\"",
+        "fullText": [
+          "North Korean state media reported Monday that Pyongyang has conducted a firepower strike drill involving combined units at all levels of the Korean People's Army. The report came after South Korea's Joint Chiefs of Staff (JCS) detected multiple ballistic missiles launched from the North's Wonsan area toward the East Sea on Saturday, a day after South Korea, the United States and Japan wrapped up a trilateral military exercise.",
+          "\"Subunits selected from the five artillery and missile joint units participated in the drill,\" the Korean Central News Agency (KCNA) reported. \"The drill involved new combat systems such as attack drones of various kinds, tactical cruise missile, large-caliber thermal-pressure multiple rocket launcher and tactical ballistic missile.",
+          "\""
+        ],
+        "words": [
+          "reports",
+          "latest",
+          "missile"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Jeonnam-Gwangju universities launch semiconductor majors ahead of planned tech cluster",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260914/jeonnam-gwangju-universities-launch-semiconductor-majors-ahead-of-planned-tech-cluster?utm_source=rss",
+        "summary": "Universities in southwestern Korea are stepping up efforts to cultivate talent for emerging industries as government and private sector plans to build semiconductor and artificial intelligence (AI) clusters in the area take shape. Universities across Jeonnam-Gwangju Special Metropolitan City, including Chonnam National University, are launching new programs and expanding training in semiconductor and AI-related fields, backed by the government’s broader push to strengthen regional universities. Chonnam National University, recently selected for the government’s “10 Seoul National Universities” initiative, plans to establish a new college specializing in advanced industries with an annual intake of 300 students. Starting in March 2028, the college will offer programs in advanced semiconductors and future energy. The university also plans to provide student support comparable to that of Ko...",
+        "fullText": [
+          "Universities in southwestern Korea are stepping up efforts to cultivate talent for emerging industries as government and private sector plans to build semiconductor and artificial intelligence (AI) clusters in the area take shape. Universities across Jeonnam-Gwangju Special Metropolitan City, including Chonnam National University, are launching new programs and expanding training in semiconductor and AI-related fields, backed by the government’s broader push to strengthen regional universities.",
+          "Chonnam National University, recently selected for the government’s “10 Seoul National Universities” initiative, plans to establish a new college specializing in advanced industries with an annual intake of 300 students. Starting in March 2028, the college will offer programs in advanced semiconductors and future energy.",
+          "The university also plans to provide student support comparable to that of Ko..."
+        ],
+        "words": [
+          "jeonnam-gwangju",
+          "universities",
+          "launch"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Strategic leadership and successful reforms — key achievements in Uzbekistan's politics",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260914/strategic-leadership-and-successful-reforms-key-achievements-in-uzbekistans-politics?utm_source=rss",
+        "summary": "Over the past eight years, Uzbekistan has undergone a profound transformation, significantly strengthening its statehood, becoming more open to the outside world and confidently establishing itself as a reliable and constructive partner in the region. At the heart of these changes lies the strategic and visionary leadership of President Shavkat Mirziyoyev, which has served as the foundation for large-scale reforms and the beginning of a new era in the country’s political, social and economic life. From the very first days of his presidency, Mirziyoyev set a clear priority: the construction of a strong, just and open state, where the interests of the citizens are placed at the center. The reform program has encompassed nearly all areas of life, from improving public administration to modernizing the education system, from supporting entrepreneurship to strengthening social protection mech...",
+        "fullText": [
+          "Over the past eight years, Uzbekistan has undergone a profound transformation, significantly strengthening its statehood, becoming more open to the outside world and confidently establishing itself as a reliable and constructive partner in the region. At the heart of these changes lies the strategic and visionary leadership of President Shavkat Mirziyoyev, which has served as the foundation for large-scale reforms and the beginning of a new era in the country’s political, social and economic life.",
+          "From the very first days of his presidency, Mirziyoyev set a clear priority: the construction of a strong, just and open state, where the interests of the citizens are placed at the center. The reform program has encompassed nearly all areas of life, from improving public administration to modernizing the education system, from supporting entrepreneurship to strengthening social protection mech..."
+        ],
+        "words": [
+          "strategic",
+          "leadership",
+          "successful"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul Design International Forum to explore life-centered urban future",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260914/seoul-design-international-forum-to-explore-life-centered-urban-future?utm_source=rss",
+        "summary": "Seoul will bring together architects, designers, scientists and urban policy experts this week to explore how a life-centered approach to design can shape more vital cities. The 2026 Seoul Design International Forum will be held on Tuesday at Dongdaemun Design Plaza under the theme, “Vital Cities: Designing New Possibilities for Life.” The free event will run from 1 p.m. to 6 p.m. and will be livestreamed through the Seoul Metropolitan Government’s Korean- and English-language YouTube channels. The forum, now in its seventh year, comes as the capital seeks to broaden its approach from human-centered design to what city officials describe as life-centered design — an approach that considers people alongside plants, animals and other living things that coexist in urban spaces. “Human-centered design has long been important, but there is now growing discussion of life-centered design, a con...",
+        "fullText": [
+          "Seoul will bring together architects, designers, scientists and urban policy experts this week to explore how a life-centered approach to design can shape more vital cities. The 2026 Seoul Design International Forum will be held on Tuesday at Dongdaemun Design Plaza under the theme, “Vital Cities: Designing New Possibilities for Life.",
+          "” The free event will run from 1 p. m.",
+          "to 6 p. m.",
+          "and will be livestreamed through the Seoul Metropolitan Government’s Korean- and English-language YouTube channels. The forum, now in its seventh year, comes as the capital seeks to broaden its approach from human-centered design to what city officials describe as life-centered design — an approach that considers people alongside plants, animals and other living things that coexist in urban spaces.",
+          "“Human-centered design has long been important, but there is now growing discussion of life-centered design, a con..."
+        ],
+        "words": [
+          "design",
+          "international",
+          "explore"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Can Chinese entertainment surpass Korean wave in Southeast Asia?",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260914/can-chinese-entertainment-surpass-korean-wave-in-southeast-asia?utm_source=rss",
+        "summary": "Union Mall, a major shopping center in Bangkok’s Lat Phrao district, is widely considered one of the city’s most popular hangouts for fans of K-pop and Korean culture, with a nonstop stream of fan-organized events and advertisements celebrating Korean stars. But a visit last Sunday offered a glimpse of something else: the growing influence of Chinese entertainment challenging Korean content’s dominance. LED screens on six towering pillars stretching from the first to the sixth floor were covered with images of one man: Yang Yang, a top Chinese actor known as one of the country’s “Big Four.” To celebrate his birthday on Wednesday, his Thai fan community, known as “Yangmao,” or “wool,” had rented every digital advertising screen in the mall. A birthday pop-up booth was set up in a prime spot next to the escalator. Fans wearing T-shirts bearing Yang Yang’s face took photos of themselves in...",
+        "fullText": [
+          "Union Mall, a major shopping center in Bangkok’s Lat Phrao district, is widely considered one of the city’s most popular hangouts for fans of K-pop and Korean culture, with a nonstop stream of fan-organized events and advertisements celebrating Korean stars. But a visit last Sunday offered a glimpse of something else: the growing influence of Chinese entertainment challenging Korean content’s dominance.",
+          "LED screens on six towering pillars stretching from the first to the sixth floor were covered with images of one man: Yang Yang, a top Chinese actor known as one of the country’s “Big Four. ” To celebrate his birthday on Wednesday, his Thai fan community, known as “Yangmao,” or “wool,” had rented every digital advertising screen in the mall.",
+          "A birthday pop-up booth was set up in a prime spot next to the escalator. Fans wearing T-shirts bearing Yang Yang’s face took photos of themselves in..."
+        ],
+        "words": [
+          "chinese",
+          "entertainment",
+          "surpass"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "label": "Sunday, September 13, 2026",
     "title": "Korea News Brief",
