@@ -1,5 +1,151 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-15",
+    "label": "Tuesday, September 15, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US judge blocks Trump's move to limit duration of stay for foreign students, journalists: report",
+        "url": "https://www.koreatimes.co.kr/world/20260915/us-judge-blocks-trumps-move-to-limit-duration-of-stay-for-foreign-students-journalists-report?utm_source=rss",
+        "summary": "WASHINGTON — A U.S. federal judge on Monday blocked U.S. President Donald Trump's administration from enforcing a new rule restricting how long foreign students, journalists and other nonimmigrants can stay in the United States without a visa extension, according to a report. U.S. District Judge F. Dennis Saylor in Boston issued the ruling, Reuters reported, a day before the Trump administration was set to start implementing the rule, which was expected to affect more than 13,000 Koreans currently in the U.S. under visa programs subject to the rule. The Department of Homeland Security unveiled the rule in July to address what it called \"visa abuse\" by foreign students, exchange visitors and media representatives, as the administration doubled down on its immigration crackdown. Under the rule, the administration was to cap the duration of stay for nonimmigrant students on F visas and exch...",
+        "fullText": [
+          "WASHINGTON — A U. S.",
+          "federal judge on Monday blocked U. S.",
+          "President Donald Trump's administration from enforcing a new rule restricting how long foreign students, journalists and other nonimmigrants can stay in the United States without a visa extension, according to a report. U.",
+          "S. District Judge F.",
+          "Dennis Saylor in Boston issued the ruling, Reuters reported, a day before the Trump administration was set to start implementing the rule, which was expected to affect more than 13,000 Koreans currently in the U. S.",
+          "under visa programs subject to the rule. The Department of Homeland Security unveiled the rule in July to address what it called \"visa abuse\" by foreign students, exchange visitors and media representatives, as the administration doubled down on its immigration crackdown.",
+          "Under the rule, the administration was to cap the duration of stay for nonimmigrant students on F visas and exch..."
+        ],
+        "words": [
+          "blocks",
+          "duration",
+          "foreign"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "From economic growth to societal development: Uzbekistan's priorities in new political cycle",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260915/from-economic-growth-to-societal-development-uzbekistans-priorities-in-new-political-cycle?utm_source=rss",
+        "summary": "The traditional annual address of the President of Uzbekistan Shavkat Mirziyoyev, delivered on New Year's Eve, became an important programmatic statement summarizing the results of the outgoing year and outlining the country’s strategic development priorities for the period ahead. As the head of state emphasized, the past year marked a period of steady progress in reforms and the strengthening of Uzbekistan’s socio-economic position, despite ongoing instability in the global economy and a complex international environment. In this context, the announcement of the coming year as the “Year of Mahalla Development and Society as a Whole” gained particular significance, signaling a transition toward a deeper focus of state policy on people’s quality of life and the development of civil society. In his address, the president noted that the national economy continued to demonstrate confident gr...",
+        "fullText": [
+          "The traditional annual address of the President of Uzbekistan Shavkat Mirziyoyev, delivered on New Year's Eve, became an important programmatic statement summarizing the results of the outgoing year and outlining the country’s strategic development priorities for the period ahead. As the head of state emphasized, the past year marked a period of steady progress in reforms and the strengthening of Uzbekistan’s socio-economic position, despite ongoing instability in the global economy and a complex international environment.",
+          "In this context, the announcement of the coming year as the “Year of Mahalla Development and Society as a Whole” gained particular significance, signaling a transition toward a deeper focus of state policy on people’s quality of life and the development of civil society. In his address, the president noted that the national economy continued to demonstrate confident gr..."
+        ],
+        "words": [
+          "economic",
+          "growth",
+          "societal"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Will Delta stick to old friend, keep Korean carrier in Cho family's hand?",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260915/will-delta-stick-to-old-friend-keep-korean-carrier-in-cho-familys-hand?utm_source=rss",
+        "summary": "With Hoban Group’s stake in Hanjin KAL nearly matching that of Hanjin Group Chairman Cho Won-tae and his interested parties, Delta Air Lines and Japan Airlines (JAL) are emerging as potentially crucial allies in maintaining the Cho family's control of Korean Air. As Hoban closes in on Cho’s stake in Hanjin KAL, Korean Air’s controlling shareholder is counting on its old ally, Delta Air Lines, to help hold the line. Delta owns a 14.9 percent stake in Hanjin KAL, making it one of the largest shareholders and a key pillar of Cho’s shareholder base. The U.S. carrier has also maintained a deep strategic relationship with Korean Air for years, and is widely considered to stand in favor of Cho’s leadership. That support could become increasingly important as the ownership structure tightens. Hoban now owns 20.15 percent of Hanjin KAL, just 0.42 percentage point below Cho and his related parties...",
+        "fullText": [
+          "With Hoban Group’s stake in Hanjin KAL nearly matching that of Hanjin Group Chairman Cho Won-tae and his interested parties, Delta Air Lines and Japan Airlines (JAL) are emerging as potentially crucial allies in maintaining the Cho family's control of Korean Air. As Hoban closes in on Cho’s stake in Hanjin KAL, Korean Air’s controlling shareholder is counting on its old ally, Delta Air Lines, to help hold the line.",
+          "Delta owns a 14. 9 percent stake in Hanjin KAL, making it one of the largest shareholders and a key pillar of Cho’s shareholder base.",
+          "The U. S.",
+          "carrier has also maintained a deep strategic relationship with Korean Air for years, and is widely considered to stand in favor of Cho’s leadership. That support could become increasingly important as the ownership structure tightens.",
+          "Hoban now owns 20. 15 percent of Hanjin KAL, just 0.",
+          "42 percentage point below Cho and his related parties..."
+        ],
+        "words": [
+          "friend",
+          "carrier",
+          "family"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[COVER STORY] Hoban's insatiable appetite: Group founder targets Korean Air",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260915/cover-story-hobans-insatiable-appetite-group-founder-targets-korean-air?utm_source=rss",
+        "summary": "Kim Sang-yeol, founder and former chairman of Hoban Group, has built the company into one of Korea’s most aggressive investors, with his latest bet on Korean Air bringing Hoban’s Hanjin KAL stake nearly level with that of the airline’s controlling shareholder. Hoban Group has so far amassed a 20.15 percent stake in Hanjin KAL, the parent company of Korean Air, putting it just 0.42 percentage point behind Hanjin Group Chairman Cho Won-tae and his related parties, which collectively own 20.57 percent. That narrow gap puts Kim in a position to challenge the balance of power at Korea’s flagship airline — particularly if Korea Development Bank (KDB) decides to sell its 10.58 percent stake. The state-run bank has yet to decide how to sell its stake in Hanjin KAL. The decision may determine who holds the upper hand in the management rights for the integrated airline that is scheduled to launch...",
+        "fullText": [
+          "Kim Sang-yeol, founder and former chairman of Hoban Group, has built the company into one of Korea’s most aggressive investors, with his latest bet on Korean Air bringing Hoban’s Hanjin KAL stake nearly level with that of the airline’s controlling shareholder. Hoban Group has so far amassed a 20.",
+          "15 percent stake in Hanjin KAL, the parent company of Korean Air, putting it just 0. 42 percentage point behind Hanjin Group Chairman Cho Won-tae and his related parties, which collectively own 20.",
+          "57 percent. That narrow gap puts Kim in a position to challenge the balance of power at Korea’s flagship airline — particularly if Korea Development Bank (KDB) decides to sell its 10.",
+          "58 percent stake. The state-run bank has yet to decide how to sell its stake in Hanjin KAL.",
+          "The decision may determine who holds the upper hand in the management rights for the integrated airline that is scheduled to launch..."
+        ],
+        "words": [
+          "insatiable",
+          "appetite",
+          "founder"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Artisan behind Korea's legendary baduk boards",
+        "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260915/artisan-behind-koreas-legendary-baduk-boards?utm_source=rss",
+        "summary": "His right index finger tells the entire story before he utters a single word. Unable to straighten naturally and stuck resting lifted upward, misshapen from more than six decades of pressing down on hand planes, it is the quiet, undeniable badge of a craftsman who has spent a lifetime shaping raw timber into pieces of living history. At 75, Shin Wan-sik bears the physical toll of 60 years dedicated to an ancient craft. He commands 70 percent of Korea's domestic baduk board market through his company, Six Brothers Baduk. Baduk is more commonly known internationally as \"go.\" Virtually every landmark event in modern Korean baduk has unfolded over his creations. Recently a custom board made by Shin was presented by Korean President Lee Jae Myung to Chinese President Xi Jinping during an APEC summit in Gyeongju in 2025. His influence reaches far beyond diplomatic gifts: One of his boards was...",
+        "fullText": [
+          "His right index finger tells the entire story before he utters a single word. Unable to straighten naturally and stuck resting lifted upward, misshapen from more than six decades of pressing down on hand planes, it is the quiet, undeniable badge of a craftsman who has spent a lifetime shaping raw timber into pieces of living history.",
+          "At 75, Shin Wan-sik bears the physical toll of 60 years dedicated to an ancient craft. He commands 70 percent of Korea's domestic baduk board market through his company, Six Brothers Baduk.",
+          "Baduk is more commonly known internationally as \"go. \" Virtually every landmark event in modern Korean baduk has unfolded over his creations.",
+          "Recently a custom board made by Shin was presented by Korean President Lee Jae Myung to Chinese President Xi Jinping during an APEC summit in Gyeongju in 2025. His influence reaches far beyond diplomatic gifts: One of his boards was..."
+        ],
+        "words": [
+          "artisan",
+          "behind",
+          "legendary"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Food journey through Korea's administrative capital",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260915/food-journey-through-koreas-administrative-capital?utm_source=rss",
+        "summary": "There is a striking dual identity in Sejong, the nation's administrative capital. Looking down from a cafe on the 49th-floor of a building in the city's newest district, nothing appears aged. Neat grids of avenues, government complexes, lakes and arboretums unfold like a master architect’s blueprint. However, a short drive into the old district reveals an entirely different rhythm —narrow market alleys lined with fish stalls, retro signs, train tracks and young artisans quietly setting up shop inside weathered brick houses. \"Sejong Osik,\" or \"Five-Meal tour\" is an effort to bridge these contrasting worlds. Launched by Sejong's city government and the Sejong Culture and Tourism Foundation, the two-day, one-night culinary tourism program reveals the gastronomic potential of Korea's administrative capital. The tour draws inspiration from King Sejong the Great, who is said to have eaten five...",
+        "fullText": [
+          "There is a striking dual identity in Sejong, the nation's administrative capital. Looking down from a cafe on the 49th-floor of a building in the city's newest district, nothing appears aged.",
+          "Neat grids of avenues, government complexes, lakes and arboretums unfold like a master architect’s blueprint. However, a short drive into the old district reveals an entirely different rhythm —narrow market alleys lined with fish stalls, retro signs, train tracks and young artisans quietly setting up shop inside weathered brick houses.",
+          "\"Sejong Osik,\" or \"Five-Meal tour\" is an effort to bridge these contrasting worlds. Launched by Sejong's city government and the Sejong Culture and Tourism Foundation, the two-day, one-night culinary tourism program reveals the gastronomic potential of Korea's administrative capital.",
+          "The tour draws inspiration from King Sejong the Great, who is said to have eaten five..."
+        ],
+        "words": [
+          "journey",
+          "through",
+          "administrative"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Hyundai plays catch-up as Tesla strengthens grip on Korea's EV market",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260915/hyundai-plays-catch-up-as-tesla-strengthens-grip-on-koreas-ev-market?utm_source=rss",
+        "summary": "Hyundai Motor’s autonomous driving road map is putting its ability to keep pace with Tesla under scrutiny, as the U.S. automaker rapidly gains stronger ground in Korea’s electric vehicle (EV) market. Last week, Hyundai Motor Group’s self-driving arm — 42dot — said it will introduce cars with Level 2+ autonomous driving technology based on Nvidia’s platform in the first half of 2028, followed by Level 2++ technology later that year. Vehicles equipped with the carmaker’s proprietary Atria artificial intelligence (AI) system will also be mass-produced in the second half of 2029, according to 42dot. Under the road map, the automaker seeks to close the gap with Tesla and other overseas autonomous driving leaders. But the timeline for Hyundai Motor's self-driving commercialization still leaves much to be desired, as Tesla has already turned into a consumer-facing product. Tesla’s Full Self-Dri...",
+        "fullText": [
+          "Hyundai Motor’s autonomous driving road map is putting its ability to keep pace with Tesla under scrutiny, as the U. S.",
+          "automaker rapidly gains stronger ground in Korea’s electric vehicle (EV) market. Last week, Hyundai Motor Group’s self-driving arm — 42dot — said it will introduce cars with Level 2+ autonomous driving technology based on Nvidia’s platform in the first half of 2028, followed by Level 2++ technology later that year.",
+          "Vehicles equipped with the carmaker’s proprietary Atria artificial intelligence (AI) system will also be mass-produced in the second half of 2029, according to 42dot. Under the road map, the automaker seeks to close the gap with Tesla and other overseas autonomous driving leaders.",
+          "But the timeline for Hyundai Motor's self-driving commercialization still leaves much to be desired, as Tesla has already turned into a consumer-facing product. Tesla’s Full Self-Dri..."
+        ],
+        "words": [
+          "hyundai",
+          "catch-up",
+          "strengthens"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "label": "Monday, September 14, 2026",
     "title": "Korea News Brief",
