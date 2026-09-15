@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-16",
+    "label": "Wednesday, September 16, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Law. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Ed Sheeran's supporting acts quit after Macklemore is kicked off tour for pro-Palestinian stance",
+        "url": "https://www.koreatimes.co.kr/world/20260916/ed-sheerans-supporting-acts-quit-after-macklemore-is-kicked-off-tour-for-pro-palestinian-stance?utm_source=rss",
+        "summary": "NEW YORK — Ed Sheeran’s tour of North and South America was plunged into chaos Tuesday when four of his supporting acts abruptly quit in solidarity with the rapper Macklemore, who was dropped for making pro-Palestinian comments onstage. Hours after Sheeran posted on social media about Macklemore's ouster and attributed the decision to the tour's promoters, Irish acts Aaron Rowe and Beoga, the Danish band Lukas Graham, and Finneas posted on Instagram that they were leaving the tour. Rowe and Lukas Graham would have been replacements for Macklemore on Sheeran’s remaining U.S. dates, while Beoga had been performing several songs — including some the Irish folk band co-wrote — with Sheeran around the middle of each set. Finneas, who is Billie Eilish’s brother and musical collaborator, was due to tour with Sheeran in South America later this year. “Artists must not be silenced when they speak...",
+        "fullText": [
+          "NEW YORK — Ed Sheeran’s tour of North and South America was plunged into chaos Tuesday when four of his supporting acts abruptly quit in solidarity with the rapper Macklemore, who was dropped for making pro-Palestinian comments onstage. Hours after Sheeran posted on social media about Macklemore's ouster and attributed the decision to the tour's promoters, Irish acts Aaron Rowe and Beoga, the Danish band Lukas Graham, and Finneas posted on Instagram that they were leaving the tour.",
+          "Rowe and Lukas Graham would have been replacements for Macklemore on Sheeran’s remaining U. S.",
+          "dates, while Beoga had been performing several songs — including some the Irish folk band co-wrote — with Sheeran around the middle of each set. Finneas, who is Billie Eilish’s brother and musical collaborator, was due to tour with Sheeran in South America later this year.",
+          "“Artists must not be silenced when they speak..."
+        ],
+        "words": [
+          "sheeran",
+          "supporting",
+          "macklemore"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Irish author Danielle McLaughlin on exchange with Korean students and compelling visit to Jeju",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20260916/irish-author-danielle-mclaughlin-on-exchange-with-korean-students-and-compelling-visit-to-jeju?utm_source=rss",
+        "summary": "When Irish writer Danielle McLaughlin received an invitation to visit Korea, she was deep into Nobel laureaute author Han Kang’s “We Do Not Part” (2021), a novel whose reckoning with the Jeju April 3 massacre had unsettled and moved her. The timing felt like an invitation within an invitation. “The minute I was invited, I knew I wanted to go,” she said during an interview with The Korea Times after leading a creating writing workshop at Korea University on Monday. The Cork-based author, known for the award-winning short-story collection “Dinosaurs on Other Planets” (2015) and the novel “The Art of Falling,” (2021) visited Seoul as part of the Irish Embassy’s inititive to bring contemporary Irish writers to Korea. The embassy began its exchange program in 2024 with the help of Literature Ireland, the country's state-funded organization promoting Irish writing abroad. At Korea University o...",
+        "fullText": [
+          "When Irish writer Danielle McLaughlin received an invitation to visit Korea, she was deep into Nobel laureaute author Han Kang’s “We Do Not Part” (2021), a novel whose reckoning with the Jeju April 3 massacre had unsettled and moved her. The timing felt like an invitation within an invitation.",
+          "“The minute I was invited, I knew I wanted to go,” she said during an interview with The Korea Times after leading a creating writing workshop at Korea University on Monday. The Cork-based author, known for the award-winning short-story collection “Dinosaurs on Other Planets” (2015) and the novel “The Art of Falling,” (2021) visited Seoul as part of the Irish Embassy’s inititive to bring contemporary Irish writers to Korea.",
+          "The embassy began its exchange program in 2024 with the help of Literature Ireland, the country's state-funded organization promoting Irish writing abroad. At Korea University o..."
+        ],
+        "words": [
+          "author",
+          "danielle",
+          "mclaughlin"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] The night I survived a terrorist attack",
+        "url": "https://www.koreatimes.co.kr/opinion/20260916/morning-calm-tales-the-night-i-survived-a-terrorist-attack?utm_source=rss",
+        "summary": "Twenty years ago, I said goodbye to Korea. At least, I thought I did. Within days, I found myself in a smoke-filled street in southern Thailand, surrounded by sirens, soldiers, emergency vehicles and people running for their lives. I had no idea that the road taking me away from Korea would eventually lead me right back. Without getting into all the circumstances behind my sudden departure from the Land of the Morning Calm for the Land of Smiles, several other teachers and I resigned from what had once been one of the best teaching jobs in Korea. For me, that chapter was over. I packed my bags and left, convinced Thailand would offer a fresh start. I had heard there might be teaching opportunities in southern Thailand, so I flew to Bangkok and then continued south to Hat Yai. I booked a few nights at the Novotel in the city center. Before looking for work, I planned to take a few days to...",
+        "fullText": [
+          "Twenty years ago, I said goodbye to Korea. At least, I thought I did.",
+          "Within days, I found myself in a smoke-filled street in southern Thailand, surrounded by sirens, soldiers, emergency vehicles and people running for their lives. I had no idea that the road taking me away from Korea would eventually lead me right back.",
+          "Without getting into all the circumstances behind my sudden departure from the Land of the Morning Calm for the Land of Smiles, several other teachers and I resigned from what had once been one of the best teaching jobs in Korea. For me, that chapter was over.",
+          "I packed my bags and left, convinced Thailand would offer a fresh start. I had heard there might be teaching opportunities in southern Thailand, so I flew to Bangkok and then continued south to Hat Yai.",
+          "I booked a few nights at the Novotel in the city center. Before looking for work, I planned to take a few days to..."
+        ],
+        "words": [
+          "morning",
+          "survived",
+          "terrorist"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Seoul bus strike averted after last-minute wage deal",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260916/seoul-bus-strike-averted-after-last-minute-wage-deal?utm_source=rss",
+        "summary": "Seoul city buses will operate normally Wednesday after labor and management reached a last-minute wage agreement early in the morning, averting a strike that had been scheduled to begin at 4 a.m. The two sides reached the agreement at around 1:50 a.m. after nearly 12 hours of negotiations at the Seoul Regional Labor Relations Commission. Under the deal, wages will rise 3.2 percent in 2026, up 0.3 percentage point from last year's 2.9 percent increase. The two sides, however, left unresolved a key dispute over the number of monthly working hours used to calculate ordinary wages. They agreed to determine the calculation standard after a related Supreme Court ruling expected later this year. The Seoul city government said it has lifted emergency transportation measures prepared for the strike and that public transportation will operate as usual.",
+        "fullText": [
+          "Seoul city buses will operate normally Wednesday after labor and management reached a last-minute wage agreement early in the morning, averting a strike that had been scheduled to begin at 4 a. m.",
+          "The two sides reached the agreement at around 1:50 a. m.",
+          "after nearly 12 hours of negotiations at the Seoul Regional Labor Relations Commission. Under the deal, wages will rise 3.",
+          "2 percent in 2026, up 0. 3 percentage point from last year's 2.",
+          "9 percent increase. The two sides, however, left unresolved a key dispute over the number of monthly working hours used to calculate ordinary wages.",
+          "They agreed to determine the calculation standard after a related Supreme Court ruling expected later this year. The Seoul city government said it has lifted emergency transportation measures prepared for the strike and that public transportation will operate as usual."
+        ],
+        "words": [
+          "strike",
+          "averted",
+          "last-minute"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US acknowledges for first time that it has deployed weapons in space",
+        "url": "https://www.koreatimes.co.kr/world/20260916/us-acknowledges-for-first-time-that-it-has-deployed-weapons-in-space?utm_source=rss",
+        "summary": "WASHINGTON — The United States has confirmed for the first time that it has deployed weapons in space, a remarkable revelation after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes. Air Force Secretary Troy Meink told the Air and Space Cyber Conference in Maryland on Monday that the U.S. has fielded “on-orbit space control weapons capable of defending the Joint Force against hostile adversary action.” Meink did not detail what the weapons were, how they work or if they were targeting other objects in space or on Earth. The U.S. had warned two years ago that Russia was developing a new space-based, anti-satellite weapon, though the White House said the danger wasn’t imminent at the time. But reports of the anti-satellite weapon reflected longstanding worries about space threats from Russi...",
+        "fullText": [
+          "WASHINGTON — The United States has confirmed for the first time that it has deployed weapons in space, a remarkable revelation after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes. Air Force Secretary Troy Meink told the Air and Space Cyber Conference in Maryland on Monday that the U.",
+          "S. has fielded “on-orbit space control weapons capable of defending the Joint Force against hostile adversary action.",
+          "” Meink did not detail what the weapons were, how they work or if they were targeting other objects in space or on Earth. The U.",
+          "S. had warned two years ago that Russia was developing a new space-based, anti-satellite weapon, though the White House said the danger wasn’t imminent at the time.",
+          "But reports of the anti-satellite weapon reflected longstanding worries about space threats from Russi..."
+        ],
+        "words": [
+          "acknowledges",
+          "deployed",
+          "weapons"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
+        "url": "https://www.koreatimes.co.kr/world/20260916/iran-war-cost-hits-38-billion-forecast-to-rise-3-billion-a-month-cbo-says?utm_source=rss",
+        "summary": "WASHINGTON — The six-month-old U.S. war against Iran has cost $38 billion so far and that amount is projected to rise by $3 billion a month, Congress' nonpartisan bookkeeper reported on Tuesday, as the Trump administration searches for ways to end the conflict and reopen the vital Strait of Hormuz. The war is expected to increase inflation by 0.5 percent in the first three months of 2027, according to the Congressional Budget Office accounting, which totaled expenses through August 1. The mounting costs have strained U.S. munitions stockpiles and driven up energy prices, raising concerns about the country's ability to respond to other potential conflicts and adding pressure on an already stretched federal budget. The cost was close to the $37.5 billion that Defense Secretary Pete Hegseth reported at a Senate hearing on July 21. The budget office said the majority of the costs stem from t...",
+        "fullText": [
+          "WASHINGTON — The six-month-old U. S.",
+          "war against Iran has cost $38 billion so far and that amount is projected to rise by $3 billion a month, Congress' nonpartisan bookkeeper reported on Tuesday, as the Trump administration searches for ways to end the conflict and reopen the vital Strait of Hormuz. The war is expected to increase inflation by 0.",
+          "5 percent in the first three months of 2027, according to the Congressional Budget Office accounting, which totaled expenses through August 1. The mounting costs have strained U.",
+          "S. munitions stockpiles and driven up energy prices, raising concerns about the country's ability to respond to other potential conflicts and adding pressure on an already stretched federal budget.",
+          "The cost was close to the $37. 5 billion that Defense Secretary Pete Hegseth reported at a Senate hearing on July 21.",
+          "The budget office said the majority of the costs stem from t..."
+        ],
+        "words": [
+          "billion",
+          "forecast",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Prince Harry and Meghan move children to new school over security concerns",
+        "url": "https://www.koreatimes.co.kr/world/20260916/prince-harry-and-meghan-move-children-to-new-school-over-security-concerns?utm_source=rss",
+        "summary": "LONDON — Prince Harry and his wife, Meghan , have moved their two children to a new school over security concerns, a spokesperson said Tuesday, just weeks after the family returned to the U.K. to make a fresh start. “The decision for the children to move school was taken following a discussion with the family’s security team about the practicalities of their current arrangements,\" the spokesperson said in a statement. Prince Archie, 7, and Princess Lilibet, 5, had only just started the new school year in England after the family relocated from California in late August. British media reported that the distance of the school run and the heavy traffic on the route were among the concerns raised by the couple and their security team. The family is living at a private, non-royal residence outside of London. “This decision should in no way be interpreted as a reflection on the school or the e...",
+        "fullText": [
+          "LONDON — Prince Harry and his wife, Meghan , have moved their two children to a new school over security concerns, a spokesperson said Tuesday, just weeks after the family returned to the U. K.",
+          "to make a fresh start. “The decision for the children to move school was taken following a discussion with the family’s security team about the practicalities of their current arrangements,\" the spokesperson said in a statement.",
+          "Prince Archie, 7, and Princess Lilibet, 5, had only just started the new school year in England after the family relocated from California in late August. British media reported that the distance of the school run and the heavy traffic on the route were among the concerns raised by the couple and their security team.",
+          "The family is living at a private, non-royal residence outside of London. “This decision should in no way be interpreted as a reflection on the school or the e..."
+        ],
+        "words": [
+          "prince",
+          "meghan",
+          "children"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "label": "Tuesday, September 15, 2026",
     "title": "Korea News Brief",
