@@ -1,5 +1,146 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-17",
+    "label": "Thursday, September 17, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Politics, Korea, Weather, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "NK leader's sister dismisses IAEA's denuclearization calls, reiterates nuclear status",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260917/nk-leaders-sister-dismisses-iaeas-denuclearization-calls-reiterates-nuclear-status?utm_source=rss",
+        "summary": "Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, on Thursday rejected international calls for denuclearization as \"all noises,\" calling the regime's nuclear status \"absolute.\" She made the remarks in a statement carried by the Korean Central News Agency (KCNA) as the 70th regular session of the IAEA General Conference is currently under way in Vienna, Austria. The conference has voiced concern over North Korea's expanding nuclear capacity, urging Pyongyang to abandon its nuclear weapons program in a complete, verifiable and irreversible manner in compliance with the Non-Proliferation Treaty (NPT). Ahead of the session, the agency also released the IAEA Director General's Safeguards Report on North Korea, detailing a substantial increase in Pyongyang's uranium enrichment capacity and the expansion of its core nuclear facilities. The North Korean leader's sister dismiss...",
+        "fullText": [
+          "Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, on Thursday rejected international calls for denuclearization as \"all noises,\" calling the regime's nuclear status \"absolute. \" She made the remarks in a statement carried by the Korean Central News Agency (KCNA) as the 70th regular session of the IAEA General Conference is currently under way in Vienna, Austria.",
+          "The conference has voiced concern over North Korea's expanding nuclear capacity, urging Pyongyang to abandon its nuclear weapons program in a complete, verifiable and irreversible manner in compliance with the Non-Proliferation Treaty (NPT). Ahead of the session, the agency also released the IAEA Director General's Safeguards Report on North Korea, detailing a substantial increase in Pyongyang's uranium enrichment capacity and the expansion of its core nuclear facilities.",
+          "The North Korean leader's sister dismiss..."
+        ],
+        "words": [
+          "leader",
+          "sister",
+          "dismisses"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump threatens to cut EU trade over Canada association plan",
+        "url": "https://www.koreatimes.co.kr/world/20260917/trump-threatens-to-cut-eu-trade-over-canada-association-plan?utm_source=rss",
+        "summary": "GASTONIA, United States — U.S. President Donald Trump threatened on Wednesday to cut trade with the European Union if it follows through with a proposal to make Canada the bloc's first associate member. \"I think it's laughable,\" Trump told reporters when asked about the plan unveiled by EU chief Ursula von der Leyen. \"If they do that, if I think it's at all a hostile act, I will put very serious tariffs or stop trading with Europe.\"",
+        "fullText": [
+          "GASTONIA, United States — U. S.",
+          "President Donald Trump threatened on Wednesday to cut trade with the European Union if it follows through with a proposal to make Canada the bloc's first associate member. \"I think it's laughable,\" Trump told reporters when asked about the plan unveiled by EU chief Ursula von der Leyen.",
+          "\"If they do that, if I think it's at all a hostile act, I will put very serious tariffs or stop trading with Europe. \""
+        ],
+        "words": [
+          "threatens",
+          "canada",
+          "association"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "OpenAI plans regular reports on unexpected AI behavior",
+        "url": "https://www.koreatimes.co.kr/world/20260917/openai-plans-regular-reports-on-unexpected-ai-behavior?utm_source=rss",
+        "summary": "OpenAI said on Wednesday it would begin regularly publishing reports on unexpected or unauthorized AI behavior, while warning that the industry has yet to solve key alignment challenges as systems grow more powerful. The company released a new framework for tracking, investigating and disclosing cases of AI model misalignment, along with six reports on unexpected or concerning model behavior observed over the past six months. The announcement comes as concern grows that AI safety efforts are lagging behind the breakneck development of increasingly powerful systems. Researchers have warned that as AI agents become more autonomous, they may develop behaviors that diverge from their creators' intentions and become harder to monitor or control. OpenAI has faced increased scrutiny since its own AI agent breached systems at open-source platform Hugging Face during a test and attempted to hide...",
+        "fullText": [
+          "OpenAI said on Wednesday it would begin regularly publishing reports on unexpected or unauthorized AI behavior, while warning that the industry has yet to solve key alignment challenges as systems grow more powerful. The company released a new framework for tracking, investigating and disclosing cases of AI model misalignment, along with six reports on unexpected or concerning model behavior observed over the past six months.",
+          "The announcement comes as concern grows that AI safety efforts are lagging behind the breakneck development of increasingly powerful systems. Researchers have warned that as AI agents become more autonomous, they may develop behaviors that diverge from their creators' intentions and become harder to monitor or control.",
+          "OpenAI has faced increased scrutiny since its own AI agent breached systems at open-source platform Hugging Face during a test and attempted to hide..."
+        ],
+        "words": [
+          "openai",
+          "regular",
+          "reports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Shine, scandal, survival define K-pop boy band PENTAGON's 1st decade",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260917/shine-scandal-survival-define-k-pop-boy-band-pentagons-1st-decade?utm_source=rss",
+        "summary": "In 2023, seven years after debuting as the leader of K-pop boy band PENTAGON, returned to trainee status. He competed alongside aspiring male idols on Mnet’s audition program “Boys Planet” for a place in a new project group as his own group’s contracts with Cube Entertainment approached their end. Three years later, he is back onstage with six fellow PENTAGON members for the group’s 10th debut anniversary. PENTAGON, which debuted on Oct. 10, 2016, has reunited for an anniversary project organized by NAKED, the label founded by member Kino. It comes after the participating members left the company that formed the group and pursued careers under separate agencies. The group’s first decade illustrates how uncertain success can remain for a K-pop act, even one recognized for producing its own music. Its breakthrough arrived a year and a half after debut, only for a dating controversy to disr...",
+        "fullText": [
+          "In 2023, seven years after debuting as the leader of K-pop boy band PENTAGON, returned to trainee status. He competed alongside aspiring male idols on Mnet’s audition program “Boys Planet” for a place in a new project group as his own group’s contracts with Cube Entertainment approached their end.",
+          "Three years later, he is back onstage with six fellow PENTAGON members for the group’s 10th debut anniversary. PENTAGON, which debuted on Oct.",
+          "10, 2016, has reunited for an anniversary project organized by NAKED, the label founded by member Kino. It comes after the participating members left the company that formed the group and pursued careers under separate agencies.",
+          "The group’s first decade illustrates how uncertain success can remain for a K-pop act, even one recognized for producing its own music. Its breakthrough arrived a year and a half after debut, only for a dating controversy to disr..."
+        ],
+        "words": [
+          "scandal",
+          "survival",
+          "define"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Singapore Management University president highlights growing role of social sciences in AI era",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260917/singapore-management-university-president-highlights-growing-role-of-social-sciences-in-ai-era?utm_source=rss",
+        "summary": "SINGAPORE — As artificial intelligence (AI) reshapes how businesses operate, governments make policy and people work, the skills needed to navigate its impact are extending far beyond technology — putting greater emphasis on human judgment, critical thinking and an understanding of society. Singapore Management University (SMU) President Lily Kong believes that shift will make the social sciences and management increasingly important in the AI era, as universities are tasked not only with teaching students how to use the technology, but also to question its output, understand its consequences and apply it responsibly. “I think that the more capable that AI becomes, the more valuable human judgment becomes,” Kong said in a recent interview with The Korea Times. For Kong, AI is not just a technological shift. As it reshapes workplaces, business decisions and public policy, universities mus...",
+        "fullText": [
+          "SINGAPORE — As artificial intelligence (AI) reshapes how businesses operate, governments make policy and people work, the skills needed to navigate its impact are extending far beyond technology — putting greater emphasis on human judgment, critical thinking and an understanding of society. Singapore Management University (SMU) President Lily Kong believes that shift will make the social sciences and management increasingly important in the AI era, as universities are tasked not only with teaching students how to use the technology, but also to question its output, understand its consequences and apply it responsibly.",
+          "“I think that the more capable that AI becomes, the more valuable human judgment becomes,” Kong said in a recent interview with The Korea Times. For Kong, AI is not just a technological shift.",
+          "As it reshapes workplaces, business decisions and public policy, universities mus..."
+        ],
+        "words": [
+          "singapore",
+          "management",
+          "university"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea holding down fuel prices, but it's getting harder",
+        "url": "https://www.koreatimes.co.kr/economy/20260917/korea-holding-down-fuel-prices-but-its-getting-harder?utm_source=rss",
+        "summary": "During much of the U.S.-Iran war, Korea shielded its economy from the sharpest swings in global oil prices by capping domestic fuel prices and restricting exports of petroleum products. But as crude prices climb again, that buffer is becoming increasingly costly to maintain, analysts said Wednesday. The government imposed a cap on prices for petroleum products, including gasoline and diesel, in March. Under the scheme, refiners must keep prices below a state-set ceiling even as international crude prices rise, with the government compensating them for the resulting losses. It has helped ease pressure on household costs. Inflation slowed to the 2 percent range in both June and July, while the cap was estimated to have reduced consumer price inflation by 0.5 percentage points in August, when the headline rate stood at 3.1 percent. The measure passed its initially announced six-month mark o...",
+        "fullText": [
+          "During much of the U. S.",
+          "-Iran war, Korea shielded its economy from the sharpest swings in global oil prices by capping domestic fuel prices and restricting exports of petroleum products. But as crude prices climb again, that buffer is becoming increasingly costly to maintain, analysts said Wednesday.",
+          "The government imposed a cap on prices for petroleum products, including gasoline and diesel, in March. Under the scheme, refiners must keep prices below a state-set ceiling even as international crude prices rise, with the government compensating them for the resulting losses.",
+          "It has helped ease pressure on household costs. Inflation slowed to the 2 percent range in both June and July, while the cap was estimated to have reduced consumer price inflation by 0.",
+          "5 percentage points in August, when the headline rate stood at 3. 1 percent.",
+          "The measure passed its initially announced six-month mark o..."
+        ],
+        "words": [
+          "holding",
+          "prices",
+          "getting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Iran hesitates to enforce headscarf rules amid war, economic pressures",
+        "url": "https://www.koreatimes.co.kr/world/20260917/iran-hesitates-to-enforce-headscarf-rules-amid-war-economic-pressures?utm_source=rss",
+        "summary": "Women sit at outdoor cafes without headscarves and wearing crop tops. Men in shorts and women in leggings exercise together in parks. At sidewalk concerts, women stop to dance and literally let their hair down. The scenes from the Iranian capital of Tehran, shared in social media videos, point to how dramatically enforcement of social restrictions has eased in the Islamic Republic in recent years. That's in part because of the mass protests that erupted after the Sept. 16, 2022, death of Mahsa Amini, a 22-year-old woman who was detained by morality police for allegedly not wearing her headscarf properly. Security forces crushed the protests with a crackdown that killed more than 500 people, and thousands were arrested. But to keep the peace, authorities backed off on enforcement of the rules mandating the hijab, or headscarf, and modest dress for women. The question now is whether that c...",
+        "fullText": [
+          "Women sit at outdoor cafes without headscarves and wearing crop tops. Men in shorts and women in leggings exercise together in parks.",
+          "At sidewalk concerts, women stop to dance and literally let their hair down. The scenes from the Iranian capital of Tehran, shared in social media videos, point to how dramatically enforcement of social restrictions has eased in the Islamic Republic in recent years.",
+          "That's in part because of the mass protests that erupted after the Sept. 16, 2022, death of Mahsa Amini, a 22-year-old woman who was detained by morality police for allegedly not wearing her headscarf properly.",
+          "Security forces crushed the protests with a crackdown that killed more than 500 people, and thousands were arrested. But to keep the peace, authorities backed off on enforcement of the rules mandating the hijab, or headscarf, and modest dress for women.",
+          "The question now is whether that c..."
+        ],
+        "words": [
+          "hesitates",
+          "enforce",
+          "headscarf"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-16",
     "label": "Wednesday, September 16, 2026",
     "title": "Korea News Brief",
