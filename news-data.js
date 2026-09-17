@@ -1,5 +1,157 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-18",
+    "label": "Friday, September 18, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Inter-Korea, Politics, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea to extend fuel tax cut through November amid price burdens",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260918/korea-to-extend-fuel-tax-cut-through-november-amid-price-burdens?utm_source=rss",
+        "summary": "Korea will extend its fuel tax cut scheme by another two months through November to ease price burdens on the public amid protracted tensions in the Middle East, the finance ministry said Friday. The Ministry of Finance and Economy said the decision was made during an economy-related ministers' meeting chaired by Finance Minister Koo Yun-cheol, citing the need to ease the public's burden from fuel costs. Under the measure, the current tax reductions of 15 percent for gasoline and 25 percent for diesel and butane, originally set to expire at the end of this month, will remain in place through the end of November. \"We have decided to maintain the current tax cut scheme, considering the country's capacity to address a possible increase in oil price volatility,\" the finance ministry said in a release. The country has decided to maintain larger tax cuts for diesel, which is essential for indu...",
+        "fullText": [
+          "Korea will extend its fuel tax cut scheme by another two months through November to ease price burdens on the public amid protracted tensions in the Middle East, the finance ministry said Friday. The Ministry of Finance and Economy said the decision was made during an economy-related ministers' meeting chaired by Finance Minister Koo Yun-cheol, citing the need to ease the public's burden from fuel costs.",
+          "Under the measure, the current tax reductions of 15 percent for gasoline and 25 percent for diesel and butane, originally set to expire at the end of this month, will remain in place through the end of November. \"We have decided to maintain the current tax cut scheme, considering the country's capacity to address a possible increase in oil price volatility,\" the finance ministry said in a release.",
+          "The country has decided to maintain larger tax cuts for diesel, which is essential for indu..."
+        ],
+        "words": [
+          "extend",
+          "through",
+          "november"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korean vice FM to attend UN General Assembly next week: source",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260918/n-korean-vice-fm-to-attend-un-general-assembly-next-week-source?utm_source=rss",
+        "summary": "WASHINGTON — North Korean Vice Foreign Minister Kim Son-gyong plans to attend a high-level segment of the U.N. General Assembly set to begin in New York next week, a source at the international body said Thursday. Kim is scheduled to attend the General Assembly's high-level general debate, which is set to take place from Sept. 22 to Sept. 26, and on Sept. 28, according to the source. On the last day of the general debate, the vice minister plans to take the podium for a speech. He also attended last year's General Assembly, during which he reiterated that North Korea would never give up its nuclear program \"under any circumstances.\" During his upcoming visit to New York, Kim is expected to meet with U.N. Secretary-General Antonio Guterres and officials from countries friendly to North Korea, such as Cuba and Venezuela. The vice minister's message during his planned attendance at the U.N....",
+        "fullText": [
+          "WASHINGTON — North Korean Vice Foreign Minister Kim Son-gyong plans to attend a high-level segment of the U. N.",
+          "General Assembly set to begin in New York next week, a source at the international body said Thursday. Kim is scheduled to attend the General Assembly's high-level general debate, which is set to take place from Sept.",
+          "22 to Sept. 26, and on Sept.",
+          "28, according to the source. On the last day of the general debate, the vice minister plans to take the podium for a speech.",
+          "He also attended last year's General Assembly, during which he reiterated that North Korea would never give up its nuclear program \"under any circumstances. \" During his upcoming visit to New York, Kim is expected to meet with U.",
+          "N. Secretary-General Antonio Guterres and officials from countries friendly to North Korea, such as Cuba and Venezuela.",
+          "The vice minister's message during his planned attendance at the U. N...."
+        ],
+        "words": [
+          "attend",
+          "general",
+          "assembly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Producer prices up in August on prices of agricultural goods",
+        "url": "https://www.koreatimes.co.kr/economy/20260918/producer-prices-up-in-august-on-prices-of-agricultural-goods?utm_source=rss",
+        "summary": "Korea's producer prices rose in August, driven by a rise in prices of agricultural goods caused by a heat wave, central bank data showed Friday. The producer price index (PPI), a key gauge of future consumer inflation, increased 0.2 percent last month from a month earlier, following a 0.4 percent month-on-month decline, according to the preliminary data from the Bank of Korea (BOK). In July, the index fell for the first time since August 2025. From a year earlier, producer prices rose 7.9 percent in August, accelerating from the previous month's 7.7 percent month-on-month gain, the findings showed. Producer prices are a key indicator of future inflation trends, as they influence the prices businesses charge consumers in the months ahead. The BOK said prices of industrial goods, including petroleum and chemical products, remained flat in August compared with the previous month. Prices of...",
+        "fullText": [
+          "Korea's producer prices rose in August, driven by a rise in prices of agricultural goods caused by a heat wave, central bank data showed Friday. The producer price index (PPI), a key gauge of future consumer inflation, increased 0.",
+          "2 percent last month from a month earlier, following a 0. 4 percent month-on-month decline, according to the preliminary data from the Bank of Korea (BOK).",
+          "In July, the index fell for the first time since August 2025. From a year earlier, producer prices rose 7.",
+          "9 percent in August, accelerating from the previous month's 7. 7 percent month-on-month gain, the findings showed.",
+          "Producer prices are a key indicator of future inflation trends, as they influence the prices businesses charge consumers in the months ahead. The BOK said prices of industrial goods, including petroleum and chemical products, remained flat in August compared with the previous month.",
+          "Prices of..."
+        ],
+        "words": [
+          "producer",
+          "prices",
+          "august"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US expected to delay new excess capacity tariff announcement until after Trump-Xi summit: report",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260918/us-expected-to-delay-new-excess-capacity-tariff-announcement-until-after-trump-xi-summit-report?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump's administration is expected to postpone the announcement of new tariffs over trading partners' alleged excess capacity in manufacturing sectors until after the planned summit between Trump and Chinese President Xi Jinping next week, a report said Thursday. Citing people familiar with the matter, Bloomberg reported on the expected delay, noting that the reason for the delay is unclear, as Trump is expected to have a summit with Xi in Washington on Sept. 24, more than four months after their previous meeting in Beijing. Bloomberg previously reported that the Trump administration intended to issue a trade report on excess manufacturing capacity before next week's Trump-Xi summit, and that the report would recommend a 7.5 percent tariff on Chinese products. In March, the administration launched a trade investigation into South Korea, China, Japan and...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump's administration is expected to postpone the announcement of new tariffs over trading partners' alleged excess capacity in manufacturing sectors until after the planned summit between Trump and Chinese President Xi Jinping next week, a report said Thursday. Citing people familiar with the matter, Bloomberg reported on the expected delay, noting that the reason for the delay is unclear, as Trump is expected to have a summit with Xi in Washington on Sept.",
+          "24, more than four months after their previous meeting in Beijing. Bloomberg previously reported that the Trump administration intended to issue a trade report on excess manufacturing capacity before next week's Trump-Xi summit, and that the report would recommend a 7.",
+          "5 percent tariff on Chinese products. In March, the administration launched a trade investigation into South Korea, China, Japan and..."
+        ],
+        "words": [
+          "expected",
+          "excess",
+          "capacity"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "China may not block US-NK diplomacy, but unlikely to play central role: ex-US diplomat",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260918/china-may-not-block-us-nk-diplomacy-but-unlikely-to-play-central-role-ex-us-diplomat?utm_source=rss",
+        "summary": "WASHINGTON — China may not block the resumption of diplomacy between the United States and North Korea but is unlikely to play a \"central\" role in their reengagement, a former senior U.S. diplomat said Thursday, ahead of the upcoming summit between U.S. President Donald Trump and Chinese President Xi Jinping. Daniel Kritenbrink, who served as assistant secretary of state for East Asia and Pacific Affairs from 2021-25, made the comment in response to written questions from Yonhap News Agency, noting that Beijing will be \"suspicious\" of any significant thaw in the Washington-Pyongyang relations. Trump and Xi are expected to have a summit in Washington, D.C., next Thursday, while Trump has expressed his intention to reengage with North Korean leader Kim Jong-un later this year. \"I would not expect China to block U.S.-DPRK diplomacy, and it may take certain limited steps to support it,\" Krit...",
+        "fullText": [
+          "WASHINGTON — China may not block the resumption of diplomacy between the United States and North Korea but is unlikely to play a \"central\" role in their reengagement, a former senior U. S.",
+          "diplomat said Thursday, ahead of the upcoming summit between U. S.",
+          "President Donald Trump and Chinese President Xi Jinping. Daniel Kritenbrink, who served as assistant secretary of state for East Asia and Pacific Affairs from 2021-25, made the comment in response to written questions from Yonhap News Agency, noting that Beijing will be \"suspicious\" of any significant thaw in the Washington-Pyongyang relations.",
+          "Trump and Xi are expected to have a summit in Washington, D. C.",
+          ", next Thursday, while Trump has expressed his intention to reengage with North Korean leader Kim Jong-un later this year. \"I would not expect China to block U.",
+          "S. -DPRK diplomacy, and it may take certain limited steps to support it,\" Krit..."
+        ],
+        "words": [
+          "diplomacy",
+          "unlikely",
+          "central"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "NK leader's sister slams US-led maritime drill, vows nuclear build-up",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260918/nk-leaders-sister-slams-us-led-maritime-drill-vows-nuclear-build-up?utm_source=rss",
+        "summary": "Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, on Friday condemned a U.S.-led multinational maritime exercise as a \"war game\" and vowed to \"intensify the nuclear war deterrence.\" She made the remarks in a statement carried by the Korean Central News Agency (KCNA), days after the multilateral naval exercise Pacific Vanguard, involving U.S. allies, including South Korea and Japan, wrapped up its 13-day run last week. \"During the war rehearsal, various naval training for U.S.-centered anti-warship, anti-air and anti-submarine warfare was staged intensively for more than ten days,\" Kim said. \"This was another threatening 'war game' invented by the U.S. for inter-camp confrontation in the region.\" \"This is a part of the U.S. political and military design to prolong its hegemony by relying on the military strength of the exclusive camp in the Asia-Pacific region where the...",
+        "fullText": [
+          "Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, on Friday condemned a U. S.",
+          "-led multinational maritime exercise as a \"war game\" and vowed to \"intensify the nuclear war deterrence. \" She made the remarks in a statement carried by the Korean Central News Agency (KCNA), days after the multilateral naval exercise Pacific Vanguard, involving U.",
+          "S. allies, including South Korea and Japan, wrapped up its 13-day run last week.",
+          "\"During the war rehearsal, various naval training for U. S.",
+          "-centered anti-warship, anti-air and anti-submarine warfare was staged intensively for more than ten days,\" Kim said. \"This was another threatening 'war game' invented by the U.",
+          "S. for inter-camp confrontation in the region.",
+          "\" \"This is a part of the U. S.",
+          "political and military design to prolong its hegemony by relying on the military strength of the exclusive camp in the Asia-Pacific region where the..."
+        ],
+        "words": [
+          "leader",
+          "sister",
+          "us-led"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Harry makes first public appearance since return to UK",
+        "url": "https://www.koreatimes.co.kr/world/20260918/harry-makes-first-public-appearance-since-return-to-uk?utm_source=rss",
+        "summary": "LONDON — Prince Harry on Thursday made his first public appearance since his shock return to Britain from the United States with his family three weeks ago. Harry, who quit Britain for California six years ago with his wife Meghan amid tensions with his family, attended a fundraising evening for his Invictus Games for wounded veterans in London. Dressed in a smoking jacket adorned with his military decorations, the 42-year-old prince took selfies with injured former soldiers at the event. Meghan did not accompany him. Along with their two children, Harry and Meghan landed back in the UK on August 26 and have kept a relatively low profile since. Speculation abounds over the reasons for their return, given that the Duke and Duchess of Sussex left in the middle of a falling-out with his family, which only worsened after Harry published his tell-all memoir \"Spare.\" His appearance at the even...",
+        "fullText": [
+          "LONDON — Prince Harry on Thursday made his first public appearance since his shock return to Britain from the United States with his family three weeks ago. Harry, who quit Britain for California six years ago with his wife Meghan amid tensions with his family, attended a fundraising evening for his Invictus Games for wounded veterans in London.",
+          "Dressed in a smoking jacket adorned with his military decorations, the 42-year-old prince took selfies with injured former soldiers at the event. Meghan did not accompany him.",
+          "Along with their two children, Harry and Meghan landed back in the UK on August 26 and have kept a relatively low profile since. Speculation abounds over the reasons for their return, given that the Duke and Duchess of Sussex left in the middle of a falling-out with his family, which only worsened after Harry published his tell-all memoir \"Spare.",
+          "\" His appearance at the even..."
+        ],
+        "words": [
+          "public",
+          "appearance",
+          "return"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "label": "Thursday, September 17, 2026",
     "title": "Korea News Brief",
