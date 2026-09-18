@@ -1,5 +1,148 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-19",
+    "label": "Saturday, September 19, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean Air faces mounting mileage-related liability",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260919/korean-air-faces-mounting-mileage-related-liability?utm_source=rss",
+        "summary": "Korean Air is facing a growing mileage-related liability as it moves to integrate its mileage program with that of Asiana Airlines, with higher redemption requirements adding pressure on the combined carrier’s ticket sales and profitability. Last week, the Fair Trade Commission (FTC) approved the airlines’ mileage integration plan, requiring Korean Air to provide more opportunities for customers to use their accumulated miles. Under the plan, Asiana miles will remain separately available for 10 years after the merger. As of the end of June, Korean Air’s consolidated mileage-related deferred revenue stood at 4.07 trillion won ($2.94 billion), including 3.12 trillion won for Korean Air and 946.3 billion won for Asiana, according to the companies’ interim reports. The amount represents the value allocated to unused miles that have yet to be redeemed and is recorded as a liability until the...",
+        "fullText": [
+          "Korean Air is facing a growing mileage-related liability as it moves to integrate its mileage program with that of Asiana Airlines, with higher redemption requirements adding pressure on the combined carrier’s ticket sales and profitability. Last week, the Fair Trade Commission (FTC) approved the airlines’ mileage integration plan, requiring Korean Air to provide more opportunities for customers to use their accumulated miles.",
+          "Under the plan, Asiana miles will remain separately available for 10 years after the merger. As of the end of June, Korean Air’s consolidated mileage-related deferred revenue stood at 4.",
+          "07 trillion won ($2. 94 billion), including 3.",
+          "12 trillion won for Korean Air and 946. 3 billion won for Asiana, according to the companies’ interim reports.",
+          "The amount represents the value allocated to unused miles that have yet to be redeemed and is recorded as a liability until the..."
+        ],
+        "words": [
+          "mounting",
+          "mileage-related",
+          "liability"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea and Indonesia seal halal deal to safeguard K-food, beauty exports",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260919/korea-and-indonesia-seal-halal-deal-to-safeguard-k-food-beauty-exports?utm_source=rss",
+        "summary": "With strict new religious compliance rules set to take effect across Southeast Asia, Korea is taking decisive diplomatic steps to protect its booming cultural exports. Health and regulatory officials in Seoul signed a landmark agreement with Indonesia on Friday to streamline halal certification — clearing a critical path for Korean food and cosmetics brands entering the world’s most populous Muslim-majority nation. Food and Drug Safety Minister Oh Yu-kyoung signed a memorandum of understanding with Indonesia’s Halal Product Assurance Organizing Agency (BPJPH) during the fifth Halal 20 Summit in Depok, Indonesia, the ministry said. The agreement serves as a direct follow-up to a bilateral defense and economic summit held in March, where both nations pledged to expand mutual market access under a Special Strategic Partnership. The regulatory pact arrives at a pivotal moment for Korean expo...",
+        "fullText": [
+          "With strict new religious compliance rules set to take effect across Southeast Asia, Korea is taking decisive diplomatic steps to protect its booming cultural exports. Health and regulatory officials in Seoul signed a landmark agreement with Indonesia on Friday to streamline halal certification — clearing a critical path for Korean food and cosmetics brands entering the world’s most populous Muslim-majority nation.",
+          "Food and Drug Safety Minister Oh Yu-kyoung signed a memorandum of understanding with Indonesia’s Halal Product Assurance Organizing Agency (BPJPH) during the fifth Halal 20 Summit in Depok, Indonesia, the ministry said. The agreement serves as a direct follow-up to a bilateral defense and economic summit held in March, where both nations pledged to expand mutual market access under a Special Strategic Partnership.",
+          "The regulatory pact arrives at a pivotal moment for Korean expo..."
+        ],
+        "words": [
+          "indonesia",
+          "safeguard",
+          "k-food"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[WEEKENDER] K-defense exports enter new phase",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260919/weekender-k-defense-exports-enter-new-phase?utm_source=rss",
+        "summary": "Korea’s defense industry stands at a critical crossroads, as its export boom gives way to a new phase in which major overseas buyers are demanding local production and supply chains in their own markets. From K9 self-propelled howitzers and K2 battle tanks to Chunmoo multiple rocket launchers and air defense systems, Korean-made weapons have rapidly expanded their presence across Europe and other regions. The export boom has transformed the defense industry from a largely domestic-oriented sector into one of Korea’s emerging global growth engines. But the next stage may prove more challenging. Korean defense firms can no longer rely solely on their traditional strengths of competitive prices, fast delivery and proven manufacturing capabilities. As major customers increasingly demand technology transfers, local production and participation in their own defense industries, Korean companies...",
+        "fullText": [
+          "Korea’s defense industry stands at a critical crossroads, as its export boom gives way to a new phase in which major overseas buyers are demanding local production and supply chains in their own markets. From K9 self-propelled howitzers and K2 battle tanks to Chunmoo multiple rocket launchers and air defense systems, Korean-made weapons have rapidly expanded their presence across Europe and other regions.",
+          "The export boom has transformed the defense industry from a largely domestic-oriented sector into one of Korea’s emerging global growth engines. But the next stage may prove more challenging.",
+          "Korean defense firms can no longer rely solely on their traditional strengths of competitive prices, fast delivery and proven manufacturing capabilities. As major customers increasingly demand technology transfers, local production and participation in their own defense industries, Korean companies..."
+        ],
+        "words": [
+          "weekender",
+          "k-defense",
+          "exports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[WEEKENDER] What are Korea's flagship K-defense exports?",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260919/weekender-what-are-koreas-flagship-k-defense-exports?utm_source=rss",
+        "summary": "Korea has emerged as a major player in the global defense market, with its domestically developed weapons systems gaining traction for their competitive prices, advanced technology and fast delivery. From artillery and tanks to fighter jets and missile defense systems, Korean defense companies are expanding their global footprint and reshaping the country’s position in the international arms industry. K9 Thunder The K9 Thunder is Korea’s flagship self-propelled howitzer and one of the country’s most successful defense export items. Designed to provide mobile, long-range artillery fire support for ground forces, the 155-millimeter system can rapidly move, fire and relocate, making it well-suited to modern, highly mobile battlefields. The K9 is now used or being introduced by a growing list of countries, including Poland, Australia, Egypt, India, Norway, Finland, Estonia and Turkey. Poland...",
+        "fullText": [
+          "Korea has emerged as a major player in the global defense market, with its domestically developed weapons systems gaining traction for their competitive prices, advanced technology and fast delivery. From artillery and tanks to fighter jets and missile defense systems, Korean defense companies are expanding their global footprint and reshaping the country’s position in the international arms industry.",
+          "K9 Thunder The K9 Thunder is Korea’s flagship self-propelled howitzer and one of the country’s most successful defense export items. Designed to provide mobile, long-range artillery fire support for ground forces, the 155-millimeter system can rapidly move, fire and relocate, making it well-suited to modern, highly mobile battlefields.",
+          "The K9 is now used or being introduced by a growing list of countries, including Poland, Australia, Egypt, India, Norway, Finland, Estonia and Turkey. Poland..."
+        ],
+        "words": [
+          "weekender",
+          "flagship",
+          "k-defense"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[TEST DRIVE] Renault Filante blends commanding size with agile drive",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260919/test-drive-renault-filante-blends-commanding-size-with-agile-drive?utm_source=rss",
+        "summary": "Renault Korea’s flagship crossover, the Filante, looks imposing at first glance, but feels surprisingly agile behind the wheel. Its planted ride, refined cabin and better-than-expected fuel economy give the large crossover a distinctive mix of comfort and driving appeal. The Filante was driven for about 400 kilometers on a round trip between Seoul and Daejeon, covering a mix of urban roads and highways. Across the route, the crossover delivered a stable ride and impressive fuel efficiency, making a strong overall impression. The Filante shares some of its design cues with Renault Korea’s popular Grand Koleos SUV, but carries a more upscale and sportier character. Measuring 4,915 millimeters in length and 1,635 millimeters in height, it has a substantial presence. Yet its low, flowing roofline and floating rear spoiler give the large body a sleeker profile, blending elements of a sedan an...",
+        "fullText": [
+          "Renault Korea’s flagship crossover, the Filante, looks imposing at first glance, but feels surprisingly agile behind the wheel. Its planted ride, refined cabin and better-than-expected fuel economy give the large crossover a distinctive mix of comfort and driving appeal.",
+          "The Filante was driven for about 400 kilometers on a round trip between Seoul and Daejeon, covering a mix of urban roads and highways. Across the route, the crossover delivered a stable ride and impressive fuel efficiency, making a strong overall impression.",
+          "The Filante shares some of its design cues with Renault Korea’s popular Grand Koleos SUV, but carries a more upscale and sportier character. Measuring 4,915 millimeters in length and 1,635 millimeters in height, it has a substantial presence.",
+          "Yet its low, flowing roofline and floating rear spoiler give the large body a sleeker profile, blending elements of a sedan an..."
+        ],
+        "words": [
+          "renault",
+          "filante",
+          "blends"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Korea's limited Hormuz role may not satisfy Trump: expert",
+        "url": "https://www.koreatimes.co.kr/world/20260919/koreas-limited-hormuz-role-may-not-satisfy-trump-expert?utm_source=rss",
+        "summary": "SEATTLE — President Lee Jae Myung’s proposal to expand South Korea’s maritime security role in the Strait of Hormuz while ruling out involvement in the war represents a “realistic and constructive” contribution, but may not be enough to satisfy U.S. President Donald Trump, a U.S. expert said. Scott Snyder, president and CEO of the Korea Economic Institute of America (KEI) and a longtime scholar of South Korea-U.S. alliance and security issues, said Lee’s approach is consistent with how South Korea has responded to similar U.S. requests in the past. “Something along those lines represents a realistic and constructive offer from South Korea, but by President Trump’s logic such a limited contribution may not pass muster,” Snyder told The Korea Times. Lee said Friday that South Korea would not deploy troops or military assets in a way that would involve the country in the war, while confirmi...",
+        "fullText": [
+          "SEATTLE — President Lee Jae Myung’s proposal to expand South Korea’s maritime security role in the Strait of Hormuz while ruling out involvement in the war represents a “realistic and constructive” contribution, but may not be enough to satisfy U. S.",
+          "President Donald Trump, a U. S.",
+          "expert said. Scott Snyder, president and CEO of the Korea Economic Institute of America (KEI) and a longtime scholar of South Korea-U.",
+          "S. alliance and security issues, said Lee’s approach is consistent with how South Korea has responded to similar U.",
+          "S. requests in the past.",
+          "“Something along those lines represents a realistic and constructive offer from South Korea, but by President Trump’s logic such a limited contribution may not pass muster,” Snyder told The Korea Times. Lee said Friday that South Korea would not deploy troops or military assets in a way that would involve the country in the war, while confirmi..."
+        ],
+        "words": [
+          "limited",
+          "hormuz",
+          "satisfy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause",
+        "url": "https://www.koreatimes.co.kr/world/20260919/wall-st-mixed-as-benchmark-treasury-yields-reach-5-oil-takes-a-pause?utm_source=rss",
+        "summary": "NEW YORK — Wall Street was mixed on Friday as benchmark U.S. Treasury yields topped 5 percent, and crude prices reversed earlier gains but remained above $100 per barrel, keeping inflation worries front and center. Investors approached the end of a week that was essentially split in two: first, restless anticipation in the days before the U.S. Federal Reserve's widely expected interest rate hike, and then the aftermath of that decision. A semiconductor rally helped the Nasdaq evade the broader selloff, which pulled the S&P 500 and the Dow marginally lower. The S&P 500 is on track to end the session with a weekly loss, while the tech-laden Nasdaq is on course to end nominally higher than last Friday's close. The blue-chip Dow is headed for its biggest weekly percentage decline since March. Inflation concerns remained prominent as crude prices stayed above $100 per barrel, but they paused...",
+        "fullText": [
+          "NEW YORK — Wall Street was mixed on Friday as benchmark U. S.",
+          "Treasury yields topped 5 percent, and crude prices reversed earlier gains but remained above $100 per barrel, keeping inflation worries front and center. Investors approached the end of a week that was essentially split in two: first, restless anticipation in the days before the U.",
+          "S. Federal Reserve's widely expected interest rate hike, and then the aftermath of that decision.",
+          "A semiconductor rally helped the Nasdaq evade the broader selloff, which pulled the S&P 500 and the Dow marginally lower. The S&P 500 is on track to end the session with a weekly loss, while the tech-laden Nasdaq is on course to end nominally higher than last Friday's close.",
+          "The blue-chip Dow is headed for its biggest weekly percentage decline since March. Inflation concerns remained prominent as crude prices stayed above $100 per barrel, but they paused..."
+        ],
+        "words": [
+          "benchmark",
+          "treasury",
+          "yields"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "label": "Friday, September 18, 2026",
     "title": "Korea News Brief",
