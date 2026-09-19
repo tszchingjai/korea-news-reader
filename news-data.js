@@ -1,5 +1,148 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-20",
+    "label": "Sunday, September 20, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Law, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Greenland, Denmark say Trump deal won't compromise sovereignty",
+        "url": "https://www.koreatimes.co.kr/world/20260920/greenland-denmark-say-trump-deal-wont-compromise-sovereignty?utm_source=rss",
+        "summary": "COPENHAGEN — Denmark and Greenland on Saturday said any agreement with the United States would not compromise Greenland's sovereignty, after President Donald Trump said the deal would give Washington \"permanent control\" over the Arctic island's security, leaving its precise scope unclear. The United States, Denmark and Greenland said late on Friday they had reached an agreement for the U.S. to develop a significant military presence on Greenland, while prohibiting U.S. adversaries from building their own bases on the island. Key details of the agreement have not been made public, including the scale of U.S. military presence in the self-governing Danish territory and whether any formal power over foreign policy and resources would be ceded to Washington. Denmark and Greenland expressed hope that a deal, which is expected to be signed during the UN General Assembly next week, would end mo...",
+        "fullText": [
+          "COPENHAGEN — Denmark and Greenland on Saturday said any agreement with the United States would not compromise Greenland's sovereignty, after President Donald Trump said the deal would give Washington \"permanent control\" over the Arctic island's security, leaving its precise scope unclear. The United States, Denmark and Greenland said late on Friday they had reached an agreement for the U.",
+          "S. to develop a significant military presence on Greenland, while prohibiting U.",
+          "S. adversaries from building their own bases on the island.",
+          "Key details of the agreement have not been made public, including the scale of U. S.",
+          "military presence in the self-governing Danish territory and whether any formal power over foreign policy and resources would be ceded to Washington. Denmark and Greenland expressed hope that a deal, which is expected to be signed during the UN General Assembly next week, would end mo..."
+        ],
+        "words": [
+          "greenland",
+          "denmark",
+          "compromise"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+        "url": "https://www.koreatimes.co.kr/world/20260920/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=rss",
+        "summary": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development. The lawsuit, which was filed Friday in the U.S. District Court for the Northern District of California, argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions. The coordination largely took place on Sept. 12, the lawsuit argues, when Anthropic CEO Dario Amodei published an essay urging for industrywide cooperation on decelerating advancements in favor of enhanced safety measures. That same day, OpenAI CEO Sam Altman, SpaceXAI CEO Elon Musk and Google DeepMind's co-founder and chair Demis Hassabis each publicly responded to Amodei's proposals in agreement . But the lawsuit also alleges that the coordination began to take sh...",
+        "fullText": [
+          "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development. The lawsuit, which was filed Friday in the U.",
+          "S. District Court for the Northern District of California, argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.",
+          "The coordination largely took place on Sept. 12, the lawsuit argues, when Anthropic CEO Dario Amodei published an essay urging for industrywide cooperation on decelerating advancements in favor of enhanced safety measures.",
+          "That same day, OpenAI CEO Sam Altman, SpaceXAI CEO Elon Musk and Google DeepMind's co-founder and chair Demis Hassabis each publicly responded to Amodei's proposals in agreement . But the lawsuit also alleges that the coordination began to take sh..."
+        ],
+        "words": [
+          "lawsuit",
+          "anthropic",
+          "openai"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban",
+        "url": "https://www.koreatimes.co.kr/world/20260920/ms-now-cnn-and-politico-say-their-journalists-were-denied-access-to-white-house-after-trump-ban?utm_source=rss",
+        "summary": "NEW YORK — Reporters from three major news organizations — CNN, MS NOW and Politico — were denied access to the White House on Saturday, a day after President Donald Trump said he was barring them because of reporting he found to be “fake news.” The actions were a clear escalation of Trump’s long-running efforts — in the courts and through administrative action — to restrict news coverage by journalists he finds objectionable, and the latest test of First Amendment protections in the United States. Trump had said Friday he would ban all three outlets because of coverage he disliked. White House reporters from the two cable networks — Betsy Klein of CNN and Akayla Gardner of MS NOW — both went live to report they’d been turned away, their press badges deactivated, when arriving for their jobs at the White House. Soon after, Politico said its White House reporter Cheyenne Haslett was also...",
+        "fullText": [
+          "NEW YORK — Reporters from three major news organizations — CNN, MS NOW and Politico — were denied access to the White House on Saturday, a day after President Donald Trump said he was barring them because of reporting he found to be “fake news. ” The actions were a clear escalation of Trump’s long-running efforts — in the courts and through administrative action — to restrict news coverage by journalists he finds objectionable, and the latest test of First Amendment protections in the United States.",
+          "Trump had said Friday he would ban all three outlets because of coverage he disliked. White House reporters from the two cable networks — Betsy Klein of CNN and Akayla Gardner of MS NOW — both went live to report they’d been turned away, their press badges deactivated, when arriving for their jobs at the White House.",
+          "Soon after, Politico said its White House reporter Cheyenne Haslett was also..."
+        ],
+        "words": [
+          "politico",
+          "journalists",
+          "denied"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says he will appoint new AI adviser without providing details",
+        "url": "https://www.koreatimes.co.kr/world/20260920/trump-says-he-will-appoint-new-ai-adviser-without-providing-details?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said in a social media post on Saturday that he plans to appoint a new artificial intelligence adviser, known as an \"AI czar,\" and create an \"AI force,\" though he did not provide details about either initiative or how they would be implemented. Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property. Earlier this month, former Anthropic researcher Jacob Coxon said that \"people building AI earnestly believe that it could kill us all by the end of the decade.\" Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary. \"We will not in any way hinder or stifle the Growth of this incredible Industry,\" Trump wrote on Truth Social, his social media platform. \"Rather, we will cherish it, help it, and watch over it, as it grows! However, we will also be looki...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said in a social media post on Saturday that he plans to appoint a new artificial intelligence adviser, known as an \"AI czar,\" and create an \"AI force,\" though he did not provide details about either initiative or how they would be implemented. Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property.",
+          "Earlier this month, former Anthropic researcher Jacob Coxon said that \"people building AI earnestly believe that it could kill us all by the end of the decade. \" Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary.",
+          "\"We will not in any way hinder or stifle the Growth of this incredible Industry,\" Trump wrote on Truth Social, his social media platform. \"Rather, we will cherish it, help it, and watch over it, as it grows!",
+          "However, we will also be looki..."
+        ],
+        "words": [
+          "appoint",
+          "adviser",
+          "without"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "S. Korea to start gold medal campaign on 1st day of medal events",
+        "url": "https://www.koreatimes.co.kr/sports/20260920/s-korea-to-start-gold-medal-campaign-on-1st-day-of-medal-events?utm_source=rss",
+        "summary": "NAGOYA, Japan — South Korea is set to begin its gold medal campaign in earnest Sunday as the medal race at the 20th Asian Games got underway in Nagoya and Aichi Prefecture. With 1,051 athletes and officials in action, South Korea is targeting up to 45 gold medals and a third-place finish in the medal table, behind China and Japan. The first gold could come from the women's modern pentathlon. Seong Seung-min, who helped South Korea win bronze in the women's team event in the previous Asian Games, won the 2024 World Modern Pentathlon Championships to become the first South Korean woman to win a world title in the event. At the Paris Summer Olympics later that year, she became the first Asian female pentathlete to win an Olympic medal. Three other South Korean pentathletes — Kim Un-ju, Shin Su-min and Jang Ha-eun — will also compete in the 18-athlete final. Male pentathletes will take the f...",
+        "fullText": [
+          "NAGOYA, Japan — South Korea is set to begin its gold medal campaign in earnest Sunday as the medal race at the 20th Asian Games got underway in Nagoya and Aichi Prefecture. With 1,051 athletes and officials in action, South Korea is targeting up to 45 gold medals and a third-place finish in the medal table, behind China and Japan.",
+          "The first gold could come from the women's modern pentathlon. Seong Seung-min, who helped South Korea win bronze in the women's team event in the previous Asian Games, won the 2024 World Modern Pentathlon Championships to become the first South Korean woman to win a world title in the event.",
+          "At the Paris Summer Olympics later that year, she became the first Asian female pentathlete to win an Olympic medal. Three other South Korean pentathletes — Kim Un-ju, Shin Su-min and Jang Ha-eun — will also compete in the 18-athlete final.",
+          "Male pentathletes will take the f..."
+        ],
+        "words": [
+          "campaign",
+          "events",
+          "nagoya"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Lost in translation no more: Gangnam upgrades administrative counters with AI",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260920/lost-in-translation-no-more-gangnam-upgrades-administrative-counters-with-ai?utm_source=rss",
+        "summary": "In the bustling administrative offices of Gangnam District, the sleek area of southern Seoul famous for its glamour and wealth, public service counters are undergoing a futuristic transformation. Where transparent acrylic panels once merely served as physical barriers between residents and city officials, new artificial intelligence-powered displays are now translating spoken words with real-time subtitles across 130 languages. The Gangnam District Office said that it has deployed a state-of-the-art \"Real-Time Transparent OLED Communication Window\" as part of its drive to eliminate communication hurdles for foreign nationals and hearing-impaired residents. Developed in collaboration with private tech partners through an open innovation initiative, the system merges transparent organic light-emitting diode (OLED) screens with advanced speech-to-text and machine translation engines. For Ga...",
+        "fullText": [
+          "In the bustling administrative offices of Gangnam District, the sleek area of southern Seoul famous for its glamour and wealth, public service counters are undergoing a futuristic transformation. Where transparent acrylic panels once merely served as physical barriers between residents and city officials, new artificial intelligence-powered displays are now translating spoken words with real-time subtitles across 130 languages.",
+          "The Gangnam District Office said that it has deployed a state-of-the-art \"Real-Time Transparent OLED Communication Window\" as part of its drive to eliminate communication hurdles for foreign nationals and hearing-impaired residents. Developed in collaboration with private tech partners through an open innovation initiative, the system merges transparent organic light-emitting diode (OLED) screens with advanced speech-to-text and machine translation engines.",
+          "For Ga..."
+        ],
+        "words": [
+          "translation",
+          "gangnam",
+          "upgrades"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Korean dramas put successful parents on trial",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260920/korean-dramas-put-successful-parents-on-trial?utm_source=rss",
+        "summary": "\"Why aren't they turning them on, the police lights?\" Actor Kim Hye-soo put the question to the production team during filming of \"The Affair Was Just the Beginning,\" the highly anticipated Coupang Play series. In the scene, a patrol car dispatched after a report from residents pulls up with its emergency lights off. \"We hear they often respond with the lights off these days, because of complaints,\" the production team told her, and shooting resumed. 'Squid Game' director turns eye on high-flying parents The neighborhood disturbance that brought police to the street was not about noise complaints. Here is what happened. In the drama, high school daughters from two households are caught up in a hit-and-run that killed someone. Their parents make a scene, each pointing fingers over what was done. The parents of the two teenagers tied to the killing are doctors, played by Cho Yeo-jeong and...",
+        "fullText": [
+          "\"Why aren't they turning them on, the police lights? \" Actor Kim Hye-soo put the question to the production team during filming of \"The Affair Was Just the Beginning,\" the highly anticipated Coupang Play series.",
+          "In the scene, a patrol car dispatched after a report from residents pulls up with its emergency lights off. \"We hear they often respond with the lights off these days, because of complaints,\" the production team told her, and shooting resumed.",
+          "'Squid Game' director turns eye on high-flying parents The neighborhood disturbance that brought police to the street was not about noise complaints. Here is what happened.",
+          "In the drama, high school daughters from two households are caught up in a hit-and-run that killed someone. Their parents make a scene, each pointing fingers over what was done.",
+          "The parents of the two teenagers tied to the killing are doctors, played by Cho Yeo-jeong and..."
+        ],
+        "words": [
+          "dramas",
+          "successful",
+          "parents"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-19",
     "label": "Saturday, September 19, 2026",
     "title": "Korea News Brief",
