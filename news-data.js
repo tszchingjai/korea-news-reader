@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-21",
+    "label": "Monday, September 21, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Inter-Korea, Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump eyes busy week of meetings as UN General Assembly gathers",
+        "url": "https://www.koreatimes.co.kr/world/20260921/trump-eyes-busy-week-of-meetings-as-un-general-assembly-gathers?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump's two days attending the United Nations General Assembly will include a series of bilateral meetings and events with notable political figures such as the leaders of Ukraine and the United Kingdom, and New York Mayor Zohran Mamdani. Nearly 130 heads of state are meeting in New York as the post-World War II order comes under strain and with the UN itself struggling to remain relevant while weathering attacks from Trump, who has long expressed disdain for the institution and has slashed U.S. funding for many of its agencies. Trump is expected to arrive in New York on Monday afternoon for \"political events\" at Trump Tower that evening, U.S. Ambassador to the U.N. Mike Waltz told reporters on Friday. On Tuesday morning, Trump will address the U.N. General Assembly. \"The president will highlight how he has and his administration have confronted complex...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump's two days attending the United Nations General Assembly will include a series of bilateral meetings and events with notable political figures such as the leaders of Ukraine and the United Kingdom, and New York Mayor Zohran Mamdani. Nearly 130 heads of state are meeting in New York as the post-World War II order comes under strain and with the UN itself struggling to remain relevant while weathering attacks from Trump, who has long expressed disdain for the institution and has slashed U.",
+          "S. funding for many of its agencies.",
+          "Trump is expected to arrive in New York on Monday afternoon for \"political events\" at Trump Tower that evening, U. S.",
+          "Ambassador to the U. N.",
+          "Mike Waltz told reporters on Friday. On Tuesday morning, Trump will address the U.",
+          "N. General Assembly.",
+          "\"The president will highlight how he has and his administration have confronted complex..."
+        ],
+        "words": [
+          "meetings",
+          "general",
+          "assembly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "S. Korean swimmers seek to defend relay title; football teams set for inter-Korean clash",
+        "url": "https://www.koreatimes.co.kr/sports/20260921/s-korean-swimmers-seek-to-defend-relay-title-football-teams-set-for-inter-korean-clash?utm_source=rss",
+        "summary": "NAGOYA, Japan — South Korean swimming stars will seek to defend their men's relay title at the Aichi-Nagoya Asian Games on Monday, while the women's football team will face North Korea in the first all-Korean match of the Games. The team of Hwang Sun-woo, Kim Woo-min, Lee Ho-joon and Kim Young-beom will compete in the men's 4x200-meter freestyle relay at Tokyo Aquatics Centre in Tokyo. South Korea won the event for the first time at the Hangzhou Asian Games in 2023. Three years later, Kim Young-beom has joined Hwang, Kim Woo-min and Lee on the relay team. Kim Young-beom, a 20-year old rising star in short distance swimming in South Korea, won silver in the men's 100m freestyle event the previous day, while Hwang finished third. Kim broke Hwang's Korean record in the 100m discipline at a national competition last year. The women's volleyball team will face Japan in the semifinals. A victo...",
+        "fullText": [
+          "NAGOYA, Japan — South Korean swimming stars will seek to defend their men's relay title at the Aichi-Nagoya Asian Games on Monday, while the women's football team will face North Korea in the first all-Korean match of the Games. The team of Hwang Sun-woo, Kim Woo-min, Lee Ho-joon and Kim Young-beom will compete in the men's 4x200-meter freestyle relay at Tokyo Aquatics Centre in Tokyo.",
+          "South Korea won the event for the first time at the Hangzhou Asian Games in 2023. Three years later, Kim Young-beom has joined Hwang, Kim Woo-min and Lee on the relay team.",
+          "Kim Young-beom, a 20-year old rising star in short distance swimming in South Korea, won silver in the men's 100m freestyle event the previous day, while Hwang finished third. Kim broke Hwang's Korean record in the 100m discipline at a national competition last year.",
+          "The women's volleyball team will face Japan in the semifinals. A victo..."
+        ],
+        "words": [
+          "swimmers",
+          "defend",
+          "football"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Which Korean stocks offer highest dividend yields this year?",
+        "url": "https://www.koreatimes.co.kr/economy/20260921/which-korean-stocks-offer-highest-dividend-yields-this-year?utm_source=rss",
+        "summary": "High-dividend stocks are drawing renewed attention as Korea enters the year-end payout season with the KOSPI confined to a narrow range, analysts said Sunday. According to financial data provider FnGuide, Korea District Heating Corp. is expected to offer the highest dividend yield this year among listed companies covered by at least three brokerages. The company is projected to pay 6,520 won ($4.69) per share this year, up 363 won from 6,157 won a year earlier, translating into an estimated dividend yield of 8.69 percent. Dividend yield is calculated by dividing the dividend per share by the share price. AJ Networks, a rental service group, ranked next, with an estimated dividend of 343 won per share and a dividend yield of 8.33 percent. Brokerage stocks also featured prominently, buoyed by a strong first-half market rally and a sharp improvement in earnings. NH Investment & Securities i...",
+        "fullText": [
+          "High-dividend stocks are drawing renewed attention as Korea enters the year-end payout season with the KOSPI confined to a narrow range, analysts said Sunday. According to financial data provider FnGuide, Korea District Heating Corp.",
+          "is expected to offer the highest dividend yield this year among listed companies covered by at least three brokerages. The company is projected to pay 6,520 won ($4.",
+          "69) per share this year, up 363 won from 6,157 won a year earlier, translating into an estimated dividend yield of 8. 69 percent.",
+          "Dividend yield is calculated by dividing the dividend per share by the share price. AJ Networks, a rental service group, ranked next, with an estimated dividend of 343 won per share and a dividend yield of 8.",
+          "33 percent. Brokerage stocks also featured prominently, buoyed by a strong first-half market rally and a sharp improvement in earnings.",
+          "NH Investment & Securities i..."
+        ],
+        "words": [
+          "stocks",
+          "highest",
+          "dividend"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Stronger won to test chip, display firms' Q3 profitability",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260921/stronger-won-to-test-chip-display-firms-q3-profitability?utm_source=rss",
+        "summary": "The strengthening Korean won is emerging as a fresh earnings risk for chipmakers, display firms and other electronics companies that rely heavily on dollar-denominated transactions, prompting brokerages to cut earnings estimates for the third quarter. According to data from the Bank of Korea, Sunday, the Korean currency traded at 1,480 won against the dollar on July 16, before strengthening to 1,413 won on Aug. 17 and 1,382 won on Sept. 17. This represents a 6.6 percent narrowing in the dollar-won exchange rate over the two-month period. The change in the dollar-won exchange rate accelerated particularly from August, with the Korean currency gaining value to 1,336 won per dollar on Sept. 9. This prompted brokerages that had based their earnings forecasts at 1,450 won per dollar to begin cutting their estimates, causing the third-quarter earnings consensus for major companies such as Sams...",
+        "fullText": [
+          "The strengthening Korean won is emerging as a fresh earnings risk for chipmakers, display firms and other electronics companies that rely heavily on dollar-denominated transactions, prompting brokerages to cut earnings estimates for the third quarter. According to data from the Bank of Korea, Sunday, the Korean currency traded at 1,480 won against the dollar on July 16, before strengthening to 1,413 won on Aug.",
+          "17 and 1,382 won on Sept. 17.",
+          "This represents a 6. 6 percent narrowing in the dollar-won exchange rate over the two-month period.",
+          "The change in the dollar-won exchange rate accelerated particularly from August, with the Korean currency gaining value to 1,336 won per dollar on Sept. 9.",
+          "This prompted brokerages that had based their earnings forecasts at 1,450 won per dollar to begin cutting their estimates, causing the third-quarter earnings consensus for major companies such as Sams..."
+        ],
+        "words": [
+          "stronger",
+          "display",
+          "profitability"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Operational blunders at Asian Games disrupt Korean team",
+        "url": "https://www.koreatimes.co.kr/sports/20260921/operational-blunders-at-asian-games-disrupt-korean-team?utm_source=rss",
+        "summary": "Japan's organization of the Aichi-Nagoya Asian Games is drawing criticism over a string of missteps, from playing the wrong national anthem to poor housing conditions and repeated transportation failures. Last Friday, North Korea's national anthem was mistakenly played instead of South Korea's before a men's field hockey Pool A match between South Korea and Bangladesh at Gifu Prefectural Green Stadium in Kakamigahara. The South Korean delegation demanded an explanation and sent an official letter of protest to the organizing committee. \"The national anthem, a symbol of the country, should never be played incorrectly at an international multi-sport event, and we view this matter with utmost seriousness,\" Korean Sport & Olympic Committee (KSOC) President Ryu Seung-min said. \"We will do our best to protect our athletes so they can focus on competition without being affected by issues outsid...",
+        "fullText": [
+          "Japan's organization of the Aichi-Nagoya Asian Games is drawing criticism over a string of missteps, from playing the wrong national anthem to poor housing conditions and repeated transportation failures. Last Friday, North Korea's national anthem was mistakenly played instead of South Korea's before a men's field hockey Pool A match between South Korea and Bangladesh at Gifu Prefectural Green Stadium in Kakamigahara.",
+          "The South Korean delegation demanded an explanation and sent an official letter of protest to the organizing committee. \"The national anthem, a symbol of the country, should never be played incorrectly at an international multi-sport event, and we view this matter with utmost seriousness,\" Korean Sport & Olympic Committee (KSOC) President Ryu Seung-min said.",
+          "\"We will do our best to protect our athletes so they can focus on competition without being affected by issues outsid..."
+        ],
+        "words": [
+          "operational",
+          "blunders",
+          "disrupt"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "AI music is already charting. Korea is slow to respond",
+        "url": "https://www.koreatimes.co.kr/entertainment/music/20260921/ai-music-is-already-charting-korea-is-slow-to-respond?utm_source=rss",
+        "summary": "An artificial intelligence (AI)-assisted song's entry into Melon's Top 100 chart has exposed a regulatory vacuum over AI music in Korea, just weeks after the country's largest music copyright collective withdrew its first attempt to allow the registration of such works. \"Forest of the Heart,\" released in May by YouTube creator Joseon HipHop, peaked at No. 89 on the Top 100 chart and No. 99 on the daily chart for Melon, one of the country's top streaming platforms, according to Yonhap News Agency. The creator wrote the lyrics and produced the melody and vocals using Suno, a generative music AI service. The track became popular by word of mouth, especially among listeners in their 40s. The song has since dropped out of both charts, but its run showed that AI-assisted music can already reach mainstream listeners here, well before rules on authorship and royalties are in place. In March, the...",
+        "fullText": [
+          "An artificial intelligence (AI)-assisted song's entry into Melon's Top 100 chart has exposed a regulatory vacuum over AI music in Korea, just weeks after the country's largest music copyright collective withdrew its first attempt to allow the registration of such works. \"Forest of the Heart,\" released in May by YouTube creator Joseon HipHop, peaked at No.",
+          "89 on the Top 100 chart and No. 99 on the daily chart for Melon, one of the country's top streaming platforms, according to Yonhap News Agency.",
+          "The creator wrote the lyrics and produced the melody and vocals using Suno, a generative music AI service. The track became popular by word of mouth, especially among listeners in their 40s.",
+          "The song has since dropped out of both charts, but its run showed that AI-assisted music can already reach mainstream listeners here, well before rules on authorship and royalties are in place. In March, the..."
+        ],
+        "words": [
+          "already",
+          "charting",
+          "respond"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Authentic Korean convenience meals attract foreigners",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260921/authentic-korean-convenience-meals-attract-foreigners?utm_source=rss",
+        "summary": "The global popularity of Korean food has reached a point where convenience store meal boxes, known as “dosirak,” have become part of a new market trend where signature Korean flavors and traditional recipes have become a hit with international visitors and popular in new markets. Min Jung-hwan, who plans and oversees dosirak production for GS25 at GS Retail’s Merchandise Headquarters, is seeing the shift firsthand. Rather than creating separate products for foreign customers, the retailer is increasingly offering the same dosirak that appeal to Korean consumers, reflecting growing interest in authentic Korean flavors. “We don’t make dosirak that are specially for foreigners because many of them like what Koreans enjoy. Even at GS25 stores in Vietnam and Mongolia, visitors are interested in authentic Korean-style dosirak. We try to meet such expectations so that they can feel they are ins...",
+        "fullText": [
+          "The global popularity of Korean food has reached a point where convenience store meal boxes, known as “dosirak,” have become part of a new market trend where signature Korean flavors and traditional recipes have become a hit with international visitors and popular in new markets. Min Jung-hwan, who plans and oversees dosirak production for GS25 at GS Retail’s Merchandise Headquarters, is seeing the shift firsthand.",
+          "Rather than creating separate products for foreign customers, the retailer is increasingly offering the same dosirak that appeal to Korean consumers, reflecting growing interest in authentic Korean flavors. “We don’t make dosirak that are specially for foreigners because many of them like what Koreans enjoy.",
+          "Even at GS25 stores in Vietnam and Mongolia, visitors are interested in authentic Korean-style dosirak. We try to meet such expectations so that they can feel they are ins..."
+        ],
+        "words": [
+          "authentic",
+          "convenience",
+          "attract"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "label": "Sunday, September 20, 2026",
     "title": "Korea News Brief",
