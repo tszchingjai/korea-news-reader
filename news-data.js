@@ -1,5 +1,151 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-22",
+    "label": "Tuesday, September 22, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Inter-Korea, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "President Lee arrives in New York to attend UN General Assembly",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260922/president-lee-arrives-in-new-york-to-attend-un-general-assembly?utm_source=rss",
+        "summary": "NEW YORK—South Korean President Lee Jae Myung arrived in New York on Monday to attend the United Nations General Assembly's High-Level Week and deliver a speech. During a speech on Tuesday to the U.N. session, Lee plans to propose ways to reform the U.N. to tackle global issues and outline South Korea's contributions, while also presenting his administration's vision of seeking peaceful coexistence on the Korean Peninsula. On the sidelines of the U.N. session, Lee will seek to engage with other heads of state, including U.S. President Donald Trump, and hold a meeting with U.N. Secretary-General Antonio Guterres to call for the world body's cooperation in efforts to ensure peace on the peninsula. On Wednesday, the president will attend an investment summit that will bring together economic and financial leaders from South Korea and the United States before departing for Mexico later that...",
+        "fullText": [
+          "NEW YORK—South Korean President Lee Jae Myung arrived in New York on Monday to attend the United Nations General Assembly's High-Level Week and deliver a speech. During a speech on Tuesday to the U.",
+          "N. session, Lee plans to propose ways to reform the U.",
+          "N. to tackle global issues and outline South Korea's contributions, while also presenting his administration's vision of seeking peaceful coexistence on the Korean Peninsula.",
+          "On the sidelines of the U. N.",
+          "session, Lee will seek to engage with other heads of state, including U. S.",
+          "President Donald Trump, and hold a meeting with U. N.",
+          "Secretary-General Antonio Guterres to call for the world body's cooperation in efforts to ensure peace on the peninsula. On Wednesday, the president will attend an investment summit that will bring together economic and financial leaders from South Korea and the United States before departing for Mexico later that..."
+        ],
+        "words": [
+          "president",
+          "arrives",
+          "attend"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea says tested new weapon system earlier this week",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260922/n-korea-says-tested-new-weapon-system-earlier-this-week?utm_source=rss",
+        "summary": "North Korea on Tuesday reported on its missile launch earlier this week, saying the test of a new combat weapon system was significant in demonstrating the advancement of the country's weapons technology. The North's missile bureau \"successfully conducted a test of a new weapon\" Sunday in the presence of leader Kim Jong-un, according to the Korean Central News Agency (KCNA). North Korea did not specify what the weapon system was but stressed the test was \"of significant importance for advancing weapons system technology,\" it said. The announcement came two days after South Korea's Joint Chiefs of Staff (JCS) said the North had fired two short-range ballistic missiles toward the East Sea from the Wonsan area. Kim described the test as \"an unquestionable demonstration of advanced defense technology\" and \"a clear renewal in the modernization of the armed forces,\" the KCNA said. Noting that...",
+        "fullText": [
+          "North Korea on Tuesday reported on its missile launch earlier this week, saying the test of a new combat weapon system was significant in demonstrating the advancement of the country's weapons technology. The North's missile bureau \"successfully conducted a test of a new weapon\" Sunday in the presence of leader Kim Jong-un, according to the Korean Central News Agency (KCNA).",
+          "North Korea did not specify what the weapon system was but stressed the test was \"of significant importance for advancing weapons system technology,\" it said. The announcement came two days after South Korea's Joint Chiefs of Staff (JCS) said the North had fired two short-range ballistic missiles toward the East Sea from the Wonsan area.",
+          "Kim described the test as \"an unquestionable demonstration of advanced defense technology\" and \"a clear renewal in the modernization of the armed forces,\" the KCNA said. Noting that..."
+        ],
+        "words": [
+          "tested",
+          "weapon",
+          "system"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's aviation industry undergoes major M&A shakeup",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260922/koreas-aviation-industry-undergoes-major-ma-shakeup?utm_source=rss",
+        "summary": "Korea’s low-cost carrier (LCC) industry is heading for a major shakeup, as VIG Partners moves to acquire Air Premia, seeking synergies by combining the long-haul-focused carrier with its existing Eastar Jet, which has a stronger presence on short-haul routes. VIG is reportedly in negotiations with AP Holdings and Tire Bank to acquire about 70 percent of Air Premia, with the transaction valued at around 300 billion won ($217 million). The potential deal would mark VIG’s second major move in Korea’s LCC industry since it acquired Eastar Jet in 2023. The latest move would give the private equity firm access to two airlines with distinctly different route strategies: Eastar has focused largely on short- and medium-haul routes, while Air Premia has built its business around long-haul services, including flights particularly to the United States. The combination could therefore offer a way to...",
+        "fullText": [
+          "Korea’s low-cost carrier (LCC) industry is heading for a major shakeup, as VIG Partners moves to acquire Air Premia, seeking synergies by combining the long-haul-focused carrier with its existing Eastar Jet, which has a stronger presence on short-haul routes. VIG is reportedly in negotiations with AP Holdings and Tire Bank to acquire about 70 percent of Air Premia, with the transaction valued at around 300 billion won ($217 million).",
+          "The potential deal would mark VIG’s second major move in Korea’s LCC industry since it acquired Eastar Jet in 2023. The latest move would give the private equity firm access to two airlines with distinctly different route strategies: Eastar has focused largely on short- and medium-haul routes, while Air Premia has built its business around long-haul services, including flights particularly to the United States.",
+          "The combination could therefore offer a way to..."
+        ],
+        "words": [
+          "aviation",
+          "industry",
+          "undergoes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "In AI-augmented legal market, clients will judge firms by final results: BKL chief",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260922/in-ai-augmented-legal-market-clients-will-judge-firms-by-final-results-bkl-chief?utm_source=rss",
+        "summary": "As artificial intelligence (AI) becomes a standard tool across the legal profession and beyond, clients will ultimately judge law firms not by whether or how much they use the technology, but by the quality of the results they deliver with it, said Yi Joon-ki, managing partner of Bae, Kim & Lee (BKL). “Clients do not really care what tools we use,” Yi said in a recent interview with The Korea Times at his office. “What they want is a compelling and useful analysis — one that addresses their needs. In the end, it is BKL’s judgment, and BKL will be responsible for it. As long as we deliver a reliable answer, that is what matters to them.” The Seoul-based law firm has emerged as one of the most active adopters of generative AI among Korean law firms, rolling out the technology across the organization this year after conducting pilot projects in litigation, legal research, due diligence, doc...",
+        "fullText": [
+          "As artificial intelligence (AI) becomes a standard tool across the legal profession and beyond, clients will ultimately judge law firms not by whether or how much they use the technology, but by the quality of the results they deliver with it, said Yi Joon-ki, managing partner of Bae, Kim & Lee (BKL). “Clients do not really care what tools we use,” Yi said in a recent interview with The Korea Times at his office.",
+          "“What they want is a compelling and useful analysis — one that addresses their needs. In the end, it is BKL’s judgment, and BKL will be responsible for it.",
+          "As long as we deliver a reliable answer, that is what matters to them. ” The Seoul-based law firm has emerged as one of the most active adopters of generative AI among Korean law firms, rolling out the technology across the organization this year after conducting pilot projects in litigation, legal research, due diligence, doc..."
+        ],
+        "words": [
+          "ai-augmented",
+          "market",
+          "clients"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Presley Gerber, son of Cindy Crawford and model, dies at 27",
+        "url": "https://www.koreatimes.co.kr/world/20260922/presley-gerber-son-of-cindy-crawford-and-model-dies-at-27?utm_source=rss",
+        "summary": "LOS ANGELES — Presley Gerber, the son of supermodel Cindy Crawford and businessperson Rande Gerber, died Sunday at age 27, a family representative said. Gerber died at a rehabilitation facility, according to online records of the Los Angeles County Medical Examiner. The medical examiner did not provide a cause of death Sunday. An autopsy was performed, but more testing is required before investigators can give a cause, according to the medical examiner’s website. The death was confirmed by Allie Jenkins, a representative for Crawford and Rande Gerber, who were married in 1998. “The family is asking for privacy during this very difficult and painful time,” Jenkins said in an email Sunday night. Gerber was a model in his own right Gerber was a model and the older brother of model and actor Kaia Gerber. He had been open about his struggles with mental health and substance abuse, documenting...",
+        "fullText": [
+          "LOS ANGELES — Presley Gerber, the son of supermodel Cindy Crawford and businessperson Rande Gerber, died Sunday at age 27, a family representative said. Gerber died at a rehabilitation facility, according to online records of the Los Angeles County Medical Examiner.",
+          "The medical examiner did not provide a cause of death Sunday. An autopsy was performed, but more testing is required before investigators can give a cause, according to the medical examiner’s website.",
+          "The death was confirmed by Allie Jenkins, a representative for Crawford and Rande Gerber, who were married in 1998. “The family is asking for privacy during this very difficult and painful time,” Jenkins said in an email Sunday night.",
+          "Gerber was a model in his own right Gerber was a model and the older brother of model and actor Kaia Gerber. He had been open about his struggles with mental health and substance abuse, documenting..."
+        ],
+        "words": [
+          "presley",
+          "gerber",
+          "crawford"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Paramount settles with US states to clear Warner Bros. mega-merger",
+        "url": "https://www.koreatimes.co.kr/world/20260922/paramount-settles-with-us-states-to-clear-warner-bros-mega-merger?utm_source=rss",
+        "summary": "LOS ANGELES — Paramount has reached a settlement with a group of U.S. states that clears the way for its takeover of Warner Bros. Discovery, officials announced Monday, creating a Hollywood empire spanning television, news and cinema. Paramount, which is run by David Ellison, whose ultra-wealthy family has ties to U.S. President Donald Trump, won a bidding war against Netflix in February for control of a stable of assets that includes Warner Bros. Pictures, CNN and the HBO Max streaming service. The Trump administration approved the deal, one of the largest media mergers in years, in June without demanding a change to its business, before 12 U.S. states sued to block the transaction. Financing for the deal reportedly includes about $24 billion in equity from the sovereign wealth funds of Saudi Arabia, Qatar and Abu Dhabi. David Ellison's father, billionaire Oracle founder Larry Ellison,...",
+        "fullText": [
+          "LOS ANGELES — Paramount has reached a settlement with a group of U. S.",
+          "states that clears the way for its takeover of Warner Bros. Discovery, officials announced Monday, creating a Hollywood empire spanning television, news and cinema.",
+          "Paramount, which is run by David Ellison, whose ultra-wealthy family has ties to U. S.",
+          "President Donald Trump, won a bidding war against Netflix in February for control of a stable of assets that includes Warner Bros. Pictures, CNN and the HBO Max streaming service.",
+          "The Trump administration approved the deal, one of the largest media mergers in years, in June without demanding a change to its business, before 12 U. S.",
+          "states sued to block the transaction. Financing for the deal reportedly includes about $24 billion in equity from the sovereign wealth funds of Saudi Arabia, Qatar and Abu Dhabi.",
+          "David Ellison's father, billionaire Oracle founder Larry Ellison,..."
+        ],
+        "words": [
+          "paramount",
+          "settles",
+          "states"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US, Denmark, Greenland to sign US security deal for Greenland",
+        "url": "https://www.koreatimes.co.kr/world/20260922/us-denmark-greenland-to-sign-us-security-deal-for-greenland?utm_source=rss",
+        "summary": "COPENHAGEN — The United States, Denmark and Greenland will on Tuesday sign the announced U.S. security deal for Greenland on the sidelines of the UN General Assembly in New York, Denmark's government said. U.S. President Donald Trump said last Friday that the arrangement will give America \"permanent control\" over security for Greenland, an autonomous Danish territory in the Arctic that he has long coveted. The office of Danish Prime Minister Mette Frederiksen said that she, Trump and Greenland's Prime Minister Jens-Frederik Nielsen would sign the deal at 1430 GMT in the UN building in New York. Frederiksen said Monday that the agreement, which has not been published, \"recognises\" the sovereignty and territorial integrity of the Kingdom of Denmark, as well as the right of the Greenlandic people to self-determination. \"It is a good agreement from a Danish point of view,\" she told Danish ra...",
+        "fullText": [
+          "COPENHAGEN — The United States, Denmark and Greenland will on Tuesday sign the announced U. S.",
+          "security deal for Greenland on the sidelines of the UN General Assembly in New York, Denmark's government said. U.",
+          "S. President Donald Trump said last Friday that the arrangement will give America \"permanent control\" over security for Greenland, an autonomous Danish territory in the Arctic that he has long coveted.",
+          "The office of Danish Prime Minister Mette Frederiksen said that she, Trump and Greenland's Prime Minister Jens-Frederik Nielsen would sign the deal at 1430 GMT in the UN building in New York. Frederiksen said Monday that the agreement, which has not been published, \"recognises\" the sovereignty and territorial integrity of the Kingdom of Denmark, as well as the right of the Greenlandic people to self-determination.",
+          "\"It is a good agreement from a Danish point of view,\" she told Danish ra..."
+        ],
+        "words": [
+          "denmark",
+          "greenland",
+          "security"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-21",
     "label": "Monday, September 21, 2026",
     "title": "Korea News Brief",
