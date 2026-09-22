@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-23",
+    "label": "Wednesday, September 23, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Watchdog chief calls for fairness, transparency in CEO selection process",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20260923/watchdog-chief-calls-for-fairness-transparency-in-ceo-selection-process?utm_source=rss",
+        "summary": "The chief of the country's financial watchdog said Wednesday that bank holding companies need to draw up measures to boost fairness and transparency in selecting chief executives of their affiliates. In a meeting with the heads of eight holding companies of banks, Lee Chan-jin, governor of the Financial Supervisory Service (FSS), urged them to redouble their efforts to select chief executives of their affiliates in a fair and transparent manner. The watchdog has been racing to map out measures to boost the governance structure of financial holding companies that center around fair and transparent selections of chief executives of banks. Lee also stressed that banks need to enhance their internal control schemes as financial accidents have been on the steady rise. According to the FSS, a total of 171 billion won ($126 million) worth of financial accidents were reported in the banking sect...",
+        "fullText": [
+          "The chief of the country's financial watchdog said Wednesday that bank holding companies need to draw up measures to boost fairness and transparency in selecting chief executives of their affiliates. In a meeting with the heads of eight holding companies of banks, Lee Chan-jin, governor of the Financial Supervisory Service (FSS), urged them to redouble their efforts to select chief executives of their affiliates in a fair and transparent manner.",
+          "The watchdog has been racing to map out measures to boost the governance structure of financial holding companies that center around fair and transparent selections of chief executives of banks. Lee also stressed that banks need to enhance their internal control schemes as financial accidents have been on the steady rise.",
+          "According to the FSS, a total of 171 billion won ($126 million) worth of financial accidents were reported in the banking sect..."
+        ],
+        "words": [
+          "watchdog",
+          "fairness",
+          "transparency"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee, UN chief Guterres discuss Korean Peninsula issues, S. Korea-UN cooperation",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260923/lee-un-chief-guterres-discuss-korean-peninsula-issues-s-korea-un-cooperation?utm_source=rss",
+        "summary": "NEW YORK — President Lee Jae Myung met with U.N. Secretary-General Antonio Guterres on Tuesday and discussed cooperation between South Korea and the world body, as well as issues concerning the Korean Peninsula. The meeting took place on the sidelines of Lee's attendance at the U.N. General Assembly in New York, marking their third in-person meeting since Lee took office in June last year. During the meeting, Lee highlighted his administration's efforts to build peaceful and mutually developmental coexistence between the two Koreas under the vision that building peace without the need to fight is the path toward the most secure peace, Lee's senior secretary for public affairs Seong Ghi-hong said in a press release. Lee also said he expects close communication and cooperation with the United Nations in pursuing the vision. Guterres expressed \"active support\" for Seoul's overall diplomatic...",
+        "fullText": [
+          "NEW YORK — President Lee Jae Myung met with U. N.",
+          "Secretary-General Antonio Guterres on Tuesday and discussed cooperation between South Korea and the world body, as well as issues concerning the Korean Peninsula. The meeting took place on the sidelines of Lee's attendance at the U.",
+          "N. General Assembly in New York, marking their third in-person meeting since Lee took office in June last year.",
+          "During the meeting, Lee highlighted his administration's efforts to build peaceful and mutually developmental coexistence between the two Koreas under the vision that building peace without the need to fight is the path toward the most secure peace, Lee's senior secretary for public affairs Seong Ghi-hong said in a press release. Lee also said he expects close communication and cooperation with the United Nations in pursuing the vision.",
+          "Guterres expressed \"active support\" for Seoul's overall diplomatic..."
+        ],
+        "words": [
+          "guterres",
+          "discuss",
+          "peninsula"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "ONEUS sidesteps '7-year curse,' full lineup returns for 12th EP",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260923/oneus-sidesteps-7-year-curse-full-lineup-returns-for-12th-ep?utm_source=rss",
+        "summary": "For K-pop groups, the seventh year is supposedly cursed. Standard exclusive contracts usually are set to expire around that point, and members start weighing solo careers, new agencies or leaving the industry altogether. For boy band ONEUS, members say that reckoning never really arrived, and agreeing to stay together took far less discussion than deciding where to do it. The five-member boy group — Seoho, Leedo, Keonhee, Hwanwoong and Xion — will release its 12th EP, \"FIRST LIGHT: 井,\" at 6 p.m., Wednesday. It is the group's first release as a full lineup since Seoho was discharged from mandatory military service in August, and their first album since all five moved together to B-Wave Entertainment earlier this year. ONEUS debuted under RBW in January 2019 and parted ways with the agency when their contracts ended in February. At the members' request, B-Wave acquired the ONEUS-related in...",
+        "fullText": [
+          "For K-pop groups, the seventh year is supposedly cursed. Standard exclusive contracts usually are set to expire around that point, and members start weighing solo careers, new agencies or leaving the industry altogether.",
+          "For boy band ONEUS, members say that reckoning never really arrived, and agreeing to stay together took far less discussion than deciding where to do it. The five-member boy group — Seoho, Leedo, Keonhee, Hwanwoong and Xion — will release its 12th EP, \"FIRST LIGHT: 井,\" at 6 p.",
+          "m. , Wednesday.",
+          "It is the group's first release as a full lineup since Seoho was discharged from mandatory military service in August, and their first album since all five moved together to B-Wave Entertainment earlier this year. ONEUS debuted under RBW in January 2019 and parted ways with the agency when their contracts ended in February.",
+          "At the members' request, B-Wave acquired the ONEUS-related in..."
+        ],
+        "words": [
+          "sidesteps",
+          "lineup",
+          "returns"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Lee vows efforts to help swiftly resume US-N. Korea dialogue",
+        "url": "https://www.koreatimes.co.kr/world/20260923/lee-vows-efforts-to-help-swiftly-resume-us-n-korea-dialogue?utm_source=rss",
+        "summary": "NEW YORK — South Korean President Lee Jae Myung on Tuesday reaffirmed his envisioned role as a \"pacemaker\" in establishing peace on the Korean Peninsula, pledging efforts to help swiftly resume dialogue between the United States and North Korea. The South Korean president made the pledge in his address to the 81st United Nations General Assembly in New York, as U.S. President Donald Trump seeks to revive his diplomacy with North Korean leader Kim Jong-un, while inter-Korean relations remain at a standstill. \"I hope the long-suspended dialogue between North Korea and the U.S. can resume without delay,\" Lee said. \"We will lay the groundwork for this (U.S.-North Korea dialogue) to develop into a dialogue between the related parties to end the war on the Korean Peninsula and transition into a peace regime.\" The two Koreas remain technically at war since the 1950-53 Korean War ended with an a...",
+        "fullText": [
+          "NEW YORK — South Korean President Lee Jae Myung on Tuesday reaffirmed his envisioned role as a \"pacemaker\" in establishing peace on the Korean Peninsula, pledging efforts to help swiftly resume dialogue between the United States and North Korea. The South Korean president made the pledge in his address to the 81st United Nations General Assembly in New York, as U.",
+          "S. President Donald Trump seeks to revive his diplomacy with North Korean leader Kim Jong-un, while inter-Korean relations remain at a standstill.",
+          "\"I hope the long-suspended dialogue between North Korea and the U. S.",
+          "can resume without delay,\" Lee said. \"We will lay the groundwork for this (U.",
+          "S. -North Korea dialogue) to develop into a dialogue between the related parties to end the war on the Korean Peninsula and transition into a peace regime.",
+          "\" The two Koreas remain technically at war since the 1950-53 Korean War ended with an a..."
+        ],
+        "words": [
+          "efforts",
+          "swiftly",
+          "resume"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "First Iran flights cancelled as US sanctions set to come into force",
+        "url": "https://www.koreatimes.co.kr/world/20260923/first-iran-flights-cancelled-as-us-sanctions-set-to-come-into-force?utm_source=rss",
+        "summary": "TEHRAN — Flights from Iran to the capitals of Iraq and Oman will be cancelled as of midnight, local media reported Tuesday, hours before expanded U.S. sanctions were due to come into force. The Tasnim news agency cited a civil aviation spokesman as saying that \"Baghdad and Muscat airports will no longer accept Iranian flights.\" \"Other international flights, including Istanbul, will operate as scheduled and as usual, and at present there are no problems with these flights,\" Tasnim reported. According to Tasnim, Iran's aviation authorities are in talks to reroute Baghdad flights to Najaf, a major destination for Iranian pilgrims. The agency ISNA said negotiations with Oman were also ongoing. In Iraq, the government has not yet announced plans to enforce the ban, but several sources, including a senior government official, told AFP that Baghdad would comply. Earlier this month the U.S. blac...",
+        "fullText": [
+          "TEHRAN — Flights from Iran to the capitals of Iraq and Oman will be cancelled as of midnight, local media reported Tuesday, hours before expanded U. S.",
+          "sanctions were due to come into force. The Tasnim news agency cited a civil aviation spokesman as saying that \"Baghdad and Muscat airports will no longer accept Iranian flights.",
+          "\" \"Other international flights, including Istanbul, will operate as scheduled and as usual, and at present there are no problems with these flights,\" Tasnim reported. According to Tasnim, Iran's aviation authorities are in talks to reroute Baghdad flights to Najaf, a major destination for Iranian pilgrims.",
+          "The agency ISNA said negotiations with Oman were also ongoing. In Iraq, the government has not yet announced plans to enforce the ban, but several sources, including a senior government official, told AFP that Baghdad would comply.",
+          "Earlier this month the U. S.",
+          "blac..."
+        ],
+        "words": [
+          "flights",
+          "cancelled",
+          "sanctions"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "What is in the US-Greenland-Denmark security deal?",
+        "url": "https://www.koreatimes.co.kr/world/20260923/what-is-in-the-us-greenland-denmark-security-deal?utm_source=rss",
+        "summary": "The United States, Denmark and Greenland signed a security agreement on Tuesday aimed at ending months of tension over the Danish self-governing territory after U.S. President Donald Trump's repeated threats to take control of the vast Arctic island. Here are some key components of the deal, which adds to a 1951 U.S.-Danish pact on Greenland's defence, according to a text published by the Danish government. What are the military aspects of the deal? The agreement allows the United States to establish twonew military bases — one at Narsarsuaq in southern Greenland and the other at Mestersvig on the east coast — and to expand Pituffik Space Base, currently its only active base on the island. US craft including planes and vessels get flyover, landing and undersea rights in all of Greenland, including territorial waters. The agreement does not specify troop numbers or timelines. How does the...",
+        "fullText": [
+          "The United States, Denmark and Greenland signed a security agreement on Tuesday aimed at ending months of tension over the Danish self-governing territory after U. S.",
+          "President Donald Trump's repeated threats to take control of the vast Arctic island. Here are some key components of the deal, which adds to a 1951 U.",
+          "S. -Danish pact on Greenland's defence, according to a text published by the Danish government.",
+          "What are the military aspects of the deal? The agreement allows the United States to establish twonew military bases — one at Narsarsuaq in southern Greenland and the other at Mestersvig on the east coast — and to expand Pituffik Space Base, currently its only active base on the island.",
+          "US craft including planes and vessels get flyover, landing and undersea rights in all of Greenland, including territorial waters. The agreement does not specify troop numbers or timelines.",
+          "How does the..."
+        ],
+        "words": [
+          "us-greenland-denmark",
+          "security",
+          "united"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "UN chief says power has polarized the world and urges leaders to cooperate",
+        "url": "https://www.koreatimes.co.kr/world/20260923/un-chief-says-power-has-polarized-the-world-and-urges-leaders-to-cooperate?utm_source=rss",
+        "summary": "UNITED NATIONS — In a no-nonsense farewell speech, U.N. Secretary-General Antonio Guterres urged global leaders Tuesday to respond to the defining challenge today: Will the world continue on its path to fragmentation or cooperate to tackle the existential threats from climate crisis, runaway artificial intelligence and intensifying inequalities? At the heart of these crises is power, Guterres told the annual high-level gathering at the U.N. General Assembly, pointing to the “irreversible” move toward a multipolar world, the “extraordinary transfer of power” from governments to a handful of private corporations and individuals, and the increasing handover of power from humans to machines with artificial intelligence. Guterres urged leaders to avoid what he called “the great fracture – the division of the world into two rival blocs with separate economic, technological and security systems...",
+        "fullText": [
+          "UNITED NATIONS — In a no-nonsense farewell speech, U. N.",
+          "Secretary-General Antonio Guterres urged global leaders Tuesday to respond to the defining challenge today: Will the world continue on its path to fragmentation or cooperate to tackle the existential threats from climate crisis, runaway artificial intelligence and intensifying inequalities? At the heart of these crises is power, Guterres told the annual high-level gathering at the U.",
+          "N. General Assembly, pointing to the “irreversible” move toward a multipolar world, the “extraordinary transfer of power” from governments to a handful of private corporations and individuals, and the increasing handover of power from humans to machines with artificial intelligence.",
+          "Guterres urged leaders to avoid what he called “the great fracture – the division of the world into two rival blocs with separate economic, technological and security systems..."
+        ],
+        "words": [
+          "polarized",
+          "leaders",
+          "cooperate"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "label": "Tuesday, September 22, 2026",
     "title": "Korea News Brief",
