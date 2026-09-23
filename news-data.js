@@ -1,5 +1,143 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-24",
+    "label": "Thursday, September 24, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Politics, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Finding the heart of Chuseok beyond Seoul",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260924/finding-the-heart-of-chuseok-beyond-seoul?utm_source=rss",
+        "summary": "As millions of families across Korea prepare to pack highways and train stations as they move around the country for the Chuseok holiday, tourism officials are encouraging travelers to look past predictable destinations toward the country’s rich cultural heartlands. The Korea Tourism Organization launched a national campaign this week through its official travel portal VisitKorea, highlighting sites with free admission, outdoor nature reserves and immersive heritage programs tailored or multigenerational families. The curated list arrives at a time when domestic travelers are increasingly seeking authentic cultural experiences over expensive international getaways. Key destinations featured in the initiative span both historical and contemporary cultural landmarks. Travelers heading through Gyeonggi Province can visit the majestic Yeongneung Royal Tombs in Yeoju, the resting place of Kin...",
+        "fullText": [
+          "As millions of families across Korea prepare to pack highways and train stations as they move around the country for the Chuseok holiday, tourism officials are encouraging travelers to look past predictable destinations toward the country’s rich cultural heartlands. The Korea Tourism Organization launched a national campaign this week through its official travel portal VisitKorea, highlighting sites with free admission, outdoor nature reserves and immersive heritage programs tailored or multigenerational families.",
+          "The curated list arrives at a time when domestic travelers are increasingly seeking authentic cultural experiences over expensive international getaways. Key destinations featured in the initiative span both historical and contemporary cultural landmarks.",
+          "Travelers heading through Gyeonggi Province can visit the majestic Yeongneung Royal Tombs in Yeoju, the resting place of Kin..."
+        ],
+        "words": [
+          "finding",
+          "chuseok",
+          "beyond"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Don't outsource your thinking to AI, NUS president warns",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20260924/dont-outsource-your-thinking-to-ai-nus-president-warns?utm_source=rss",
+        "summary": "SINGAPORE — National University of Singapore (NUS) has built its global competitiveness not only on research excellence, but also on a strong focus on teaching and preparing students to succeed beyond the classroom. For NUS, the quality of a university should ultimately be measured by how well it equips students with the knowledge and skills they need after graduation — an emphasis that has placed teaching and employability at the heart of the university’s strategy. “We take teaching very seriously, and many of these things that we do actually do not count toward the rankings — but yet it’s the mission of our university,” NUS President Tan Eng Chye said in a recent interview with The Korea Times. He emphasized that research remains an essential mission of a leading university, but global rankings — which tend to place heavy weight on research performance — do not always capture what univ...",
+        "fullText": [
+          "SINGAPORE — National University of Singapore (NUS) has built its global competitiveness not only on research excellence, but also on a strong focus on teaching and preparing students to succeed beyond the classroom. For NUS, the quality of a university should ultimately be measured by how well it equips students with the knowledge and skills they need after graduation — an emphasis that has placed teaching and employability at the heart of the university’s strategy.",
+          "“We take teaching very seriously, and many of these things that we do actually do not count toward the rankings — but yet it’s the mission of our university,” NUS President Tan Eng Chye said in a recent interview with The Korea Times. He emphasized that research remains an essential mission of a leading university, but global rankings — which tend to place heavy weight on research performance — do not always capture what univ..."
+        ],
+        "words": [
+          "outsource",
+          "thinking",
+          "president"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "From 'M' to 'Infinite Challenge': Korea's nostalgia revival takes over streaming",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260924/from-m-to-infinite-challenge-koreas-nostalgia-revival-takes-over-streaming?utm_source=rss",
+        "summary": "In 1994, Korean television history was rewritten when the legendary horror drama \"M\" hit the airwaves, eventually peaking at a staggering 52.2 percent viewership rating. Starring iconic actor Shim Eun-ha, the series mesmerized the nation with a groundbreaking visual feat in the ominous glowing green eyes of its possessed protagonist, marking one of Korean television’s earliest uses of computer-generated special effects. Beyond its chilling aesthetic, \"M\" sent shockwaves through society by tackling the deeply sensitive and taboo subject of abortion, framed through a dark supernatural lens. Over three decades later, that iconic green glow is coming back to life. Tving has officially announced \"M: Reboot,\" a modernized psychological horror thriller that revives the core identity of the 1994 classic while reframing it for contemporary audiences. The original's narrative centered heavily arou...",
+        "fullText": [
+          "In 1994, Korean television history was rewritten when the legendary horror drama \"M\" hit the airwaves, eventually peaking at a staggering 52. 2 percent viewership rating.",
+          "Starring iconic actor Shim Eun-ha, the series mesmerized the nation with a groundbreaking visual feat in the ominous glowing green eyes of its possessed protagonist, marking one of Korean television’s earliest uses of computer-generated special effects. Beyond its chilling aesthetic, \"M\" sent shockwaves through society by tackling the deeply sensitive and taboo subject of abortion, framed through a dark supernatural lens.",
+          "Over three decades later, that iconic green glow is coming back to life. Tving has officially announced \"M: Reboot,\" a modernized psychological horror thriller that revives the core identity of the 1994 classic while reframing it for contemporary audiences.",
+          "The original's narrative centered heavily arou..."
+        ],
+        "words": [
+          "infinite",
+          "challenge",
+          "nostalgia"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Hwaseong-based Migration Stories Project gives migrant workers a space to create and connect",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260924/hwaseong-based-migration-stories-project-gives-migrant-workers-a-space-to-create-and-connect?utm_source=rss",
+        "summary": "HWASEONG, Gyeonggi Province — Hwaseong, a rapidly developing city southwest of Seoul, has become one of Korea’s major destinations for foreign residents, particularly migrant workers. In an area shaped by manufacturing industries and immigration, the everyday lives of migrant workers often remain largely ignored. The Migration Stories Project, located near Balan Manse Market in Hyangnam, was launched in 2020 to change that reality by creating a space where migrants can share their experiences, memories, cultures and creativity in their own voices. The project brings together music, storytelling, photography, sound, video and community-based cultural activities to explore the lives of foreign migrants. Korean artist Kim Yang-woo founded the project under the slogan “World is Our Home,” as an art initiative that brings together migrant communities and local residents through interviews, ar...",
+        "fullText": [
+          "HWASEONG, Gyeonggi Province — Hwaseong, a rapidly developing city southwest of Seoul, has become one of Korea’s major destinations for foreign residents, particularly migrant workers. In an area shaped by manufacturing industries and immigration, the everyday lives of migrant workers often remain largely ignored.",
+          "The Migration Stories Project, located near Balan Manse Market in Hyangnam, was launched in 2020 to change that reality by creating a space where migrants can share their experiences, memories, cultures and creativity in their own voices. The project brings together music, storytelling, photography, sound, video and community-based cultural activities to explore the lives of foreign migrants.",
+          "Korean artist Kim Yang-woo founded the project under the slogan “World is Our Home,” as an art initiative that brings together migrant communities and local residents through interviews, ar..."
+        ],
+        "words": [
+          "hwaseong-based",
+          "migration",
+          "stories"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump's ban of three prominent news outlets from White House is in court",
+        "url": "https://www.koreatimes.co.kr/world/20260924/trumps-ban-of-three-prominent-news-outlets-from-white-house-is-in-court?utm_source=rss",
+        "summary": "WASHINGTON — The extraordinary showdown between President Donald Trump and media outlets whose coverage he dislikes moved Wednesday to a courtroom in the nation’s capital, where a judge is hearing arguments on whether the president’s move banning three news organizations from White House grounds violates the Constitution. The administration has doubled down on its contention that it has the right to decide who can set foot in the White House. “Access to the White House is a privilege — not a right,” it said in a court filing late Tuesday. It also argued that the reporting of the three outlets — CNN, MS NOW and Politico — poses a threat to national security. In his early comments about the case, Trump focused not on national security but on negative coverage by the outlets and allegations of “fake news.” The proceedings are historic, said Katie Fallow, deputy litigation director at the Kn...",
+        "fullText": [
+          "WASHINGTON — The extraordinary showdown between President Donald Trump and media outlets whose coverage he dislikes moved Wednesday to a courtroom in the nation’s capital, where a judge is hearing arguments on whether the president’s move banning three news organizations from White House grounds violates the Constitution. The administration has doubled down on its contention that it has the right to decide who can set foot in the White House.",
+          "“Access to the White House is a privilege — not a right,” it said in a court filing late Tuesday. It also argued that the reporting of the three outlets — CNN, MS NOW and Politico — poses a threat to national security.",
+          "In his early comments about the case, Trump focused not on national security but on negative coverage by the outlets and allegations of “fake news. ” The proceedings are historic, said Katie Fallow, deputy litigation director at the Kn..."
+        ],
+        "words": [
+          "prominent",
+          "outlets",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "AI leaders warn UN of security risks as systems grow more powerful",
+        "url": "https://www.koreatimes.co.kr/world/20260924/ai-leaders-warn-un-of-security-risks-as-systems-grow-more-powerful?utm_source=rss",
+        "summary": "UNITED NATIONS — Executives from three of the world's leading artificial intelligence companies briefed the UN Security Council on Wednesday amid warnings that increasingly powerful AI systems could soon improve themselves, slip beyond human control and pose a threat to international security. Among those addressing the 15-member council during the annual General Assembly gathering were OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei and Hugging Face co-founder Clément Delangue, three of the industry's most prominent executives. \"If managed poorly, I even believe that AI could be a risk to humanity as a whole,\" Anthropic's Amodei told the Security Council. Governments have grappled with how to oversee AI systems that are advancing faster than regulators can keep up while the United States and China — the two dominant players in AI development — remain divided over whether the technolog...",
+        "fullText": [
+          "UNITED NATIONS — Executives from three of the world's leading artificial intelligence companies briefed the UN Security Council on Wednesday amid warnings that increasingly powerful AI systems could soon improve themselves, slip beyond human control and pose a threat to international security. Among those addressing the 15-member council during the annual General Assembly gathering were OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei and Hugging Face co-founder Clément Delangue, three of the industry's most prominent executives.",
+          "\"If managed poorly, I even believe that AI could be a risk to humanity as a whole,\" Anthropic's Amodei told the Security Council. Governments have grappled with how to oversee AI systems that are advancing faster than regulators can keep up while the United States and China — the two dominant players in AI development — remain divided over whether the technolog..."
+        ],
+        "words": [
+          "leaders",
+          "security",
+          "systems"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Xi heads into Trump visit after making China into global force since 2015",
+        "url": "https://www.koreatimes.co.kr/world/20260924/xi-heads-into-trump-visit-after-making-china-into-global-force-since-2015?utm_source=rss",
+        "summary": "WASHINGTON — When Chinese leader Xi Jinping arrived in Washington for a state visit in 2015, he sought to calm the growing unease among the Americans about his country's rapid ascent. Xi largely succeeded, shaking hands with then-President Barack Obama to deepen economic ties and expand cooperation. In the Rose Garden, Obama declared that the U.S. “welcomes the rise of a China that is peaceful, stable, prosperous and a responsible player in global affairs.” Those days are over. Returning to the U.S. capital Wednesday for the first state visit in over a decade, Xi — more confident than ever — is seeking stability even as the globe's two largest economies compete over everything from artificial intelligence to space ambitions and global influence. Xi is expected to urge cooperation with the U.S. for the sake of the world. “In 2015, China was a rising power still, profoundly and quickly ris...",
+        "fullText": [
+          "WASHINGTON — When Chinese leader Xi Jinping arrived in Washington for a state visit in 2015, he sought to calm the growing unease among the Americans about his country's rapid ascent. Xi largely succeeded, shaking hands with then-President Barack Obama to deepen economic ties and expand cooperation.",
+          "In the Rose Garden, Obama declared that the U. S.",
+          "“welcomes the rise of a China that is peaceful, stable, prosperous and a responsible player in global affairs. ” Those days are over.",
+          "Returning to the U. S.",
+          "capital Wednesday for the first state visit in over a decade, Xi — more confident than ever — is seeking stability even as the globe's two largest economies compete over everything from artificial intelligence to space ambitions and global influence. Xi is expected to urge cooperation with the U.",
+          "S. for the sake of the world.",
+          "“In 2015, China was a rising power still, profoundly and quickly ris..."
+        ],
+        "words": [
+          "making",
+          "global",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "label": "Wednesday, September 23, 2026",
     "title": "Korea News Brief",
