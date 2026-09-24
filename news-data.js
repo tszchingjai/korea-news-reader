@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-25",
+    "label": "Friday, September 25, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Korea, Law. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee calls Mexico 'indispensable' partner amid growing global economic uncertainties",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260925/lee-calls-mexico-indispensable-partner-amid-growing-global-economic-uncertainties?utm_source=rss",
+        "summary": "MEXICO CITY — South Korean President Lee Jae Myung on Thursday described Mexico as an \"indispensable strategic partner\" and stressed the need to deepen bilateral economic cooperation amid global economic uncertainties. Lee made the remarks at a meeting that he jointly hosted with Mexican President Claudia Sheinbaum, according to senior South Korean presidential secretary for public affairs Seong Ghi-hong. The meeting was attended by dozens of business leaders from both countries. Lee said the two countries are indispensable strategic partners to each other, and need to elevate their economic cooperation at a time when global economic uncertainties are growing, with global supply chains undergoing rapid changes, according to Seong. The South Korean president also pledged to support the successful implementation of Sheinbaum's vision, called \"Plan Mexico,\" which she unveiled last year to s...",
+        "fullText": [
+          "MEXICO CITY — South Korean President Lee Jae Myung on Thursday described Mexico as an \"indispensable strategic partner\" and stressed the need to deepen bilateral economic cooperation amid global economic uncertainties. Lee made the remarks at a meeting that he jointly hosted with Mexican President Claudia Sheinbaum, according to senior South Korean presidential secretary for public affairs Seong Ghi-hong.",
+          "The meeting was attended by dozens of business leaders from both countries. Lee said the two countries are indispensable strategic partners to each other, and need to elevate their economic cooperation at a time when global economic uncertainties are growing, with global supply chains undergoing rapid changes, according to Seong.",
+          "The South Korean president also pledged to support the successful implementation of Sheinbaum's vision, called \"Plan Mexico,\" which she unveiled last year to s..."
+        ],
+        "words": [
+          "mexico",
+          "indispensable",
+          "partner"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Xi says US, China reach new trade arrangement during summit with Trump: report",
+        "url": "https://www.koreatimes.co.kr/world/20260925/xi-says-us-china-reach-new-trade-arrangement-during-summit-with-trump-report?utm_source=rss",
+        "summary": "WASHINGTON —ㅗChinese President Xi Jinping said Thursday the United States and China reached a new trade arrangement, according to a report, as he and U.S. President Donald Trump held a summit in Washington to discuss artificial intelligence (AI), trade, security and other key issues. Xinhua News Agency reported that Xi made the remarks during the White House summit, calling the arrangement \"good news for industries and people of both countries, as well as the global economy,\" while noting that a stable economic relationship requires \"expanding the list of cooperation and shortening the list of problems.\" It did not elaborate on the arrangement, but U.S. Treasury Secretary Scott Bessent has told Fox News that Washington and Beijing agreed to extend their trade truce by two months until Jan. 10. During the summit, Trump and Xi also exchanged views on the Korean Peninsula, the situation in...",
+        "fullText": [
+          "WASHINGTON —ㅗChinese President Xi Jinping said Thursday the United States and China reached a new trade arrangement, according to a report, as he and U. S.",
+          "President Donald Trump held a summit in Washington to discuss artificial intelligence (AI), trade, security and other key issues. Xinhua News Agency reported that Xi made the remarks during the White House summit, calling the arrangement \"good news for industries and people of both countries, as well as the global economy,\" while noting that a stable economic relationship requires \"expanding the list of cooperation and shortening the list of problems.",
+          "\" It did not elaborate on the arrangement, but U. S.",
+          "Treasury Secretary Scott Bessent has told Fox News that Washington and Beijing agreed to extend their trade truce by two months until Jan. 10.",
+          "During the summit, Trump and Xi also exchanged views on the Korean Peninsula, the situation in..."
+        ],
+        "words": [
+          "arrangement",
+          "during",
+          "summit"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hyun Bin, Son Ye-jin, Gian84 : Binge-worthy shows to watch on Chuseok",
+        "url": "https://www.koreatimes.co.kr/entertainment/20260925/hyun-bin-son-ye-jin-gian84-binge-worthy-shows-to-watch-on-chuseok?utm_source=rss",
+        "summary": "While terrestrial TV channels are packed with broadcasts of the 2026 Aichi-Nagoya Asian Games this Chuseok holiday, over-the-top (OTT) streaming services are offering a wealth of new content aimed at holiday viewers. With a long holiday providing plenty of time to relax and watch extended series, here are some OTT picks to carry viewers through the break, from visually striking period dramas to an unconventional inn-themed variety show and a crime investigation program. Hyun Bin's 1979 political whirlwind A showdown between actor couple Hyun Bin and Son Ye-jin, both returning with big-budget dramas, has drawn attention. The first to arrive was Disney+'s \"Made in Korea\" Season 2, starring Hyun. Two episodes have been released each week since Sept. 9, with all six episodes becoming available just before the holiday, making it possible for viewers to binge-watch the entire season. Set in 19...",
+        "fullText": [
+          "While terrestrial TV channels are packed with broadcasts of the 2026 Aichi-Nagoya Asian Games this Chuseok holiday, over-the-top (OTT) streaming services are offering a wealth of new content aimed at holiday viewers. With a long holiday providing plenty of time to relax and watch extended series, here are some OTT picks to carry viewers through the break, from visually striking period dramas to an unconventional inn-themed variety show and a crime investigation program.",
+          "Hyun Bin's 1979 political whirlwind A showdown between actor couple Hyun Bin and Son Ye-jin, both returning with big-budget dramas, has drawn attention. The first to arrive was Disney+'s \"Made in Korea\" Season 2, starring Hyun.",
+          "Two episodes have been released each week since Sept. 9, with all six episodes becoming available just before the holiday, making it possible for viewers to binge-watch the entire season.",
+          "Set in 19..."
+        ],
+        "words": [
+          "ye-jin",
+          "binge-worthy",
+          "chuseok"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[K-ART FOCUS] For Ru Kim, dog's escape becomes story of power",
+        "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260925/k-art-focus-for-ru-kim-dogs-escape-becomes-story-of-power?utm_source=rss",
+        "summary": "JEONNAM-GWANGJU SPECIAL METROPOLITAN CITY — Pink velvet curtains frame an empty stage. A soft, fluffy carpet lies beneath shifting spotlights. There are no performers in Ru Kim’s “Tails of Courage, or the Master’s Pirouette” (2026), but four-channel sound gives the space its cast: Courage, a pink dog who has escaped an oppressive master, the master, who crawls, barks and searches for the missing animal, and a restless light that seems to move with a will of its own. As a voice fills the room, visitors are invited to picture the chase. The master, aching from crawling on knees, finally reaches for what seems to be Courage’s tail and races toward it— only to realize that the tail is growing from their own body. The strange, tragicomic reversal is Kim’s new installation at “The Look is A Li(k)e,” the Italian Pavilion of the 16th Gwangju Biennale — where Kim was invited to join the Italian P...",
+        "fullText": [
+          "JEONNAM-GWANGJU SPECIAL METROPOLITAN CITY — Pink velvet curtains frame an empty stage. A soft, fluffy carpet lies beneath shifting spotlights.",
+          "There are no performers in Ru Kim’s “Tails of Courage, or the Master’s Pirouette” (2026), but four-channel sound gives the space its cast: Courage, a pink dog who has escaped an oppressive master, the master, who crawls, barks and searches for the missing animal, and a restless light that seems to move with a will of its own. As a voice fills the room, visitors are invited to picture the chase.",
+          "The master, aching from crawling on knees, finally reaches for what seems to be Courage’s tail and races toward it— only to realize that the tail is growing from their own body. The strange, tragicomic reversal is Kim’s new installation at “The Look is A Li(k)e,” the Italian Pavilion of the 16th Gwangju Biennale — where Kim was invited to join the Italian P..."
+        ],
+        "words": [
+          "escape",
+          "becomes",
+          "jeonnam-gwangju"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'Fast & Furious' actor Sung Kang turns passion for drifting into directorial debut 'Drifter'",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260925/fast-furious-actor-sung-kang-turns-passion-for-drifting-into-directorial-debut-drifter?utm_source=rss",
+        "summary": "Korean American actor Sung Kang brings his years of experience from the “Fast & Furious” U.S. film franchise into his directorial debut, “Drifter,” which recently premiered at the Toronto International Film Festival. Before joining the “Fast & Furious” films in 2006 with \" The Fast and the Furious: Tokyo Drift,\" Kang had no real experience with drifting, a car-community subculture built around controlled sideways driving. This exposure led to a lifelong obsession that would eventually culminate in his directorial debut, “Drifter.” The movie, led by Kang, follows a lonesome racetrack custodian with a secret talent for drifting. “I’ve been so fortunate to be part of this global franchise that has introduced me to this amazing audience that has supported us over decades now. I wanted to go deeper and honor that community with my own story and put my own personal truth to the characters and...",
+        "fullText": [
+          "Korean American actor Sung Kang brings his years of experience from the “Fast & Furious” U. S.",
+          "film franchise into his directorial debut, “Drifter,” which recently premiered at the Toronto International Film Festival. Before joining the “Fast & Furious” films in 2006 with \" The Fast and the Furious: Tokyo Drift,\" Kang had no real experience with drifting, a car-community subculture built around controlled sideways driving.",
+          "This exposure led to a lifelong obsession that would eventually culminate in his directorial debut, “Drifter. ” The movie, led by Kang, follows a lonesome racetrack custodian with a secret talent for drifting.",
+          "“I’ve been so fortunate to be part of this global franchise that has introduced me to this amazing audience that has supported us over decades now. I wanted to go deeper and honor that community with my own story and put my own personal truth to the characters and..."
+        ],
+        "words": [
+          "furious",
+          "passion",
+          "drifting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Joseon court dancer crossed to Paris; Pansori singer brings her home",
+        "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260925/joseon-court-dancer-crossed-to-paris-pansori-singer-brings-her-home?utm_source=rss",
+        "summary": "Almost nothing survives of Lee Jin, the woman a French memoir records as \"Li-Tsin.\" A court dancer in the final years of the 1392-1910 Joseon Dynasty, she is said to have sailed to Paris in the 1890s with her lover, a French diplomat, then returned to a country that no longer had a place for her. The record rests almost entirely on a single source: \"En Coree\" a memoir published in 1904 by Hippolyte Frandin, France's second minister to Korea. Scholars have argued for years over how much truth there is in his account. That patchy record is where pansori singer Shin Jin-won started, spinning a tale of a woman barely mentioned in archives. \"I suppose it comes down to imagination,\" Shin during a written interview with The Korea Times. \"It started with imagination, and director Lee Wang-soo helped enormously in carrying it through. He expanded that world far beyond what I had imagined myself.\"...",
+        "fullText": [
+          "Almost nothing survives of Lee Jin, the woman a French memoir records as \"Li-Tsin. \" A court dancer in the final years of the 1392-1910 Joseon Dynasty, she is said to have sailed to Paris in the 1890s with her lover, a French diplomat, then returned to a country that no longer had a place for her.",
+          "The record rests almost entirely on a single source: \"En Coree\" a memoir published in 1904 by Hippolyte Frandin, France's second minister to Korea. Scholars have argued for years over how much truth there is in his account.",
+          "That patchy record is where pansori singer Shin Jin-won started, spinning a tale of a woman barely mentioned in archives. \"I suppose it comes down to imagination,\" Shin during a written interview with The Korea Times.",
+          "\"It started with imagination, and director Lee Wang-soo helped enormously in carrying it through. He expanded that world far beyond what I had imagined myself.",
+          "\"..."
+        ],
+        "words": [
+          "joseon",
+          "dancer",
+          "crossed"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[PHOTOS] S. Korean sprinters advance to semifinals",
+        "url": "https://www.koreatimes.co.kr/photos/photonews/20260925/photos-s-korean-sprinters-advance-to-semifinals?utm_source=rss",
+        "summary": "South Korea’s Daniel Biwesa, left, competes in the men’s 100m Round 1 on Day 5 of the 20th Asian Games at Nagoya City Mizuho Park Athletic Stadium in Nagoya, Japan, Sept. 25. Biwesa advanced to the semifinal. Korea Times photo by Choi Won-suk",
+        "fullText": [
+          "South Korea’s Daniel Biwesa, left, competes in the men’s 100m Round 1 on Day 5 of the 20th Asian Games at Nagoya City Mizuho Park Athletic Stadium in Nagoya, Japan, Sept. 25.",
+          "Biwesa advanced to the semifinal. Korea Times photo by Choi Won-suk"
+        ],
+        "words": [
+          "photos",
+          "sprinters",
+          "advance"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "label": "Thursday, September 24, 2026",
     "title": "Korea News Brief",
