@@ -1,5 +1,150 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-26",
+    "label": "Saturday, September 26, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "S. Korean sabre fencers target 4th straight Asiad team gold",
+        "url": "https://www.koreatimes.co.kr/sports/20260926/s-korean-sabre-fencers-target-4th-straight-asiad-team-gold?utm_source=rss",
+        "summary": "NAGOYA — The South Korean men's sabre fencers will seek to extend their gold medal streak in the team event to four at the Aichi-Nagoya Asian Games on Saturday. Along with teammates Do Gyeong-dong, Park Sang-won and Hwang Hee-geun, Oh Sang-uk, who won gold medals in the individual and team events at the Paris Olympics, will aim to repeat the feat here in Japan after winning the individual event Wednesday. South Korea has won the men's sabre team event at the Asian Games since the 2014 Incheon edition. The women's foil team will also take to the piste, seeking South Korea's first Asiad gold medal in the event since the 2014 edition. In basketball, South Korea will take on the host Japan in the women's final for its first gold medal in 12 years. In esports, South Korean gamers will compete in puzzle and fighting games. Gamer Kang Dong-shin will play in the semifinals and final of Puyo Puyo...",
+        "fullText": [
+          "NAGOYA — The South Korean men's sabre fencers will seek to extend their gold medal streak in the team event to four at the Aichi-Nagoya Asian Games on Saturday. Along with teammates Do Gyeong-dong, Park Sang-won and Hwang Hee-geun, Oh Sang-uk, who won gold medals in the individual and team events at the Paris Olympics, will aim to repeat the feat here in Japan after winning the individual event Wednesday.",
+          "South Korea has won the men's sabre team event at the Asian Games since the 2014 Incheon edition. The women's foil team will also take to the piste, seeking South Korea's first Asiad gold medal in the event since the 2014 edition.",
+          "In basketball, South Korea will take on the host Japan in the women's final for its first gold medal in 12 years. In esports, South Korean gamers will compete in puzzle and fighting games.",
+          "Gamer Kang Dong-shin will play in the semifinals and final of Puyo Puyo..."
+        ],
+        "words": [
+          "fencers",
+          "target",
+          "straight"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Lee calls for resumption of FTA negotiations with Mexico to elevate economic cooperation",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260926/lee-calls-for-resumption-of-fta-negotiations-with-mexico-to-elevate-economic-cooperation?utm_source=rss",
+        "summary": "MEXICO CITY — Korean President Lee Jae Myung on Friday called for a swift resumption of negotiations for a free trade agreement (FTA) between South Korea and Mexico, saying it will further elevate bilateral economic cooperation that he said is already contributing significantly to the Mexican economy and job creation. The president made the call during a Korea-Mexico business forum in Mexico City, where he is currently on a state visit. \"Mexico is South Korea's largest trading partner in Central and South America. For Mexico, Korea is the fifth-largest trading partner with bilateral trade reaching $20.6 billion last year,\" the president pointed out. \"Despite this brilliant outcome, the two economies have yet to have a comprehensive trade agreement,\" the president noted. The president stressed that amid growing uncertainties in the global trade environment, there is a need to strengthen t...",
+        "fullText": [
+          "MEXICO CITY — Korean President Lee Jae Myung on Friday called for a swift resumption of negotiations for a free trade agreement (FTA) between South Korea and Mexico, saying it will further elevate bilateral economic cooperation that he said is already contributing significantly to the Mexican economy and job creation. The president made the call during a Korea-Mexico business forum in Mexico City, where he is currently on a state visit.",
+          "\"Mexico is South Korea's largest trading partner in Central and South America. For Mexico, Korea is the fifth-largest trading partner with bilateral trade reaching $20.",
+          "6 billion last year,\" the president pointed out. \"Despite this brilliant outcome, the two economies have yet to have a comprehensive trade agreement,\" the president noted.",
+          "The president stressed that amid growing uncertainties in the global trade environment, there is a need to strengthen t..."
+        ],
+        "words": [
+          "resumption",
+          "negotiations",
+          "mexico"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "New face emerges as S. Korea fails to match 2023 success",
+        "url": "https://www.koreatimes.co.kr/sports/20260926/new-face-emerges-as-s-korea-fails-to-match-2023-success?utm_source=rss",
+        "summary": "TOKYO — The South Korean national swimming delegation arrived in Tokyo for the Asian Games with a goal of replicating its success from three years ago. The team is leaving the Japanese capital having won fewer medals than it had in Hangzhou, China, but having also witnessed the rise of a new force. South Korea finished with 20 medals across six days at Tokyo Aquatics Centre, with one gold, six silvers and 13 bronzes. At the 2023 Hangzhou Asiad, South Korea collected 22 medals from the pool, the most it had won at a single Asiad, including six gold medals. Two freestyle alpha dogs, Kim Woo-min and Hwang Sun-woo, led the charge then. The two combined for the gold in the men's 4x200-meter freestyle relay, while Kim won the 400m and the 800m freestyle titles, and Hwang was the 200m freestyle champion. This year, the 20-year-old Kim Young-beom emerged as the future of South Korean swimming. T...",
+        "fullText": [
+          "TOKYO — The South Korean national swimming delegation arrived in Tokyo for the Asian Games with a goal of replicating its success from three years ago. The team is leaving the Japanese capital having won fewer medals than it had in Hangzhou, China, but having also witnessed the rise of a new force.",
+          "South Korea finished with 20 medals across six days at Tokyo Aquatics Centre, with one gold, six silvers and 13 bronzes. At the 2023 Hangzhou Asiad, South Korea collected 22 medals from the pool, the most it had won at a single Asiad, including six gold medals.",
+          "Two freestyle alpha dogs, Kim Woo-min and Hwang Sun-woo, led the charge then. The two combined for the gold in the men's 4x200-meter freestyle relay, while Kim won the 400m and the 800m freestyle titles, and Hwang was the 200m freestyle champion.",
+          "This year, the 20-year-old Kim Young-beom emerged as the future of South Korean swimming. T..."
+        ],
+        "words": [
+          "emerges",
+          "success",
+          "national"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Number of foreigners in Korea reaches 2.8 million in August",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260926/number-of-foreigners-in-korea-reaches-28-million-in-august?utm_source=rss",
+        "summary": "The number of foreign nationals in Korea reached 2.87 million last month, up 5.3 percent from a year earlier, government data showed Saturday. As of end-August, long-term foreign residents stood at 2.25 million, while those on short-term stays, including tourists, came to 629,406, according to immigration data from the justice ministry. By nationality, Chinese nationals accounted for the largest share of 34.6 percent, or 995,562 people, followed by Vietnamese at 383,244 and Americans at 181,325. While the total number of foreign nationals rose from 2.73 million in August 2025, last month's figure marked a decline from 2.9 million in July. Among the 1.64 million registered foreign nationals in Korea, 51.5 percent of them lived in the greater Seoul area, followed by 21.3 percent in the southeastern provinces of North and South Gyeongsang. The number of foreigners has steadily risen since 2...",
+        "fullText": [
+          "The number of foreign nationals in Korea reached 2. 87 million last month, up 5.",
+          "3 percent from a year earlier, government data showed Saturday. As of end-August, long-term foreign residents stood at 2.",
+          "25 million, while those on short-term stays, including tourists, came to 629,406, according to immigration data from the justice ministry. By nationality, Chinese nationals accounted for the largest share of 34.",
+          "6 percent, or 995,562 people, followed by Vietnamese at 383,244 and Americans at 181,325. While the total number of foreign nationals rose from 2.",
+          "73 million in August 2025, last month's figure marked a decline from 2. 9 million in July.",
+          "Among the 1. 64 million registered foreign nationals in Korea, 51.",
+          "5 percent of them lived in the greater Seoul area, followed by 21. 3 percent in the southeastern provinces of North and South Gyeongsang.",
+          "The number of foreigners has steadily risen since 2..."
+        ],
+        "words": [
+          "number",
+          "foreigners",
+          "reaches"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Korean 'yajang' culture explained: Guide to outdoor dining in Seoul",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260926/korean-yajang-culture-explained-guide-to-outdoor-dining-in-seoul?utm_source=rss",
+        "summary": "“Not going to 'yajang' in this weather should be a crime,” Koreans jokingly say whenever a crisp, breezy evening arrives — a seasonal call to trade indoor dining rooms for plastic chairs, sizzling grills and conversations held in lively streets. By 7 p.m. on Monday in Seoul’s Jongno 3-ga area, the saying seemed to have become reality. Red and blue plastic tables were set up in narrow alleys, providing a place for college students, office workers still in shirts and slacks, couples and older diners to sit shoulder to shoulder as they grilled thick slices of pork belly, clinking together their glasses of beer, soju and makgeolli in the early autumn air. Nearby, indoor restaurants and bars offered warm lighting, carefully selected furniture and sleek interiors. But it was the more humble tables outside, in front of old storefronts and streets that looked like they had been unchanged for dec...",
+        "fullText": [
+          "“Not going to 'yajang' in this weather should be a crime,” Koreans jokingly say whenever a crisp, breezy evening arrives — a seasonal call to trade indoor dining rooms for plastic chairs, sizzling grills and conversations held in lively streets. By 7 p.",
+          "m. on Monday in Seoul’s Jongno 3-ga area, the saying seemed to have become reality.",
+          "Red and blue plastic tables were set up in narrow alleys, providing a place for college students, office workers still in shirts and slacks, couples and older diners to sit shoulder to shoulder as they grilled thick slices of pork belly, clinking together their glasses of beer, soju and makgeolli in the early autumn air. Nearby, indoor restaurants and bars offered warm lighting, carefully selected furniture and sleek interiors.",
+          "But it was the more humble tables outside, in front of old storefronts and streets that looked like they had been unchanged for dec..."
+        ],
+        "words": [
+          "yajang",
+          "culture",
+          "explained"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "IKEA Konstrunda collection offers 'affordable art' for all",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260926/ikea-konstrunda-collection-offers-affordable-art-for-all?utm_source=rss",
+        "summary": "IKEA has launched a new collection worldwide that explores a less familiar approach to home decor. For the new Konstrunda collection, seven creators came together to produce 18 distinctive art pieces, suggesting how art can be used to style everyday living spaces at affordable prices. Karin Gustavsson, creative director for the collection that was unveiled earlier this month, said the project is “democratization” of art, emphasizing the pieces’ comparatively low prices, ranging from 29,900 won ($21.50) to 349,000 won. Setting affordability as a key condition for the collection, she gave the artists broad creative freedom in how they expressed their ideas. As the leader for Range Identity at IKEA Sweden, Gustavsson said preserving each artist’s artists’ spirit and ideas was just as important as keeping the works affordable. “When I choose people to work with, I make sure that they underst...",
+        "fullText": [
+          "IKEA has launched a new collection worldwide that explores a less familiar approach to home decor. For the new Konstrunda collection, seven creators came together to produce 18 distinctive art pieces, suggesting how art can be used to style everyday living spaces at affordable prices.",
+          "Karin Gustavsson, creative director for the collection that was unveiled earlier this month, said the project is “democratization” of art, emphasizing the pieces’ comparatively low prices, ranging from 29,900 won ($21. 50) to 349,000 won.",
+          "Setting affordability as a key condition for the collection, she gave the artists broad creative freedom in how they expressed their ideas. As the leader for Range Identity at IKEA Sweden, Gustavsson said preserving each artist’s artists’ spirit and ideas was just as important as keeping the works affordable.",
+          "“When I choose people to work with, I make sure that they underst..."
+        ],
+        "words": [
+          "konstrunda",
+          "collection",
+          "offers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Jeju Island reinvents itself as haven for paws and passports",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260926/jeju-island-reinvents-itself-as-haven-for-paws-and-passports?utm_source=rss",
+        "summary": "Jeju Island is rolling out the red carpet — and plenty of belly rubs — for a new wave of globetrotters: jet-setting pups and the devoted humans who refuse to leave them behind. Tourism authorities in Jeju are betting that attracting international pet owners will unleash the southern resort island’s next major wave of travel growth. As the global trend of \"pet humanization\" — treating companion animals as full family members — gains traction, Jeju Special Self-Governing Province and the Jeju Tourism Organization are positioning the island as a major pet-friendly getaway for foreign tourists. At the center of this strategy is a targeted campaign aimed at nearby Japan, where surveys by Tokyo-based market research firm Cross Marketing Inc. show a clear generational shift: more than half of pet owners in their 20s and 30s now integrate their pets into social outings and leisure travel, drivin...",
+        "fullText": [
+          "Jeju Island is rolling out the red carpet — and plenty of belly rubs — for a new wave of globetrotters: jet-setting pups and the devoted humans who refuse to leave them behind. Tourism authorities in Jeju are betting that attracting international pet owners will unleash the southern resort island’s next major wave of travel growth.",
+          "As the global trend of \"pet humanization\" — treating companion animals as full family members — gains traction, Jeju Special Self-Governing Province and the Jeju Tourism Organization are positioning the island as a major pet-friendly getaway for foreign tourists. At the center of this strategy is a targeted campaign aimed at nearby Japan, where surveys by Tokyo-based market research firm Cross Marketing Inc.",
+          "show a clear generational shift: more than half of pet owners in their 20s and 30s now integrate their pets into social outings and leisure travel, drivin..."
+        ],
+        "words": [
+          "island",
+          "reinvents",
+          "itself"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "label": "Friday, September 25, 2026",
     "title": "Korea News Brief",
