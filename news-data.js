@@ -1,5 +1,158 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-27",
+    "label": "Sunday, September 27, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Inter-Korea, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Russian, Ukrainian strikes leave 10 dead as Trump calls on Zelenskyy to 'settle with Putin'",
+        "url": "https://www.koreatimes.co.kr/world/20260927/russian-ukrainian-strikes-leave-10-dead-as-trump-calls-on-zelenskyy-to-settle-with-putin?utm_source=rss",
+        "summary": "KYIV, Ukraine — Russian attacks killed four people across Ukraine, officials said on Saturday, while Ukraine continued to target Russian oil refineries and industrial sites with long-range drones. The intensifying aerial war between Moscow and Kyiv came as U.S. President Donald Trump said he hoped Ukrainian President Volodymyr Zelenskyy would “settle” with Russian President Vladimir Putin. Russia has struck Ukraine with cruise and ballistic missiles, glide bombs and jet-powered drones while front-line progress has slowed, some 4½-years after Moscow launched a full-scale invasion of its neighbor. “It is essential that our partners not forget: Russia is escalating every single day. If the Russians have chosen to make their strikes even more brutal, the world must choose stronger responses to keep the war from spreading further,” Zelenskyy wrote on Saturday. He listed “numerous strikes on r...",
+        "fullText": [
+          "KYIV, Ukraine — Russian attacks killed four people across Ukraine, officials said on Saturday, while Ukraine continued to target Russian oil refineries and industrial sites with long-range drones. The intensifying aerial war between Moscow and Kyiv came as U.",
+          "S. President Donald Trump said he hoped Ukrainian President Volodymyr Zelenskyy would “settle” with Russian President Vladimir Putin.",
+          "Russia has struck Ukraine with cruise and ballistic missiles, glide bombs and jet-powered drones while front-line progress has slowed, some 4½-years after Moscow launched a full-scale invasion of its neighbor. “It is essential that our partners not forget: Russia is escalating every single day.",
+          "If the Russians have chosen to make their strikes even more brutal, the world must choose stronger responses to keep the war from spreading further,” Zelenskyy wrote on Saturday. He listed “numerous strikes on r..."
+        ],
+        "words": [
+          "russian",
+          "ukrainian",
+          "strikes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+        "url": "https://www.koreatimes.co.kr/world/20260927/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan?utm_source=rss",
+        "summary": "WASHINGTON/UNITED NATIONS/CAIRO — Iran on Sunday insisted that only diplomacy can solve its conflict with the United States and Israel after U.S. President Donald Trump said he rejected an Iranian proposal to reopen the Strait of Hormuz and end fighting. \"Our conditions are clear, and any move toward reopening the Strait of Hormuz is contingent on these conditions being met,\" Iranian Foreign Minister Abbas Araqchi posted on social media. \"Only a negotiated solution can get them out of this deadlock.\" Iran announced a peace proposal earlier this week at the U.N. General Assembly in New York, saying it had been transmitted to the Americans via Qatari mediators. Trump on Saturday said he rejected the plan and argued that desperation drives the Iranians’ push for an agreement on the key waterway. \"They want to make a deal to open the Hormuz Strait immediately because they're losing so badly,...",
+        "fullText": [
+          "WASHINGTON/UNITED NATIONS/CAIRO — Iran on Sunday insisted that only diplomacy can solve its conflict with the United States and Israel after U. S.",
+          "President Donald Trump said he rejected an Iranian proposal to reopen the Strait of Hormuz and end fighting. \"Our conditions are clear, and any move toward reopening the Strait of Hormuz is contingent on these conditions being met,\" Iranian Foreign Minister Abbas Araqchi posted on social media.",
+          "\"Only a negotiated solution can get them out of this deadlock. \" Iran announced a peace proposal earlier this week at the U.",
+          "N. General Assembly in New York, saying it had been transmitted to the Americans via Qatari mediators.",
+          "Trump on Saturday said he rejected the plan and argued that desperation drives the Iranians’ push for an agreement on the key waterway. \"They want to make a deal to open the Hormuz Strait immediately because they're losing so badly,..."
+        ],
+        "words": [
+          "insists",
+          "diplomatic",
+          "solution"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Number of S. Koreans with family in N. Korea down to less than 33,000",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260927/number-of-s-koreans-with-family-in-n-korea-down-to-less-than-33000?utm_source=rss",
+        "summary": "The number of South Koreans with family members in North Korea following their separation during the 1950-53 Korean War continues to drop, with less than 33,000 now remaining and the majority of them already aged over 80 years, data showed Sunday. As of late August, a total of 134,848 people have registered as having separated family members in the North, but only 32,948 of them were still living, according to the data from the unification ministry submitted to Rep. Woo Won-shik of the ruling Democratic Party. Of the survivors, two-thirds were aged 80 and older -- 10,945 aged 80 to 89 and 11,007 aged 90 and older. Around 3,000 people with family in the North die every year, the data showed. \"As not much time remains for separated families, the unification ministry must start preparing now so that inter-Korean dialogue can be discussed as a priority agenda item in the event talks resume b...",
+        "fullText": [
+          "The number of South Koreans with family members in North Korea following their separation during the 1950-53 Korean War continues to drop, with less than 33,000 now remaining and the majority of them already aged over 80 years, data showed Sunday. As of late August, a total of 134,848 people have registered as having separated family members in the North, but only 32,948 of them were still living, according to the data from the unification ministry submitted to Rep.",
+          "Woo Won-shik of the ruling Democratic Party. Of the survivors, two-thirds were aged 80 and older -- 10,945 aged 80 to 89 and 11,007 aged 90 and older.",
+          "Around 3,000 people with family in the North die every year, the data showed. \"As not much time remains for separated families, the unification ministry must start preparing now so that inter-Korean dialogue can be discussed as a priority agenda item in the event talks resume b..."
+        ],
+        "words": [
+          "number",
+          "koreans",
+          "family"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US issuance of nonimmigrant visas for Koreans falls by 8%",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260927/us-issuance-of-nonimmigrant-visas-for-koreans-falls-by-8?utm_source=rss",
+        "summary": "The United States' issuance of nonimmigrant visas for Koreans fell nearly 8 percent from a year earlier in 2025 following the inauguration of the new U.S. President Donald Trump administration, data analyzed by a lawmaker's office showed Sunday. The office of Rep. Hong Kee-won of the ruling Democratic Party of Korea said it recently analyzed U.S. State Department data on visa issuance per country and found that 68,130 nonimmigrant visas had been issued to Koreans last year, down 7.95 percent from 74,015 issued in 2024 during former President Joe Biden's administration. The number fell across most categories, including the B-1 business visa and the B-2 tourism visa. During the months following last September's surprise detention of hundreds of Korean workers in the U.S. state of Georgia, however, the numbers appeared to grow, according to the lawmaker's office. In December, Korea and the...",
+        "fullText": [
+          "The United States' issuance of nonimmigrant visas for Koreans fell nearly 8 percent from a year earlier in 2025 following the inauguration of the new U. S.",
+          "President Donald Trump administration, data analyzed by a lawmaker's office showed Sunday. The office of Rep.",
+          "Hong Kee-won of the ruling Democratic Party of Korea said it recently analyzed U. S.",
+          "State Department data on visa issuance per country and found that 68,130 nonimmigrant visas had been issued to Koreans last year, down 7. 95 percent from 74,015 issued in 2024 during former President Joe Biden's administration.",
+          "The number fell across most categories, including the B-1 business visa and the B-2 tourism visa. During the months following last September's surprise detention of hundreds of Korean workers in the U.",
+          "S. state of Georgia, however, the numbers appeared to grow, according to the lawmaker's office.",
+          "In December, Korea and the..."
+        ],
+        "words": [
+          "issuance",
+          "nonimmigrant",
+          "koreans"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Lee heads home after wrapping up state visit to Mexico",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260927/lee-heads-home-after-wrapping-up-state-visit-to-mexico?utm_source=rss",
+        "summary": "MEXICO CITY — President Lee Jae Myung headed home Saturday, wrapping up his two-nation trip that earlier took him to New York for the annual United Nations General Assembly. Lee addressed the 81st U.N. General Assembly on Tuesday, reaffirming his envisioned role as a \"pacemaker\" to help the U.S. resume dialogue with North Korea. The president also presented his phased approach to denuclearizing North Korea, beginning with a halt and reduction of North Korea's nuclear and missile programs. The same day, Lee held a summit with U.S. President Donald Trump in New York, during which Trump reaffirmed his commitment to dialogue with North Korea, according to South Korean officials. On a state visit to Mexico that began Wednesday, Lee held summit talks with Mexican President Claudia Sheinbaum the following day and adopted a joint action plan calling for efforts to deepen economic cooperation and...",
+        "fullText": [
+          "MEXICO CITY — President Lee Jae Myung headed home Saturday, wrapping up his two-nation trip that earlier took him to New York for the annual United Nations General Assembly. Lee addressed the 81st U.",
+          "N. General Assembly on Tuesday, reaffirming his envisioned role as a \"pacemaker\" to help the U.",
+          "S. resume dialogue with North Korea.",
+          "The president also presented his phased approach to denuclearizing North Korea, beginning with a halt and reduction of North Korea's nuclear and missile programs. The same day, Lee held a summit with U.",
+          "S. President Donald Trump in New York, during which Trump reaffirmed his commitment to dialogue with North Korea, according to South Korean officials.",
+          "On a state visit to Mexico that began Wednesday, Lee held summit talks with Mexican President Claudia Sheinbaum the following day and adopted a joint action plan calling for efforts to deepen economic cooperation and..."
+        ],
+        "words": [
+          "wrapping",
+          "mexico",
+          "president"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Ulsan's 1st multicultural youth baseball team helps kids find their place",
+        "url": "https://www.koreatimes.co.kr/southkorea/20260927/ulsans-1st-multicultural-youth-baseball-team-helps-kids-find-their-place?utm_source=rss",
+        "summary": "ULSAN — “Okay, this time, pretend you’ve hit a ground ball and run all the way to first base! I’ll roll the ball, and Team B will play defense!” “Which one is Team A?” “Why are you wearing someone else’s glove? You’re supposed to step on the base! Is that how you do it or not?” “Nooo!” “Everyone, focus! Focus! Keep your eyes forward and run!” It is supposed to be a practice session, but the coach seems to be getting the most exercise. The players’ faces are full of smiles, and as soon as their turn is over, they quickly find something else to do. Every now and then, even a coach joins in the mischief before getting a scolding from the head coach. They are still learning to tell a strike from a ball. But when someone manages a rare hit, everyone knows exactly what to do. “Good job!” “Nice!” In one corner of the field, meanwhile, one batter practices swinging with surprising seriousness, a...",
+        "fullText": [
+          "ULSAN — “Okay, this time, pretend you’ve hit a ground ball and run all the way to first base! I’ll roll the ball, and Team B will play defense!",
+          "” “Which one is Team A? ” “Why are you wearing someone else’s glove?",
+          "You’re supposed to step on the base! Is that how you do it or not?",
+          "” “Nooo! ” “Everyone, focus!",
+          "Focus! Keep your eyes forward and run!",
+          "” It is supposed to be a practice session, but the coach seems to be getting the most exercise. The players’ faces are full of smiles, and as soon as their turn is over, they quickly find something else to do.",
+          "Every now and then, even a coach joins in the mischief before getting a scolding from the head coach. They are still learning to tell a strike from a ball.",
+          "But when someone manages a rare hit, everyone knows exactly what to do. “Good job!",
+          "” “Nice! ” In one corner of the field, meanwhile, one batter practices swinging with surprising seriousness, a..."
+        ],
+        "words": [
+          "multicultural",
+          "baseball",
+          "pretend"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Former Auction founder brings AI, decades of travel data to new app",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260927/former-auction-founder-brings-ai-decades-of-travel-data-to-new-app?utm_source=rss",
+        "summary": "Planning to visit Osaka with your family this fall? That could mean hours spent booking flights and accommodations and putting together a list of destinations in advance. A new travel app aims to make that process easier. Oh Hyuk, CEO of local tour company Les Vacances and the pioneer who founded Auction, Korea's first e-commerce platform in 1998, has taken on a new challenge in the travel industry with Vacance, an artificial intelligence (AI)-assisted travel platform. The app generates an itinerary based on travelers' schedules. Users can also review flight and accommodation recommendations within the same app. Unveiled this month, the app aims to revolutionize how people explore the world. It combines proprietary technology with human verified travel data accumulated over two decades by Les Vacances, allowing it to move far beyond simple itinerary generation. In a recent interview with...",
+        "fullText": [
+          "Planning to visit Osaka with your family this fall? That could mean hours spent booking flights and accommodations and putting together a list of destinations in advance.",
+          "A new travel app aims to make that process easier. Oh Hyuk, CEO of local tour company Les Vacances and the pioneer who founded Auction, Korea's first e-commerce platform in 1998, has taken on a new challenge in the travel industry with Vacance, an artificial intelligence (AI)-assisted travel platform.",
+          "The app generates an itinerary based on travelers' schedules. Users can also review flight and accommodation recommendations within the same app.",
+          "Unveiled this month, the app aims to revolutionize how people explore the world. It combines proprietary technology with human verified travel data accumulated over two decades by Les Vacances, allowing it to move far beyond simple itinerary generation.",
+          "In a recent interview with..."
+        ],
+        "words": [
+          "former",
+          "auction",
+          "founder"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-26",
     "label": "Saturday, September 26, 2026",
     "title": "Korea News Brief",
