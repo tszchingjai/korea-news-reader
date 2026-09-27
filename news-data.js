@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-28",
+    "label": "Monday, September 28, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Politics, Weather, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Sculptures honoring N. Korean soldiers to be erected in Vietnam",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260928/sculptures-honoring-n-korean-soldiers-to-be-erected-in-vietnam?utm_source=rss",
+        "summary": "Sculptures honoring North Korean soldiers who fought in the Vietnam War are set to be installed in Hanoi, Pyongyang's state media reported Monday. A ceremony unveiling the monument's foundation plaque was held Friday at the Vietnam Military History Museum in Hanoi, the Korean Central News Agency (KCNA) said. North Korea is believed to have sent close to 400 soldiers to Vietnam during the war, including 90 pilots between 1966 and 1969. The plaque, inscribed \"Feelings of Friendship between Vietnam and DPRK,\" notes that the two countries established diplomatic relations in January 1950 and that North Korea \"rendered material and moral assistance\" during Vietnam's \"anti-U.S. resistance to national salvation.\" DPRK is the acronym for North Korea's official name, the Democratic Republic of Korea. \"The combat spirit and self-sacrificing spirit displayed by Korean soldiers are a noble and beauti...",
+        "fullText": [
+          "Sculptures honoring North Korean soldiers who fought in the Vietnam War are set to be installed in Hanoi, Pyongyang's state media reported Monday. A ceremony unveiling the monument's foundation plaque was held Friday at the Vietnam Military History Museum in Hanoi, the Korean Central News Agency (KCNA) said.",
+          "North Korea is believed to have sent close to 400 soldiers to Vietnam during the war, including 90 pilots between 1966 and 1969. The plaque, inscribed \"Feelings of Friendship between Vietnam and DPRK,\" notes that the two countries established diplomatic relations in January 1950 and that North Korea \"rendered material and moral assistance\" during Vietnam's \"anti-U.",
+          "S. resistance to national salvation.",
+          "\" DPRK is the acronym for North Korea's official name, the Democratic Republic of Korea. \"The combat spirit and self-sacrificing spirit displayed by Korean soldiers are a noble and beauti..."
+        ],
+        "words": [
+          "sculptures",
+          "honoring",
+          "soldiers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Swiss voters reject tighter neutrality rules that would have curbed NATO cooperation",
+        "url": "https://www.koreatimes.co.kr/world/20260928/swiss-voters-reject-tighter-neutrality-rules-that-would-have-curbed-nato-cooperation?utm_source=rss",
+        "summary": "ZURICH — Swiss voters on Sunday firmly rejected a proposal to adopt a more restrictive form of neutrality that would have blocked their country from imposing economic sanctions or cooperating with NATO. All cantons and about 70 percent of voters rejected the proposal for a strictly defined version of neutrality to be written into the Swiss constitution, final results from the Federal Statistical Office showed. \"This result is not a vote against neutrality. Switzerland was neutral yesterday, it is neutral today, and it will remain neutral in the future,\" Foreign Minister Ignazio Cassis said at a press conference following the outcome. While Swiss neutrality has been internationally recognised since the end of the Napoleonic wars in 1815, how the government implements it is not spelled out. The right-wing Swiss People's Party (SVP) has said that Switzerland's traditional position has been...",
+        "fullText": [
+          "ZURICH — Swiss voters on Sunday firmly rejected a proposal to adopt a more restrictive form of neutrality that would have blocked their country from imposing economic sanctions or cooperating with NATO. All cantons and about 70 percent of voters rejected the proposal for a strictly defined version of neutrality to be written into the Swiss constitution, final results from the Federal Statistical Office showed.",
+          "\"This result is not a vote against neutrality. Switzerland was neutral yesterday, it is neutral today, and it will remain neutral in the future,\" Foreign Minister Ignazio Cassis said at a press conference following the outcome.",
+          "While Swiss neutrality has been internationally recognised since the end of the Napoleonic wars in 1815, how the government implements it is not spelled out. The right-wing Swiss People's Party (SVP) has said that Switzerland's traditional position has been..."
+        ],
+        "words": [
+          "voters",
+          "reject",
+          "tighter"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump expects new Iran talks despite rejecting deal offer",
+        "url": "https://www.koreatimes.co.kr/world/20260928/trump-expects-new-iran-talks-despite-rejecting-deal-offer?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said Sunday that he expects talks with Iran to resume in the coming week, despite his rejection of a truce proposal put forward by Tehran. Iranian officials brought with them to the U.N. General Assembly in New York a plan for a seven-day truce followed by the reopening of the Strait of Hormuz shipping channel. Trump dismissed the plan and has mused on resuming full-scale air strikes on Iranian targets, but he told the news platform Axios that he expects negotiations to resume. \"They want to make a deal, but it is not the deal that I want to make,\" Trump told Axios. \"It is what we would have maybe agreed to a year ago.\" \"They overplayed their hand,\" Trump said, in the interview published Sunday. Citing sources familiar with the matter, Axios reported that indirect talks between Washington and Tehran could take place as early as Monday. On Sunday,...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said Sunday that he expects talks with Iran to resume in the coming week, despite his rejection of a truce proposal put forward by Tehran. Iranian officials brought with them to the U.",
+          "N. General Assembly in New York a plan for a seven-day truce followed by the reopening of the Strait of Hormuz shipping channel.",
+          "Trump dismissed the plan and has mused on resuming full-scale air strikes on Iranian targets, but he told the news platform Axios that he expects negotiations to resume. \"They want to make a deal, but it is not the deal that I want to make,\" Trump told Axios.",
+          "\"It is what we would have maybe agreed to a year ago. \" \"They overplayed their hand,\" Trump said, in the interview published Sunday.",
+          "Citing sources familiar with the matter, Axios reported that indirect talks between Washington and Tehran could take place as early as Monday. On Sunday,..."
+        ],
+        "words": [
+          "expects",
+          "despite",
+          "rejecting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "S. Korea voices 'strong regret' over Ukraine's denial of nondisclosure pact on NK POWs",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260928/s-korea-voices-strong-regret-over-ukraines-denial-of-nondisclosure-pact-on-nk-pows?utm_source=rss",
+        "summary": "The South Korean presidential office on Sunday voiced \"strong regret\" over what it called Ukraine's denial of an agreement with Seoul not to disclose the transfer of two North Korean prisoners of war (POWs) to South Korea. The presidential office \"expresses strong regret over Ukraine's unilateral disclosure (of the transfer) and its subsequent false announcement that there had not been a nondisclosure agreement,\" Seong Ghi-hong, senior presidential secretary for public relations, said in a released statement. The Cheong Wa Dae official added the country is considering taking additional measures regarding the issue, if necessary. Ukrainian President Volodymyr Zelenskyy disclosed during a United Nations address last week that Ukraine has sent the two North Korean soldiers captured last year to South Korea. South Korean President Lee Jae Myung and his office have since said Ukraine breached...",
+        "fullText": [
+          "The South Korean presidential office on Sunday voiced \"strong regret\" over what it called Ukraine's denial of an agreement with Seoul not to disclose the transfer of two North Korean prisoners of war (POWs) to South Korea. The presidential office \"expresses strong regret over Ukraine's unilateral disclosure (of the transfer) and its subsequent false announcement that there had not been a nondisclosure agreement,\" Seong Ghi-hong, senior presidential secretary for public relations, said in a released statement.",
+          "The Cheong Wa Dae official added the country is considering taking additional measures regarding the issue, if necessary. Ukrainian President Volodymyr Zelenskyy disclosed during a United Nations address last week that Ukraine has sent the two North Korean soldiers captured last year to South Korea.",
+          "South Korean President Lee Jae Myung and his office have since said Ukraine breached..."
+        ],
+        "words": [
+          "voices",
+          "strong",
+          "regret"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Korean Air faces maintenance capacity crunch from Asiana acquisition",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260928/korean-air-faces-maintenance-capacity-crunch-from-asiana-acquisition?utm_source=rss",
+        "summary": "Korean Air faces a growing maintenance capacity challenge, as its acquisition of Asiana Airlines creates a fleet of more than 230 aircraft at a time when heavy-maintenance slots remain increasingly difficult to secure across Asia. The integrated carrier, scheduled to launch in December, will operate the larger fleet and employ more than 4,000 maintenance workers. It will require more airframe, engine and component maintenance that must be handled internally or secured through outside maintenance, repair and operations (MRO) providers. However, constrained global MRO capacity and a shortage of international heavy-maintenance slots have become a material operational risk to Korean Air. Securing wide-body base-maintenance slots has become particularly difficult across Southeast Asia. Korean Air is responding by expanding its own capabilities. In November last year, the airline and Incheon I...",
+        "fullText": [
+          "Korean Air faces a growing maintenance capacity challenge, as its acquisition of Asiana Airlines creates a fleet of more than 230 aircraft at a time when heavy-maintenance slots remain increasingly difficult to secure across Asia. The integrated carrier, scheduled to launch in December, will operate the larger fleet and employ more than 4,000 maintenance workers.",
+          "It will require more airframe, engine and component maintenance that must be handled internally or secured through outside maintenance, repair and operations (MRO) providers. However, constrained global MRO capacity and a shortage of international heavy-maintenance slots have become a material operational risk to Korean Air.",
+          "Securing wide-body base-maintenance slots has become particularly difficult across Southeast Asia. Korean Air is responding by expanding its own capabilities.",
+          "In November last year, the airline and Incheon I..."
+        ],
+        "words": [
+          "maintenance",
+          "capacity",
+          "crunch"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Plan to serve airline meals to deportees divides immigration officials",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260928/plan-to-serve-airline-meals-to-deportees-divides-immigration-officials?utm_source=rss",
+        "summary": "A proposal to upgrade meals for foreigners awaiting deportation at Incheon International Airport has divided immigration officials, with front-line officers raising safety concerns and some questioning whether better food is appropriate for those ordered to leave Korea for violating the law. According to immigration authorities, Sunday, the Incheon Airport Immigration Office under the Ministry of Justice is considering providing in-flight meal boxes to foreign nationals awaiting deportation through the airport. Foreign nationals ordered to leave the country are generally transferred to Incheon International Airport after local immigration offices confirm their illegal stay and complete the necessary procedures. After that, they remain in a designated departure waiting area until their flights. Those awaiting deportation are currently provided with bread and drinks supplied by local immig...",
+        "fullText": [
+          "A proposal to upgrade meals for foreigners awaiting deportation at Incheon International Airport has divided immigration officials, with front-line officers raising safety concerns and some questioning whether better food is appropriate for those ordered to leave Korea for violating the law. According to immigration authorities, Sunday, the Incheon Airport Immigration Office under the Ministry of Justice is considering providing in-flight meal boxes to foreign nationals awaiting deportation through the airport.",
+          "Foreign nationals ordered to leave the country are generally transferred to Incheon International Airport after local immigration offices confirm their illegal stay and complete the necessary procedures. After that, they remain in a designated departure waiting area until their flights.",
+          "Those awaiting deportation are currently provided with bread and drinks supplied by local immig..."
+        ],
+        "words": [
+          "airline",
+          "deportees",
+          "divides"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[PHOTOS] Back on top: S. Korea ends 8-year wait for handball gold",
+        "url": "https://www.koreatimes.co.kr/photos/photonews/20260928/photos-back-on-top-s-korea-ends-8-year-wait-for-handball-gold?utm_source=rss",
+        "summary": "South Korea’s Gim Bo-eun attempts a shot during the women’s handball final match against Japan on Day 8 of the Aichi-Nagoya Asian Games at the Toyoda Gosei Memorial Gymnasium in Inazawa, Aichi, Japan, Sept. 27. Korea won 27-23. Korea Times photo by Choi Won-suk",
+        "fullText": [
+          "South Korea’s Gim Bo-eun attempts a shot during the women’s handball final match against Japan on Day 8 of the Aichi-Nagoya Asian Games at the Toyoda Gosei Memorial Gymnasium in Inazawa, Aichi, Japan, Sept. 27.",
+          "Korea won 27-23. Korea Times photo by Choi Won-suk"
+        ],
+        "words": [
+          "photos",
+          "handball",
+          "bo-eun"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "label": "Sunday, September 27, 2026",
     "title": "Korea News Brief",
