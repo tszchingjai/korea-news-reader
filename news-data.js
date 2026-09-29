@@ -1,5 +1,159 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-29",
+    "label": "Tuesday, September 29, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Korea, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "KBS World",
+        "title": "JCS: N. Korean Land Mines Highly Likely Cause of Last Week's DMZ Explosion",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204531",
+        "summary": "[Politics] : The South Korean military says North Korean land mines had highly likely caused an explosion inside the Demilitarized Zone last week and that it would take \"corresponding measures\" if confirmed. The remark came from Vice Chairman of the Joint Chiefs of Staff Kwon Dae-won on Monday as part of preliminary ... [more...]",
+        "fullText": [
+          "[Politics] : The South Korean military says North Korean land mines had highly likely caused an explosion inside the Demilitarized Zone last week and that it would take \"corresponding measures\" if confirmed. The remark came from Vice Chairman of the Joint Chiefs of Staff Kwon Dae-won on Monday as part of preliminary ...",
+          "[more... ]"
+        ],
+        "words": [
+          "highly",
+          "likely",
+          "explosion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "China, US pledge tariff cuts on $60 bil. of goods including agriculture, toys, toasters",
+        "url": "https://www.koreatimes.co.kr/world/20260929/china-us-pledge-tariff-cuts-on-60-bil-of-goods-including-agriculture-toys-toasters?utm_source=rss",
+        "summary": "BEIJING — China and the United States said they will pursue tariff cuts on $60 billion worth of goods imported from each other, including products from U.S. corn to cosmetics, and from Chinese toys to household appliances, with some notable omissions on each side. Under the U.S.-China Board of Trade, both countries have each recommended $30 billion of trade in non-sensitive goods for more favourable tariff treatment, U.S. Trade Representative Jamieson Greer said in a statement on Sunday night. For the United States, that was \"unlocking improved market access\" for about 30 percent of U.S. exports to China, he said. The reciprocal tariff reduction effort as well as an extension of a trade truce were among the key takeaways from the second summit this year between President Xi Jinping and U.S. President Donald Trump, hosted in Washington last week. But statements from neither side indicated...",
+        "fullText": [
+          "BEIJING — China and the United States said they will pursue tariff cuts on $60 billion worth of goods imported from each other, including products from U. S.",
+          "corn to cosmetics, and from Chinese toys to household appliances, with some notable omissions on each side. Under the U.",
+          "S. -China Board of Trade, both countries have each recommended $30 billion of trade in non-sensitive goods for more favourable tariff treatment, U.",
+          "S. Trade Representative Jamieson Greer said in a statement on Sunday night.",
+          "For the United States, that was \"unlocking improved market access\" for about 30 percent of U. S.",
+          "exports to China, he said. The reciprocal tariff reduction effort as well as an extension of a trade truce were among the key takeaways from the second summit this year between President Xi Jinping and U.",
+          "S. President Donald Trump, hosted in Washington last week.",
+          "But statements from neither side indicated..."
+        ],
+        "words": [
+          "pledge",
+          "tariff",
+          "including"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open lower on inflation woes",
+        "url": "https://www.koreatimes.co.kr/economy/20260929/seoul-stocks-open-lower-on-inflation-woes?utm_source=rss",
+        "summary": "Korean stocks opened lower Tuesday, tracking Wall Street losses as rising oil prices fueled inflation concerns and lifted U.S. Treasury yields amid tensions in the Middle East. The benchmark Korea Composite Stock Price Index, or KOSPI, fell 13.31 points, or 0.19 percent, to 6,876.43 as of 9:15 a.m. Overnight, U.S. stocks retreated as renewed tensions between the United States and Iran drove crude oil prices higher, fueling concerns that higher energy costs could keep inflation and interest rates high. Treasury yields extended their climb, with the benchmark 10-year yield rising to 5.23 percent and the 30-year yield climbing to 5.55 percent, hovering around multiyear highs. The S&P 500 fell 0.77 percent, the Dow Jones Industrial Average slipped 0.67 percent, and the tech-heavy Nasdaq composite decreased 0.92 percent. Market heavyweights were mixed. Market bellwether Samsung Electronics ga...",
+        "fullText": [
+          "Korean stocks opened lower Tuesday, tracking Wall Street losses as rising oil prices fueled inflation concerns and lifted U. S.",
+          "Treasury yields amid tensions in the Middle East. The benchmark Korea Composite Stock Price Index, or KOSPI, fell 13.",
+          "31 points, or 0. 19 percent, to 6,876.",
+          "43 as of 9:15 a. m.",
+          "Overnight, U. S.",
+          "stocks retreated as renewed tensions between the United States and Iran drove crude oil prices higher, fueling concerns that higher energy costs could keep inflation and interest rates high. Treasury yields extended their climb, with the benchmark 10-year yield rising to 5.",
+          "23 percent and the 30-year yield climbing to 5. 55 percent, hovering around multiyear highs.",
+          "The S&P 500 fell 0. 77 percent, the Dow Jones Industrial Average slipped 0.",
+          "67 percent, and the tech-heavy Nasdaq composite decreased 0. 92 percent.",
+          "Market heavyweights were mixed. Market bellwether Samsung Electronics ga..."
+        ],
+        "words": [
+          "stocks",
+          "inflation",
+          "opened"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'",
+        "url": "https://www.koreatimes.co.kr/world/20260929/contradicting-trump-pope-leo-says-artificial-intelligence-safety-concerns-not-fake-news?utm_source=rss",
+        "summary": "ABOARD THE PAPAL PLANE — Pope Leo XIV said Monday that concerns about artificial intelligence going rogue are not “fake news” and should be taken seriously, insisting that safety issues raised by AI experts should be discussed and acted on. Leo, who dedicated his first encyclical to AI and protecting humanity in its wake, was asked during a press conference about what the United States and China especially should be doing to prevent AI from posing catastrophic risks to humanity. U.S. President Donald Trump has called concerns about AI going rogue a “hoax.” “This is a problem that, I think, we need to sit down and talk about,” the American pope told reporters returning home from France. “We can’t just sit back and pretend nothing is going to happen.” Trump has been a champion of AI, often warning that the United States must remain ahead of China in the technological arms race. He has said...",
+        "fullText": [
+          "ABOARD THE PAPAL PLANE — Pope Leo XIV said Monday that concerns about artificial intelligence going rogue are not “fake news” and should be taken seriously, insisting that safety issues raised by AI experts should be discussed and acted on. Leo, who dedicated his first encyclical to AI and protecting humanity in its wake, was asked during a press conference about what the United States and China especially should be doing to prevent AI from posing catastrophic risks to humanity.",
+          "U. S.",
+          "President Donald Trump has called concerns about AI going rogue a “hoax. ” “This is a problem that, I think, we need to sit down and talk about,” the American pope told reporters returning home from France.",
+          "“We can’t just sit back and pretend nothing is going to happen. ” Trump has been a champion of AI, often warning that the United States must remain ahead of China in the technological arms race.",
+          "He has said..."
+        ],
+        "words": [
+          "contradicting",
+          "artificial",
+          "intelligence"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Samsung Group to invest $1 bil. in AI infrastructure company Helix",
+        "url": "https://www.koreatimes.co.kr/business/companies/20260929/samsung-group-to-invest-1-bil-in-ai-infrastructure-company-helix?utm_source=rss",
+        "summary": "Korean conglomerate Samsung Group said Tuesday it will invest a combined $1 billion in Helix Digital Infrastructure, a U.S. artificial intelligence (AI) infrastructure company backed by private equity firm KKR & Co. Six affiliates — Samsung Electronics, Samsung C&T, Samsung SDS, Samsung SDI, Samsung Life Insurance and Samsung Fire & Marine Insurance — will participate in the investment, Samsung said in a statement. Samsung Electronics will invest $500 million, while the other five affiliates will invest a combined $500 million. Helix was launched in June by KKR, the Kuwait Investment Authority, Nvidia and U.S. power producer Vistra Corp., with more than $10 billion in committed long-term capital. The company is led by Adam Selipsky, the former chief executive of Amazon Web Services. Nvidia is a strategic partner, while Vistra is Helix's preferred power partner. The Samsung affiliates wil...",
+        "fullText": [
+          "Korean conglomerate Samsung Group said Tuesday it will invest a combined $1 billion in Helix Digital Infrastructure, a U. S.",
+          "artificial intelligence (AI) infrastructure company backed by private equity firm KKR & Co. Six affiliates — Samsung Electronics, Samsung C&T, Samsung SDS, Samsung SDI, Samsung Life Insurance and Samsung Fire & Marine Insurance — will participate in the investment, Samsung said in a statement.",
+          "Samsung Electronics will invest $500 million, while the other five affiliates will invest a combined $500 million. Helix was launched in June by KKR, the Kuwait Investment Authority, Nvidia and U.",
+          "S. power producer Vistra Corp.",
+          ", with more than $10 billion in committed long-term capital. The company is led by Adam Selipsky, the former chief executive of Amazon Web Services.",
+          "Nvidia is a strategic partner, while Vistra is Helix's preferred power partner. The Samsung affiliates wil..."
+        ],
+        "words": [
+          "samsung",
+          "invest",
+          "infrastructure"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Allies need cooperation on data security, not double standards",
+        "url": "https://www.koreatimes.co.kr/opinion/20260929/allies-need-cooperation-on-data-security-not-double-standards?utm_source=rss",
+        "summary": "The Korean government recently announced the results of their investigation into the hacking of streaming platform Tving. The investigation appears thorough, and the findings are grave. Unidentified hackers stole access keys and compromised highly sensitive information of 39.54 million individuals, along with source code and other technical assets and, crucially, moved these secrets overseas, with the attackers and their country of origin still not identified. The Tving breach included up to 70 types of personal information across 20 categories, including phone numbers, email addresses, dates of birth, and payment histories. Tving missed the 24-hour breach notification requirement and investigators warned the stolen data could fuel further phishing attacks and data theft. By all accounts, the South Korean government’s response – a technical briefing, clear set of findings, company apolog...",
+        "fullText": [
+          "The Korean government recently announced the results of their investigation into the hacking of streaming platform Tving. The investigation appears thorough, and the findings are grave.",
+          "Unidentified hackers stole access keys and compromised highly sensitive information of 39. 54 million individuals, along with source code and other technical assets and, crucially, moved these secrets overseas, with the attackers and their country of origin still not identified.",
+          "The Tving breach included up to 70 types of personal information across 20 categories, including phone numbers, email addresses, dates of birth, and payment histories. Tving missed the 24-hour breach notification requirement and investigators warned the stolen data could fuel further phishing attacks and data theft.",
+          "By all accounts, the South Korean government’s response – a technical briefing, clear set of findings, company apolog..."
+        ],
+        "words": [
+          "allies",
+          "cooperation",
+          "security"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea blames US for 'worse crisis' in nuclear order, justifies its arsenal",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260929/n-korea-blames-us-for-worse-crisis-in-nuclear-order-justifies-its-arsenal?utm_source=rss",
+        "summary": "North Korea on Tuesday accused the United States of driving the global nuclear order into \"the worst crisis\" through its \"nuclear proliferation activities\" and used the accusation to defend its own nuclear program. The accusation came in a foreign ministry's \"memorandum\" carried by the Korean Central News Agency (KCNA), hours after Vice Foreign Minister Kim Son-gyong told the U.N. General Assembly in New York that North Korea's nuclear program is an \"irresistible\" force needed to protect its sovereignty and security against external threats. Washington has \"irresponsibly abandoned its disarmament obligations as a nuclear-weapon state,\" the memorandum said. Its rapid buildup of nuclear forces and \"blatant\" nuclear proliferation, it said, left Pyongyang no choice but to \"play a more active role\" \"as a responsible nuclear-weapon state.\" The document cast the U.S. as the main culprit behind...",
+        "fullText": [
+          "North Korea on Tuesday accused the United States of driving the global nuclear order into \"the worst crisis\" through its \"nuclear proliferation activities\" and used the accusation to defend its own nuclear program. The accusation came in a foreign ministry's \"memorandum\" carried by the Korean Central News Agency (KCNA), hours after Vice Foreign Minister Kim Son-gyong told the U.",
+          "N. General Assembly in New York that North Korea's nuclear program is an \"irresistible\" force needed to protect its sovereignty and security against external threats.",
+          "Washington has \"irresponsibly abandoned its disarmament obligations as a nuclear-weapon state,\" the memorandum said. Its rapid buildup of nuclear forces and \"blatant\" nuclear proliferation, it said, left Pyongyang no choice but to \"play a more active role\" \"as a responsible nuclear-weapon state.",
+          "\" The document cast the U. S.",
+          "as the main culprit behind..."
+        ],
+        "words": [
+          "blames",
+          "crisis",
+          "nuclear"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "label": "Monday, September 28, 2026",
     "title": "Korea News Brief",
