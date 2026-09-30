@@ -1,5 +1,161 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-09-30",
+    "label": "Wednesday, September 30, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Inter-Korea, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open higher on chip gains",
+        "url": "https://www.koreatimes.co.kr/economy/20260930/seoul-stocks-open-higher-on-chip-gains?utm_source=rss",
+        "summary": "Seoul stocks opened higher Wednesday, tracking overnight gains in U.S. semiconductor shares, though elevated U.S. Treasury yields weighed on the investor sentiment. The benchmark Korea Composite Stock Price Index, or KOSPI, gained 80.46 points, or 1.17 percent, to 6,951.27 as of 9:15 a.m. Overnight, U.S. stocks ended slightly lower despite a decline in oil prices, as persistently high Treasury yields continued to weigh on investor sentiment. Semiconductor shares, however, bucked the broader weakness. The Philadelphia Semiconductor Index rose 1.32 percent, providing a positive cue for Korean chip giants Samsung Electronics and SK hynix. The S&P 500 slipped 0.17 percent, the Dow Jones Industrial Average fell 0.26 percent, and the tech-heavy Nasdaq composite ticked down 0.09 percent. Market heavyweights were mostly higher. Market bellwether Samsung Electronics rose 1.1 percent, while chip g...",
+        "fullText": [
+          "Seoul stocks opened higher Wednesday, tracking overnight gains in U. S.",
+          "semiconductor shares, though elevated U. S.",
+          "Treasury yields weighed on the investor sentiment. The benchmark Korea Composite Stock Price Index, or KOSPI, gained 80.",
+          "46 points, or 1. 17 percent, to 6,951.",
+          "27 as of 9:15 a. m.",
+          "Overnight, U. S.",
+          "stocks ended slightly lower despite a decline in oil prices, as persistently high Treasury yields continued to weigh on investor sentiment. Semiconductor shares, however, bucked the broader weakness.",
+          "The Philadelphia Semiconductor Index rose 1. 32 percent, providing a positive cue for Korean chip giants Samsung Electronics and SK hynix.",
+          "The S&P 500 slipped 0. 17 percent, the Dow Jones Industrial Average fell 0.",
+          "26 percent, and the tech-heavy Nasdaq composite ticked down 0. 09 percent.",
+          "Market heavyweights were mostly higher. Market bellwether Samsung Electronics rose 1.",
+          "1 percent, while chip g..."
+        ],
+        "words": [
+          "stocks",
+          "higher",
+          "opened"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Tax revenue estimated to hit record high in 2026 on chip boom",
+        "url": "https://www.koreatimes.co.kr/economy/20260930/tax-revenue-estimated-to-hit-record-high-in-2026-on-chip-boom?utm_source=rss",
+        "summary": "Korea's tax revenue is estimated to reach a record 478.6 trillion won ($353.7 billion) this year, driven by the semiconductor supercycle, government data showed Wednesday. The figure marks an increase of 104.7 trillion won from the previous year's 373.9 trillion won, according to the Ministry of Finance and Economy. The previous record was 395.9 trillion won in 2022. The revised estimate is 88.4 trillion won higher than the original projection used to draw up the 2026 budget. \"Tax revenue has far exceeded the initial estimate due to the semiconductor boom and the bullish stock market, both of which were difficult to predict,\" a finance ministry official said. \"Operating profits in the chip industry were around 70 to 80 percent higher than originally projected,\" the official added. The finance ministry said corporate tax revenue is expected to reach 136.4 trillion won this year, up 51.8 t...",
+        "fullText": [
+          "Korea's tax revenue is estimated to reach a record 478. 6 trillion won ($353.",
+          "7 billion) this year, driven by the semiconductor supercycle, government data showed Wednesday. The figure marks an increase of 104.",
+          "7 trillion won from the previous year's 373. 9 trillion won, according to the Ministry of Finance and Economy.",
+          "The previous record was 395. 9 trillion won in 2022.",
+          "The revised estimate is 88. 4 trillion won higher than the original projection used to draw up the 2026 budget.",
+          "\"Tax revenue has far exceeded the initial estimate due to the semiconductor boom and the bullish stock market, both of which were difficult to predict,\" a finance ministry official said. \"Operating profits in the chip industry were around 70 to 80 percent higher than originally projected,\" the official added.",
+          "The finance ministry said corporate tax revenue is expected to reach 136. 4 trillion won this year, up 51.",
+          "8 t..."
+        ],
+        "words": [
+          "revenue",
+          "estimated",
+          "record"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Call it propaganda or a PSA, Trump's latest ad blitz is paid for by you",
+        "url": "https://www.koreatimes.co.kr/opinion/20260930/call-it-propaganda-or-a-psa-trumps-latest-ad-blitz-is-paid-for-by-you?utm_source=rss",
+        "summary": "“America will never be a communist country,” states the 30-second television ad. Never mind that socialism is a more probable scenario given the rise of New York Mayor Zohran Mamdani and Nithya Raman’s healthy lead in the Los Angeles mayoral race. This commercial is not about semantics, political systems or the health of the nation. It’s about touting the alleged achievements of President Donald Trump, from “reigniting American manufacturing” to “defend[ing] law and order” and giving Americans the “largest tax cuts in history.” One can argue the legitimacy of such claims if they still have the energy to do so after 10 years of relentless MAGA puffery, but the real issue here is that this particular piece of bluster is produced and funded by the U.S. government. Laws prohibit taxpayer funds from being used for “publicity or propaganda,” even if the White House is referring to its new ad c...",
+        "fullText": [
+          "“America will never be a communist country,” states the 30-second television ad. Never mind that socialism is a more probable scenario given the rise of New York Mayor Zohran Mamdani and Nithya Raman’s healthy lead in the Los Angeles mayoral race.",
+          "This commercial is not about semantics, political systems or the health of the nation. It’s about touting the alleged achievements of President Donald Trump, from “reigniting American manufacturing” to “defend[ing] law and order” and giving Americans the “largest tax cuts in history.",
+          "” One can argue the legitimacy of such claims if they still have the energy to do so after 10 years of relentless MAGA puffery, but the real issue here is that this particular piece of bluster is produced and funded by the U. S.",
+          "government. Laws prohibit taxpayer funds from being used for “publicity or propaganda,” even if the White House is referring to its new ad c..."
+        ],
+        "words": [
+          "propaganda",
+          "latest",
+          "america"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "FM Cho calls for stronger Korea-China-Japan cooperation for regional peace",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20260930/fm-cho-calls-for-stronger-korea-china-japan-cooperation-for-regional-peace?utm_source=rss",
+        "summary": "Foreign Minister Cho Hyun has called for stronger cooperation among Korea, China and Japan to promote peace and prosperity in their shared region, his office said Wednesday. Cho made the call during a meeting Tuesday with Tatsushi Nishioka, secretary-general of the Trilateral Cooperation Secretariat (TCS), and Deputy Secretaries-General Kim Han-kyu and Li Jing, respectively from South Korea and China, to congratulate them on taking office this month, according to the ministry. The TCS is a trilateral organization established in Seoul in 2011 following a Korean proposal at the second trilateral summit among the three nations in 2009. It carries out various programs, including people-to-people exchanges, aimed at deepening three-way cooperation. During the talks, Cho stressed the importance of cooperation among Seoul, Beijing and Tokyo in promoting the practical interests of their peoples...",
+        "fullText": [
+          "Foreign Minister Cho Hyun has called for stronger cooperation among Korea, China and Japan to promote peace and prosperity in their shared region, his office said Wednesday. Cho made the call during a meeting Tuesday with Tatsushi Nishioka, secretary-general of the Trilateral Cooperation Secretariat (TCS), and Deputy Secretaries-General Kim Han-kyu and Li Jing, respectively from South Korea and China, to congratulate them on taking office this month, according to the ministry.",
+          "The TCS is a trilateral organization established in Seoul in 2011 following a Korean proposal at the second trilateral summit among the three nations in 2009. It carries out various programs, including people-to-people exchanges, aimed at deepening three-way cooperation.",
+          "During the talks, Cho stressed the importance of cooperation among Seoul, Beijing and Tokyo in promoting the practical interests of their peoples..."
+        ],
+        "words": [
+          "stronger",
+          "korea-china-japan",
+          "cooperation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Supreme Court lets quick deportations to third countries resume for now while it weighs Trump policy",
+        "url": "https://www.koreatimes.co.kr/world/20260930/supreme-court-lets-quick-deportations-to-third-countries-resume-for-now-while-it-weighs-trump-policy?utm_source=rss",
+        "summary": "WASHINGTON — The Supreme Court on Tuesday let President Donald Trump’s administration continue swiftly deporting people to countries other than their own for now, while the justices consider whether the policy is legal. The apparent 6-3 order temporarily lifts lower court requirements for migrants to get a chance to object before being sent to countries to which they have no ties. The Supreme Court will hear arguments in December. Justices Sonia Sotomayor, Elena Kagan and Ketanji Brown Jackson would have kept the lower court order in place. The Trump administration said last week the lower court order forced the cancellation of a deportation flight carrying about 70 people bound for three countries. The conservative majority has sided with the administration before on the core Trump administration policy, allowing deportation flights to temporarily continue last year. The court said it w...",
+        "fullText": [
+          "WASHINGTON — The Supreme Court on Tuesday let President Donald Trump’s administration continue swiftly deporting people to countries other than their own for now, while the justices consider whether the policy is legal. The apparent 6-3 order temporarily lifts lower court requirements for migrants to get a chance to object before being sent to countries to which they have no ties.",
+          "The Supreme Court will hear arguments in December. Justices Sonia Sotomayor, Elena Kagan and Ketanji Brown Jackson would have kept the lower court order in place.",
+          "The Trump administration said last week the lower court order forced the cancellation of a deportation flight carrying about 70 people bound for three countries. The conservative majority has sided with the administration before on the core Trump administration policy, allowing deportation flights to temporarily continue last year.",
+          "The court said it w..."
+        ],
+        "words": [
+          "supreme",
+          "deportations",
+          "countries"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Industrial output, retail sales, facility investment down in August",
+        "url": "https://www.koreatimes.co.kr/economy/20260930/industrial-output-retail-sales-facility-investment-down-in-august?utm_source=rss",
+        "summary": "Korea's industrial output lost ground in August from a month earlier, data showed Wednesday, with retail sales and facility investment also backtracking in a triple whammy for the first time since May. Industrial production lost 1.3 percent from a month earlier in August, according to data from the Ministry of Data and Statistics. Output in the mining and manufacturing sector, a key pillar of the economy, slipped 4.8 percent, due mainly to the automobile industry. Machinery production rose 3.1 percent in August from a month earlier, while automobile production fell 24.8 percent due to reduced output of recreational vehicles. It was the sharpest decline in automobile production since the 34.9 percent drop recorded in May 2020. The latest decline was apparently due to the summer vacation season and a strike. Output in the rubber and plastic industry fell 11 percent due to reduced tire prod...",
+        "fullText": [
+          "Korea's industrial output lost ground in August from a month earlier, data showed Wednesday, with retail sales and facility investment also backtracking in a triple whammy for the first time since May. Industrial production lost 1.",
+          "3 percent from a month earlier in August, according to data from the Ministry of Data and Statistics. Output in the mining and manufacturing sector, a key pillar of the economy, slipped 4.",
+          "8 percent, due mainly to the automobile industry. Machinery production rose 3.",
+          "1 percent in August from a month earlier, while automobile production fell 24. 8 percent due to reduced output of recreational vehicles.",
+          "It was the sharpest decline in automobile production since the 34. 9 percent drop recorded in May 2020.",
+          "The latest decline was apparently due to the summer vacation season and a strike. Output in the rubber and plastic industry fell 11 percent due to reduced tire prod..."
+        ],
+        "words": [
+          "industrial",
+          "output",
+          "retail"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "AMD chief to visit Korea next month: sources",
+        "url": "https://www.koreatimes.co.kr/business/20260930/amd-chief-to-visit-korea-next-month-sources?utm_source=rss",
+        "summary": "Lisa Su, chief executive officer of Advanced Micro Devices Inc. (AMD), is expected to visit Korea next month to meet with Korean semiconductor companies and government officials, industry sources said Wednesday. The visit would come about seven months after her previous trip to Korea in March. According to government and semiconductor industry sources, a meeting attended by Su is being considered for Oct. 8 in Seoul. The meeting is expected to include the CEOs of major Korean artificial intelligence (AI) semiconductor companies, including Rebellions Inc., FuriosaAI and Mobilint. Su is also expected to meet with Science Minister Bae Kyung-hoon around the time of the meeting, the sources said. During her visit, Su is also coordinating meetings with heads of major Korean companies, including Samsung Electronics Co. When she visited in March, the AMD chief met with Samsung Electronics Chairm...",
+        "fullText": [
+          "Lisa Su, chief executive officer of Advanced Micro Devices Inc. (AMD), is expected to visit Korea next month to meet with Korean semiconductor companies and government officials, industry sources said Wednesday.",
+          "The visit would come about seven months after her previous trip to Korea in March. According to government and semiconductor industry sources, a meeting attended by Su is being considered for Oct.",
+          "8 in Seoul. The meeting is expected to include the CEOs of major Korean artificial intelligence (AI) semiconductor companies, including Rebellions Inc.",
+          ", FuriosaAI and Mobilint. Su is also expected to meet with Science Minister Bae Kyung-hoon around the time of the meeting, the sources said.",
+          "During her visit, Su is also coordinating meetings with heads of major Korean companies, including Samsung Electronics Co. When she visited in March, the AMD chief met with Samsung Electronics Chairm..."
+        ],
+        "words": [
+          "sources",
+          "executive",
+          "officer"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "label": "Tuesday, September 29, 2026",
     "title": "Korea News Brief",
