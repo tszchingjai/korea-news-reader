@@ -1,5 +1,160 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-01",
+    "label": "Thursday, October 1, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Inter-Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open lower on chip losses",
+        "url": "https://www.koreatimes.co.kr/null?utm_source=rss",
+        "summary": "Korean stocks opened lower Thursday, dragged down by losses in chip-heavy stocks, following a three-day losing streak. After opening 0.34 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) fell 26.3 points, or 0.38 percent, to 6,811.74 as of 9:15 a.m. Overnight, Wall Street ended mixed as cooler-than-expected inflation data was offset by persistent pressure from elevated U.S. Treasury yields and rising oil prices. The Dow Jones Industrial Average fell 0.86 percent, while the benchmark S&P 500 dipped 0.25 percent. The tech-heavy Nasdaq Composite Index gained 0.24 percent. In Seoul, market heavyweights were mostly lower. Market bellwether Samsung Electronics lost 0.28 percent, while chip giant SK hynix decreased 0.11 percent. SK Square, the parent company of SK hynix, went down 2.81 percent, and Samsung Electro-Mechanics, an electronics component affiliate of Samsung El...",
+        "fullText": [
+          "Korean stocks opened lower Thursday, dragged down by losses in chip-heavy stocks, following a three-day losing streak. After opening 0.",
+          "34 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) fell 26. 3 points, or 0.",
+          "38 percent, to 6,811. 74 as of 9:15 a.",
+          "m. Overnight, Wall Street ended mixed as cooler-than-expected inflation data was offset by persistent pressure from elevated U.",
+          "S. Treasury yields and rising oil prices.",
+          "The Dow Jones Industrial Average fell 0. 86 percent, while the benchmark S&P 500 dipped 0.",
+          "25 percent. The tech-heavy Nasdaq Composite Index gained 0.",
+          "24 percent. In Seoul, market heavyweights were mostly lower.",
+          "Market bellwether Samsung Electronics lost 0. 28 percent, while chip giant SK hynix decreased 0.",
+          "11 percent. SK Square, the parent company of SK hynix, went down 2.",
+          "81 percent, and Samsung Electro-Mechanics, an electronics component affiliate of Samsung El..."
+        ],
+        "words": [
+          "stocks",
+          "losses",
+          "opened"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's monthly exports hit $120.9 bil. in Sept. on record chip sales",
+        "url": "https://www.koreatimes.co.kr/economy/20261001/koreas-monthly-exports-hit-1209-bil-in-sept-on-record-chip-sales?utm_source=rss",
+        "summary": "Korea's exports soared 83.5 percent to a record $120.9 billion in September from a year earlier, driven by a surge in chip shipments, data showed Thursday. Semiconductor exports exceeded $60 billion for the first time last month, boosting overall export figures, the Ministry of Trade, Industry and Resources said in a press release. Imports climbed 26 percent from a year earlier to $71.09 billion, resulting in an unprecedented trade surplus of $49.85 billion.",
+        "fullText": [
+          "Korea's exports soared 83. 5 percent to a record $120.",
+          "9 billion in September from a year earlier, driven by a surge in chip shipments, data showed Thursday. Semiconductor exports exceeded $60 billion for the first time last month, boosting overall export figures, the Ministry of Trade, Industry and Resources said in a press release.",
+          "Imports climbed 26 percent from a year earlier to $71. 09 billion, resulting in an unprecedented trade surplus of $49.",
+          "85 billion."
+        ],
+        "words": [
+          "monthly",
+          "exports",
+          "record"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
+        "url": "https://www.koreatimes.co.kr/world/20261001/russia-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic?utm_source=rss",
+        "summary": "BRUSSELS — Russia has warned NATO it would be ready to resort to nuclear weapons if the Western alliance attempted to cut off Kaliningrad, a Russian exclave that borders the Baltic Sea. In a document sent to NATO and seen by Reuters, Moscow accused the alliance of a \"dangerous and reckless course\" that entailed \"high risks of the outbreak of a direct armed conflict\". The document said this included the possibility of \"Russian strikes against decision-making centers in the alliance's member states right from the outset\". \"Russia will be ready to use the entire arsenal of forces and capabilities at its disposal, including nuclear weapons, in order to defend its territory should NATO countries undertake any attempt aimed at isolating the Kaliningrad Region from the rest of the country,\" the diplomatic note said. The warning highlighted Moscow's urgent concern at what it has presented as a g...",
+        "fullText": [
+          "BRUSSELS — Russia has warned NATO it would be ready to resort to nuclear weapons if the Western alliance attempted to cut off Kaliningrad, a Russian exclave that borders the Baltic Sea. In a document sent to NATO and seen by Reuters, Moscow accused the alliance of a \"dangerous and reckless course\" that entailed \"high risks of the outbreak of a direct armed conflict\".",
+          "The document said this included the possibility of \"Russian strikes against decision-making centers in the alliance's member states right from the outset\". \"Russia will be ready to use the entire arsenal of forces and capabilities at its disposal, including nuclear weapons, in order to defend its territory should NATO countries undertake any attempt aimed at isolating the Kaliningrad Region from the rest of the country,\" the diplomatic note said.",
+          "The warning highlighted Moscow's urgent concern at what it has presented as a g..."
+        ],
+        "words": [
+          "russia",
+          "nuclear",
+          "warning"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "AMCHAM, KCCI urge Korean firms to seize US opportunities",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261001/amcham-kcci-urge-korean-firms-to-seize-us-opportunities?utm_source=rss",
+        "summary": "Korean companies are advised to expand their operations in the United States, as bilateral economic ties increasingly extend beyond trade to investment, technology and supply-chain resilience, the American Chamber of Commerce in Korea (AMCHAM) said Wednesday. The U.S. business lobby and the Korea Chamber of Commerce and Industry (KCCI) discussed opportunities and challenges of Korean firms when they expand investment and operations in America during the eighth annual Doing Business in the U.S. Seminar. The seminar was held as part of a special program marking the 250th anniversary of U.S. independence. AMCHAM Chairman James Kim said the economic relationship between the two countries is increasingly driven by the aforementioned sectors, rather than trade alone. “The next chapter of the U.S.-Korea economic partnership will be defined not simply by how much we trade, but by how much we bui...",
+        "fullText": [
+          "Korean companies are advised to expand their operations in the United States, as bilateral economic ties increasingly extend beyond trade to investment, technology and supply-chain resilience, the American Chamber of Commerce in Korea (AMCHAM) said Wednesday. The U.",
+          "S. business lobby and the Korea Chamber of Commerce and Industry (KCCI) discussed opportunities and challenges of Korean firms when they expand investment and operations in America during the eighth annual Doing Business in the U.",
+          "S. Seminar.",
+          "The seminar was held as part of a special program marking the 250th anniversary of U. S.",
+          "independence. AMCHAM Chairman James Kim said the economic relationship between the two countries is increasingly driven by the aforementioned sectors, rather than trade alone.",
+          "“The next chapter of the U. S.",
+          "-Korea economic partnership will be defined not simply by how much we trade, but by how much we bui..."
+        ],
+        "words": [
+          "amcham",
+          "opportunities",
+          "companies"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Unification minister says response to DMZ blast should not derail peace efforts",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261001/unification-minister-says-response-to-dmz-blast-should-not-derail-peace-efforts?utm_source=rss",
+        "summary": "Unification Minister Chung Dong-young has said South Korea's response to the recent North Korean land mine explosion inside the Demilitarized Zone (DMZ) should not undermine efforts to build peace on the Korean Peninsula. In a Facebook post from Belfast, Northern Ireland, on Tuesday (local time), Chung said the government should conduct a \"thorough investigation\" and \"truth finding\" into the Sept. 21 DMZ blast caused by mines planted by the North and respond accordingly. He said, however, those responses should not \"be used as an excuse to belittle or distort our efforts for peace on the Korean Peninsula.\" \"We should reflect on why this tragic event repeats and seek more fundamental answers,\" he added. \"In Northern Island, which has turned past tragedy into today's hope, I reaffirm my resolve to end the long-running war on the Korean Peninsula and build a lasting peace regime,\" he wrote....",
+        "fullText": [
+          "Unification Minister Chung Dong-young has said South Korea's response to the recent North Korean land mine explosion inside the Demilitarized Zone (DMZ) should not undermine efforts to build peace on the Korean Peninsula. In a Facebook post from Belfast, Northern Ireland, on Tuesday (local time), Chung said the government should conduct a \"thorough investigation\" and \"truth finding\" into the Sept.",
+          "21 DMZ blast caused by mines planted by the North and respond accordingly. He said, however, those responses should not \"be used as an excuse to belittle or distort our efforts for peace on the Korean Peninsula.",
+          "\" \"We should reflect on why this tragic event repeats and seek more fundamental answers,\" he added. \"In Northern Island, which has turned past tragedy into today's hope, I reaffirm my resolve to end the long-running war on the Korean Peninsula and build a lasting peace regime,\" he wrote...."
+        ],
+        "words": [
+          "unification",
+          "minister",
+          "response"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Still the same old Lee Jae Myung",
+        "url": "https://www.koreatimes.co.kr/opinion/20261001/still-the-same-old-lee-jae-myung?utm_source=rss",
+        "summary": "President Lee Jae Myung’s recent press conference Sept. 18 was a rare opportunity to show whether he had his finger on the pulse of Korean society. Housing costs put the squeeze on daily life, stock-market turmoil has hit individual investors and ministerial nominees have become embroiled in ethical controversies. Many expected him to acknowledge the problems and offer solutions, but what they saw was not a new Lee. It was the Lee they already knew. Asked about his past remarks on jeonse, Korea’s lump-sum deposit rental system, Lee remembered saying jeonse “would disappear,” not that it “should disappear.” He challenged the reporter to show when he had ever said otherwise. It was remarkable — while ordinary Koreans are struggling with jeonse deposits and monthly rents, the president focused on parsing his earlier wording. The real question was what he would do about housing insecurity. T...",
+        "fullText": [
+          "President Lee Jae Myung’s recent press conference Sept. 18 was a rare opportunity to show whether he had his finger on the pulse of Korean society.",
+          "Housing costs put the squeeze on daily life, stock-market turmoil has hit individual investors and ministerial nominees have become embroiled in ethical controversies. Many expected him to acknowledge the problems and offer solutions, but what they saw was not a new Lee.",
+          "It was the Lee they already knew. Asked about his past remarks on jeonse, Korea’s lump-sum deposit rental system, Lee remembered saying jeonse “would disappear,” not that it “should disappear.",
+          "” He challenged the reporter to show when he had ever said otherwise. It was remarkable — while ordinary Koreans are struggling with jeonse deposits and monthly rents, the president focused on parsing his earlier wording.",
+          "The real question was what he would do about housing insecurity. T..."
+        ],
+        "words": [
+          "president",
+          "recent",
+          "conference"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Seoul, Washington pick Texas power plant as 1st project under strategic investment",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261001/seoul-washington-pick-texas-power-plant-as-1st-project-under-strategic-investment?utm_source=rss",
+        "summary": "South Korea and the United States have formally selected a gas-fired power plant project in Texas as the first project under Seoul's US$350 billion investment commitment to the U.S., the industry ministry said Thursday. The Ministry of Trade, Industry and Resources announced the three projects, including the Texas plant, after the two sides signed a memorandum of understanding in November last year, under which South Korea pledged to invest in the U.S. in return for lower U.S. tariffs on Korean imports. The formal announcement comes after U.S. President Donald Trump on Wednesday (U.S. time) announced South Korea's investment plans at the White House. The investment will comprise $150 billion for shipbuilding cooperation and $200 billion for projects in various strategic sectors. \"As taxpayers' money will be injected into the initiative, we have placed top priority on the commercial viabi...",
+        "fullText": [
+          "South Korea and the United States have formally selected a gas-fired power plant project in Texas as the first project under Seoul's US$350 billion investment commitment to the U. S.",
+          ", the industry ministry said Thursday. The Ministry of Trade, Industry and Resources announced the three projects, including the Texas plant, after the two sides signed a memorandum of understanding in November last year, under which South Korea pledged to invest in the U.",
+          "S. in return for lower U.",
+          "S. tariffs on Korean imports.",
+          "The formal announcement comes after U. S.",
+          "President Donald Trump on Wednesday (U. S.",
+          "time) announced South Korea's investment plans at the White House. The investment will comprise $150 billion for shipbuilding cooperation and $200 billion for projects in various strategic sectors.",
+          "\"As taxpayers' money will be injected into the initiative, we have placed top priority on the commercial viabi..."
+        ],
+        "words": [
+          "washington",
+          "project",
+          "strategic"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "label": "Wednesday, September 30, 2026",
     "title": "Korea News Brief",
