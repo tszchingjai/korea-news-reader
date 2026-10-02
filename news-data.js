@@ -1,5 +1,157 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-02",
+    "label": "Friday, October 2, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Inter-Korea, Korea, Politics, Law. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open lower despite US gains",
+        "url": "https://www.koreatimes.co.kr/economy/20261002/seoul-stocks-open-lower-despite-us-gains?utm_source=rss",
+        "summary": "Korean stocks opened mildly lower Friday, despite overnight gains on Wall Street. After opening 0.47 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) fell 10.17 points, or 0.15 percent, to 6,961.18 as of 9:15 a.m. Overnight, U.S. stocks finished modestly higher as benchmark Treasury yields eased from fresh multi-decade highs, although gains were capped by rising crude oil prices. The Dow Jones Industrial Average rose 0.04 percent, while the benchmark S&P 500 gained 0.19 percent. The tech-heavy Nasdaq Composite Index added 0.04 percent. In Seoul, market heavyweights were mostly lower. Market bellwether Samsung Electronics lost 0.22 percent, while chip giant SK hynix inched up 0.22 percent. SK Square, the parent company of SK hynix, went down 0.61 percent, and Samsung Electro-Mechanics, an electronics component affiliate of Samsung Electronics, shed 0.7 percent. The K...",
+        "fullText": [
+          "Korean stocks opened mildly lower Friday, despite overnight gains on Wall Street. After opening 0.",
+          "47 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) fell 10. 17 points, or 0.",
+          "15 percent, to 6,961. 18 as of 9:15 a.",
+          "m. Overnight, U.",
+          "S. stocks finished modestly higher as benchmark Treasury yields eased from fresh multi-decade highs, although gains were capped by rising crude oil prices.",
+          "The Dow Jones Industrial Average rose 0. 04 percent, while the benchmark S&P 500 gained 0.",
+          "19 percent. The tech-heavy Nasdaq Composite Index added 0.",
+          "04 percent. In Seoul, market heavyweights were mostly lower.",
+          "Market bellwether Samsung Electronics lost 0. 22 percent, while chip giant SK hynix inched up 0.",
+          "22 percent. SK Square, the parent company of SK hynix, went down 0.",
+          "61 percent, and Samsung Electro-Mechanics, an electronics component affiliate of Samsung Electronics, shed 0. 7 percent.",
+          "The K..."
+        ],
+        "words": [
+          "stocks",
+          "despite",
+          "opened"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea's FM calls for stronger ties with China in letter to Wang Yi",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261002/n-koreas-fm-calls-for-stronger-ties-with-china-in-letter-to-wang-yi?utm_source=rss",
+        "summary": "North Korean Foreign Minister Choe Son-hui has called for efforts to further strengthen bilateral ties and traditional friendship with China in a congratulatory message to her Chinese counterpart, Wang Yi, Pyongyang's state media reported Friday. Choe sent the message to Wang on Thursday marking the 77th anniversary of China's founding, praising the country's achievements over the past seven decades, according to the Korean Central News Agency (KCNA). Choe said North Korean leader Kim Jong-un and Chinese President Xi Jinping reaffirmed their \"steadfast will\" to build a better future for their peoples together during their summit talks in Pyongyang in June. The minister also expressed a commitment to working together to fully implement important agreements reached by the leaders and further develop bilateral friendly relations to a \"higher stage.\" Earlier, Kim sent a congratulatory messag...",
+        "fullText": [
+          "North Korean Foreign Minister Choe Son-hui has called for efforts to further strengthen bilateral ties and traditional friendship with China in a congratulatory message to her Chinese counterpart, Wang Yi, Pyongyang's state media reported Friday. Choe sent the message to Wang on Thursday marking the 77th anniversary of China's founding, praising the country's achievements over the past seven decades, according to the Korean Central News Agency (KCNA).",
+          "Choe said North Korean leader Kim Jong-un and Chinese President Xi Jinping reaffirmed their \"steadfast will\" to build a better future for their peoples together during their summit talks in Pyongyang in June. The minister also expressed a commitment to working together to fully implement important agreements reached by the leaders and further develop bilateral friendly relations to a \"higher stage.",
+          "\" Earlier, Kim sent a congratulatory messag..."
+        ],
+        "words": [
+          "stronger",
+          "letter",
+          "foreign"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hyundai, Kia post record US sales in September",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261002/hyundai-kia-post-record-us-sales-in-september?utm_source=rss",
+        "summary": "Hyundai Motor Co. and Kia Corp. posted record U.S. sales for September, driven by strong demand for sport utility vehicles (SUVs) and hybrid models, the Hyundai Motor Group affiliates said Friday. Hyundai Motor America sold 77,439 vehicles last month, up 9 percent from a year earlier, marking its highest-ever September sales. Sales of the Palisade SUV surged 52 percent on-year, while the Sonata, Tucson and Santa Fe also posted double-digit growth. Hybrid electric vehicles (HEVs) accounted for 28 percent of Hyundai's total U.S. sales during the month. Kia America also reported its best-ever September sales, with deliveries jumping 18 percent on-year to 77,009 units. The Seltos, Niro, K4, Telluride, Sorento, Carnival, K5 and Sportage were among the models that contributed to the strong monthly performance.",
+        "fullText": [
+          "Hyundai Motor Co. and Kia Corp.",
+          "posted record U. S.",
+          "sales for September, driven by strong demand for sport utility vehicles (SUVs) and hybrid models, the Hyundai Motor Group affiliates said Friday. Hyundai Motor America sold 77,439 vehicles last month, up 9 percent from a year earlier, marking its highest-ever September sales.",
+          "Sales of the Palisade SUV surged 52 percent on-year, while the Sonata, Tucson and Santa Fe also posted double-digit growth. Hybrid electric vehicles (HEVs) accounted for 28 percent of Hyundai's total U.",
+          "S. sales during the month.",
+          "Kia America also reported its best-ever September sales, with deliveries jumping 18 percent on-year to 77,009 units. The Seltos, Niro, K4, Telluride, Sorento, Carnival, K5 and Sportage were among the models that contributed to the strong monthly performance."
+        ],
+        "words": [
+          "hyundai",
+          "record",
+          "september"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "President requests confirmation hearing for nominee to head new investigation agency",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261002/president-requests-confirmation-hearing-for-nominee-to-head-new-investigation-agency?utm_source=rss",
+        "summary": "President Lee Jae Myung has approved a request for a parliamentary confirmation hearing for his nominee to become the inaugural chief of the Serious Crimes Investigation Agency (SCIA), a presidential spokesperson said Friday. The announcement came as the SCIA was set to launch later in the day to take over prosecutors' functions of investigating serious crimes as part of the Lee administration's prosecution reform. Lee's approval of a document requesting a parliamentary hearing for SCIA chief nominee Kim Ji-yong indicates the president might be taking steps to officially appoint him. The president nominated Kim early last month at the recommendation of the interior minister, but suspicions have since been raised within the ruling Democratic Party of Korea, including over claims that Kim had once opposed prosecution reform. The presidential office said the previous day that Cheong Wa Dae...",
+        "fullText": [
+          "President Lee Jae Myung has approved a request for a parliamentary confirmation hearing for his nominee to become the inaugural chief of the Serious Crimes Investigation Agency (SCIA), a presidential spokesperson said Friday. The announcement came as the SCIA was set to launch later in the day to take over prosecutors' functions of investigating serious crimes as part of the Lee administration's prosecution reform.",
+          "Lee's approval of a document requesting a parliamentary hearing for SCIA chief nominee Kim Ji-yong indicates the president might be taking steps to officially appoint him. The president nominated Kim early last month at the recommendation of the interior minister, but suspicions have since been raised within the ruling Democratic Party of Korea, including over claims that Kim had once opposed prosecution reform.",
+          "The presidential office said the previous day that Cheong Wa Dae..."
+        ],
+        "words": [
+          "president",
+          "requests",
+          "confirmation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Consumer prices up 2.9% in September",
+        "url": "https://www.koreatimes.co.kr/economy/20261002/consumer-prices-up-29-in-september?utm_source=rss",
+        "summary": "Korea's consumer prices rose 2.9 percent in September from a year earlier, data showed Friday, with energy costs remaining elevated while prices of agricultural goods declined. According to data from the Ministry of Data and Statistics, consumer price growth returned to 2 percent levels in September. The consumer price increase came to 2.8 percent in July and 3.1 percent in August. The latest report was released at a time when prices of petroleum products remained elevated amid the prolonged geopolitical tension in the Middle East, rising 14.8 percent on-year in September. In detail, diesel prices rose sharply by 20 percent, and gasoline prices shot up 11.8 percent. Korea relies heavily on imports to meet its energy needs. The government, meanwhile, said the fuel price cap currently in place is estimated to have limited the overall increase in consumer prices by 0.6 percentage point. The...",
+        "fullText": [
+          "Korea's consumer prices rose 2. 9 percent in September from a year earlier, data showed Friday, with energy costs remaining elevated while prices of agricultural goods declined.",
+          "According to data from the Ministry of Data and Statistics, consumer price growth returned to 2 percent levels in September. The consumer price increase came to 2.",
+          "8 percent in July and 3. 1 percent in August.",
+          "The latest report was released at a time when prices of petroleum products remained elevated amid the prolonged geopolitical tension in the Middle East, rising 14. 8 percent on-year in September.",
+          "In detail, diesel prices rose sharply by 20 percent, and gasoline prices shot up 11. 8 percent.",
+          "Korea relies heavily on imports to meet its energy needs. The government, meanwhile, said the fuel price cap currently in place is estimated to have limited the overall increase in consumer prices by 0.",
+          "6 percentage point. The..."
+        ],
+        "words": [
+          "consumer",
+          "prices",
+          "september"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes",
+        "url": "https://www.koreatimes.co.kr/world/20261002/us-sanctions-target-irans-auto-rail-sectors-as-blockade-chokes-ship-lanes?utm_source=rss",
+        "summary": "WASHINGTON — The Trump administration imposed sanctions on Iran's rail and auto sectors and their foreign suppliers, the Treasury Department said on Thursday, widening its wartime economic campaign to isolate Tehran. The sanctions are part of the department's \"Operation Economic Outcast,\" announced August 24, which aims to cut Tehran's funding for the war, missile construction, cyberattacks and the Islamic Revolutionary Guard Corps or IRGC. The move extends U.S. economic pressure on Iran from sea to land, targeting sectors Tehran has leaned on since a naval blockade cut off its oil shipments through the Strait of Hormuz. But the expanding sanctions risk inflicting severe costs on ordinary Iranians, one analyst said. The U.S. blockade of Iranian ports has forced Tehran to rely more on autos and rail for transporting petroleum, fertilizer, chemicals and other goods. Thursday's sanctions ta...",
+        "fullText": [
+          "WASHINGTON — The Trump administration imposed sanctions on Iran's rail and auto sectors and their foreign suppliers, the Treasury Department said on Thursday, widening its wartime economic campaign to isolate Tehran. The sanctions are part of the department's \"Operation Economic Outcast,\" announced August 24, which aims to cut Tehran's funding for the war, missile construction, cyberattacks and the Islamic Revolutionary Guard Corps or IRGC.",
+          "The move extends U. S.",
+          "economic pressure on Iran from sea to land, targeting sectors Tehran has leaned on since a naval blockade cut off its oil shipments through the Strait of Hormuz. But the expanding sanctions risk inflicting severe costs on ordinary Iranians, one analyst said.",
+          "The U. S.",
+          "blockade of Iranian ports has forced Tehran to rely more on autos and rail for transporting petroleum, fertilizer, chemicals and other goods. Thursday's sanctions ta..."
+        ],
+        "words": [
+          "sanctions",
+          "target",
+          "sectors"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Korea abolishes Prosecutors' Office after 78 years, putting new criminal justice system to test",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261002/korea-abolishes-prosecutors-office-after-78-years-putting-new-criminal-justice-system-to-test?utm_source=rss",
+        "summary": "Korea on Friday abolished the Supreme Prosecutors’ Office after 78 years and launched two new state agencies dividing its investigative and prosecutorial powers, ushering in one of the most sweeping changes to the country’s criminal justice system in decades. Under the new framework taking effect Friday, investigations will be divided among the newly established Serious Crimes Investigation Agency (SCIA), the police and the Corruption Investigation Office for High-ranking Officials (CIO). The new Prosecution Service will review cases, decide whether to indict suspects, request warrants from courts based on applications from investigative agencies and conduct prosecutions in court. But the launch of the new system leaves several unanswered questions: How agencies will handle cases when their jurisdictions overlap, whether prosecutors can exercise sufficient oversight without investigative...",
+        "fullText": [
+          "Korea on Friday abolished the Supreme Prosecutors’ Office after 78 years and launched two new state agencies dividing its investigative and prosecutorial powers, ushering in one of the most sweeping changes to the country’s criminal justice system in decades. Under the new framework taking effect Friday, investigations will be divided among the newly established Serious Crimes Investigation Agency (SCIA), the police and the Corruption Investigation Office for High-ranking Officials (CIO).",
+          "The new Prosecution Service will review cases, decide whether to indict suspects, request warrants from courts based on applications from investigative agencies and conduct prosecutions in court. But the launch of the new system leaves several unanswered questions: How agencies will handle cases when their jurisdictions overlap, whether prosecutors can exercise sufficient oversight without investigative..."
+        ],
+        "words": [
+          "abolishes",
+          "prosecutors",
+          "office"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-01",
     "label": "Thursday, October 1, 2026",
     "title": "Korea News Brief",
