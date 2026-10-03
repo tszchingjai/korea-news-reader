@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-03",
+    "label": "Saturday, October 3, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Korea, Law, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea fires ballistic missile toward East Sea amid tensions over DMZ blast",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261003/n-korea-fires-ballistic-missile-toward-east-sea-amid-tensions-over-dmz-blast?utm_source=rss",
+        "summary": "North Korea fired at least one ballistic missile toward the East Sea on Saturday, South Korea's military said, after Pyongyang has denied responsibility for last week's mine blast along the inter-Korean border. The Joint Chiefs of Staff (JCS) said it detected the launch at about 6:30 a.m. from the Wonsan area, without elaborating. \"The South Korean military has stepped up surveillance for potential additional launches and is maintaining an all-out readiness posture while sharing relevant information with the United States and Japan,\" the JCS said in a notice. The latest launch came amid heightened inter-Korean tensions following the Sept. 21 blast of North Korean land mines inside the Demilitarized Zone (DMZ) separating the two Koreas. The incident left three South Korean soldiers injured, two of them seriously. The South Korean military has blamed North Korea for the mine blast, calling...",
+        "fullText": [
+          "North Korea fired at least one ballistic missile toward the East Sea on Saturday, South Korea's military said, after Pyongyang has denied responsibility for last week's mine blast along the inter-Korean border. The Joint Chiefs of Staff (JCS) said it detected the launch at about 6:30 a.",
+          "m. from the Wonsan area, without elaborating.",
+          "\"The South Korean military has stepped up surveillance for potential additional launches and is maintaining an all-out readiness posture while sharing relevant information with the United States and Japan,\" the JCS said in a notice. The latest launch came amid heightened inter-Korean tensions following the Sept.",
+          "21 blast of North Korean land mines inside the Demilitarized Zone (DMZ) separating the two Koreas. The incident left three South Korean soldiers injured, two of them seriously.",
+          "The South Korean military has blamed North Korea for the mine blast, calling..."
+        ],
+        "words": [
+          "ballistic",
+          "missile",
+          "toward"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean cooper crafts new vision with Scottish tradition",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261003/korean-cooper-crafts-new-vision-with-scottish-tradition?utm_source=rss",
+        "summary": "Inside a workshop, wooden shavings fly through the air as the rhythmic sound of hammering fills the room. For Jeon Chang-hyun, this demanding environment is where he finally found his true calling. Jeon, a graduate of Hongik University’s Department of Woodworking and Furniture Design and a former product developer at Hanssem, Korea’s largest furniture and home furnishing company, took an unusual path for a Korean craftsperson as he moved to Scotland to become an apprentice cooper. Now back in Korea, Jeon launched Wee Branch Cooperage in Yeongwol, Gangwon Province. The name combines the Scots word \"wee,\" meaning small, with the English word \"branch,\" symbolizing a small Scottish branch taking root in Korean soil to craft wood. \"I wanted to do a job that felt entirely my own,\" Jeon told The Korea Times at a cafe in Seoul, Friday. \"At a big company, I was doing meaningful work, but I was ju...",
+        "fullText": [
+          "Inside a workshop, wooden shavings fly through the air as the rhythmic sound of hammering fills the room. For Jeon Chang-hyun, this demanding environment is where he finally found his true calling.",
+          "Jeon, a graduate of Hongik University’s Department of Woodworking and Furniture Design and a former product developer at Hanssem, Korea’s largest furniture and home furnishing company, took an unusual path for a Korean craftsperson as he moved to Scotland to become an apprentice cooper. Now back in Korea, Jeon launched Wee Branch Cooperage in Yeongwol, Gangwon Province.",
+          "The name combines the Scots word \"wee,\" meaning small, with the English word \"branch,\" symbolizing a small Scottish branch taking root in Korean soil to craft wood. \"I wanted to do a job that felt entirely my own,\" Jeon told The Korea Times at a cafe in Seoul, Friday.",
+          "\"At a big company, I was doing meaningful work, but I was ju..."
+        ],
+        "words": [
+          "cooper",
+          "crafts",
+          "vision"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "North Korea's border fortification raises questions over DMZ buffer role",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261003/north-koreas-border-fortification-raises-questions-over-dmz-buffer-role?utm_source=rss",
+        "summary": "North Korea’s continued construction of minefields, fences and barriers along the Military Demarcation Line (MDL) is raising questions over whether its border fortification campaign is changing the role of the Demilitarized Zone (DMZ), which has served as a military buffer between the two Koreas since the 1953 Korean Armistice Agreement. The risks are becoming more apparent as North Korea builds fortifications close to the MDL in areas where Seoul, Pyongyang and the United Nations Command (UNC) do not always agree on the exact location of the line. North Korean troops have repeatedly crossed the MDL during construction work, prompting warning broadcasts and warning shots from the South Korean military. North Korea began clearing land, laying mines and building fences, barriers and tactical roads along the MDL in 2024, after leader Kim Jong-un defined inter-Korean relations as those betwe...",
+        "fullText": [
+          "North Korea’s continued construction of minefields, fences and barriers along the Military Demarcation Line (MDL) is raising questions over whether its border fortification campaign is changing the role of the Demilitarized Zone (DMZ), which has served as a military buffer between the two Koreas since the 1953 Korean Armistice Agreement. The risks are becoming more apparent as North Korea builds fortifications close to the MDL in areas where Seoul, Pyongyang and the United Nations Command (UNC) do not always agree on the exact location of the line.",
+          "North Korean troops have repeatedly crossed the MDL during construction work, prompting warning broadcasts and warning shots from the South Korean military. North Korea began clearing land, laying mines and building fences, barriers and tactical roads along the MDL in 2024, after leader Kim Jong-un defined inter-Korean relations as those betwe..."
+        ],
+        "words": [
+          "border",
+          "fortification",
+          "raises"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Palace museum opens outdoor wedding season under gingko trees",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261003/palace-museum-opens-outdoor-wedding-season-under-gingko-trees?utm_source=rss",
+        "summary": "Beneath the brilliant autumn canopy of a century-old ginkgo tree, the National Palace Museum of Korea is opening its historic grounds to a new generation of newlyweds. Starting Friday, the royal courtyard adjacent to Gyeongbok Palace will transform into an outdoor venue where dozens of couples will tie the knot surrounded by centuries of Korean heritage. The program, dubbed \"Gogyeol\" — a blend of Korean words meaning \"marrying at the palace museum\" — will host 28 free outdoor weddings every weekend and holiday through Nov. 8. With two daily slots at 11 a.m. and 3 p.m., the initiative aims to ease financial burdens for young couples while celebrating the nation’s cultural legacy in everyday life. To launch the season on Friday afternoon, the museum welcomed its inaugural wedding couple, including bride Mai, a high-profile Estonian content creator who gained national fame as the first fore...",
+        "fullText": [
+          "Beneath the brilliant autumn canopy of a century-old ginkgo tree, the National Palace Museum of Korea is opening its historic grounds to a new generation of newlyweds. Starting Friday, the royal courtyard adjacent to Gyeongbok Palace will transform into an outdoor venue where dozens of couples will tie the knot surrounded by centuries of Korean heritage.",
+          "The program, dubbed \"Gogyeol\" — a blend of Korean words meaning \"marrying at the palace museum\" — will host 28 free outdoor weddings every weekend and holiday through Nov. 8.",
+          "With two daily slots at 11 a. m.",
+          "and 3 p. m.",
+          ", the initiative aims to ease financial burdens for young couples while celebrating the nation’s cultural legacy in everyday life. To launch the season on Friday afternoon, the museum welcomed its inaugural wedding couple, including bride Mai, a high-profile Estonian content creator who gained national fame as the first fore..."
+        ],
+        "words": [
+          "palace",
+          "museum",
+          "outdoor"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Filipinos turn Hongdae venue into home away from home",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261003/filipinos-turn-hongdae-venue-into-home-away-from-home?utm_source=rss",
+        "summary": "In western Seoul’s vibrant Hongdae neighborhood, a celebration of Filipino music and culture transformed a live music venue into a space where the community felt closer to home. Filipinos across Seoul gathered at Rabbit Hall, the basement live music venue at White Rabbit bistro and wine bar in Mapo District on Sept. 26 for its first Filipino Night. Home to frequent open mics, the stage was set for something a bit different. The show opened with a traditional Mindanaoan dance called “Pangalay,” performed by Filipino artist Nicky Juanite, the brains behind the event, accompanied by Kyle Abraham, a Filipino American dancer and choreographer. “We wanted to bless this space before we start the show,” Juanite said after the opening performance that set the tone for the evening. What followed was a quintessentially Filipino sight — and sound. Performers treated the audience to English and Tagal...",
+        "fullText": [
+          "In western Seoul’s vibrant Hongdae neighborhood, a celebration of Filipino music and culture transformed a live music venue into a space where the community felt closer to home. Filipinos across Seoul gathered at Rabbit Hall, the basement live music venue at White Rabbit bistro and wine bar in Mapo District on Sept.",
+          "26 for its first Filipino Night. Home to frequent open mics, the stage was set for something a bit different.",
+          "The show opened with a traditional Mindanaoan dance called “Pangalay,” performed by Filipino artist Nicky Juanite, the brains behind the event, accompanied by Kyle Abraham, a Filipino American dancer and choreographer. “We wanted to bless this space before we start the show,” Juanite said after the opening performance that set the tone for the evening.",
+          "What followed was a quintessentially Filipino sight — and sound. Performers treated the audience to English and Tagal..."
+        ],
+        "words": [
+          "filipinos",
+          "hongdae",
+          "western"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] The irresistible appeal of Korea's 'pojangmacha' food tents",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261003/morning-calm-tales-the-irresistible-appeal-of-koreas-pojangmacha-food-tents?utm_source=rss",
+        "summary": "Had I not gotten lost in Jamsil one cold December night, I might never have discovered the soul of Seoul. It was the early 1990s, and I decided to be adventurous and find a different way back to my apartment. Somewhere in the maze of Jamsil 2-danji, I got twisted around and ended up on a street I had never taken before. Getting lost there was surprisingly easy. At night, the apartment buildings all looked alike, row after row of concrete towers rising into the darkness. I knew the subway station was somewhere behind me and my apartment somewhere ahead. Beyond that, I was guessing. The December air had a bite to it. I shoved my hands deeper into my coat pockets and kept walking. Then I saw the orange glow. On the side of the street stood a rectangular tent, glowing in the darkness. Light filtered through thick orange plastic, turning it into a giant lantern. Shadows moved behind the vinyl...",
+        "fullText": [
+          "Had I not gotten lost in Jamsil one cold December night, I might never have discovered the soul of Seoul. It was the early 1990s, and I decided to be adventurous and find a different way back to my apartment.",
+          "Somewhere in the maze of Jamsil 2-danji, I got twisted around and ended up on a street I had never taken before. Getting lost there was surprisingly easy.",
+          "At night, the apartment buildings all looked alike, row after row of concrete towers rising into the darkness. I knew the subway station was somewhere behind me and my apartment somewhere ahead.",
+          "Beyond that, I was guessing. The December air had a bite to it.",
+          "I shoved my hands deeper into my coat pockets and kept walking. Then I saw the orange glow.",
+          "On the side of the street stood a rectangular tent, glowing in the darkness. Light filtered through thick orange plastic, turning it into a giant lantern.",
+          "Shadows moved behind the vinyl..."
+        ],
+        "words": [
+          "morning",
+          "irresistible",
+          "appeal"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "US official says Trump does not view talks with N. Korea as 'concession'",
+        "url": "https://www.koreatimes.co.kr/world/20261003/us-official-says-trump-does-not-view-talks-with-n-korea-as-concession?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump does not view talks with North Korea as a \"concession\" and is willing to engage Pyongyang if doing so serves U.S. national interests, the State Department spokesperson said Friday. Tommy Pigott, spokesperson for the State Department, made the remarks when asked how the U.S. government is supporting Trump's stated willingness to meet Kim amid renewed attention to the prospects of diplomacy between Washington and Pyongyang. \"The determination comes from a president who doesn't believe talking to someone is a concession,\" Pigott said during a meeting with foreign reporters in Washington. \"If it's in our national interest to talk to someone, he's going to talk with them.\" Trump has recently expressed his intention to meet Kim later this year, with the White House reiterating that the president remains open to talks with the North Korean leader \"withou...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump does not view talks with North Korea as a \"concession\" and is willing to engage Pyongyang if doing so serves U. S.",
+          "national interests, the State Department spokesperson said Friday. Tommy Pigott, spokesperson for the State Department, made the remarks when asked how the U.",
+          "S. government is supporting Trump's stated willingness to meet Kim amid renewed attention to the prospects of diplomacy between Washington and Pyongyang.",
+          "\"The determination comes from a president who doesn't believe talking to someone is a concession,\" Pigott said during a meeting with foreign reporters in Washington. \"If it's in our national interest to talk to someone, he's going to talk with them.",
+          "\" Trump has recently expressed his intention to meet Kim later this year, with the White House reiterating that the president remains open to talks with the North Korean leader \"withou..."
+        ],
+        "words": [
+          "official",
+          "concession",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "label": "Friday, October 2, 2026",
     "title": "Korea News Brief",
