@@ -1,5 +1,148 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-04",
+    "label": "Sunday, October 4, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea's Kim oversees hypersonic missile launch, calls for bolstering war deterrent",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261004/n-koreas-kim-oversees-hypersonic-missile-launch-calls-for-bolstering-war-deterrent?utm_source=rss",
+        "summary": "North Korean leader Kim Jong-un has overseen the launch of an intermediate-range strategic missile and called for continued efforts to bolster the \"fatality\" of the country's offensive weapons, state media reported Sunday. North Korea conducted a firing drill of the missile toward the East Sea at dawn on Saturday as part of efforts to train missile troops operating the \"hypersonic strategic weapon system,\" according to the Korean Central News Agency (KCNA). Kim said it is very important to demonstrate the counterattack means of the North's military in a \"constant mobilization posture,\" according to the report. \"We must continue our responsible efforts nonstop to constantly and repeatedly make the enemy recognize the reliability and fatality of our strategic offensive means,\" the North's leader was quoted as saying by the KCNA. \"This is a form of exercising deterrent,\" he said, noting tha...",
+        "fullText": [
+          "North Korean leader Kim Jong-un has overseen the launch of an intermediate-range strategic missile and called for continued efforts to bolster the \"fatality\" of the country's offensive weapons, state media reported Sunday. North Korea conducted a firing drill of the missile toward the East Sea at dawn on Saturday as part of efforts to train missile troops operating the \"hypersonic strategic weapon system,\" according to the Korean Central News Agency (KCNA).",
+          "Kim said it is very important to demonstrate the counterattack means of the North's military in a \"constant mobilization posture,\" according to the report. \"We must continue our responsible efforts nonstop to constantly and repeatedly make the enemy recognize the reliability and fatality of our strategic offensive means,\" the North's leader was quoted as saying by the KCNA.",
+          "\"This is a form of exercising deterrent,\" he said, noting tha..."
+        ],
+        "words": [
+          "oversees",
+          "hypersonic",
+          "missile"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul Botanic Park brings plants into everyday spaces",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261004/seoul-botanic-park-brings-plants-into-everyday-spaces?utm_source=rss",
+        "summary": "Living rooms have held a monopoly on indoor plants for far too long. A stubborn fern on a side table, a dusty ficus in the corner or a balcony overcrowded with forgotten pots — that used to be the default script for urban greenery. But a new exhibition at Seoul Botanic Park is tearing up that playbook, arguing that foliage belongs in the messy, intimate spaces where daily life actually happens. Beginning Wednesday and running through Dec. 31, \"In Green\" takes a fresh, lived-in approach to indoor plant styling. Rather than treating greenery as static decoration, the showcase at the park's Garden Support Center shifts themes every month to mirror how people navigate their homes as the seasons change. \"I hope this exhibition serves as an opportunity for visitors to view plants not merely as objects of a specialized hobby, but as companions naturally sharing our everyday spaces — from living...",
+        "fullText": [
+          "Living rooms have held a monopoly on indoor plants for far too long. A stubborn fern on a side table, a dusty ficus in the corner or a balcony overcrowded with forgotten pots — that used to be the default script for urban greenery.",
+          "But a new exhibition at Seoul Botanic Park is tearing up that playbook, arguing that foliage belongs in the messy, intimate spaces where daily life actually happens. Beginning Wednesday and running through Dec.",
+          "31, \"In Green\" takes a fresh, lived-in approach to indoor plant styling. Rather than treating greenery as static decoration, the showcase at the park's Garden Support Center shifts themes every month to mirror how people navigate their homes as the seasons change.",
+          "\"I hope this exhibition serves as an opportunity for visitors to view plants not merely as objects of a specialized hobby, but as companions naturally sharing our everyday spaces — from living..."
+        ],
+        "words": [
+          "botanic",
+          "brings",
+          "plants"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Lottery winner, CEO, intern: Office is back in K-content",
+        "url": "https://www.koreatimes.co.kr/entertainment/20261004/lottery-winner-ceo-intern-office-is-back-in-k-content?utm_source=rss",
+        "summary": "Even lottery winners go to work, and so do interns. In the past, the workplace in K-content was often portrayed as a place people wanted to escape. Workplace bullying by bosses, office politics, excessive workloads, competition and the struggle to survive were recurring themes, giving rise to dramas such as “Misaeng,” which continues to be talked about years later. In 2026, however, a new wave of content is heading back to the office. From Tving original series “Even Lottery Winners Go to Work” and the film “The Intern” to Season 3 of Coupang Play’s “Office Workers,” the workplace is the setting for all three. But while earlier office dramas focused on realistically depicting the joys and hardships of working life, recent productions are looking at workplace realities in new ways by combining the familiar office setting with fantasy, generational change and comedy. So why the office agai...",
+        "fullText": [
+          "Even lottery winners go to work, and so do interns. In the past, the workplace in K-content was often portrayed as a place people wanted to escape.",
+          "Workplace bullying by bosses, office politics, excessive workloads, competition and the struggle to survive were recurring themes, giving rise to dramas such as “Misaeng,” which continues to be talked about years later. In 2026, however, a new wave of content is heading back to the office.",
+          "From Tving original series “Even Lottery Winners Go to Work” and the film “The Intern” to Season 3 of Coupang Play’s “Office Workers,” the workplace is the setting for all three. But while earlier office dramas focused on realistically depicting the joys and hardships of working life, recent productions are looking at workplace realities in new ways by combining the familiar office setting with fantasy, generational change and comedy.",
+          "So why the office agai..."
+        ],
+        "words": [
+          "lottery",
+          "winner",
+          "intern"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Han Soo-jin's Vivaldi perspective rooted in seaside souvenirs of Isle of Man",
+        "url": "https://www.koreatimes.co.kr/entertainment/20261004/han-soo-jins-vivaldi-perspective-rooted-in-seaside-souvenirs-of-isle-of-man?utm_source=rss",
+        "summary": "The Isle of Man, a British Crown Dependency in the Irish Sea between Great Britain and Ireland, holds special musical memories for violinist Han Soo-jin, 40. Born in Busan, Han moved to Britain with her parents at age 2 and spent the first three and a half years of her childhood on the island. Surrounded by meadows and the sea, it was also where she first heard Vivaldi's \"The Four Seasons.\" That memory has now found its way into her recently released second album, \"The Four Seasons,\" her first album featuring a concerto with an orchestra. She recorded it with the English Chamber Orchestra (ECO) last September at London's Abbey Road Studios, where the Beatles recorded their music. During a press conference on Wednesday at Sounds S in Yongsan District, Seoul, Han said, \"Some people might wonder why I chose Vivaldi's 'The Four Seasons,' which has been performed so often and has so many accl...",
+        "fullText": [
+          "The Isle of Man, a British Crown Dependency in the Irish Sea between Great Britain and Ireland, holds special musical memories for violinist Han Soo-jin, 40. Born in Busan, Han moved to Britain with her parents at age 2 and spent the first three and a half years of her childhood on the island.",
+          "Surrounded by meadows and the sea, it was also where she first heard Vivaldi's \"The Four Seasons. \" That memory has now found its way into her recently released second album, \"The Four Seasons,\" her first album featuring a concerto with an orchestra.",
+          "She recorded it with the English Chamber Orchestra (ECO) last September at London's Abbey Road Studios, where the Beatles recorded their music. During a press conference on Wednesday at Sounds S in Yongsan District, Seoul, Han said, \"Some people might wonder why I chose Vivaldi's 'The Four Seasons,' which has been performed so often and has so many accl..."
+        ],
+        "words": [
+          "soo-jin",
+          "vivaldi",
+          "perspective"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Travel guide: 5 ways to stay healthy during flights",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20261004/travel-guide-5-ways-to-stay-healthy-during-flights?utm_source=rss",
+        "summary": "Click here for more articles by Kormedi.com. Many people complain of body aches or fatigue after returning from an overseas trip. While a packed travel itinerary may be partly to blame, long hours on a plane can also take a toll on the body by causing fatigue and dehydration and keeping passengers seated in the same position for extended periods. Surprisingly, some people even avoid overseas travel because they dread long flights. So how can you stay healthy during an extended flight? U.S. health and medical publication EatingWell offered five tips for staying healthy on a plane, based on advice from dietitians. Eat nutritious meal before flying Registered dietitian Megan Ormsby said one of the best habits for staying healthy while flying is to “maintain sufficient energy from before boarding until the end of the trip.” Starting a flight with low energy can affect concentration, mood and...",
+        "fullText": [
+          "Click here for more articles by Kormedi. com.",
+          "Many people complain of body aches or fatigue after returning from an overseas trip. While a packed travel itinerary may be partly to blame, long hours on a plane can also take a toll on the body by causing fatigue and dehydration and keeping passengers seated in the same position for extended periods.",
+          "Surprisingly, some people even avoid overseas travel because they dread long flights. So how can you stay healthy during an extended flight?",
+          "U. S.",
+          "health and medical publication EatingWell offered five tips for staying healthy on a plane, based on advice from dietitians. Eat nutritious meal before flying Registered dietitian Megan Ormsby said one of the best habits for staying healthy while flying is to “maintain sufficient energy from before boarding until the end of the trip.",
+          "” Starting a flight with low energy can affect concentration, mood and..."
+        ],
+        "words": [
+          "travel",
+          "healthy",
+          "during"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Cha Seung-won, Ra Mi-ran to play husband and wife in action comedy",
+        "url": "https://www.koreatimes.co.kr/entertainment/20261004/cha-seung-won-ra-mi-ran-to-play-husband-and-wife-in-action-comedy?utm_source=rss",
+        "summary": "A family that gathers at a hospital to visit a sick relative becomes caught up in a terrorist attack. Three generations of the family — from grandfather to father to son — are former Marines. Director Won Shin-yun is telling the story of this unusual family in his new film, “Family Force.” Won, who has showcased action in films including “The Battle: Roar to Victory” and “The Suspect,” is combining family relationships with comedy this time. Set at a large hospital in Seoul, the film follows three generations of a Marine family as they confront a multinational terrorist attack. Filming began in September. At the center of the family are Cha Seung-won and Ra Mi-ran, who play a married couple. Cha plays Cheol-du, a former Marine master sergeant whose family motto is, “Once a Marine, always a Marine.” He visits the hospital where his father is admitted and ends up confronting the terrorists...",
+        "fullText": [
+          "A family that gathers at a hospital to visit a sick relative becomes caught up in a terrorist attack. Three generations of the family — from grandfather to father to son — are former Marines.",
+          "Director Won Shin-yun is telling the story of this unusual family in his new film, “Family Force. ” Won, who has showcased action in films including “The Battle: Roar to Victory” and “The Suspect,” is combining family relationships with comedy this time.",
+          "Set at a large hospital in Seoul, the film follows three generations of a Marine family as they confront a multinational terrorist attack. Filming began in September.",
+          "At the center of the family are Cha Seung-won and Ra Mi-ran, who play a married couple. Cha plays Cheol-du, a former Marine master sergeant whose family motto is, “Once a Marine, always a Marine.",
+          "” He visits the hospital where his father is admitted and ends up confronting the terrorists..."
+        ],
+        "words": [
+          "seung-won",
+          "mi-ran",
+          "husband"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Sejong travel guide: Government city wins over travelers with gardens, 'padak'",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261004/sejong-travel-guide-government-city-wins-over-travelers-with-gardens-padak?utm_source=rss",
+        "summary": "Say \"administration\" and most people picture rigid bureaucratic culture and stuffy offices — everything a vacation is not. If you believe a travel destination must be a \"city of love,\" a \"fashion capital\" or at least a coastal or historic hub, a city built from scratch to house government ministries should be the last place you book for a weekend trip. For visitors, the city defies expectations on arrival. Sejong is an easy city to travel in, where the plain traditions carried over from Jochiwon, Sejong's older town center, sit comfortably beside the tidy greenery of a planned city. The city's designers ran a central green axis north to south through the downtown core, and the National Sejong Arboretum anchors it, cooling the urban heat island effect and handing residents a forest they can reach on foot. Sejong Lake Park sits next door. Together they provide a feast for the eyes, and the...",
+        "fullText": [
+          "Say \"administration\" and most people picture rigid bureaucratic culture and stuffy offices — everything a vacation is not. If you believe a travel destination must be a \"city of love,\" a \"fashion capital\" or at least a coastal or historic hub, a city built from scratch to house government ministries should be the last place you book for a weekend trip.",
+          "For visitors, the city defies expectations on arrival. Sejong is an easy city to travel in, where the plain traditions carried over from Jochiwon, Sejong's older town center, sit comfortably beside the tidy greenery of a planned city.",
+          "The city's designers ran a central green axis north to south through the downtown core, and the National Sejong Arboretum anchors it, cooling the urban heat island effect and handing residents a forest they can reach on foot. Sejong Lake Park sits next door.",
+          "Together they provide a feast for the eyes, and the..."
+        ],
+        "words": [
+          "sejong",
+          "travel",
+          "government"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "label": "Saturday, October 3, 2026",
     "title": "Korea News Brief",
