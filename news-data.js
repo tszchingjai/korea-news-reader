@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-05",
+    "label": "Monday, October 5, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Extreme heat putting pregnant women, newborns at risk: UN climate chief",
+        "url": "https://www.koreatimes.co.kr/world/20261005/extreme-heat-putting-pregnant-women-newborns-at-risk-un-climate-chief?utm_source=rss",
+        "summary": "NADI, Fiji — Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday. Speaking at the \"pre-COP\" summit in Nadi, Fiji, Stiell will cite a new survey showing more than two thirds of health professionals across five continents had seen complications caused by intense heat in the past five years. \"Rising temperatures mean rising danger in pregnancy,\" he is expected to say. \"Climate-driven extreme heat during pregnancy is increasingly linked to premature birth, stillbirth, low birth weight, and maternal complications.\" \"The picture is clear and very disturbing: as extreme heat worsens, pregnancy and birth are now a new faultline in the global climate crisis, and one which is potentially fatal,\" Stiell will say. \"This faultline must not become another deep chasm of climate-driven suffering, inequality and inj...",
+        "fullText": [
+          "NADI, Fiji — Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday. Speaking at the \"pre-COP\" summit in Nadi, Fiji, Stiell will cite a new survey showing more than two thirds of health professionals across five continents had seen complications caused by intense heat in the past five years.",
+          "\"Rising temperatures mean rising danger in pregnancy,\" he is expected to say. \"Climate-driven extreme heat during pregnancy is increasingly linked to premature birth, stillbirth, low birth weight, and maternal complications.",
+          "\" \"The picture is clear and very disturbing: as extreme heat worsens, pregnancy and birth are now a new faultline in the global climate crisis, and one which is potentially fatal,\" Stiell will say. \"This faultline must not become another deep chasm of climate-driven suffering, inequality and inj..."
+        ],
+        "words": [
+          "extreme",
+          "putting",
+          "pregnant"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "What does it mean to have made it?",
+        "url": "https://www.koreatimes.co.kr/opinion/20261005/what-does-it-mean-to-have-made-it?utm_source=rss",
+        "summary": "The question sounds simple, but the answer seems to change depending on where you learned to ask it. For us, the answer was never entirely Korean nor entirely Brazilian. We are both Korean, but we grew up in Brazil. We learned to speak Portuguese, went to international schools, ate Korean food at home and Brazilian food outside it, and learned — sometimes consciously and sometimes not — to move between two very different ways of imagining a successful life. In Korea, there is a familiar guideline to having “made it.” Study hard. Get good grades. Enter a good university. Build a respectable career. Earn enough to buy a good home. Get married. Build a family. Give your children opportunities, perhaps even better ones than you had. Somewhere along the way, become the kind of person whose life can be recognized by others as successful. Not every Korean follows this path, of course. And more...",
+        "fullText": [
+          "The question sounds simple, but the answer seems to change depending on where you learned to ask it. For us, the answer was never entirely Korean nor entirely Brazilian.",
+          "We are both Korean, but we grew up in Brazil. We learned to speak Portuguese, went to international schools, ate Korean food at home and Brazilian food outside it, and learned — sometimes consciously and sometimes not — to move between two very different ways of imagining a successful life.",
+          "In Korea, there is a familiar guideline to having “made it. ” Study hard.",
+          "Get good grades. Enter a good university.",
+          "Build a respectable career. Earn enough to buy a good home.",
+          "Get married. Build a family.",
+          "Give your children opportunities, perhaps even better ones than you had. Somewhere along the way, become the kind of person whose life can be recognized by others as successful.",
+          "Not every Korean follows this path, of course. And more..."
+        ],
+        "words": [
+          "question",
+          "sounds",
+          "simple"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
+        "url": "https://www.koreatimes.co.kr/world/20261005/brazil-election-headed-to-runoff-projection-shows-as-bolsonaro-lead-narrows?utm_source=rss",
+        "summary": "BRASILIA/SAO PAULO/RIO DE JANEIRO—S enator Flavio Bolsonaro held a narrowing lead in the first round of Brazil's presidential election on Sunday, after more than half the votes were counted, with pollster Datafolha projecting that the election would proceed to a second vote. Flavio, the 45-year-old son of former President Jair Bolsonaro who hopes to return his father's right-wing movement to power, was leading leftist President Luiz Inacio Lula da Silva, 80, who is seeking a fourth term, following a campaign dominated by corruption scandals, economic anxiety and accusations of US meddling. With about 65% of votes reported, Flavio led Lula with 49.58% of the votes to the president's 42.25%. A candidate must pass 50% in order to win outright in the first round. The two leading candidates were expected to head into a second round vote, Brazilian pollster Datafolha said. Surveys have shown L...",
+        "fullText": [
+          "BRASILIA/SAO PAULO/RIO DE JANEIRO—S enator Flavio Bolsonaro held a narrowing lead in the first round of Brazil's presidential election on Sunday, after more than half the votes were counted, with pollster Datafolha projecting that the election would proceed to a second vote. Flavio, the 45-year-old son of former President Jair Bolsonaro who hopes to return his father's right-wing movement to power, was leading leftist President Luiz Inacio Lula da Silva, 80, who is seeking a fourth term, following a campaign dominated by corruption scandals, economic anxiety and accusations of US meddling.",
+          "With about 65% of votes reported, Flavio led Lula with 49. 58% of the votes to the president's 42.",
+          "25%. A candidate must pass 50% in order to win outright in the first round.",
+          "The two leading candidates were expected to head into a second round vote, Brazilian pollster Datafolha said. Surveys have shown L..."
+        ],
+        "words": [
+          "brazil",
+          "election",
+          "headed"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Accommodation, transportation problems mar 2026 Aichi-Nagoya Asian Games",
+        "url": "https://www.koreatimes.co.kr/sports/20261005/accommodation-transportation-problems-mar-2026-aichi-nagoya-asian-games?utm_source=rss",
+        "summary": "NAGOYA, Japan — With more than 15,000 athletes and officials bringing a 16-day run to an end on Sunday, the 2026 Aichi-Nagoya Asian Games came under scrutiny over operational problems, including issues involving accommodations and transportation. Before the opening of the quadrennial continental multisport event on Sept. 19, concerns over accommodation shortages and worse-than-expected lodging for athletes were raised. As part of their cost-cutting and eco-friendly policies, organizers of the Asian Games did not build a dedicated athletes' village for this year's competition, instead providing accommodations on a cruise ship and in temporary container units, as well as hotels, for about 15,000 athletes and officials from 45 nations. Under the accommodation plan, some 9,000 athletes were to stay in hotels, while 4,000 were to be housed on the cruise ship and 2,000 in a complex of wooden c...",
+        "fullText": [
+          "NAGOYA, Japan — With more than 15,000 athletes and officials bringing a 16-day run to an end on Sunday, the 2026 Aichi-Nagoya Asian Games came under scrutiny over operational problems, including issues involving accommodations and transportation. Before the opening of the quadrennial continental multisport event on Sept.",
+          "19, concerns over accommodation shortages and worse-than-expected lodging for athletes were raised. As part of their cost-cutting and eco-friendly policies, organizers of the Asian Games did not build a dedicated athletes' village for this year's competition, instead providing accommodations on a cruise ship and in temporary container units, as well as hotels, for about 15,000 athletes and officials from 45 nations.",
+          "Under the accommodation plan, some 9,000 athletes were to stay in hotels, while 4,000 were to be housed on the cruise ship and 2,000 in a complex of wooden c..."
+        ],
+        "words": [
+          "accommodation",
+          "transportation",
+          "problems"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[Asian Games] S. Korea falls short of target as gap with Japan widens",
+        "url": "https://www.koreatimes.co.kr/sports/20261005/s-korea-falls-short-of-target-as-gap-with-japan-widens?utm_source=rss",
+        "summary": "NAGOYA, Japan — For the Aichi-Nagoya Asian Games that ended with the closing ceremony Sunday night, South Korea had set out to win 40 to 45 gold medals and narrow its gap with Japan in the medal race. The country accomplished neither of those goals. South Korea finished with 39 gold medals for its third consecutive third-place finish, behind China and Japan, and this was also South Korea's fewest gold medal tally since taking home 28 in 1982. The gap between South Korea and Japan was much bigger than that between South Korea and the fourth-place finisher, India, which finished with 21 gold medals. The Korean Sport & Olympic Committee (KSOC) had projected it would be difficult for South Korea to catch Japan, which it thought would enjoy home field advantage. After South Korea finished 10 gold medals behind Japan at the 2023 Asiad, at 52-42 -- compared to a 75-49 deficit in 2018 -- the KSO...",
+        "fullText": [
+          "NAGOYA, Japan — For the Aichi-Nagoya Asian Games that ended with the closing ceremony Sunday night, South Korea had set out to win 40 to 45 gold medals and narrow its gap with Japan in the medal race. The country accomplished neither of those goals.",
+          "South Korea finished with 39 gold medals for its third consecutive third-place finish, behind China and Japan, and this was also South Korea's fewest gold medal tally since taking home 28 in 1982. The gap between South Korea and Japan was much bigger than that between South Korea and the fourth-place finisher, India, which finished with 21 gold medals.",
+          "The Korean Sport & Olympic Committee (KSOC) had projected it would be difficult for South Korea to catch Japan, which it thought would enjoy home field advantage. After South Korea finished 10 gold medals behind Japan at the 2023 Asiad, at 52-42 -- compared to a 75-49 deficit in 2018 -- the KSO..."
+        ],
+        "words": [
+          "target",
+          "widens",
+          "nagoya"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Underground show brings together 11 bands in Sinchon",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261005/underground-show-brings-together-11-bands-in-sinchon?utm_source=rss",
+        "summary": "A show at western Seoul's top punk venue Baby Doll brings together 11 bands Saturday. The expansive, diverse and yet reasonably affordable show is also Matthew Gamble's debut as a promoter. \"A lot of people in the underground punk and hardcore scene in Korea have also been asking me to put on shows for a while, so eventually everything just collided together,\" he said. Gamble, the proprietor behind streetwear brand Diazable, has been working hard to promote Korea's underground scene for several years now. He can often be seen at shows filming the bands for his YouTube channel, Diazable Music Breakdown. \"I’ve filmed every band on this first show in some capacity,\" he said. \"That made it a lot easier to approach them because I’d already had some kind of interaction with them before. I wasn’t just some random person suddenly asking them to play a show.\" He spent a week teasing out the bands...",
+        "fullText": [
+          "A show at western Seoul's top punk venue Baby Doll brings together 11 bands Saturday. The expansive, diverse and yet reasonably affordable show is also Matthew Gamble's debut as a promoter.",
+          "\"A lot of people in the underground punk and hardcore scene in Korea have also been asking me to put on shows for a while, so eventually everything just collided together,\" he said. Gamble, the proprietor behind streetwear brand Diazable, has been working hard to promote Korea's underground scene for several years now.",
+          "He can often be seen at shows filming the bands for his YouTube channel, Diazable Music Breakdown. \"I’ve filmed every band on this first show in some capacity,\" he said.",
+          "\"That made it a lot easier to approach them because I’d already had some kind of interaction with them before. I wasn’t just some random person suddenly asking them to play a show.",
+          "\" He spent a week teasing out the bands..."
+        ],
+        "words": [
+          "underground",
+          "brings",
+          "together"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Anamaría Oramas ushers sounds of contemporary Colombian jazz to Korea",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261005/anamaria-oramas-ushers-sounds-of-contemporary-colombian-jazz-to-korea?utm_source=rss",
+        "summary": "Breaking free from more familiar Latin American jazz sounds like tango and bossa nova, musician Anamaría Oramas is set to introduce her own traditional and contemporary Colombian jazz crossover sounds to Korea. The singer and instrumentalist is scheduled to perform at the Jarasum Jazz Festival in Gapyeong, Gyeonggi Province, happening Oct. 9-11. The annual music festival, now on its 23rd edition, is one of the leading jazz events in the country and has featured jazz musicians from all over the world since its inception in 2004. She’s also making appearances in Seoul live venues Jazz Club Janus, Subriot and Morene Sukha as part of her 10th anniversary world tour. Through her parents’ encouragement to pursue a career in music, Oramas trained as a classical musician in her younger years and developed a love affair with wind instruments. It happened almost incidentally; she fondly recalls a...",
+        "fullText": [
+          "Breaking free from more familiar Latin American jazz sounds like tango and bossa nova, musician Anamaría Oramas is set to introduce her own traditional and contemporary Colombian jazz crossover sounds to Korea. The singer and instrumentalist is scheduled to perform at the Jarasum Jazz Festival in Gapyeong, Gyeonggi Province, happening Oct.",
+          "9-11. The annual music festival, now on its 23rd edition, is one of the leading jazz events in the country and has featured jazz musicians from all over the world since its inception in 2004.",
+          "She’s also making appearances in Seoul live venues Jazz Club Janus, Subriot and Morene Sukha as part of her 10th anniversary world tour. Through her parents’ encouragement to pursue a career in music, Oramas trained as a classical musician in her younger years and developed a love affair with wind instruments.",
+          "It happened almost incidentally; she fondly recalls a..."
+        ],
+        "words": [
+          "anamar",
+          "oramas",
+          "ushers"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "label": "Sunday, October 4, 2026",
     "title": "Korea News Brief",
