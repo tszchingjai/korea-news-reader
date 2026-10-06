@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-06",
+    "label": "Tuesday, October 6, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Inter-Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Finance minister vows efforts to tame inflation, boost growth",
+        "url": "https://www.koreatimes.co.kr/economy/20261006/finance-minister-vows-efforts-to-tame-inflation-boost-growth?utm_source=rss",
+        "summary": "Finance Minister Lee Hyoung-il on Tuesday vowed to focus on taming inflation to ease the cost-of-living burden while boosting economic growth through major government-led initiatives, including the three megaprojects. Lee made the remarks during a parliamentary audit by the finance, economy, planning and budget committee at the National Assembly, stressing his priorities are aimed at improving people's livelihoods and addressing economic disparities. It was Lee's first parliamentary audit session since taking office last month. \"We will maintain consumer price stability, which is the foundation of people's livelihoods,\" the policymaker said. Lee added the finance ministry will focus particularly on stabilizing the prices of everyday necessities, such as fuel and food. \"We will take stern action against irregular activities disrupting market prices and make efforts to ease the financial b...",
+        "fullText": [
+          "Finance Minister Lee Hyoung-il on Tuesday vowed to focus on taming inflation to ease the cost-of-living burden while boosting economic growth through major government-led initiatives, including the three megaprojects. Lee made the remarks during a parliamentary audit by the finance, economy, planning and budget committee at the National Assembly, stressing his priorities are aimed at improving people's livelihoods and addressing economic disparities.",
+          "It was Lee's first parliamentary audit session since taking office last month. \"We will maintain consumer price stability, which is the foundation of people's livelihoods,\" the policymaker said.",
+          "Lee added the finance ministry will focus particularly on stabilizing the prices of everyday necessities, such as fuel and food. \"We will take stern action against irregular activities disrupting market prices and make efforts to ease the financial b..."
+        ],
+        "words": [
+          "finance",
+          "minister",
+          "efforts"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Gov. Spanberger's data center plan provides pathway for Virginia",
+        "url": "https://www.koreatimes.co.kr/opinion/20261006/gov-spanbergers-data-center-plan-provides-pathway-for-virginia?utm_source=rss",
+        "summary": "Responsible management of data centers and the resources they consume is among the most important and contentious national debates, and no place is that more consequential than in Virginia. The commonwealth has more of the facilities than any other state, with about 400 in operation and another 280 or so under construction or in the planning stages. Finding consensus on laws and regulations that balance the desire for growth with proper stewardship of natural resources and an equitable cost burden continues to challenge Virginia, but Gov. Abigail Spanberger believes she has a solution that seeks to address many of the concerns shared by the business community and the public. Her framework is built on sound principles and could help the commonwealth thread this very tricky needle. Virginia has tried for years to broaden its economic base and transition from an over-reliance on federal spe...",
+        "fullText": [
+          "Responsible management of data centers and the resources they consume is among the most important and contentious national debates, and no place is that more consequential than in Virginia. The commonwealth has more of the facilities than any other state, with about 400 in operation and another 280 or so under construction or in the planning stages.",
+          "Finding consensus on laws and regulations that balance the desire for growth with proper stewardship of natural resources and an equitable cost burden continues to challenge Virginia, but Gov. Abigail Spanberger believes she has a solution that seeks to address many of the concerns shared by the business community and the public.",
+          "Her framework is built on sound principles and could help the commonwealth thread this very tricky needle. Virginia has tried for years to broaden its economic base and transition from an over-reliance on federal spe..."
+        ],
+        "words": [
+          "spanberger",
+          "center",
+          "provides"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Watchdog unveils guidelines on deceptive 'dark patterns' on online platforms",
+        "url": "https://www.koreatimes.co.kr/business/20261006/watchdog-unveils-guidelines-on-deceptive-dark-patterns-on-online-platforms?utm_source=rss",
+        "summary": "Korea's fair trade watchdog on Tuesday released guidelines for online platforms to avoid \"dark patterns,\" or deceptive practices designed to make it difficult for users to cancel subscriptions or induce them to make irrational purchases. The Fair Trade Commission (FTC) said the latest guidelines consolidate and update existing guidance and provide detailed examples of violations to help platform operators comply with the rules. Dark patterns refer to practices that trick consumers into making payments or signing up for services without fully understanding what they are agreeing to. Examples include enrolling consumers in monthly subscription services without their knowledge or making cancellations difficult. Under the guidelines, platform operators are advised to place cancellation links in easily accessible locations, such as the website's homepage or sections accessible from it, includ...",
+        "fullText": [
+          "Korea's fair trade watchdog on Tuesday released guidelines for online platforms to avoid \"dark patterns,\" or deceptive practices designed to make it difficult for users to cancel subscriptions or induce them to make irrational purchases. The Fair Trade Commission (FTC) said the latest guidelines consolidate and update existing guidance and provide detailed examples of violations to help platform operators comply with the rules.",
+          "Dark patterns refer to practices that trick consumers into making payments or signing up for services without fully understanding what they are agreeing to. Examples include enrolling consumers in monthly subscription services without their knowledge or making cancellations difficult.",
+          "Under the guidelines, platform operators are advised to place cancellation links in easily accessible locations, such as the website's homepage or sections accessible from it, includ..."
+        ],
+        "words": [
+          "watchdog",
+          "unveils",
+          "guidelines"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "What happens when Chinese AI goes rogue?",
+        "url": "https://www.koreatimes.co.kr/opinion/20261006/what-happens-when-chinese-ai-goes-rogue?utm_source=rss",
+        "summary": "Covering the recent round of AI apocalypse warnings, I’ve tried to reject this cult-like deference toward all-powerful computer systems and the inevitability rhetoric: If Silicon Valley doesn’t build them first, someone else — likely China — will. Yet a recent spate of incidents in the U.S. has spurred a fresh, heated debate on the safety of allowing AI systems to act on their own. A growing number of researchers inside the companies involved are also warning of “existential” dangers, with Anthropic PBC even flagging such concerns to investors in its initial public offering prospectus. For China, the risks of near-term hazards like labor market threats or the more alarming Sci-Fi scenarios such as hacks on critical infrastructure are making it harder to write off the furor as a distinctly American obsession. Beijing has dismissed some of these warnings as “fearmongering,” seeing the call...",
+        "fullText": [
+          "Covering the recent round of AI apocalypse warnings, I’ve tried to reject this cult-like deference toward all-powerful computer systems and the inevitability rhetoric: If Silicon Valley doesn’t build them first, someone else — likely China — will. Yet a recent spate of incidents in the U.",
+          "S. has spurred a fresh, heated debate on the safety of allowing AI systems to act on their own.",
+          "A growing number of researchers inside the companies involved are also warning of “existential” dangers, with Anthropic PBC even flagging such concerns to investors in its initial public offering prospectus. For China, the risks of near-term hazards like labor market threats or the more alarming Sci-Fi scenarios such as hacks on critical infrastructure are making it harder to write off the furor as a distinctly American obsession.",
+          "Beijing has dismissed some of these warnings as “fearmongering,” seeing the call..."
+        ],
+        "words": [
+          "happens",
+          "chinese",
+          "covering"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Nat'l Assembly to kick off annual audit of gov't agencies",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261006/natl-assembly-to-kick-off-annual-audit-of-govt-agencies?utm_source=rss",
+        "summary": "The National Assembly was set to launch its annual audit of government agencies Tuesday, with rival parties expected to clash over the Supreme Court chief's refusal to recommend a new justice nominee to the president and the recently publicized transfer of two North Korean prisoners of war (POWs) from Ukraine. Eight of the Assembly's 17 standing committees will hold their sessions starting 10 a.m. on the first day of the audit, scheduled to run through Oct. 27. Heated clashes are expected at the legislation and judiciary committee over Supreme Court Chief Justice Cho Hee-dae's refusal to recommend a new candidate for court justice as requested by the presidential office. Earlier in August, the presidential office asked Cho to recommend a new candidate after taking issue with his written recommendation of two Supreme Court justice nominees to President Lee Jae Myung. Cho rejected the requ...",
+        "fullText": [
+          "The National Assembly was set to launch its annual audit of government agencies Tuesday, with rival parties expected to clash over the Supreme Court chief's refusal to recommend a new justice nominee to the president and the recently publicized transfer of two North Korean prisoners of war (POWs) from Ukraine. Eight of the Assembly's 17 standing committees will hold their sessions starting 10 a.",
+          "m. on the first day of the audit, scheduled to run through Oct.",
+          "27. Heated clashes are expected at the legislation and judiciary committee over Supreme Court Chief Justice Cho Hee-dae's refusal to recommend a new candidate for court justice as requested by the presidential office.",
+          "Earlier in August, the presidential office asked Cho to recommend a new candidate after taking issue with his written recommendation of two Supreme Court justice nominees to President Lee Jae Myung. Cho rejected the requ..."
+        ],
+        "words": [
+          "assembly",
+          "annual",
+          "agencies"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US warns foreign financial institutions not to do business with Iran",
+        "url": "https://www.koreatimes.co.kr/world/20261006/us-warns-foreign-financial-institutions-not-to-do-business-with-iran?utm_source=rss",
+        "summary": "WASHINGTON — The United States on Monday warned foreign financial institutions that if they conducted any business with Iran or its banking sector they could be sanctioned by Washington. \"Foreign financial institutions continuing to transact with sanctioned Iranian financial institutions could be targeted at any time without advance notification and should take immediate action to terminate such activity and relationships,\" the US Treasury said in an \"alert\" statement. The United States launched its war against Iran in late February, killing the country's leadership and demanding it cease any nuclear-related activities. The war has plunged the Middle East into violence, with Tehran's retaliatory action targeting Washington's Gulf allies and sending global energy and fertilizer prices skyrocketing after it virtually shut a key trading route. Since late August, Washington has stepped up it...",
+        "fullText": [
+          "WASHINGTON — The United States on Monday warned foreign financial institutions that if they conducted any business with Iran or its banking sector they could be sanctioned by Washington. \"Foreign financial institutions continuing to transact with sanctioned Iranian financial institutions could be targeted at any time without advance notification and should take immediate action to terminate such activity and relationships,\" the US Treasury said in an \"alert\" statement.",
+          "The United States launched its war against Iran in late February, killing the country's leadership and demanding it cease any nuclear-related activities. The war has plunged the Middle East into violence, with Tehran's retaliatory action targeting Washington's Gulf allies and sending global energy and fertilizer prices skyrocketing after it virtually shut a key trading route.",
+          "Since late August, Washington has stepped up it..."
+        ],
+        "words": [
+          "foreign",
+          "financial",
+          "institutions"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "PM calls for sweeping overhaul of information security systems following wave of cyberattacks",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261006/pm-calls-for-sweeping-overhaul-of-information-security-systems-following-wave-of-cyberattacks?utm_source=rss",
+        "summary": "Prime Minister Han Seong-sook called Tuesday for a sweeping overhaul of the country's information protection system, warning that recent cyberattacks on major financial institutions show that current security measures are no longer effective. Several financial firms suffered back-to-back leaks of customer information in the recent attacks, including on Hana Bank, KB Kookmin Bank and Shinhan Bank. President Lee Jae Myung has said the issue should be taken seriously and called for a thorough investigation. On Tuesday, the prime minister presided over a meeting with related ministers to discuss the issue. \"This is a serious situation because this incident is believed to have taken advantage of artificial intelligence, and if AI is used in phishing attacks, it could lead to secondary damage,\" Han said. \"It is also a serious situation in that similar hacking methods could spread beyond the fi...",
+        "fullText": [
+          "Prime Minister Han Seong-sook called Tuesday for a sweeping overhaul of the country's information protection system, warning that recent cyberattacks on major financial institutions show that current security measures are no longer effective. Several financial firms suffered back-to-back leaks of customer information in the recent attacks, including on Hana Bank, KB Kookmin Bank and Shinhan Bank.",
+          "President Lee Jae Myung has said the issue should be taken seriously and called for a thorough investigation. On Tuesday, the prime minister presided over a meeting with related ministers to discuss the issue.",
+          "\"This is a serious situation because this incident is believed to have taken advantage of artificial intelligence, and if AI is used in phishing attacks, it could lead to secondary damage,\" Han said. \"It is also a serious situation in that similar hacking methods could spread beyond the fi..."
+        ],
+        "words": [
+          "sweeping",
+          "overhaul",
+          "information"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "label": "Monday, October 5, 2026",
     "title": "Korea News Brief",
