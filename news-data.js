@@ -1,5 +1,164 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-07",
+    "label": "Wednesday, October 7, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Inter-Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "California couple arrested on child abuse charges in horrifying surrogacy probe",
+        "url": "https://www.koreatimes.co.kr/world/20261007/california-couple-arrested-on-child-abuse-charges-in-horrifying-surrogacy-probe?utm_source=rss",
+        "summary": "LOS ANGELES — An extremely wealthy Chinese immigrant and his wife amassed a brood of 21 children through a surrogacy scheme and raised them in a “house of horrors,” prosecutors alleged Tuesday. Guojun Xuan, 66, and Silvia Zhang, 39, were arrested at their sprawling mansion in Arcadia, a city about 13 miles (20 kilometers) northeast of downtown Los Angeles. The children suffered daily beatings from cruel nannies as the couple watched over a network of surveillance cameras and laughed, according to prosecutors. The couple allegedly recruited women across the country to serve as surrogates, promising them that they were just looking for another child to grow their family. The couple face several counts of child abuse as well as conspiracy to commit child abuse, accessory after the fact and dissuading a witness, according to Los Angeles County District Attorney Nathan Hochman. “This case is...",
+        "fullText": [
+          "LOS ANGELES — An extremely wealthy Chinese immigrant and his wife amassed a brood of 21 children through a surrogacy scheme and raised them in a “house of horrors,” prosecutors alleged Tuesday. Guojun Xuan, 66, and Silvia Zhang, 39, were arrested at their sprawling mansion in Arcadia, a city about 13 miles (20 kilometers) northeast of downtown Los Angeles.",
+          "The children suffered daily beatings from cruel nannies as the couple watched over a network of surveillance cameras and laughed, according to prosecutors. The couple allegedly recruited women across the country to serve as surrogates, promising them that they were just looking for another child to grow their family.",
+          "The couple face several counts of child abuse as well as conspiracy to commit child abuse, accessory after the fact and dissuading a witness, according to Los Angeles County District Attorney Nathan Hochman. “This case is..."
+        ],
+        "words": [
+          "california",
+          "couple",
+          "arrested"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul shares open lower despite falling oil prices, bond yields",
+        "url": "https://www.koreatimes.co.kr/economy/20261007/seoul-shares-open-lower-despite-falling-oil-prices-bond-yields?utm_source=rss",
+        "summary": "Seoul shares opened lower Wednesday, bucking overnight U.S. gains and easing concerns over lower oil prices and bond yields. After opening 1.11 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) narrowed losses to trade down 18.8 points, or 0.27 percent, to 6,922.59 as of 9:15 a.m. Global oil prices fell, and bond yields declined from their multidecade highs. Overnight, the Dow Jones Industrial Average rose 0.49 percent, while the tech-heavy Nasdaq Composite gained 0.45 percent to reach a record high. In Seoul, large-cap stocks were mixed. Chip giant SK hynix dropped 1.02 percent, and home appliance maker LG Electronics declined 2.37 percent. Top carmaker Hyundai Motor dropped 1.44 percent, and steelmaker POSCO Holdings shed 2.83 percent. Among gainers, market bellwether Samsung Electronics rose 2.21 percent, and cosmetics firm Amorepacific climbed 4.2 percent. The Ko...",
+        "fullText": [
+          "Seoul shares opened lower Wednesday, bucking overnight U. S.",
+          "gains and easing concerns over lower oil prices and bond yields. After opening 1.",
+          "11 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) narrowed losses to trade down 18. 8 points, or 0.",
+          "27 percent, to 6,922. 59 as of 9:15 a.",
+          "m. Global oil prices fell, and bond yields declined from their multidecade highs.",
+          "Overnight, the Dow Jones Industrial Average rose 0. 49 percent, while the tech-heavy Nasdaq Composite gained 0.",
+          "45 percent to reach a record high. In Seoul, large-cap stocks were mixed.",
+          "Chip giant SK hynix dropped 1. 02 percent, and home appliance maker LG Electronics declined 2.",
+          "37 percent. Top carmaker Hyundai Motor dropped 1.",
+          "44 percent, and steelmaker POSCO Holdings shed 2. 83 percent.",
+          "Among gainers, market bellwether Samsung Electronics rose 2. 21 percent, and cosmetics firm Amorepacific climbed 4.",
+          "2 percent. The Ko..."
+        ],
+        "words": [
+          "shares",
+          "despite",
+          "falling"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea backs China on Taiwan, blames US for regional instability",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261007/n-korea-backs-china-on-taiwan-blames-us-for-regional-instability?utm_source=rss",
+        "summary": "North Korea on Wednesday defended Beijing's \"One China\" policy while accusing the United States of supporting Taiwan independence and \"escalating\" tension in the region. The criticism came in an article titled \"U.S. Is Acting Rashly\" by international affairs analyst Kim Myong-chol, carried by the Korean Central News Agency (KCNA). \"The U.S. has systematically destroyed regional stability and persistently escalated the situation under the pretext of 'opposing unilateral attempt at change of phenomenon' in the Taiwan Strait,\" Kim wrote. Referring to the recent delivery of a U.S. fighter jet to Taiwan, Kim said, \"This is nothing but a shameless act of planting a bomb at the gate of other's house and asserting that the bomb is for ensuring the security of the house.\" He claimed munitions supplied by the U.S. to Taiwan through overseas arms sales over the past decade alone amounted to more th...",
+        "fullText": [
+          "North Korea on Wednesday defended Beijing's \"One China\" policy while accusing the United States of supporting Taiwan independence and \"escalating\" tension in the region. The criticism came in an article titled \"U.",
+          "S. Is Acting Rashly\" by international affairs analyst Kim Myong-chol, carried by the Korean Central News Agency (KCNA).",
+          "\"The U. S.",
+          "has systematically destroyed regional stability and persistently escalated the situation under the pretext of 'opposing unilateral attempt at change of phenomenon' in the Taiwan Strait,\" Kim wrote. Referring to the recent delivery of a U.",
+          "S. fighter jet to Taiwan, Kim said, \"This is nothing but a shameless act of planting a bomb at the gate of other's house and asserting that the bomb is for ensuring the security of the house.",
+          "\" He claimed munitions supplied by the U. S.",
+          "to Taiwan through overseas arms sales over the past decade alone amounted to more th..."
+        ],
+        "words": [
+          "taiwan",
+          "blames",
+          "regional"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Appeals court set to rule on ex-President Yoon's trial over free opinion polls",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261007/appeals-court-set-to-rule-on-ex-president-yoons-trial-over-free-opinion-polls?utm_source=rss",
+        "summary": "An appellate court was set to rule Wednesday on former President Yoon Suk Yeol's charges of receiving free opinion polls ahead of the 2022 presidential election. The Seoul High Court was scheduled to hand down its ruling for Yoon at 2 p.m. after a lower court sentenced him to two years in prison on charges of violating the Political Funds Act. Special counsel Min Joong-ki's team earlier indicted Yoon on charges of colluding with his wife and receiving 58 opinion polls worth about 270 million won ($202,000) in total for free from self-proclaimed power broker, Myung Tae-kyun, between April 2021 and March 2022. The lower court convicted Yoon on 14 of the occasions, ruling they amounted to illegal political donations. It said the other 44 times could not be seen as being given with the couple's consent. The special counsel team has sought a four-year prison term for Yoon. His wife, Kim Keon...",
+        "fullText": [
+          "An appellate court was set to rule Wednesday on former President Yoon Suk Yeol's charges of receiving free opinion polls ahead of the 2022 presidential election. The Seoul High Court was scheduled to hand down its ruling for Yoon at 2 p.",
+          "m. after a lower court sentenced him to two years in prison on charges of violating the Political Funds Act.",
+          "Special counsel Min Joong-ki's team earlier indicted Yoon on charges of colluding with his wife and receiving 58 opinion polls worth about 270 million won ($202,000) in total for free from self-proclaimed power broker, Myung Tae-kyun, between April 2021 and March 2022. The lower court convicted Yoon on 14 of the occasions, ruling they amounted to illegal political donations.",
+          "It said the other 44 times could not be seen as being given with the couple's consent. The special counsel team has sought a four-year prison term for Yoon.",
+          "His wife, Kim Keon..."
+        ],
+        "words": [
+          "appeals",
+          "ex-president",
+          "opinion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Global IBs raise Korea's growth outlooks on chip boom",
+        "url": "https://www.koreatimes.co.kr/economy/20261007/global-ibs-raise-koreas-growth-outlooks-on-chip-boom?utm_source=rss",
+        "summary": "Major global investment banks (IBs) have upgraded their forecasts for South Korea's economic growth, citing a strong semiconductor upcycle, a report by the international finance center said Wednesday. According to the report by the Korea Center for International Finance (KCIF), the median growth forecast by major foreign institutions for 2026 was raised to 3.5 percent in September from 3.3 percent made in August. They have been upping their growth forecasts for the Korean economy since April this year. The average forecast stood at 2 percent at the end of last year. It rose to 2.1 percent in January, 2.4 percent in April and 2.8 percent in May. The upward revisions reflect expectations that the global semiconductor cycle will remain stronger and more resilient than previously anticipated. Among IBs, JP Morgan expects the Korean economy to grow 4 percent this year, up 0.2 percentage point...",
+        "fullText": [
+          "Major global investment banks (IBs) have upgraded their forecasts for South Korea's economic growth, citing a strong semiconductor upcycle, a report by the international finance center said Wednesday. According to the report by the Korea Center for International Finance (KCIF), the median growth forecast by major foreign institutions for 2026 was raised to 3.",
+          "5 percent in September from 3. 3 percent made in August.",
+          "They have been upping their growth forecasts for the Korean economy since April this year. The average forecast stood at 2 percent at the end of last year.",
+          "It rose to 2. 1 percent in January, 2.",
+          "4 percent in April and 2. 8 percent in May.",
+          "The upward revisions reflect expectations that the global semiconductor cycle will remain stronger and more resilient than previously anticipated. Among IBs, JP Morgan expects the Korean economy to grow 4 percent this year, up 0.",
+          "2 percentage point..."
+        ],
+        "words": [
+          "global",
+          "growth",
+          "outlooks"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Finland's president offers a compelling plan for a new world order",
+        "url": "https://www.koreatimes.co.kr/opinion/20261007/finlands-president-offers-a-compelling-plan-for-a-new-world-order?utm_source=rss",
+        "summary": "Former Secretary of State Henry Kissinger argued that a statesman should be a visionary and educator while serving as a bridge between the past and future. Exceptional leaders, he wrote, “help people reach from where they are to where they have never been, and sometimes, can scarcely imagine going.” This formulation captures the role that Finland’s president, Alexander Stubb, aspires to play in global affairs. Stubb’s biography, personality and vision have earned him a sizable and influential global audience. He’s been successful in academia as well as in politics and has been described as a public intellectual, a scholar statesman and the architect of an “ingenious” framework for the future. A native of Helsinki, Stubb attended Furman University in South Carolina on a partial golf scholarship and studied political science and international relations as the Cold War was ending. He later...",
+        "fullText": [
+          "Former Secretary of State Henry Kissinger argued that a statesman should be a visionary and educator while serving as a bridge between the past and future. Exceptional leaders, he wrote, “help people reach from where they are to where they have never been, and sometimes, can scarcely imagine going.",
+          "” This formulation captures the role that Finland’s president, Alexander Stubb, aspires to play in global affairs. Stubb’s biography, personality and vision have earned him a sizable and influential global audience.",
+          "He’s been successful in academia as well as in politics and has been described as a public intellectual, a scholar statesman and the architect of an “ingenious” framework for the future. A native of Helsinki, Stubb attended Furman University in South Carolina on a partial golf scholarship and studied political science and international relations as the Cold War was ending.",
+          "He later..."
+        ],
+        "words": [
+          "finland",
+          "president",
+          "offers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Don't let hubris get in the way of ending the Iran war",
+        "url": "https://www.koreatimes.co.kr/opinion/20261007/dont-let-hubris-get-in-the-way-of-ending-the-iran-war?utm_source=rss",
+        "summary": "Iranian leaders arguably overplayed their hand over the summer, attacking oil tankers even after signing a memorandum of understanding to reopen the Strait of Hormuz. If the U.S. hopes to end the conflict in the Persian Gulf, it should be wary of its own bout of hubris. Iran acted because it feared losing leverage after the U.S. pressed ships traversing the strait to hug the Oman coast rather than submit to Iranian oversight. In response, the U.S. has strangled the Iranian economy by blocking oil exports and beefing up sanctions, even as it’s begun clearing a safe channel for shipping from other Gulf countries. While costly, the effort appears to be yielding results: According to JPMorgan Chase & Co. and Goldman Sachs Group Inc., shipments of crude oil (including those using bypass routes) have rebounded to near pre-war levels. That likely explains why Iranian negotiators are now seeking...",
+        "fullText": [
+          "Iranian leaders arguably overplayed their hand over the summer, attacking oil tankers even after signing a memorandum of understanding to reopen the Strait of Hormuz. If the U.",
+          "S. hopes to end the conflict in the Persian Gulf, it should be wary of its own bout of hubris.",
+          "Iran acted because it feared losing leverage after the U. S.",
+          "pressed ships traversing the strait to hug the Oman coast rather than submit to Iranian oversight. In response, the U.",
+          "S. has strangled the Iranian economy by blocking oil exports and beefing up sanctions, even as it’s begun clearing a safe channel for shipping from other Gulf countries.",
+          "While costly, the effort appears to be yielding results: According to JPMorgan Chase & Co. and Goldman Sachs Group Inc.",
+          ", shipments of crude oil (including those using bypass routes) have rebounded to near pre-war levels. That likely explains why Iranian negotiators are now seeking..."
+        ],
+        "words": [
+          "hubris",
+          "ending",
+          "iranian"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "label": "Tuesday, October 6, 2026",
     "title": "Korea News Brief",
