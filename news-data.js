@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-08",
+    "label": "Thursday, October 8, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "1 postseason spot up for grabs as KBO regular season winds down",
+        "url": "https://www.koreatimes.co.kr/sports/20261008/1-postseason-spot-up-for-grabs-as-kbo-regular-season-winds-down?utm_source=rss",
+        "summary": "As the regular season in South Korean baseball heads toward the finish line, just one postseason spot is still up for grabs, with two rival clubs trying to earn a bye to a playoff round. In the Korea Baseball Organization (KBO), the top five teams at the end of each regular season advance to the postseason. The pennant winner earns a bye to the Korean Series, and for this year, it will be the KT Wiz, who secured the best record in the regular season Monday with four games to spare. The Samsung Lions are locked into the second spot, which will give them a bye to the best-of-five second round. A loss to the LG Twins on Wednesday meant the Doosan Bears will finish in fifth place, as their slim hope of climbing further up the standings evaporated. The Bears will be the visiting team in the wild card round starting next Wednesday. This leaves the Twins and the Kia Tigers fighting for the No....",
+        "fullText": [
+          "As the regular season in South Korean baseball heads toward the finish line, just one postseason spot is still up for grabs, with two rival clubs trying to earn a bye to a playoff round. In the Korea Baseball Organization (KBO), the top five teams at the end of each regular season advance to the postseason.",
+          "The pennant winner earns a bye to the Korean Series, and for this year, it will be the KT Wiz, who secured the best record in the regular season Monday with four games to spare. The Samsung Lions are locked into the second spot, which will give them a bye to the best-of-five second round.",
+          "A loss to the LG Twins on Wednesday meant the Doosan Bears will finish in fifth place, as their slim hope of climbing further up the standings evaporated. The Bears will be the visiting team in the wild card round starting next Wednesday.",
+          "This leaves the Twins and the Kia Tigers fighting for the No...."
+        ],
+        "words": [
+          "postseason",
+          "regular",
+          "season"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Attacks on Saudi airports claimed by Houthi rebels kill 3 people, officials say",
+        "url": "https://www.koreatimes.co.kr/world/20261008/attacks-on-saudi-airports-claimed-by-houthi-rebels-kill-3-people-officials-say?utm_source=rss",
+        "summary": "CAIRO — Two attacks on airports in Saudi Arabia claimed by Iran-backed Houthi rebels in neighboring Yemen killed three people Wednesday, Saudi officials said, as the kingdom was pulled deeper into the latest front in the Iran war. The Saudi General Authority for Civil Aviation did not blame any party for the attacks at Abha and Riyadh’s King Khalid international airports, but Houthi rebels took credit earlier for the airport strikes. The attack on Abha airport killed Moroccan and Algerian residents and wounded 28 other people, while the attack on King Khalid airport killed a Sudanese national and wounded eight other people, officials said. As Riyadh has been targeted over the past week, new cage-like fences have been erected around fuel tanks and other equipment of the Saudi state-run Aramco oil company near the capital's airport. The kingdom, the world’s top oil exporter, has seen oil a...",
+        "fullText": [
+          "CAIRO — Two attacks on airports in Saudi Arabia claimed by Iran-backed Houthi rebels in neighboring Yemen killed three people Wednesday, Saudi officials said, as the kingdom was pulled deeper into the latest front in the Iran war. The Saudi General Authority for Civil Aviation did not blame any party for the attacks at Abha and Riyadh’s King Khalid international airports, but Houthi rebels took credit earlier for the airport strikes.",
+          "The attack on Abha airport killed Moroccan and Algerian residents and wounded 28 other people, while the attack on King Khalid airport killed a Sudanese national and wounded eight other people, officials said. As Riyadh has been targeted over the past week, new cage-like fences have been erected around fuel tanks and other equipment of the Saudi state-run Aramco oil company near the capital's airport.",
+          "The kingdom, the world’s top oil exporter, has seen oil a..."
+        ],
+        "words": [
+          "attacks",
+          "airports",
+          "claimed"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul shares turn lower after opening up amid inflation worries",
+        "url": "https://www.koreatimes.co.kr/economy/20261008/seoul-shares-turn-lower-after-opening-up-amid-inflation-worries?utm_source=rss",
+        "summary": "Seoul shares turned lower after opening up Thursday, largely due to inflation worries stoked by elevated oil prices. After opening 0.07 percent higher, the benchmark Korea Composite Stock Price Index (KOSPI) lost ground, trading down 53.32 points, or 0.78 percent, to 6,750.58 as of 9:15 a.m. Overnight, the Dow Jones Industrial Average fell 0.66 percent, while the tech-heavy Nasdaq Composite declined 0.22 percent. Investors remain wary as higher oil prices are adding to inflationary pressures, and the U.S. Federal Reserve has signaled it may need to raise rates this year to tame inflation. In Seoul, large-cap stocks were mixed. Market behemoth Samsung Electronics fell 0.19 percent, and top carmaker Hyundai Motor declined 2.53 percent. Defense giant Hanwha Aerospace dropped 3.5 percent, and shipping firm HMM shed 2.34 percent. Among gainers, chip giant SK hynix rose 0.75 percent, and batte...",
+        "fullText": [
+          "Seoul shares turned lower after opening up Thursday, largely due to inflation worries stoked by elevated oil prices. After opening 0.",
+          "07 percent higher, the benchmark Korea Composite Stock Price Index (KOSPI) lost ground, trading down 53. 32 points, or 0.",
+          "78 percent, to 6,750. 58 as of 9:15 a.",
+          "m. Overnight, the Dow Jones Industrial Average fell 0.",
+          "66 percent, while the tech-heavy Nasdaq Composite declined 0. 22 percent.",
+          "Investors remain wary as higher oil prices are adding to inflationary pressures, and the U. S.",
+          "Federal Reserve has signaled it may need to raise rates this year to tame inflation. In Seoul, large-cap stocks were mixed.",
+          "Market behemoth Samsung Electronics fell 0. 19 percent, and top carmaker Hyundai Motor declined 2.",
+          "53 percent. Defense giant Hanwha Aerospace dropped 3.",
+          "5 percent, and shipping firm HMM shed 2. 34 percent.",
+          "Among gainers, chip giant SK hynix rose 0. 75 percent, and batte..."
+        ],
+        "words": [
+          "shares",
+          "opening",
+          "inflation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Cornell gang-rape accuser was 'misled' about criminal investigation, her lawyer says",
+        "url": "https://www.koreatimes.co.kr/world/20261008/cornell-gang-rape-accuser-was-misled-about-criminal-investigation-her-lawyer-says?utm_source=rss",
+        "summary": "ITHACA, N.Y. — The woman accusing several men of raping her at a Cornell University fraternity party was “misled” about the status of the criminal investigation in the weeks after she went to police, her lawyer said Wednesday. Even as she took her allegations about a 2024 gang rape at the Chi Phi fraternity house through Cornell's internal disciplinary process, the university's police department gave her the impression that a criminal investigation was continuing, lawyer Thomas Giuffra told The Associated Press. In fact, the criminal inquiry ended almost as soon as it began. Tompkins County District Attorney Matthew Van Houten, the local prosecutor, made the decision not to go forward with a criminal case within days of the woman giving her first substantial interviews to police. Van Houten has said that he asked Cornell's police department to convey the decision to the woman, who is ref...",
+        "fullText": [
+          "ITHACA, N. Y.",
+          "— The woman accusing several men of raping her at a Cornell University fraternity party was “misled” about the status of the criminal investigation in the weeks after she went to police, her lawyer said Wednesday. Even as she took her allegations about a 2024 gang rape at the Chi Phi fraternity house through Cornell's internal disciplinary process, the university's police department gave her the impression that a criminal investigation was continuing, lawyer Thomas Giuffra told The Associated Press.",
+          "In fact, the criminal inquiry ended almost as soon as it began. Tompkins County District Attorney Matthew Van Houten, the local prosecutor, made the decision not to go forward with a criminal case within days of the woman giving her first substantial interviews to police.",
+          "Van Houten has said that he asked Cornell's police department to convey the decision to the woman, who is ref..."
+        ],
+        "words": [
+          "cornell",
+          "gang-rape",
+          "accuser"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Supreme Court must support the Constitution, not Trump",
+        "url": "https://www.koreatimes.co.kr/opinion/20261008/supreme-court-must-support-the-constitution-not-trump?utm_source=rss",
+        "summary": "Having undermined the law and the Constitution with some terrible opinions in deference to President Donald Trump, this week brings the new U.S. Supreme Court term, and with it the risk that our nation’s highest judicial body will continue to make us a less fair, less moral and less safe society. As with other recent terms, the weightiness of the court and the significance of its decisions belies some of the absurdity of the questions it is considering. Case in point, the justices have decided to take up the question of the Trump administration’s mandatory detention policy for many undocumented immigrants, which relies on the reinterpretation of a federal statute that bars “arriving aliens” from requesting bond from immigration judges to include everyone who entered the country unlawfully. Under this preposterous interpretation, someone who entered who has been in the country for years o...",
+        "fullText": [
+          "Having undermined the law and the Constitution with some terrible opinions in deference to President Donald Trump, this week brings the new U. S.",
+          "Supreme Court term, and with it the risk that our nation’s highest judicial body will continue to make us a less fair, less moral and less safe society. As with other recent terms, the weightiness of the court and the significance of its decisions belies some of the absurdity of the questions it is considering.",
+          "Case in point, the justices have decided to take up the question of the Trump administration’s mandatory detention policy for many undocumented immigrants, which relies on the reinterpretation of a federal statute that bars “arriving aliens” from requesting bond from immigration judges to include everyone who entered the country unlawfully. Under this preposterous interpretation, someone who entered who has been in the country for years o..."
+        ],
+        "words": [
+          "supreme",
+          "support",
+          "constitution"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea rallies loyalty with celebratory events ahead of party founding anniversary",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261008/n-korea-rallies-loyalty-with-celebratory-events-ahead-of-party-founding-anniversary?utm_source=rss",
+        "summary": "North Korea is building a festive mood and stirring public loyalty ahead of the 81st founding anniversary of the Workers' Party of Korea (WPA), with various events under way. The Union of Agricultural Workers of Korea, one of the country's four labor organizations, held its celebration Wednesday, the Rodong Sinmun reported. Participants at a debate session called for stronger party leadership and more rigorous ideological education. They also stressed the need to meet the party's grain production targets, the paper said. Art events have also taken place ahead of the Oct. 10 anniversary. A performance by the Youth Central Art Propaganda Team took place Wednesday. On the same day, party cadres and artists attended the opening ceremony of the National Art Exhibition at the Korean Central Art Gallery. The paper ran a front-page article urging readers to carry on the party's history, ideology...",
+        "fullText": [
+          "North Korea is building a festive mood and stirring public loyalty ahead of the 81st founding anniversary of the Workers' Party of Korea (WPA), with various events under way. The Union of Agricultural Workers of Korea, one of the country's four labor organizations, held its celebration Wednesday, the Rodong Sinmun reported.",
+          "Participants at a debate session called for stronger party leadership and more rigorous ideological education. They also stressed the need to meet the party's grain production targets, the paper said.",
+          "Art events have also taken place ahead of the Oct. 10 anniversary.",
+          "A performance by the Youth Central Art Propaganda Team took place Wednesday. On the same day, party cadres and artists attended the opening ceremony of the National Art Exhibition at the Korean Central Art Gallery.",
+          "The paper ran a front-page article urging readers to carry on the party's history, ideology..."
+        ],
+        "words": [
+          "rallies",
+          "loyalty",
+          "celebratory"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "What 'green transition' can teach Seoul about its AI ambitions",
+        "url": "https://www.koreatimes.co.kr/opinion/20261008/what-green-transition-can-teach-seoul-about-its-ai-ambitions?utm_source=rss",
+        "summary": "Korea has rarely been content to watch a technological revolution from the sidelines. As an industrialized, export-dependent economy, it has repeatedly sought to act early, build domestic capacity and capture first-mover advantage. Now Seoul is putting all its chips (quite literally) on artificial intelligence (AI). In a public briefing to the nation in June this year, President Lee Jae Myung announced what he hopes will be his administration’s legacy defining economic vision: the three AI and chip megaprojects. The plan will invest trillions of won to transform the nation into a top AI powerhouse. Yet reading the press release on a hot summer’s day in Seoul, I couldn’t help but notice a sinking feeling in my stomach. I began to ponder: Is Korea about to repeat an old mistake? Over the preceding months, I had been examining another attempted transformation of the Korean economy: the gree...",
+        "fullText": [
+          "Korea has rarely been content to watch a technological revolution from the sidelines. As an industrialized, export-dependent economy, it has repeatedly sought to act early, build domestic capacity and capture first-mover advantage.",
+          "Now Seoul is putting all its chips (quite literally) on artificial intelligence (AI). In a public briefing to the nation in June this year, President Lee Jae Myung announced what he hopes will be his administration’s legacy defining economic vision: the three AI and chip megaprojects.",
+          "The plan will invest trillions of won to transform the nation into a top AI powerhouse. Yet reading the press release on a hot summer’s day in Seoul, I couldn’t help but notice a sinking feeling in my stomach.",
+          "I began to ponder: Is Korea about to repeat an old mistake? Over the preceding months, I had been examining another attempted transformation of the Korean economy: the gree..."
+        ],
+        "words": [
+          "transition",
+          "ambitions",
+          "rarely"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "label": "Wednesday, October 7, 2026",
     "title": "Korea News Brief",
