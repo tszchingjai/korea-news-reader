@@ -1,5 +1,146 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-09",
+    "label": "Friday, October 9, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Korea, Inter-Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Attackers unidentified in most hacking attacks on financial firms: lawmaker",
+        "url": "https://www.koreatimes.co.kr/economy/20261009/attackers-unidentified-in-most-hacking-attacks-on-financial-firms-lawmaker?utm_source=rss",
+        "summary": "The attackers behind 16 of 18 suspected overseas hacking attacks against South Korean financial companies reported since 2024 remain unidentified, a lawmaker said Friday. According to a report by Rep. Song Eon-seok of the main opposition People Power Party, citing data from the Financial Supervisory Service, local financial firms have reported 18 hacking attacks originating overseas since 2024 through Thursday, with the attackers identified in only two cases. In July last year, Seoul Guarantee Insurance Co. suffered an attack by GUNRA, an international ransomware group, which disrupted operations for 64 hours. In April, Baro Savings Bank experienced an attack by the ransomware group INC Ransom. Of the remaining 16 cases, 13 were linked to internet protocol (IP) addresses believed to be located overseas, while the countries of origin were unknown in three cases. The countries of origin in...",
+        "fullText": [
+          "The attackers behind 16 of 18 suspected overseas hacking attacks against South Korean financial companies reported since 2024 remain unidentified, a lawmaker said Friday. According to a report by Rep.",
+          "Song Eon-seok of the main opposition People Power Party, citing data from the Financial Supervisory Service, local financial firms have reported 18 hacking attacks originating overseas since 2024 through Thursday, with the attackers identified in only two cases. In July last year, Seoul Guarantee Insurance Co.",
+          "suffered an attack by GUNRA, an international ransomware group, which disrupted operations for 64 hours. In April, Baro Savings Bank experienced an attack by the ransomware group INC Ransom.",
+          "Of the remaining 16 cases, 13 were linked to internet protocol (IP) addresses believed to be located overseas, while the countries of origin were unknown in three cases. The countries of origin in..."
+        ],
+        "words": [
+          "attackers",
+          "unidentified",
+          "hacking"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Our ancestors' hope embedded in 'Hangeul'",
+        "url": "https://www.koreatimes.co.kr/opinion/20261009/our-ancestors-hope-embedded-in-hangeul?utm_source=rss",
+        "summary": "On June 10, 1926, the funeral of Yi Cheok, the last emperor of Korea, was held. On that day, Koreans once again staged an independence demonstration. About five months later, on Nov. 4, members of the Korean Language Society and pro-independence groups gathered at a restaurant in Seoul to mark the 480th anniversary of the promulgation of the \"Hunminjeongeum.\" At the time, six-decade cycles were a far more familiar milestone to the public than centennials. Following the ceremony, members of both organizations resolved to commemorate the occasion annually. The next year, the Korean Language Society introduced \"Hangeul\" as the script's official new name and launched its signature journal. Accordingly, the holiday was named \"Hangeul Day.\" \"Hunminjeongeum\" translates literally to \"the correct sounds to instruct the people.\" Created in an era of strict social hierarchy, when Classical Chinese...",
+        "fullText": [
+          "On June 10, 1926, the funeral of Yi Cheok, the last emperor of Korea, was held. On that day, Koreans once again staged an independence demonstration.",
+          "About five months later, on Nov. 4, members of the Korean Language Society and pro-independence groups gathered at a restaurant in Seoul to mark the 480th anniversary of the promulgation of the \"Hunminjeongeum.",
+          "\" At the time, six-decade cycles were a far more familiar milestone to the public than centennials. Following the ceremony, members of both organizations resolved to commemorate the occasion annually.",
+          "The next year, the Korean Language Society introduced \"Hangeul\" as the script's official new name and launched its signature journal. Accordingly, the holiday was named \"Hangeul Day.",
+          "\" \"Hunminjeongeum\" translates literally to \"the correct sounds to instruct the people. \" Created in an era of strict social hierarchy, when Classical Chinese..."
+        ],
+        "words": [
+          "ancestors",
+          "embedded",
+          "hangeul"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korean leader's sister again pushes back against Seoul's medical aid offer",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261009/n-korean-leaders-sister-again-pushes-back-against-seouls-medical-aid-offer?utm_source=rss",
+        "summary": "Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, on Friday reiterated Pyongyang's rejection of South Korea's offer to provide humanitarian medical assistance, criticizing the gesture as a \"farce.\" Kim's statement carried by the North's official Korean Central News Agency (KCNA) came a day after she rejected Seoul's plan to send 1,431 medical items across 166 categories to a hospital in Pyongyang, as part of a humanitarian medical support program. She called the offer an \"insult\" and \"political provocation.\" \"The racket of 'mine explosion' and the farce of 'medical equipment support' orchestrated by the ROK are just the two sides of the same coin minted by its inveterate bad habit of escalating confrontation with our state.\" ROK stands for the Republic of Korea, South Korea's official name. Kim claimed that South Korea's medical aid proposal and its accusations against...",
+        "fullText": [
+          "Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, on Friday reiterated Pyongyang's rejection of South Korea's offer to provide humanitarian medical assistance, criticizing the gesture as a \"farce. \" Kim's statement carried by the North's official Korean Central News Agency (KCNA) came a day after she rejected Seoul's plan to send 1,431 medical items across 166 categories to a hospital in Pyongyang, as part of a humanitarian medical support program.",
+          "She called the offer an \"insult\" and \"political provocation. \" \"The racket of 'mine explosion' and the farce of 'medical equipment support' orchestrated by the ROK are just the two sides of the same coin minted by its inveterate bad habit of escalating confrontation with our state.",
+          "\" ROK stands for the Republic of Korea, South Korea's official name. Kim claimed that South Korea's medical aid proposal and its accusations against..."
+        ],
+        "words": [
+          "leader",
+          "sister",
+          "pushes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "S. Korea urges N. Korea to take 'responsible measures' over mine explosion incident at UN",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261009/s-korea-urges-n-korea-to-take-responsible-measures-over-mine-explosion-incident-at-un?utm_source=rss",
+        "summary": "South Korea urged North Korea to take \"responsible measures\" Thursday at the United Nations, accusing Pyongyang of violating the Armistice Agreement by deliberately planting a land mine that injured three South Korean soldiers near the inter-Korean border last month. During a committee meeting of the 81st session of the U.N. General Assembly in New York, South Korean Ambassador to the U.N. Cha Ji-hoon said a joint investigation by the South Korean military and the United Nations Command (UNC) confirmed that a Sept. 21 explosion was caused by a land mine deliberately planted by North Korean forces south of the Military Demarcation Line (MDL) separating the two Koreas. \"A joint on-site investigation by ROK military and the UNC supported by forensic analysis confirmed that the explosion was caused by a landmine deliberately planted by DPRK forces south of the military demarcation line,\" Cha...",
+        "fullText": [
+          "South Korea urged North Korea to take \"responsible measures\" Thursday at the United Nations, accusing Pyongyang of violating the Armistice Agreement by deliberately planting a land mine that injured three South Korean soldiers near the inter-Korean border last month. During a committee meeting of the 81st session of the U.",
+          "N. General Assembly in New York, South Korean Ambassador to the U.",
+          "N. Cha Ji-hoon said a joint investigation by the South Korean military and the United Nations Command (UNC) confirmed that a Sept.",
+          "21 explosion was caused by a land mine deliberately planted by North Korean forces south of the Military Demarcation Line (MDL) separating the two Koreas. \"A joint on-site investigation by ROK military and the UNC supported by forensic analysis confirmed that the explosion was caused by a landmine deliberately planted by DPRK forces south of the military demarcation line,\" Cha..."
+        ],
+        "words": [
+          "responsible",
+          "measures",
+          "explosion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "US keeps S. Korea in Tier 1 group for human trafficking elimination efforts for 3rd straight year",
+        "url": "https://www.koreatimes.co.kr/world/20261009/us-keeps-s-korea-in-tier-1-group-for-human-trafficking-elimination-efforts-for-3rd-straight-year?utm_source=rss",
+        "summary": "The U.S. State Department has kept South Korea in the highest tier of countries in terms of anti-human trafficking efforts for the third consecutive year, while maintaining North Korea in the lowest category over state-sponsored forced labor practices, a department report showed Thursday. The department released the 2026 Trafficking in Persons Report, where South Korea was listed in the Tier 1 group of 33 countries and territories, including the United States, Britain, Taiwan, France, Germany, Australia, Singapore, Israel and Denmark. In its tier placement, the report cited various efforts by Seoul, including increasing investigations and convictions, updating guidelines to provide potential victims with access to emergency support among other efforts. \"The government continued to demonstrate serious and sustained efforts during the reporting period. Therefore, the ROK remained on Tier 1...",
+        "fullText": [
+          "The U. S.",
+          "State Department has kept South Korea in the highest tier of countries in terms of anti-human trafficking efforts for the third consecutive year, while maintaining North Korea in the lowest category over state-sponsored forced labor practices, a department report showed Thursday. The department released the 2026 Trafficking in Persons Report, where South Korea was listed in the Tier 1 group of 33 countries and territories, including the United States, Britain, Taiwan, France, Germany, Australia, Singapore, Israel and Denmark.",
+          "In its tier placement, the report cited various efforts by Seoul, including increasing investigations and convictions, updating guidelines to provide potential victims with access to emergency support among other efforts. \"The government continued to demonstrate serious and sustained efforts during the reporting period.",
+          "Therefore, the ROK remained on Tier 1..."
+        ],
+        "words": [
+          "trafficking",
+          "elimination",
+          "efforts"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's premier ceramics festival invites visitors to touch clay",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261009/koreas-premier-ceramics-festival-invites-visitors-to-touch-clay?utm_source=rss",
+        "summary": "Visitors to one of Asia’s foremost ceramic celebrations are doing much more than admiring gallery displays this autumn — they are sinking their hands into wet clay and embarking on interactive treasure hunts. At Icheon Cerapia, the main hub of the 2026 Gyeonggi International Ceramic Biennale, the Korea Ceramic Foundation has launched a series of hands-on community events running through Nov. 1. Designed to make traditional and contemporary ceramic arts approachable for general audiences, the weekend festivities invite families, couples and art lovers to actively participate in the creative process. Located in Gyeonggi Province, just an hour south of Seoul, Icheon has served as the heartland of Korean pottery for centuries. The region played a pivotal role in the production of Joseon-era white porcelain and Goryeo celadon, leveraging its rich natural clay deposits and historic kiln sites....",
+        "fullText": [
+          "Visitors to one of Asia’s foremost ceramic celebrations are doing much more than admiring gallery displays this autumn — they are sinking their hands into wet clay and embarking on interactive treasure hunts. At Icheon Cerapia, the main hub of the 2026 Gyeonggi International Ceramic Biennale, the Korea Ceramic Foundation has launched a series of hands-on community events running through Nov.",
+          "1. Designed to make traditional and contemporary ceramic arts approachable for general audiences, the weekend festivities invite families, couples and art lovers to actively participate in the creative process.",
+          "Located in Gyeonggi Province, just an hour south of Seoul, Icheon has served as the heartland of Korean pottery for centuries. The region played a pivotal role in the production of Joseon-era white porcelain and Goryeo celadon, leveraging its rich natural clay deposits and historic kiln sites...."
+        ],
+        "words": [
+          "premier",
+          "ceramics",
+          "festival"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Rooftop craft beers, local flavors bring Munich magic to southeastern Seoul",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261009/rooftop-craft-beers-local-flavors-bring-munich-magic-to-southeastern-seoul?utm_source=rss",
+        "summary": "For most of the year, Garak Market in southeastern Seoul is a whirlwind of wholesale frenzy, where trucks loaded with fresh produce, seafood and meat rattle past early-morning traders. But come mid-October, the capital’s sprawling food hub drops its gritty commercial exterior, sets up a rooftop lawn and pops the top on a distinctly Bavarian tradition. Starting Oct. 16, the Seoul Agricultural & Marine Products Corporation will host the third annual Garak Oktoberfest. Held on the third-floor Sky Park atop Garak Mall, the three-day festival will transform the massive market complex into an airy rooftop beer garden through Oct. 18. While Munich relies on centuries-old brewing traditions, Garak puts a uniquely local spin on the autumn classic. Pairing independent craft brews with bites sourced straight from the market below, visitors can sip cold lagers alongside freshly prepared seafood, loc...",
+        "fullText": [
+          "For most of the year, Garak Market in southeastern Seoul is a whirlwind of wholesale frenzy, where trucks loaded with fresh produce, seafood and meat rattle past early-morning traders. But come mid-October, the capital’s sprawling food hub drops its gritty commercial exterior, sets up a rooftop lawn and pops the top on a distinctly Bavarian tradition.",
+          "Starting Oct. 16, the Seoul Agricultural & Marine Products Corporation will host the third annual Garak Oktoberfest.",
+          "Held on the third-floor Sky Park atop Garak Mall, the three-day festival will transform the massive market complex into an airy rooftop beer garden through Oct. 18.",
+          "While Munich relies on centuries-old brewing traditions, Garak puts a uniquely local spin on the autumn classic. Pairing independent craft brews with bites sourced straight from the market below, visitors can sip cold lagers alongside freshly prepared seafood, loc..."
+        ],
+        "words": [
+          "rooftop",
+          "flavors",
+          "munich"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-08",
     "label": "Thursday, October 8, 2026",
     "title": "Korea News Brief",
