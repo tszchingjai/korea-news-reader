@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-10",
+    "label": "Saturday, October 10, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Politics, Inter-Korea, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport",
+        "url": "https://www.koreatimes.co.kr/world/20261010/saudi-authorities-say-3-killed-in-houthi-claimed-attacks-on-riyadh-airport?utm_source=rss",
+        "summary": "BEIRUT — An airline pilot was among three Saudi citizens killed in attacks targeting Riyadh’s King Khalid International Airport and a Saudia airlines plane, the kingdom’s civil aviation authority said Friday. Several people “of different nationalities” were wounded. Thursday’s attacks were the deadliest in Saudi Arabia since the kingdom and allied forces in neighboring Yemen launched a major military offensive against Yemen’s Iran-backed Houthi rebels last weekend. The attacks also marked a significant escalation on the latest front in the Iran war, which has kept oil prices and financial markets volatile . U.N. special envoy Hans Grundberg told the U.N. Security Council that the situation in Yemen remained “highly fluid,” with civilians bearing the brunt of escalating violence in a country already facing dire humanitarian conditions and food insecurity. Airlines cancel flights to Saudi...",
+        "fullText": [
+          "BEIRUT — An airline pilot was among three Saudi citizens killed in attacks targeting Riyadh’s King Khalid International Airport and a Saudia airlines plane, the kingdom’s civil aviation authority said Friday. Several people “of different nationalities” were wounded.",
+          "Thursday’s attacks were the deadliest in Saudi Arabia since the kingdom and allied forces in neighboring Yemen launched a major military offensive against Yemen’s Iran-backed Houthi rebels last weekend. The attacks also marked a significant escalation on the latest front in the Iran war, which has kept oil prices and financial markets volatile .",
+          "U. N.",
+          "special envoy Hans Grundberg told the U. N.",
+          "Security Council that the situation in Yemen remained “highly fluid,” with civilians bearing the brunt of escalating violence in a country already facing dire humanitarian conditions and food insecurity. Airlines cancel flights to Saudi..."
+        ],
+        "words": [
+          "authorities",
+          "killed",
+          "houthi-claimed"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Microsoft is being suspended from program to apply for green cards for H-1B visa workers, Vance says",
+        "url": "https://www.koreatimes.co.kr/world/20261010/microsoft-is-being-suspended-from-program-to-apply-for-green-cards-for-h-1b-visa-workers-vance-says?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump's administration is suspending tech giant Microsoft from a program to apply for green cards for workers who come to the U.S. to live and work using an H-1B visa as it accuses the company of fraud. “If you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half foreign indentured servants,” said Vice President JD Vance in a White House news conference announcing the decision. The H-1B program has long been a target of Trump supporters who say that the program undercuts American workers and is rife with abuse. H-1B visas are meant for high-skilled jobs that are difficult to find American workers to fill. Technology companies are the biggest users, with nearly three-quarters of approvals going to workers from India. Microsoft did not immediately respond to a request for comment. The Vance announcement came...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump's administration is suspending tech giant Microsoft from a program to apply for green cards for workers who come to the U. S.",
+          "to live and work using an H-1B visa as it accuses the company of fraud. “If you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half foreign indentured servants,” said Vice President JD Vance in a White House news conference announcing the decision.",
+          "The H-1B program has long been a target of Trump supporters who say that the program undercuts American workers and is rife with abuse. H-1B visas are meant for high-skilled jobs that are difficult to find American workers to fill.",
+          "Technology companies are the biggest users, with nearly three-quarters of approvals going to workers from India. Microsoft did not immediately respond to a request for comment.",
+          "The Vance announcement came..."
+        ],
+        "words": [
+          "microsoft",
+          "suspended",
+          "program"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "US expects S. Korea to 'uphold' alliance standards amid intelligence cooperation concerns: senior official",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261010/us-expects-s-korea-to-uphold-alliance-standards-amid-intelligence-cooperation-concerns-senior-official?utm_source=rss",
+        "summary": "WASHINGTON — A senior U.S. official said Friday that Washington expects Seoul to \"uphold\" the standards of their decadeslong alliance, amid heightened concerns over apparent friction in the countries' intelligence cooperation. \"We expect the ROK to uphold the standards of our decadeslong alliance, in particular concerning matters of intelligence and counterintelligence,\" the senior U.S. administration official told Yonhap News Agency in a written statement, referring to South Korea's official name, the Republic of Korea. The statement was provided in response to an inquiry from Yonhap News Agency regarding the state of bilateral intelligence cooperation. The remarks follow growing speculation over bilateral friction after South Korea's National Intelligence Service acknowledged it was excluded from a June trilateral meeting, also involving Japan, on North Korean cyber threats. Local medi...",
+        "fullText": [
+          "WASHINGTON — A senior U. S.",
+          "official said Friday that Washington expects Seoul to \"uphold\" the standards of their decadeslong alliance, amid heightened concerns over apparent friction in the countries' intelligence cooperation. \"We expect the ROK to uphold the standards of our decadeslong alliance, in particular concerning matters of intelligence and counterintelligence,\" the senior U.",
+          "S. administration official told Yonhap News Agency in a written statement, referring to South Korea's official name, the Republic of Korea.",
+          "The statement was provided in response to an inquiry from Yonhap News Agency regarding the state of bilateral intelligence cooperation. The remarks follow growing speculation over bilateral friction after South Korea's National Intelligence Service acknowledged it was excluded from a June trilateral meeting, also involving Japan, on North Korean cyber threats.",
+          "Local medi..."
+        ],
+        "words": [
+          "expects",
+          "uphold",
+          "alliance"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Busan chefs turn local flavors into signature dining experience",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261010/busan-chefs-turn-local-flavors-into-signature-dining-experience?utm_source=rss",
+        "summary": "Known worldwide for its bustling fish markets and pristine beaches, Korea’s southern port city of Busan is reframing its local food culture through a modern, unified lens. The Busan Metropolitan Government unveiled two new signature meal sets, Friday, termed Busan Bansang, at the Busan International Food Expo, running through Sunday. The initiative transforms three years of culinary research and 72 standalone recipes into complete, elevated set-meal experiences designed for local restaurants and international tourism. Created by a coalition of 16 local chefs specializing in Korean, Japanese, Chinese and Western cuisines, the new menus reimagine traditional multidish dining using regional coastal ingredients. Rather than developing isolated dishes, the culinary team integrated long-standing local flavors into cohesive, multicourse meal sets tailored for modern diners. The two featured opt...",
+        "fullText": [
+          "Known worldwide for its bustling fish markets and pristine beaches, Korea’s southern port city of Busan is reframing its local food culture through a modern, unified lens. The Busan Metropolitan Government unveiled two new signature meal sets, Friday, termed Busan Bansang, at the Busan International Food Expo, running through Sunday.",
+          "The initiative transforms three years of culinary research and 72 standalone recipes into complete, elevated set-meal experiences designed for local restaurants and international tourism. Created by a coalition of 16 local chefs specializing in Korean, Japanese, Chinese and Western cuisines, the new menus reimagine traditional multidish dining using regional coastal ingredients.",
+          "Rather than developing isolated dishes, the culinary team integrated long-standing local flavors into cohesive, multicourse meal sets tailored for modern diners. The two featured opt..."
+        ],
+        "words": [
+          "flavors",
+          "signature",
+          "dining"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "In Seoul's trendiest district, local leaders push back against corporate chain stores",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261010/in-seouls-trendiest-district-local-leaders-push-back-against-corporate-chain-stores?utm_source=rss",
+        "summary": "Over the past decade, the former industrial district of Seongsu-dong — often dubbed the \"Brooklyn of Seoul\" for its mix of repurposed factories and youth culture — has transformed from a quiet grid of red-brick shoe workshops and auto repair shops into Korea’s epicenter of cool. Trendy local boutiques, coffee roasters and pop-up stores have drawn massive crowds of fashion-conscious youth and international tourists. But as real estate prices soar, local authorities are stepping in to protect the district from becoming another generic commercial strip. Starting this December, Seongdong District in eastern Seoul will expand its strict ban on new corporate megachains and large franchises to key arterial streets in Seongsu-dong, including Bangsongdae Street and parts of Yeomujang Street. First introduced along the nearby Seoul Forest Road to curb gentrification, the regulations restrict large...",
+        "fullText": [
+          "Over the past decade, the former industrial district of Seongsu-dong — often dubbed the \"Brooklyn of Seoul\" for its mix of repurposed factories and youth culture — has transformed from a quiet grid of red-brick shoe workshops and auto repair shops into Korea’s epicenter of cool. Trendy local boutiques, coffee roasters and pop-up stores have drawn massive crowds of fashion-conscious youth and international tourists.",
+          "But as real estate prices soar, local authorities are stepping in to protect the district from becoming another generic commercial strip. Starting this December, Seongdong District in eastern Seoul will expand its strict ban on new corporate megachains and large franchises to key arterial streets in Seongsu-dong, including Bangsongdae Street and parts of Yeomujang Street.",
+          "First introduced along the nearby Seoul Forest Road to curb gentrification, the regulations restrict large..."
+        ],
+        "words": [
+          "trendiest",
+          "district",
+          "leaders"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "After interviewing 42 death row inmates, researcher believes capital punishment should end",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261010/after-interviewing-42-death-row-inmates-researcher-believes-capital-punishment-should-end?utm_source=rss",
+        "summary": "Every weekday before 1997, death row inmates in Korea braced themselves between 6 and 9 a.m. — the hours when executions could happen. If 9 a.m. passed uneventfully, they felt relief. Then they went to sleep wondering if the next morning would be their last. No one has been executed since Dec. 30, 1997, but 56 people remain on death row — 52 in Ministry of Justice correctional facilities and four in military prisons. Kim Dae-keun, a research fellow at the Korean Institute of Criminology and Justice, interviewed 42 of them. \"Most of them were ashamed, distressed or regretful about what they did,\" Kim said in an interview with The Korea Times. \"I imagine they were brutal and frightening when they committed their crimes. But many I met in prison now were older, frail men.\" Oct. 10 marks World Day Against the Death Penalty, an annual international observance calling for the abolition of exec...",
+        "fullText": [
+          "Every weekday before 1997, death row inmates in Korea braced themselves between 6 and 9 a. m.",
+          "— the hours when executions could happen. If 9 a.",
+          "m. passed uneventfully, they felt relief.",
+          "Then they went to sleep wondering if the next morning would be their last. No one has been executed since Dec.",
+          "30, 1997, but 56 people remain on death row — 52 in Ministry of Justice correctional facilities and four in military prisons. Kim Dae-keun, a research fellow at the Korean Institute of Criminology and Justice, interviewed 42 of them.",
+          "\"Most of them were ashamed, distressed or regretful about what they did,\" Kim said in an interview with The Korea Times. \"I imagine they were brutal and frightening when they committed their crimes.",
+          "But many I met in prison now were older, frail men. \" Oct.",
+          "10 marks World Day Against the Death Penalty, an annual international observance calling for the abolition of exec..."
+        ],
+        "words": [
+          "interviewing",
+          "inmates",
+          "researcher"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Comedy takes root in Korea's Russian-speaking community",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261010/comedy-takes-root-in-koreas-russian-speaking-community?utm_source=rss",
+        "summary": "Lyazzat Khan, a proud resident of Ansan, Gyeonggi Province, has quietly been building an empire of laughter. Originally from Kazakhstan, she is the mastermind behind Event Max, a business that brings Russian-speaking comedians to Korea. For Korea’s Russian-speaking population of nearly 200,000, there is a growing market for entertainment services. Most of these residents are Koryo-saram, or ethnic Koreans from former Soviet Union countries. Many are employed in the country’s light and heavy industry factories, working grueling hours. Leisure services for this group of workers remain underdeveloped, mostly because of the language barrier to accessing Korean entertainment. Over half of Korea’s Russian-speaking population lives in Ansan and Incheon, where in some neighborhoods, it is common to hear Russian spoken on the street. Restaurants and lounges catering specifically to Russian-speake...",
+        "fullText": [
+          "Lyazzat Khan, a proud resident of Ansan, Gyeonggi Province, has quietly been building an empire of laughter. Originally from Kazakhstan, she is the mastermind behind Event Max, a business that brings Russian-speaking comedians to Korea.",
+          "For Korea’s Russian-speaking population of nearly 200,000, there is a growing market for entertainment services. Most of these residents are Koryo-saram, or ethnic Koreans from former Soviet Union countries.",
+          "Many are employed in the country’s light and heavy industry factories, working grueling hours. Leisure services for this group of workers remain underdeveloped, mostly because of the language barrier to accessing Korean entertainment.",
+          "Over half of Korea’s Russian-speaking population lives in Ansan and Incheon, where in some neighborhoods, it is common to hear Russian spoken on the street. Restaurants and lounges catering specifically to Russian-speake..."
+        ],
+        "words": [
+          "comedy",
+          "russian-speaking",
+          "community"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "label": "Friday, October 9, 2026",
     "title": "Korea News Brief",
