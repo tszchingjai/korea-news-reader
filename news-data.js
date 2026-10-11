@@ -1,5 +1,146 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-11",
+    "label": "Sunday, October 11, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Inter-Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Patriots trap targets bills hero ball",
+        "url": "https://www.koreatimes.co.kr/opinion/20261011/patriots-trap-targets-bills-hero-ball?utm_source=rss",
+        "summary": "This story reports on patriots trap targets bills hero ball.",
+        "fullText": [
+          "This story reports on patriots trap targets bills hero ball."
+        ],
+        "words": [
+          "patriots",
+          "targets",
+          "reports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say",
+        "url": "https://www.koreatimes.co.kr/world/20261011/houthi-attack-on-saudi-airport-kills-12-over-300-wounded-authorities-say?utm_source=rss",
+        "summary": "RIYADH — The third attack this week on Riyadh's international airport on Saturday left at least 12 people dead and more than 300 wounded, Saudi authorities said, and the Iran-backed Houthis claimed responsibility for the strike, a major escalation of their campaign against the Saudis. The dead included four Saudis, two people from Bangladesh and one person each from the U.S., Jordan, Palestine, Syria, Sudan and Egypt, the Saudi civil aviation authority said. At the latest count, they said 309 were wounded. Hospitals were flooded with wounded brought by ambulance and helicopter, people briefed on the matter said. Some were in critical condition. Saturday's attack occurred without warning, with no alert issued by Saudi Arabia's threat warning system. This week's two previous attacks on King Khalid International Airport left four people dead and caused heavy damage to a Saudi commercial pla...",
+        "fullText": [
+          "RIYADH — The third attack this week on Riyadh's international airport on Saturday left at least 12 people dead and more than 300 wounded, Saudi authorities said, and the Iran-backed Houthis claimed responsibility for the strike, a major escalation of their campaign against the Saudis. The dead included four Saudis, two people from Bangladesh and one person each from the U.",
+          "S. , Jordan, Palestine, Syria, Sudan and Egypt, the Saudi civil aviation authority said.",
+          "At the latest count, they said 309 were wounded. Hospitals were flooded with wounded brought by ambulance and helicopter, people briefed on the matter said.",
+          "Some were in critical condition. Saturday's attack occurred without warning, with no alert issued by Saudi Arabia's threat warning system.",
+          "This week's two previous attacks on King Khalid International Airport left four people dead and caused heavy damage to a Saudi commercial pla..."
+        ],
+        "words": [
+          "houthi",
+          "attack",
+          "airport"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump calls for replacing Ukraine's Zelenskyy in tussle over diesel deal with Russia",
+        "url": "https://www.koreatimes.co.kr/world/20261011/trump-calls-for-replacing-ukraines-zelenskyy-in-tussle-over-diesel-deal-with-russia?utm_source=rss",
+        "summary": "U.S. President Donald Trump on Saturday called for Ukraine to replace its leader Volodymyr Zelenskyy and railed against Ukraine's attacks on Russian oil infrastructure, a day after announcing a diesel supply deal with Russia that drew a sharp rebuke from Zelenskyy. \"I suggest they get a new leader who can make a deal because he could have made many deals, but for some reason he never does,\" Trump told reporters at the White House. \"I think it's time for Ukraine to get a new president.\" Zelenskyy, in some of his sharpest criticism yet of the White House, blasted Trump's deal with Russian President Vladimir Putin to lift sanctions on Russian diesel, which comes as soaring energy prices have become a political liability for Trump's Republican Party ahead of next month's midterm elections. The Russian government said on Saturday it had partially lifted a ban on diesel exports with immediate...",
+        "fullText": [
+          "U. S.",
+          "President Donald Trump on Saturday called for Ukraine to replace its leader Volodymyr Zelenskyy and railed against Ukraine's attacks on Russian oil infrastructure, a day after announcing a diesel supply deal with Russia that drew a sharp rebuke from Zelenskyy. \"I suggest they get a new leader who can make a deal because he could have made many deals, but for some reason he never does,\" Trump told reporters at the White House.",
+          "\"I think it's time for Ukraine to get a new president. \" Zelenskyy, in some of his sharpest criticism yet of the White House, blasted Trump's deal with Russian President Vladimir Putin to lift sanctions on Russian diesel, which comes as soaring energy prices have become a political liability for Trump's Republican Party ahead of next month's midterm elections.",
+          "The Russian government said on Saturday it had partially lifted a ban on diesel exports with immediate..."
+        ],
+        "words": [
+          "replacing",
+          "ukraine",
+          "zelenskyy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea marks party anniversary on modest scale",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261011/n-korea-marks-party-anniversary-on-modest-scale?utm_source=rss",
+        "summary": "North Korea has held a celebration performance for the 81st founding anniversary of the Workers' Party of Korea, with leader Kim Jong-un in attendance, state media reported Sunday. Patriotic songs, acrobatics and dance filled Pyongyang Indoor Stadium the previous day in a show that stressed loyalty to the party and Kim, the Korean Central News Agency (KCNA) said. Kim, whom the article described as \"representing the dignity and mightiness\" of the country, waved to the audience \"as a token of his congratulations to all the participants on the party founding day\" and expressed satisfaction with the performance, the KCNA said. A photo released by the KCAN shows Kim's wife, Ri Sol-ju, and daughter, Kim Ju-ae, accompanying him. Diplomatic envoys and members of foreign missions sat alongside senior party and military officials and Pyongyang citizens, according to the report. Kim did not issue a...",
+        "fullText": [
+          "North Korea has held a celebration performance for the 81st founding anniversary of the Workers' Party of Korea, with leader Kim Jong-un in attendance, state media reported Sunday. Patriotic songs, acrobatics and dance filled Pyongyang Indoor Stadium the previous day in a show that stressed loyalty to the party and Kim, the Korean Central News Agency (KCNA) said.",
+          "Kim, whom the article described as \"representing the dignity and mightiness\" of the country, waved to the audience \"as a token of his congratulations to all the participants on the party founding day\" and expressed satisfaction with the performance, the KCNA said. A photo released by the KCAN shows Kim's wife, Ri Sol-ju, and daughter, Kim Ju-ae, accompanying him.",
+          "Diplomatic envoys and members of foreign missions sat alongside senior party and military officials and Pyongyang citizens, according to the report. Kim did not issue a..."
+        ],
+        "words": [
+          "anniversary",
+          "modest",
+          "celebration"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Craftsmanship takes center stage in Korea's string instrument capital",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261011/craftsmanship-takes-center-stage-in-koreas-string-instrument-capital?utm_source=rss",
+        "summary": "Tucked inside the bustling Seocho District in southern Seoul, the Seoripul Musical Instrument Street has long served as the heart of Korea’s classical music scene. Situated near the Seoul Arts Center and the prestigious Korea National University of Arts, this designated cultural zone is home to scores of instrument workshops, rehearsal spaces and specialized repair shops. It is a neighborhood where the delicate scent of wood varnish drifts into the alleyways and the world’s finest string instruments find their voice. Starting Oct. 17, the district will showcase this centuries-old craft during the 2026 Seoripul K-String Fair at the Rhode Art Center. Running through Oct. 23, the event stands as Korea’s premier modern string instrument festival, bringing together 13 master instrument makers based in Korea and Italy to display 28 handcrafted masterpieces, including 21 violins, five violas an...",
+        "fullText": [
+          "Tucked inside the bustling Seocho District in southern Seoul, the Seoripul Musical Instrument Street has long served as the heart of Korea’s classical music scene. Situated near the Seoul Arts Center and the prestigious Korea National University of Arts, this designated cultural zone is home to scores of instrument workshops, rehearsal spaces and specialized repair shops.",
+          "It is a neighborhood where the delicate scent of wood varnish drifts into the alleyways and the world’s finest string instruments find their voice. Starting Oct.",
+          "17, the district will showcase this centuries-old craft during the 2026 Seoripul K-String Fair at the Rhode Art Center. Running through Oct.",
+          "23, the event stands as Korea’s premier modern string instrument festival, bringing together 13 master instrument makers based in Korea and Italy to display 28 handcrafted masterpieces, including 21 violins, five violas an..."
+        ],
+        "words": [
+          "craftsmanship",
+          "center",
+          "string"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Esports team DRX seeks to broaden territory into digital entertainment",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261011/esports-team-drx-seeks-to-broaden-territory-into-digital-entertainment?utm_source=rss",
+        "summary": "The esports industry continues to expand, drawing large audiences across game titles and appealing to an increasingly diverse range of people. The Business Research Company expects the global market to grow at an average annual rate of about 20 percent, from $3.02 billion in 2025 to $7.71 billion in 2030. However, few esports team operators have managed to turn that popularity into profits, as player salaries continue to rise while revenues from competition, such as prize money and league revenue sharing, remain volatile. DRX has remained profitable since 2024, helped by a diversified portfolio across multiple esports titles and a stable revenue base built through its advertising agency subsidiary. During an interview with The Korea Times, CEO Yang “Can” Sun-il said he is seeking to transform DRX into a broader digital entertainment company, expanding beyond esports through intellectual...",
+        "fullText": [
+          "The esports industry continues to expand, drawing large audiences across game titles and appealing to an increasingly diverse range of people. The Business Research Company expects the global market to grow at an average annual rate of about 20 percent, from $3.",
+          "02 billion in 2025 to $7. 71 billion in 2030.",
+          "However, few esports team operators have managed to turn that popularity into profits, as player salaries continue to rise while revenues from competition, such as prize money and league revenue sharing, remain volatile. DRX has remained profitable since 2024, helped by a diversified portfolio across multiple esports titles and a stable revenue base built through its advertising agency subsidiary.",
+          "During an interview with The Korea Times, CEO Yang “Can” Sun-il said he is seeking to transform DRX into a broader digital entertainment company, expanding beyond esports through intellectual..."
+        ],
+        "words": [
+          "esports",
+          "broaden",
+          "territory"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Paradise Hotel Busan blends spa, sound healing for ultimate coastal wellness",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261011/paradise-hotel-busan-blends-spa-sound-healing-for-ultimate-coastal-wellness?utm_source=rss",
+        "summary": "BUSAN — “Take a slow, deep breath. Let the aroma of neroli, sandalwood and lavender release every bit of tension held in your body.” As dusk settled at 6 p.m. on Oct. 2, Paradise Hotel Busan unveiled a sanctuary of quiet renewal. Against the dramatic sweep of the autumn sea and a fading horizon, the hotel introduced a specialized wellness experience designed to blend thermal spa immersion with deep meditation. Held as an intimate gathering for 10 members, the \"Ocean Healing Ritual with the Autumn Sea\" began with a simple act: An instructor gently placed a few drops of aromatic oil onto each participant's open palms. In the crisp evening air, participants rubbed the fragrant oils into their hands, smoothing away the knots in their necks and shoulders. Through a series of gentle yoga postures, they began to release the weight of the day, restoring physical and mental equilibrium. The initi...",
+        "fullText": [
+          "BUSAN — “Take a slow, deep breath. Let the aroma of neroli, sandalwood and lavender release every bit of tension held in your body.",
+          "” As dusk settled at 6 p. m.",
+          "on Oct. 2, Paradise Hotel Busan unveiled a sanctuary of quiet renewal.",
+          "Against the dramatic sweep of the autumn sea and a fading horizon, the hotel introduced a specialized wellness experience designed to blend thermal spa immersion with deep meditation. Held as an intimate gathering for 10 members, the \"Ocean Healing Ritual with the Autumn Sea\" began with a simple act: An instructor gently placed a few drops of aromatic oil onto each participant's open palms.",
+          "In the crisp evening air, participants rubbed the fragrant oils into their hands, smoothing away the knots in their necks and shoulders. Through a series of gentle yoga postures, they began to release the weight of the day, restoring physical and mental equilibrium.",
+          "The initi..."
+        ],
+        "words": [
+          "paradise",
+          "blends",
+          "healing"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-10",
     "label": "Saturday, October 10, 2026",
     "title": "Korea News Brief",
