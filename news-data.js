@@ -1,5 +1,157 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-12",
+    "label": "Monday, October 12, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Exports double in first 10 days of October on chips",
+        "url": "https://www.koreatimes.co.kr/economy/20261012/exports-double-in-first-10-days-of-october-on-chips?utm_source=rss",
+        "summary": "Korea's exports more than doubled from a year earlier during the first 10 days of October, customs data showed Monday, on the back of the global semiconductor upcycle. Outbound shipments reached $26.1 billion in the Oct. 1-10 period, according to the data from the Korea Customs Service. It marked the highest export value for the period, surpassing the previous record of $15.3 billion set in the first 10 days of October 2025. The daily average export total came to $4.75 billion, setting a new record for any 10-day period as well. Imports went up 65.5 percent year-on-year to $22.3 billion over the cited period, resulting in a trade surplus of $3.8 billion. By sector, outbound shipments of chips vaulted 170.9 percent to $12.1 billion, while those of petroleum products rose 45.6 percent to $1.75 billion. Exports of cars surged 82.7 percent to $1.21 billion, while those of steel products incr...",
+        "fullText": [
+          "Korea's exports more than doubled from a year earlier during the first 10 days of October, customs data showed Monday, on the back of the global semiconductor upcycle. Outbound shipments reached $26.",
+          "1 billion in the Oct. 1-10 period, according to the data from the Korea Customs Service.",
+          "It marked the highest export value for the period, surpassing the previous record of $15. 3 billion set in the first 10 days of October 2025.",
+          "The daily average export total came to $4. 75 billion, setting a new record for any 10-day period as well.",
+          "Imports went up 65. 5 percent year-on-year to $22.",
+          "3 billion over the cited period, resulting in a trade surplus of $3. 8 billion.",
+          "By sector, outbound shipments of chips vaulted 170. 9 percent to $12.",
+          "1 billion, while those of petroleum products rose 45. 6 percent to $1.",
+          "75 billion. Exports of cars surged 82.",
+          "7 percent to $1. 21 billion, while those of steel products incr..."
+        ],
+        "words": [
+          "exports",
+          "double",
+          "october"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul shares open lower on inflation, Mideast woes",
+        "url": "https://www.koreatimes.co.kr/economy/20261012/seoul-shares-open-lower-on-inflation-mideast-woes?utm_source=rss",
+        "summary": "Seoul shares opened lower Monday, as losses in technology stocks weighed on the market amid inflation concerns stoked by elevated oil prices and the escalating Middle East crisis. The benchmark Korea Composite Stock Price Index (KOSPI) fell 47.76 points, or 0.72 percent, to 6,578.17 at the opening bell. The decline came despite overnight gains on Wall Street. The Dow Jones Industrial Average rose 0.83 percent on Friday (local time), while the tech-heavy Nasdaq Composite climbed 0.64 percent.",
+        "fullText": [
+          "Seoul shares opened lower Monday, as losses in technology stocks weighed on the market amid inflation concerns stoked by elevated oil prices and the escalating Middle East crisis. The benchmark Korea Composite Stock Price Index (KOSPI) fell 47.",
+          "76 points, or 0. 72 percent, to 6,578.",
+          "17 at the opening bell. The decline came despite overnight gains on Wall Street.",
+          "The Dow Jones Industrial Average rose 0. 83 percent on Friday (local time), while the tech-heavy Nasdaq Composite climbed 0.",
+          "64 percent."
+        ],
+        "words": [
+          "shares",
+          "inflation",
+          "mideast"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Finance minister calls for diversification of trade network amid uncertainties",
+        "url": "https://www.koreatimes.co.kr/economy/20261012/finance-minister-calls-for-diversification-of-trade-network-amid-uncertainties?utm_source=rss",
+        "summary": "Finance Minister Lee Hyoung-il on Monday stressed the need to diversify Korea's trade network to address uncertainties, including economic fragmentation and protectionism. Lee made the remarks during a meeting on international economic affairs with relevant ministers, highlighting Korea's continued strong exports despite challenging external conditions. \"The government will closely monitor trade issues with major countries to address trade-related risks and bolster diplomatic outreach to maintain stability,\" Lee said. \"By diversifying our trade network, we aim to expand the Korean economy and make every effort to help our businesses enter global markets,\" he added. To address prolonged tensions in the Middle East and supply chain disruptions stemming from the U.S.-China conflict, Lee said the government will continue efforts to increase domestic production, build up stockpiles and establ...",
+        "fullText": [
+          "Finance Minister Lee Hyoung-il on Monday stressed the need to diversify Korea's trade network to address uncertainties, including economic fragmentation and protectionism. Lee made the remarks during a meeting on international economic affairs with relevant ministers, highlighting Korea's continued strong exports despite challenging external conditions.",
+          "\"The government will closely monitor trade issues with major countries to address trade-related risks and bolster diplomatic outreach to maintain stability,\" Lee said. \"By diversifying our trade network, we aim to expand the Korean economy and make every effort to help our businesses enter global markets,\" he added.",
+          "To address prolonged tensions in the Middle East and supply chain disruptions stemming from the U. S.",
+          "-China conflict, Lee said the government will continue efforts to increase domestic production, build up stockpiles and establ..."
+        ],
+        "words": [
+          "finance",
+          "minister",
+          "diversification"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee's approval rating falls for 2nd straight week: poll",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261012/lees-approval-rating-falls-for-2nd-straight-week-poll?utm_source=rss",
+        "summary": "President Lee Jae Myung's approval rating fell for the second consecutive week to 35.2 percent, a poll showed Monday, amid controversies over judicial independence and last month's mine blast near the border. In the poll conducted on 1,504 adults nationwide from last Tuesday to Thursday by Realmeter, positive assessments of Lee's job performance fell by 2.2 percentage points from the previous week. Negative assessments rose 1.6 percentage points to 61.4 percent. \"Controversies surrounding judicial independence involving Supreme Court Chief Justice Cho Hee-dae, disputes between rival parties over mine explosions in the Demilitarized Zone (DMZ), as well as rising rental and housing prices in the Seoul metropolitan area, all came under the spotlight during parliamentary audits, leading to the decline in approval ratings,\" the pollster said. In a separate survey of 1,004 adults conducted las...",
+        "fullText": [
+          "President Lee Jae Myung's approval rating fell for the second consecutive week to 35. 2 percent, a poll showed Monday, amid controversies over judicial independence and last month's mine blast near the border.",
+          "In the poll conducted on 1,504 adults nationwide from last Tuesday to Thursday by Realmeter, positive assessments of Lee's job performance fell by 2. 2 percentage points from the previous week.",
+          "Negative assessments rose 1. 6 percentage points to 61.",
+          "4 percent. \"Controversies surrounding judicial independence involving Supreme Court Chief Justice Cho Hee-dae, disputes between rival parties over mine explosions in the Demilitarized Zone (DMZ), as well as rising rental and housing prices in the Seoul metropolitan area, all came under the spotlight during parliamentary audits, leading to the decline in approval ratings,\" the pollster said.",
+          "In a separate survey of 1,004 adults conducted las..."
+        ],
+        "words": [
+          "approval",
+          "rating",
+          "straight"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "'The Assassin(s)' slips to No. 2 at weekend box office",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20261012/the-assassins-slips-to-no-2-at-weekend-box-office?utm_source=rss",
+        "summary": "The Korean film \"The Assassin(s)\" attracted more than 400,000 admissions over the weekend, despite controversy over its historical details, but slipped to No. 2 at the box office, industry data showed Monday. The film garnered 407,680 admissions over the weekend, bringing its cumulative total to 2,992,544 as of Sunday, according to the Korean Film Council. The council's weekend chart compiles ticket sales from Friday through Sunday. \"The Assassin(s)\" centers on the 1974 assassination attempt on then South Korean President Park Chung-hee that resulted in the death of the first lady. Blending the actual event with fictional elements, the film has drawn backlash, mostly from conservative critics, over alleged historical inaccuracies. Following its release on Sept. 23, the film had topped the weekend box office chart for two consecutive weeks. It drew 412,004 admissions the previous weekend....",
+        "fullText": [
+          "The Korean film \"The Assassin(s)\" attracted more than 400,000 admissions over the weekend, despite controversy over its historical details, but slipped to No. 2 at the box office, industry data showed Monday.",
+          "The film garnered 407,680 admissions over the weekend, bringing its cumulative total to 2,992,544 as of Sunday, according to the Korean Film Council. The council's weekend chart compiles ticket sales from Friday through Sunday.",
+          "\"The Assassin(s)\" centers on the 1974 assassination attempt on then South Korean President Park Chung-hee that resulted in the death of the first lady. Blending the actual event with fictional elements, the film has drawn backlash, mostly from conservative critics, over alleged historical inaccuracies.",
+          "Following its release on Sept. 23, the film had topped the weekend box office chart for two consecutive weeks.",
+          "It drew 412,004 admissions the previous weekend...."
+        ],
+        "words": [
+          "assassin",
+          "weekend",
+          "office"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Naval buildup is a must for energy-dependent Korea",
+        "url": "https://www.koreatimes.co.kr/opinion/20261012/naval-buildup-is-a-must-for-energy-dependent-korea?utm_source=rss",
+        "summary": "South Korea’s security does not end at the border with North Korea. Crude oil and liquefied natural gas from the Middle East must cross distant seas and reach our ports to keep factories running and sustain everyday life. Merchant ships carrying Korean exports also travel the world’s shipping routes. Sea lanes are the lifelines of our economy. With world-class shipbuilding capabilities and extensive international trade, have we also secured sufficient capacity to protect those lifelines? South Korea’s defense posture has evolved primarily in response to the threat posed by North Korea’s ground forces. There were sound reasons for committing substantial resources to land defense, yet we must ask whether threats in distant waters and the importance of maritime security have received sufficient attention. Operational planning that places considerable weight on U.S. naval support has also co...",
+        "fullText": [
+          "South Korea’s security does not end at the border with North Korea. Crude oil and liquefied natural gas from the Middle East must cross distant seas and reach our ports to keep factories running and sustain everyday life.",
+          "Merchant ships carrying Korean exports also travel the world’s shipping routes. Sea lanes are the lifelines of our economy.",
+          "With world-class shipbuilding capabilities and extensive international trade, have we also secured sufficient capacity to protect those lifelines? South Korea’s defense posture has evolved primarily in response to the threat posed by North Korea’s ground forces.",
+          "There were sound reasons for committing substantial resources to land defense, yet we must ask whether threats in distant waters and the importance of maritime security have received sufficient attention. Operational planning that places considerable weight on U.",
+          "S. naval support has also co..."
+        ],
+        "words": [
+          "buildup",
+          "energy-dependent",
+          "security"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Policymakers take on energy shock, rising debt at IMF-World Bank meetings",
+        "url": "https://www.koreatimes.co.kr/world/20261012/policymakers-take-on-energy-shock-rising-debt-at-imf-world-bank-meetings?utm_source=rss",
+        "summary": "BANGKOK — Finance ministers and central bankers meet in Bangkok this week for the annual gatherings of the International Monetary Fund (IMF) and World Bank, with the global economy buffeted between the U.S.-Iran war's energy shock, rising debt pressures and the AI boom. The meetings run from Monday through Saturday in the Thai capital, and will see policymakers tackle some stark choices, with the IMF calling on governments to rein in spending even as vulnerable citizens' needs may be growing in the face of surging inflation and climate risks. The week will see a combination of high-level closed-door meetings, public events and policy announcements from the world's top economic officials. On Tuesday, the IMF will unveil its global economic forecast, along with detailed regional outlooks through the week, as policymakers set about tackling the challenges darkening the economic horizon. \"To...",
+        "fullText": [
+          "BANGKOK — Finance ministers and central bankers meet in Bangkok this week for the annual gatherings of the International Monetary Fund (IMF) and World Bank, with the global economy buffeted between the U. S.",
+          "-Iran war's energy shock, rising debt pressures and the AI boom. The meetings run from Monday through Saturday in the Thai capital, and will see policymakers tackle some stark choices, with the IMF calling on governments to rein in spending even as vulnerable citizens' needs may be growing in the face of surging inflation and climate risks.",
+          "The week will see a combination of high-level closed-door meetings, public events and policy announcements from the world's top economic officials. On Tuesday, the IMF will unveil its global economic forecast, along with detailed regional outlooks through the week, as policymakers set about tackling the challenges darkening the economic horizon.",
+          "\"To..."
+        ],
+        "words": [
+          "policymakers",
+          "energy",
+          "rising"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "label": "Sunday, October 11, 2026",
     "title": "Korea News Brief",
