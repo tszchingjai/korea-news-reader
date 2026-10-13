@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-13",
+    "label": "Tuesday, October 13, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Law, Politics, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "LG Uplus app AI moves beyond Q&A to handle payments, roaming",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261013/lg-uplus-app-ai-moves-beyond-qa-to-handle-payments-roaming?utm_source=rss",
+        "summary": "LG Uplus is upgrading the artificial intelligence (AI) search engine in its customer app into an active agent that completes tasks rather than just answering questions, the company said Tuesday. Korea’s third-largest mobile carrier is gradually converting the AI search in U+one, its all-in-one customer app, into what it calls an “actionable AI agent.” Through U+one, subscribers can check their plans and bills, make payments and sign up for services such as roaming and add-ons. The company launched a bill payment agent in August and a roaming agent in September. The previous AI search answered queries and then sent users to the relevant app screen. The new agents analyze customers’ actual usage data, recommend services and complete payments or sign-ups once the user confirms, all within a single conversation. The bill payment agent answers questions such as “How much is my bill this month...",
+        "fullText": [
+          "LG Uplus is upgrading the artificial intelligence (AI) search engine in its customer app into an active agent that completes tasks rather than just answering questions, the company said Tuesday. Korea’s third-largest mobile carrier is gradually converting the AI search in U+one, its all-in-one customer app, into what it calls an “actionable AI agent.",
+          "” Through U+one, subscribers can check their plans and bills, make payments and sign up for services such as roaming and add-ons. The company launched a bill payment agent in August and a roaming agent in September.",
+          "The previous AI search answered queries and then sent users to the relevant app screen. The new agents analyze customers’ actual usage data, recommend services and complete payments or sign-ups once the user confirms, all within a single conversation.",
+          "The bill payment agent answers questions such as “How much is my bill this month..."
+        ],
+        "words": [
+          "beyond",
+          "handle",
+          "payments"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Step inside private royal chambers of Changdeok Palace",
+        "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261013/step-inside-private-royal-chambers-of-changdeok-palace?utm_source=rss",
+        "summary": "Deep within the UNESCO-listed grounds of Changdeok Palace in central Seoul, behind grand wooden gates that once shielded Korea’s sovereign rulers from public gaze, lies an extraordinary architectural crossroads where centuries of dynastic tradition collide with early 20th-century Western luxury. Beginning Oct. 20, visitors will step directly into these private living quarters and official chambers through an exclusive guided program hosted by the Changdeok Palace Office under the Royal Palaces and Tombs Center of the National Heritage Service. The limited-run tour, titled “Entering the Inner Court of Changdeokgung: Living Spaces of the King and Queen,” offers rare entry into Huijeongdang — the royal bedchamber turned administrative hall — and Daejojeon, the queen’s official residence. While Huijeongdang has been accessible during select special viewings since 2022, this month marks the f...",
+        "fullText": [
+          "Deep within the UNESCO-listed grounds of Changdeok Palace in central Seoul, behind grand wooden gates that once shielded Korea’s sovereign rulers from public gaze, lies an extraordinary architectural crossroads where centuries of dynastic tradition collide with early 20th-century Western luxury. Beginning Oct.",
+          "20, visitors will step directly into these private living quarters and official chambers through an exclusive guided program hosted by the Changdeok Palace Office under the Royal Palaces and Tombs Center of the National Heritage Service. The limited-run tour, titled “Entering the Inner Court of Changdeokgung: Living Spaces of the King and Queen,” offers rare entry into Huijeongdang — the royal bedchamber turned administrative hall — and Daejojeon, the queen’s official residence.",
+          "While Huijeongdang has been accessible during select special viewings since 2022, this month marks the f..."
+        ],
+        "words": [
+          "inside",
+          "private",
+          "chambers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Drought conditions reported in 97 regions nationwide",
+        "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20261013/drought-conditions-reported-in-97-regions-nationwide?utm_source=rss",
+        "summary": "Drought conditions have been reported in 97 regions across the country, with the situation particularly severe in Yeongcheon, North Gyeongsang Province, the interior ministry said Tuesday. Water storage levels in agricultural reservoirs nationwide stood at just 70 percent of the average for a normal year, the ministry said in its October drought report. The cumulative precipitation nationwide over the six months from April 2 to Oct. 1 totaled 783.3 millimeters, or 72.5 percent of the normal year average, the ministry said. As a result, meteorological drought conditions had been observed in 97 regions across the country as of Oct. 1. Of the 97 regions, 74 were classified as experiencing mild drought and 22 as moderate drought, while Yeongcheon, some 300 kilometers southeast of Seoul, was experiencing severe drought. However, the drought in Yeongcheon is expected to ease by the end of the...",
+        "fullText": [
+          "Drought conditions have been reported in 97 regions across the country, with the situation particularly severe in Yeongcheon, North Gyeongsang Province, the interior ministry said Tuesday. Water storage levels in agricultural reservoirs nationwide stood at just 70 percent of the average for a normal year, the ministry said in its October drought report.",
+          "The cumulative precipitation nationwide over the six months from April 2 to Oct. 1 totaled 783.",
+          "3 millimeters, or 72. 5 percent of the normal year average, the ministry said.",
+          "As a result, meteorological drought conditions had been observed in 97 regions across the country as of Oct. 1.",
+          "Of the 97 regions, 74 were classified as experiencing mild drought and 22 as moderate drought, while Yeongcheon, some 300 kilometers southeast of Seoul, was experiencing severe drought. However, the drought in Yeongcheon is expected to ease by the end of the..."
+        ],
+        "words": [
+          "drought",
+          "conditions",
+          "reported"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Nat'l football team star Lee Kang-in threatens legal action against 'groundless' rumors",
+        "url": "https://www.koreatimes.co.kr/sports/20261013/natl-football-team-star-lee-kang-in-threatens-legal-action-against-groundless-rumors?utm_source=rss",
+        "summary": "The agency for Korean football star Lee Kang-in warned of legal action Tuesday against \"groundless\" rumors accusing the midfielder of causing strife within the men's national team. \"We have confirmed the indiscriminate spread of rumors online regarding Lee Kang-in that could not be further from the truth,\" The Black Label said in a statement. \"Matters being discussed have nothing to do with Lee Kang-in and are groundless. We are gathering online comments and posts for spreading false rumors and possible defamation, and we will take legal action where necessary.\" The agency was referring to speculation that Lee, 24, had been responsible for disrupting chemistry inside the national team locker room. Following the most recent friendly match against Uzbekistan last Tuesday, three players born in 1996 — Kim Min-jae, Hwang Hee-chan and Hwang In-beom — reportedly offered to retire from internat...",
+        "fullText": [
+          "The agency for Korean football star Lee Kang-in warned of legal action Tuesday against \"groundless\" rumors accusing the midfielder of causing strife within the men's national team. \"We have confirmed the indiscriminate spread of rumors online regarding Lee Kang-in that could not be further from the truth,\" The Black Label said in a statement.",
+          "\"Matters being discussed have nothing to do with Lee Kang-in and are groundless. We are gathering online comments and posts for spreading false rumors and possible defamation, and we will take legal action where necessary.",
+          "\" The agency was referring to speculation that Lee, 24, had been responsible for disrupting chemistry inside the national team locker room. Following the most recent friendly match against Uzbekistan last Tuesday, three players born in 1996 — Kim Min-jae, Hwang Hee-chan and Hwang In-beom — reportedly offered to retire from internat..."
+        ],
+        "words": [
+          "football",
+          "kang-in",
+          "threatens"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "KAIST's HBM pioneer honored with S&T Innovation Award",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20261013/kaists-hbm-pioneer-honored-with-st-innovation-award?utm_source=rss",
+        "summary": "As artificial intelligence (AI) drives demand for ever-faster computing, Kim Joung-ho, a professor from Korea Advanced Institute of Science & Technology (KAIST), credited with helping lay the foundations for high-bandwidth memory (HBM), will receive a science and technology innovation award recognizing his contributions to Korea’s semiconductor industry. The Daejeon Development Committee will present the Science and Technology Innovation Award to Kim at 11 a.m. on Thursday at Lotte City Hotel Daejeon, honoring the professor for his research and role in advancing the development and commercialization of HBM. Kim, a professor in KAIST’s School of Electrical Engineering, has spent three decades researching next-generation memory technologies, including HBM, high-bandwidth flash and high-bandwidth SRAM, according to the committee. He proposed core concepts and the basic architecture of HBM a...",
+        "fullText": [
+          "As artificial intelligence (AI) drives demand for ever-faster computing, Kim Joung-ho, a professor from Korea Advanced Institute of Science & Technology (KAIST), credited with helping lay the foundations for high-bandwidth memory (HBM), will receive a science and technology innovation award recognizing his contributions to Korea’s semiconductor industry. The Daejeon Development Committee will present the Science and Technology Innovation Award to Kim at 11 a.",
+          "m. on Thursday at Lotte City Hotel Daejeon, honoring the professor for his research and role in advancing the development and commercialization of HBM.",
+          "Kim, a professor in KAIST’s School of Electrical Engineering, has spent three decades researching next-generation memory technologies, including HBM, high-bandwidth flash and high-bandwidth SRAM, according to the committee. He proposed core concepts and the basic architecture of HBM a..."
+        ],
+        "words": [
+          "pioneer",
+          "honored",
+          "innovation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US bases overseas are becoming prime targets",
+        "url": "https://www.koreatimes.co.kr/opinion/20261013/us-bases-overseas-are-becoming-prime-targets?utm_source=rss",
+        "summary": "The Pentagon’s abrupt withdrawal of a dozen long-range B-1 bombers from a British airbase raises a host of troubling questions. Vice President J.D. Vance said the move was made “out of an abundance of caution” after U.S. and British officials reportedly received warnings of a potential drone attack ordered by Iran’s Islamic Revolutionary Guard Corps. This naturally brings to mind Operation Spiderweb, the innovative Ukrainian strikes in June 2025 against Russian strategic bombers more than 1,000 miles from Kyiv. The Ukrainians moved their drones into Russia in trucks and then launched them with spectacular results. The Iranians, like every other military power, are paying attention to what’s going on in the world’s other major theater of war. Tehran has also been striking U.S. military bases in the Middle East for months, causing significant damage, especially to the headquarters of the N...",
+        "fullText": [
+          "The Pentagon’s abrupt withdrawal of a dozen long-range B-1 bombers from a British airbase raises a host of troubling questions. Vice President J.",
+          "D. Vance said the move was made “out of an abundance of caution” after U.",
+          "S. and British officials reportedly received warnings of a potential drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.",
+          "This naturally brings to mind Operation Spiderweb, the innovative Ukrainian strikes in June 2025 against Russian strategic bombers more than 1,000 miles from Kyiv. The Ukrainians moved their drones into Russia in trucks and then launched them with spectacular results.",
+          "The Iranians, like every other military power, are paying attention to what’s going on in the world’s other major theater of war. Tehran has also been striking U.",
+          "S. military bases in the Middle East for months, causing significant damage, especially to the headquarters of the N..."
+        ],
+        "words": [
+          "overseas",
+          "becoming",
+          "targets"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Arms agency to accelerate development of nuclear-powered subs, AI-driven combat systems",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261013/arms-agency-to-accelerate-development-of-nuclear-powered-subs-ai-driven-combat-systems?utm_source=rss",
+        "summary": "The arms procurement agency said Tuesday it will speed up the development of nuclear-powered submarines and acquisition of artificial intelligence (AI)-based combat assets, including unmanned and counter-drone systems. The Defense Acquisition Program Administration (DAPA) unveiled the plan in a parliamentary audit, as part of a broader road map to secure core capabilities for \"self-reliant\" defense amid Seoul's efforts to retake wartime operational control (OPCON) of troops from Washington and North Korea's evolving military threats. \"The agency will leverage existing organizations and capabilities to develop a nuclear propulsion system and establish a blueprint to construct nuclear-powered submarines,\" DAPA said in a document submitted to lawmakers. \"We plan to launch a full-scale acquisition of combat unmanned systems, such as combat uncrewed surface vessels and small attack drones, as...",
+        "fullText": [
+          "The arms procurement agency said Tuesday it will speed up the development of nuclear-powered submarines and acquisition of artificial intelligence (AI)-based combat assets, including unmanned and counter-drone systems. The Defense Acquisition Program Administration (DAPA) unveiled the plan in a parliamentary audit, as part of a broader road map to secure core capabilities for \"self-reliant\" defense amid Seoul's efforts to retake wartime operational control (OPCON) of troops from Washington and North Korea's evolving military threats.",
+          "\"The agency will leverage existing organizations and capabilities to develop a nuclear propulsion system and establish a blueprint to construct nuclear-powered submarines,\" DAPA said in a document submitted to lawmakers. \"We plan to launch a full-scale acquisition of combat unmanned systems, such as combat uncrewed surface vessels and small attack drones, as..."
+        ],
+        "words": [
+          "agency",
+          "accelerate",
+          "development"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "label": "Monday, October 12, 2026",
     "title": "Korea News Brief",
