@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-15",
+    "label": "Thursday, October 15, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Economy, Inter-Korea, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Hegseth's unserious address again shows his unfitness for office",
+        "url": "https://www.koreatimes.co.kr/opinion/20261015/hegseths-unserious-address-again-shows-his-unfitness-for-office?utm_source=rss",
+        "summary": "Nearly two years into his role as secretary of defense, Pete Hegseth has yet to leave his old job as a Fox News host behind. His recent “State of the Force” address at Quantico demonstrated once again that he’s more interested in fighting a culture war and delivering glib soundbites than he is in running the Pentagon. The speech was much like spectacle a year ago featuring Hegseth and his self-aggrandizing boss, President Donald Trump, who complained to more than 800 stone-faced generals and admirals that “woke” policies — i.e., ones designed to ensure minorities and women were treated fairly and professionally — had made the military weak. Many in last year’s crowd were visibly uncomfortable with the partisan nature of the remarks. This time, Hegseth chose an audience of junior officers and enlisted personnel, apparently hoping they’d be more receptive to his chest-thumping and preening...",
+        "fullText": [
+          "Nearly two years into his role as secretary of defense, Pete Hegseth has yet to leave his old job as a Fox News host behind. His recent “State of the Force” address at Quantico demonstrated once again that he’s more interested in fighting a culture war and delivering glib soundbites than he is in running the Pentagon.",
+          "The speech was much like spectacle a year ago featuring Hegseth and his self-aggrandizing boss, President Donald Trump, who complained to more than 800 stone-faced generals and admirals that “woke” policies — i. e.",
+          ", ones designed to ensure minorities and women were treated fairly and professionally — had made the military weak. Many in last year’s crowd were visibly uncomfortable with the partisan nature of the remarks.",
+          "This time, Hegseth chose an audience of junior officers and enlisted personnel, apparently hoping they’d be more receptive to his chest-thumping and preening..."
+        ],
+        "words": [
+          "hegseth",
+          "unserious",
+          "address"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Lee Soo-man's new girl group A2O Lite tops Melon chart",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261015/lee-soo-mans-new-girl-group-a2o-lite-tops-melon-chart?utm_source=rss",
+        "summary": "A2O Lite, the first girl group produced by former SM Entertainment chief Lee Soo-man, reached No. 1 on Korea's largest music streaming platform shortly after releasing its debut single, before falling to sixth place hours later, data showed Thursday. The group's debut digital single, \"Neon,\" had topped Melon's Top 100 chart by 11 p.m. on Wednesday, 29 hours after its release at 6 p.m. the previous day, according to music industry experts. It is unusual for a rookie group to top the chart within less than two days of a song's release, although it dropped to sixth place the following morning. As of 10 a.m. Thursday, Soyeon's \"I'm Gonna Toesa (feat. Kian84)\" returned to No. 1. A2O Lite is a nine-member group launched by A2O Entertainment, the company founded by Lee after he left SM Entertainment. Lee simultaneously introduced A2O Lite and 15-member boy group A2O Soul at a media showcase in...",
+        "fullText": [
+          "A2O Lite, the first girl group produced by former SM Entertainment chief Lee Soo-man, reached No. 1 on Korea's largest music streaming platform shortly after releasing its debut single, before falling to sixth place hours later, data showed Thursday.",
+          "The group's debut digital single, \"Neon,\" had topped Melon's Top 100 chart by 11 p. m.",
+          "on Wednesday, 29 hours after its release at 6 p. m.",
+          "the previous day, according to music industry experts. It is unusual for a rookie group to top the chart within less than two days of a song's release, although it dropped to sixth place the following morning.",
+          "As of 10 a. m.",
+          "Thursday, Soyeon's \"I'm Gonna Toesa (feat. Kian84)\" returned to No.",
+          "1. A2O Lite is a nine-member group launched by A2O Entertainment, the company founded by Lee after he left SM Entertainment.",
+          "Lee simultaneously introduced A2O Lite and 15-member boy group A2O Soul at a media showcase in..."
+        ],
+        "words": [
+          "soo-man",
+          "produced",
+          "former"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Zelenskyy says 'we count' on US partnership, urges Starlink switch-on",
+        "url": "https://www.koreatimes.co.kr/world/20261015/zelenskyy-says-we-count-on-us-partnership-urges-starlink-switch-on?utm_source=rss",
+        "summary": "LONDON — President Volodymyr Zelenskyy said Wednesday that Ukraine counts on its partnership with the United States despite agreeing he felt betrayed by President Donald Trump over an \"energy ceasefire\" and Russian diesel deal. In London — where he received a highly symbolic show of support from the British government — Zelenskyy also called on U.S. tech billionaire Elon Musk to restore the Starlink system used on the battlefield, which Kyiv says has been slowed down. After meeting King Charles III, Zelenskyy told U.K. Prime Minister Andy Burnham in Downing Street that Ukraine had endured \"massive attacks today and it is a pity we had also some difficulties,\" a reference to strained ties with Washington. Ukraine has accused the U.S. of helping Russia by failing to warn it of incoming missile strikes and hobbling its military response through changes to the Starlink system it uses on the...",
+        "fullText": [
+          "LONDON — President Volodymyr Zelenskyy said Wednesday that Ukraine counts on its partnership with the United States despite agreeing he felt betrayed by President Donald Trump over an \"energy ceasefire\" and Russian diesel deal. In London — where he received a highly symbolic show of support from the British government — Zelenskyy also called on U.",
+          "S. tech billionaire Elon Musk to restore the Starlink system used on the battlefield, which Kyiv says has been slowed down.",
+          "After meeting King Charles III, Zelenskyy told U. K.",
+          "Prime Minister Andy Burnham in Downing Street that Ukraine had endured \"massive attacks today and it is a pity we had also some difficulties,\" a reference to strained ties with Washington. Ukraine has accused the U.",
+          "S. of helping Russia by failing to warn it of incoming missile strikes and hobbling its military response through changes to the Starlink system it uses on the..."
+        ],
+        "words": [
+          "zelenskyy",
+          "partnership",
+          "starlink"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump press secretary Katie Zacharia faces scrutiny over claims she's a lawyer",
+        "url": "https://www.koreatimes.co.kr/world/20261015/trump-press-secretary-katie-zacharia-faces-scrutiny-over-claims-shes-a-lawyer?utm_source=rss",
+        "summary": "NEW YORK — The new White House press secretary is facing mounting questions about her background and resume as she transitions into her role as the public face of the Trump administration. Katie Zacharia has long described herself as a lawyer as she has worked to establish herself as a commentator for conservative outlets like Fox News and Newsmax. But so far, she and the White House have offered no evidence that she passed the bar exam in any state or in China, where she worked for a large law firm years ago. The questions add to the confusion surrounding President Donald Trump's decision to hire Zacharia , who had worked for his social media company for only a few months when he announced her appointment and whose debut at the podium on Tuesday has been widely panned. Afterward, the president was asked by reporters where Zacharia had passed the bar exam, following a report by the indep...",
+        "fullText": [
+          "NEW YORK — The new White House press secretary is facing mounting questions about her background and resume as she transitions into her role as the public face of the Trump administration. Katie Zacharia has long described herself as a lawyer as she has worked to establish herself as a commentator for conservative outlets like Fox News and Newsmax.",
+          "But so far, she and the White House have offered no evidence that she passed the bar exam in any state or in China, where she worked for a large law firm years ago. The questions add to the confusion surrounding President Donald Trump's decision to hire Zacharia , who had worked for his social media company for only a few months when he announced her appointment and whose debut at the podium on Tuesday has been widely panned.",
+          "Afterward, the president was asked by reporters where Zacharia had passed the bar exam, following a report by the indep..."
+        ],
+        "words": [
+          "secretary",
+          "zacharia",
+          "scrutiny"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea tests 2 types of submarine-launched strategic cruise missiles: KCNA",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261015/n-korea-tests-2-types-of-submarine-launched-strategic-cruise-missiles-kcna?utm_source=rss",
+        "summary": "North Korea said Thursday it tested two types of submarine-launched strategic cruise missiles in the East Sea the previous day. \"The test-fire aimed to examine the current mobilized posture of the underwater combat systems and contributed to getting the Navy skilled in performing its strategic missions and showcasing high reliability, trustworthiness and ability of the war deterrents of the DPRK,\" the North's Korean Central News Agency said in an English dispatch. DPRK stands for North Korea's official name, the Democratic People's Republic of Korea. The test was overseen by Kim Jong-sil, a member of the Central Military Commission of the Workers' Party of Korea, Jang Chang-ha, director-general of the Missile Administration and the Navy's underwater weapon system engineers, the report said. The Rodong Sinmun, the country's the most widely read paper, did not report the launch. The report...",
+        "fullText": [
+          "North Korea said Thursday it tested two types of submarine-launched strategic cruise missiles in the East Sea the previous day. \"The test-fire aimed to examine the current mobilized posture of the underwater combat systems and contributed to getting the Navy skilled in performing its strategic missions and showcasing high reliability, trustworthiness and ability of the war deterrents of the DPRK,\" the North's Korean Central News Agency said in an English dispatch.",
+          "DPRK stands for North Korea's official name, the Democratic People's Republic of Korea. The test was overseen by Kim Jong-sil, a member of the Central Military Commission of the Workers' Party of Korea, Jang Chang-ha, director-general of the Missile Administration and the Navy's underwater weapon system engineers, the report said.",
+          "The Rodong Sinmun, the country's the most widely read paper, did not report the launch. The report..."
+        ],
+        "words": [
+          "submarine-launched",
+          "strategic",
+          "cruise"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[INTERVIEW] Alaska Airlines eyes Asia expansion as Korea route gains traction",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261015/interview-alaska-airlines-eyes-asia-expansion-as-korea-route-gains-traction?utm_source=rss",
+        "summary": "SEATTLE — Alaska Airlines is looking to expand its presence in Asia as its Incheon-Seattle route gains traction, with Korea emerging as a key market in the U.S. carrier’s expanding international network. The airline recorded load factors of 82 percent in June, 84 percent in July and 79 percent in August on the route, marking a strong start in its first full year of operations. The figures exceeded expectations for a new route, which typically takes about three years to mature as the airline adjusts schedules and connections to meet passenger demand. \"Those are really good, strong load factors for the first year of a new route,\" Shane Tackett, president and chief financial officer of Alaska Airlines, said in an interview with The Korea Times on Sept. 29. He added that one month ranked among Alaska's best-performing international routes financially before fuel prices increased significantl...",
+        "fullText": [
+          "SEATTLE — Alaska Airlines is looking to expand its presence in Asia as its Incheon-Seattle route gains traction, with Korea emerging as a key market in the U. S.",
+          "carrier’s expanding international network. The airline recorded load factors of 82 percent in June, 84 percent in July and 79 percent in August on the route, marking a strong start in its first full year of operations.",
+          "The figures exceeded expectations for a new route, which typically takes about three years to mature as the airline adjusts schedules and connections to meet passenger demand. \"Those are really good, strong load factors for the first year of a new route,\" Shane Tackett, president and chief financial officer of Alaska Airlines, said in an interview with The Korea Times on Sept.",
+          "29. He added that one month ranked among Alaska's best-performing international routes financially before fuel prices increased significantl..."
+        ],
+        "words": [
+          "interview",
+          "alaska",
+          "airlines"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hyundai Motor's tech bets face headwinds as core business loses steam",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261015/hyundai-motors-tech-bets-face-headwinds-as-core-business-loses-steam?utm_source=rss",
+        "summary": "Hyundai Motor’s weakening auto profitability is raising questions about the sustainability of its costly investments in robotics and autonomous driving, as the technologies remain years away from generating significant earnings. The company is betting on Boston Dynamics’ Atlas humanoid robot, its own software-defined vehicle (SDV) and autonomous driving capabilities as three core pillars for its future mobility. Yet those businesses are far from generating tangible earnings, leaving Hyundai increasingly dependent on its conventional auto business which faces mounting earnings pressure from labor disputes at home, tariffs from the United States and intensifying competition from Chinese automakers in Europe. The timing gap between its weakening core business and future growth engines is becoming harder for investors to overlook. Hyundai’s shares have fallen around 60 percent from their Jun...",
+        "fullText": [
+          "Hyundai Motor’s weakening auto profitability is raising questions about the sustainability of its costly investments in robotics and autonomous driving, as the technologies remain years away from generating significant earnings. The company is betting on Boston Dynamics’ Atlas humanoid robot, its own software-defined vehicle (SDV) and autonomous driving capabilities as three core pillars for its future mobility.",
+          "Yet those businesses are far from generating tangible earnings, leaving Hyundai increasingly dependent on its conventional auto business which faces mounting earnings pressure from labor disputes at home, tariffs from the United States and intensifying competition from Chinese automakers in Europe. The timing gap between its weakening core business and future growth engines is becoming harder for investors to overlook.",
+          "Hyundai’s shares have fallen around 60 percent from their Jun..."
+        ],
+        "words": [
+          "hyundai",
+          "headwinds",
+          "business"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "label": "Wednesday, October 14, 2026",
     "title": "Korea News Brief",
