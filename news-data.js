@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-14",
+    "label": "Wednesday, October 14, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Law, Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Employee arrested after listening device found in OpenAI conference room",
+        "url": "https://www.koreatimes.co.kr/world/20261014/employee-arrested-after-listening-device-found-in-openai-conference-room?utm_source=rss",
+        "summary": "WASHINGTON — An engineer at OpenAI has been charged with secretly installing a recording device inside a conference room in what officials said Tuesday was an effort to capture sensitive conversations about the company's technology . The employee, identified as a 35-year-old Saudi national named Abdulrahman Alfozan, was arrested Friday, a week after the ChatGPT maker discovered an audio recording device hidden inside a company conference room, according to a criminal complaint filed in federal court in San Francisco. The complaint did not identify the company, but the company confirmed in a separate statement that it had discovered a “sophisticated recording device that was hidden inside one of our offices,\" reported the finding to the FBI and fired the employee. “We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a...",
+        "fullText": [
+          "WASHINGTON — An engineer at OpenAI has been charged with secretly installing a recording device inside a conference room in what officials said Tuesday was an effort to capture sensitive conversations about the company's technology . The employee, identified as a 35-year-old Saudi national named Abdulrahman Alfozan, was arrested Friday, a week after the ChatGPT maker discovered an audio recording device hidden inside a company conference room, according to a criminal complaint filed in federal court in San Francisco.",
+          "The complaint did not identify the company, but the company confirmed in a separate statement that it had discovered a “sophisticated recording device that was hidden inside one of our offices,\" reported the finding to the FBI and fired the employee. “We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a..."
+        ],
+        "words": [
+          "employee",
+          "arrested",
+          "listening"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Wyoming grad student who allegedly poisoned colleague arrested before fleeing to China",
+        "url": "https://www.koreatimes.co.kr/world/20261014/wyoming-grad-student-who-allegedly-poisoned-colleague-arrested-before-fleeing-to-china?utm_source=rss",
+        "summary": "CHEYENNE, Wyo. — A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a fellow student who had pending patents and with whom she didn’t get along, then tried to flee the country after police questioned her. Aili Wang, 32, was arrested Oct. 6 at Los Angeles International Airport, where prosecutors allege she sought to return to China. With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in research similar to what she once did in China. Wang remained jailed without bail Tuesday in Los Angeles. She allegedly bought a chemical, acrylamide, over eBay, and it was first detected when the alleged victim’s wife and others tested water from the coffee maker he used to brew tea. U.S. officials for...",
+        "fullText": [
+          "CHEYENNE, Wyo. — A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a fellow student who had pending patents and with whom she didn’t get along, then tried to flee the country after police questioned her.",
+          "Aili Wang, 32, was arrested Oct. 6 at Los Angeles International Airport, where prosecutors allege she sought to return to China.",
+          "With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in research similar to what she once did in China. Wang remained jailed without bail Tuesday in Los Angeles.",
+          "She allegedly bought a chemical, acrylamide, over eBay, and it was first detected when the alleged victim’s wife and others tested water from the coffee maker he used to brew tea. U.",
+          "S. officials for..."
+        ],
+        "words": [
+          "wyoming",
+          "student",
+          "allegedly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'Doctor X: Mafia in White' tops Netflix's weekly non-English TV chart",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261014/doctor-x-mafia-in-white-tops-netflixs-weekly-non-english-tv-chart?utm_source=rss",
+        "summary": "The Korean medical drama \"Doctor X: Mafia in White\" debuted at No. 1 on Netflix's non-English TV series chart, the streaming platform said Wednesday. The SBS drama, starring Kim Ji-won, accumulated 4.6 million views during the latest tracking week ending Sunday, according to Netflix. It reached the top 10 in 36 countries and topped the chart in seven of them, including South Korea, Indonesia, the Philippines and Thailand. The series, based on the Japanese series \"Doctor-X: Surgeon Michiko Daimon,\" portrays Kim as a genius surgeon who challenges corruption in her hospital. Elsewhere on the chart, the Netflix original series \"Take Charge of My Heart\" ranked third with 3 million views in the same period. It landed on the top 10 in 44 countries in its first week of release. Based on a web fiction of the same title, the romantic comedy follows a corporate heir with a failing artificial heart...",
+        "fullText": [
+          "The Korean medical drama \"Doctor X: Mafia in White\" debuted at No. 1 on Netflix's non-English TV series chart, the streaming platform said Wednesday.",
+          "The SBS drama, starring Kim Ji-won, accumulated 4. 6 million views during the latest tracking week ending Sunday, according to Netflix.",
+          "It reached the top 10 in 36 countries and topped the chart in seven of them, including South Korea, Indonesia, the Philippines and Thailand. The series, based on the Japanese series \"Doctor-X: Surgeon Michiko Daimon,\" portrays Kim as a genius surgeon who challenges corruption in her hospital.",
+          "Elsewhere on the chart, the Netflix original series \"Take Charge of My Heart\" ranked third with 3 million views in the same period. It landed on the top 10 in 44 countries in its first week of release.",
+          "Based on a web fiction of the same title, the romantic comedy follows a corporate heir with a failing artificial heart..."
+        ],
+        "words": [
+          "doctor",
+          "netflix",
+          "weekly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Raise a family, then pursue a career? The math doesn't work",
+        "url": "https://www.koreatimes.co.kr/opinion/20261014/raise-a-family-then-pursue-a-career-the-math-doesnt-work?utm_source=rss",
+        "summary": "Social conservatives now assure American women they can still “have it all” if they just do it in sequence, starting with early motherhood and later taking on a job. The Heritage Foundation’s Project 2025 Report claims it’s a mistake for women to postpone childbearing to pursue higher education and begin their careers. Heritage spokeswoman Emma Waters advises women: “Use your twenties and early thirties for babies and brainstorming. … Then, in your forties and fifties, accelerate professionally as your children grow older if you want to.” Yet analysis of recent Census Bureau data suggests one huge problem with following this cheerful advice. More than half of American mothers become the family breadwinner, responsible for more than 60% of household earnings, by the time their first child turns 8. More than 70% of mothers become the chief household breadwinner before their first child rea...",
+        "fullText": [
+          "Social conservatives now assure American women they can still “have it all” if they just do it in sequence, starting with early motherhood and later taking on a job. The Heritage Foundation’s Project 2025 Report claims it’s a mistake for women to postpone childbearing to pursue higher education and begin their careers.",
+          "Heritage spokeswoman Emma Waters advises women: “Use your twenties and early thirties for babies and brainstorming. … Then, in your forties and fifties, accelerate professionally as your children grow older if you want to.",
+          "” Yet analysis of recent Census Bureau data suggests one huge problem with following this cheerful advice. More than half of American mothers become the family breadwinner, responsible for more than 60% of household earnings, by the time their first child turns 8.",
+          "More than 70% of mothers become the chief household breadwinner before their first child rea..."
+        ],
+        "words": [
+          "family",
+          "pursue",
+          "career"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump administration cuts refugees' deadline to contest status termination, raising fears",
+        "url": "https://www.koreatimes.co.kr/world/20261014/trump-administration-cuts-refugees-deadline-to-contest-status-termination-raising-fears?utm_source=rss",
+        "summary": "MIAMI — The Trump administration is cutting the time refugees have to contest the termination of their status, a move critics say could put tens of thousands of people who fled persecution and wars in their home countries on a path to deportation. The new policy, which goes into effect Wednesday, reduces from 30 to 10 the number of days refugees have to challenge the revocation of their status. It is part of a broader effort by the Trump administration to restrict and transform a program that has served for decades as a pathway for refugees. The goal of the new policy, according to the document, is to “mitigate potential risks” associated with people who were admitted as refugees but were not eligible for refugee status. The policy does not say exactly how many people could be affected, but it specifically refers to refugees admitted during President Joe Biden’s administration , when it...",
+        "fullText": [
+          "MIAMI — The Trump administration is cutting the time refugees have to contest the termination of their status, a move critics say could put tens of thousands of people who fled persecution and wars in their home countries on a path to deportation. The new policy, which goes into effect Wednesday, reduces from 30 to 10 the number of days refugees have to challenge the revocation of their status.",
+          "It is part of a broader effort by the Trump administration to restrict and transform a program that has served for decades as a pathway for refugees. The goal of the new policy, according to the document, is to “mitigate potential risks” associated with people who were admitted as refugees but were not eligible for refugee status.",
+          "The policy does not say exactly how many people could be affected, but it specifically refers to refugees admitted during President Joe Biden’s administration , when it..."
+        ],
+        "words": [
+          "administration",
+          "refugees",
+          "deadline"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "How g.o.d's Son Ho-young learned to take long way into solo career",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261014/how-gods-son-ho-young-learned-to-take-long-way-into-solo-career?utm_source=rss",
+        "summary": "For most of his career, Son Ho-young of legendary K-pop boy band g.o.d, believed that enough effort could fix anything, and that belief led him to spend eight hours a day on vocal practice for many years. Two decades into his solo career, the veteran idol has arrived at a gentler conclusion: Some things don't give way no matter how hard you push, and sometimes taking the long way around is how they finally work out. That idea runs through \"Go Around,\" the digital single he drops Wednesday to mark the 20th anniversary of his solo debut and his first solo track in about five years. The 46-year-old will follow it with \"HORIZON,\" his first solo concert in five years, on Oct. 31 and Nov. 1 at KBS Arena in Gangseo District, western Seoul. Son rose to fame as one of the five members of g.o.d, which debuted in 1999 under JYP Entertainment founder Park Jin-young with \"To Mother,\" a song about a b...",
+        "fullText": [
+          "For most of his career, Son Ho-young of legendary K-pop boy band g. o.",
+          "d, believed that enough effort could fix anything, and that belief led him to spend eight hours a day on vocal practice for many years. Two decades into his solo career, the veteran idol has arrived at a gentler conclusion: Some things don't give way no matter how hard you push, and sometimes taking the long way around is how they finally work out.",
+          "That idea runs through \"Go Around,\" the digital single he drops Wednesday to mark the 20th anniversary of his solo debut and his first solo track in about five years. The 46-year-old will follow it with \"HORIZON,\" his first solo concert in five years, on Oct.",
+          "31 and Nov. 1 at KBS Arena in Gangseo District, western Seoul.",
+          "Son rose to fame as one of the five members of g. o.",
+          "d, which debuted in 1999 under JYP Entertainment founder Park Jin-young with \"To Mother,\" a song about a b..."
+        ],
+        "words": [
+          "ho-young",
+          "learned",
+          "career"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Saudi Ministry of Energy reports limited fire in building in Aramco compound targeted in attack",
+        "url": "https://www.koreatimes.co.kr/world/20261014/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack?utm_source=rss",
+        "summary": "CAIRO — A limited fire broke out Tuesday in an administrative building at Aramco, one of the world’s largest oil facilities, that was targeted in an attack in the country’s Eastern Province, Saudi Arabia's Ministry of Energy said. The ministry said no injuries were reported. The attack came as the Iranian-backed Houthis and the Saudi coalition fighting them exchanged attacks Tuesday night. The fighting marked a fresh escalation in the widening Middle East crisis and came shortly after the Saudi coalition reported a series of alerts for incoming missiles heading for the Eastern Province, a major oil-producing region, and the capital Riyadh. Saudi Arabia’s Civil Defense said debris from two intercepted Houthi missiles fell on residential areas in Riyadh, injuring four people and damaging 15 homes. The coalition of forces in Yemen led by Saudi Arabia carried out new airstrikes Tuesday on th...",
+        "fullText": [
+          "CAIRO — A limited fire broke out Tuesday in an administrative building at Aramco, one of the world’s largest oil facilities, that was targeted in an attack in the country’s Eastern Province, Saudi Arabia's Ministry of Energy said. The ministry said no injuries were reported.",
+          "The attack came as the Iranian-backed Houthis and the Saudi coalition fighting them exchanged attacks Tuesday night. The fighting marked a fresh escalation in the widening Middle East crisis and came shortly after the Saudi coalition reported a series of alerts for incoming missiles heading for the Eastern Province, a major oil-producing region, and the capital Riyadh.",
+          "Saudi Arabia’s Civil Defense said debris from two intercepted Houthi missiles fell on residential areas in Riyadh, injuring four people and damaging 15 homes. The coalition of forces in Yemen led by Saudi Arabia carried out new airstrikes Tuesday on th..."
+        ],
+        "words": [
+          "ministry",
+          "energy",
+          "reports"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "label": "Tuesday, October 13, 2026",
     "title": "Korea News Brief",
