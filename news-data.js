@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-16",
+    "label": "Friday, October 16, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea adds 113,000 jobs in September",
+        "url": "https://www.koreatimes.co.kr/economy/20261016/korea-adds-113000-jobs-in-september?utm_source=rss",
+        "summary": "Korea added 113,000 jobs in September, marking three consecutive months of employment gains over 100,000, government data showed Friday. The number of employed people came to 29.26 million in September, compared with 29.15 million a year earlier, according to the data from the Ministry of Data and Statistics. The country's jobless rate came to 2 percent last month, down 0.1 percent from a year earlier. The employment rate for people aged 15 to 29 came to 44 percent, down 1.1 percentage points from a year earlier.",
+        "fullText": [
+          "Korea added 113,000 jobs in September, marking three consecutive months of employment gains over 100,000, government data showed Friday. The number of employed people came to 29.",
+          "26 million in September, compared with 29. 15 million a year earlier, according to the data from the Ministry of Data and Statistics.",
+          "The country's jobless rate came to 2 percent last month, down 0. 1 percent from a year earlier.",
+          "The employment rate for people aged 15 to 29 came to 44 percent, down 1. 1 percentage points from a year earlier."
+        ],
+        "words": [
+          "september",
+          "marking",
+          "consecutive"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Import prices rebound in Sept. on higher oil prices",
+        "url": "https://www.koreatimes.co.kr/economy/20261016/import-prices-rebound-in-sept-on-higher-oil-prices?utm_source=rss",
+        "summary": "Import prices rebounded for the first time in four months in September due to a rise in oil prices amid renewed Middle East uncertainties, central bank data showed Friday. The import price index rose 1.7 percent on-month last month, ending a three-month losing streak that started in June, according to the preliminary data from the Bank of Korea (BOK). The BOK said the turnaround came as the price of Dubai crude, Korea's benchmark, surged 28.1 percent on-month to $113.71 in September, amid a resurgence of military tensions in the Middle East. Prices of raw materials jumped 9.6 percent in September from a month earlier, while intermediate goods dropped 1.7 percent over the cited period, according to the BOK data. Import prices are a key driver of inflation, as they affect production costs and consumer prices throughout the supply chain, according to the central bank. Meanwhile, the export...",
+        "fullText": [
+          "Import prices rebounded for the first time in four months in September due to a rise in oil prices amid renewed Middle East uncertainties, central bank data showed Friday. The import price index rose 1.",
+          "7 percent on-month last month, ending a three-month losing streak that started in June, according to the preliminary data from the Bank of Korea (BOK). The BOK said the turnaround came as the price of Dubai crude, Korea's benchmark, surged 28.",
+          "1 percent on-month to $113. 71 in September, amid a resurgence of military tensions in the Middle East.",
+          "Prices of raw materials jumped 9. 6 percent in September from a month earlier, while intermediate goods dropped 1.",
+          "7 percent over the cited period, according to the BOK data. Import prices are a key driver of inflation, as they affect production costs and consumer prices throughout the supply chain, according to the central bank.",
+          "Meanwhile, the export..."
+        ],
+        "words": [
+          "import",
+          "prices",
+          "rebound"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Farm raising beef for tables around the world faces threat from data center construction",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261016/farm-raising-beef-for-tables-around-the-world-faces-threat-from-data-center-construction?utm_source=rss",
+        "summary": "A fierce battle over artificial intelligence (AI) data centers, which are increasingly being seen as unwanted facilities, is erupting around the world among governments, companies and local residents. Korea, which is also moving quickly to expand AI data centers as one of the government's three megaprojects, is no exception. Where can we find clues to resolving these conflicts? To find answers, a Hankook Ilbo reporting team traveled to Australia Aug. 7-14 for a field investigation into how the country is preparing for the future with AI data centers. Australia is seeking to make AI data centers its next major growth industry after minerals and wool. Residents are banding together to make their voices heard and searching for rules that will allow people and AI data centers to coexist. In August, winter fog in the Southern Hemisphere swallowed the morning sunlight, leaving a farm in darkne...",
+        "fullText": [
+          "A fierce battle over artificial intelligence (AI) data centers, which are increasingly being seen as unwanted facilities, is erupting around the world among governments, companies and local residents. Korea, which is also moving quickly to expand AI data centers as one of the government's three megaprojects, is no exception.",
+          "Where can we find clues to resolving these conflicts? To find answers, a Hankook Ilbo reporting team traveled to Australia Aug.",
+          "7-14 for a field investigation into how the country is preparing for the future with AI data centers. Australia is seeking to make AI data centers its next major growth industry after minerals and wool.",
+          "Residents are banding together to make their voices heard and searching for rules that will allow people and AI data centers to coexist. In August, winter fog in the Southern Hemisphere swallowed the morning sunlight, leaving a farm in darkne..."
+        ],
+        "words": [
+          "raising",
+          "tables",
+          "around"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'Hope,' 'The Assassin(s)' show widening gap between reviews, viewers",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20261016/hope-the-assassins-show-widening-gap-between-reviews-viewers?utm_source=rss",
+        "summary": "Is there a right way to enjoy a movie? How a movie makes us feel is personal, and everyone should be free to speak their mind — yet two major Korean movies released this year show how starkly different those reactions can be. As of Wednesday, Na Hong-jin's \"Hope\" has been seen by 4.59 million viewers, while Hur Jin-ho's \"The Assassin(s)\" has drawn 3.08 million. Together, the films demonstrate a gap between critics' verdicts and ordinary audience reactions. \"Hope\" is a classic case of mixed expectations. Made with a massive budget, it arrived in July as Na's first feature since \"The Wailing\" in 2016. Many viewers walked in expecting a tense thriller and walked out confused or angry. Common complaints were that the story felt thin, the ending felt at odds with the rest of the film and the computer graphics felt awkward. Some felt the movie was not a complete story and just a setup for a se...",
+        "fullText": [
+          "Is there a right way to enjoy a movie? How a movie makes us feel is personal, and everyone should be free to speak their mind — yet two major Korean movies released this year show how starkly different those reactions can be.",
+          "As of Wednesday, Na Hong-jin's \"Hope\" has been seen by 4. 59 million viewers, while Hur Jin-ho's \"The Assassin(s)\" has drawn 3.",
+          "08 million. Together, the films demonstrate a gap between critics' verdicts and ordinary audience reactions.",
+          "\"Hope\" is a classic case of mixed expectations. Made with a massive budget, it arrived in July as Na's first feature since \"The Wailing\" in 2016.",
+          "Many viewers walked in expecting a tense thriller and walked out confused or angry. Common complaints were that the story felt thin, the ending felt at odds with the rest of the film and the computer graphics felt awkward.",
+          "Some felt the movie was not a complete story and just a setup for a se..."
+        ],
+        "words": [
+          "assassin",
+          "widening",
+          "between"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[WEEKENDER] 'Why not Gangnam?': Data center boom fuels fear in neighborhoods kept in the dark",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261016/weekender-why-not-gangnam-data-center-boom-fuels-fear-in-neighborhoods-kept-in-the-dark?utm_source=rss",
+        "summary": "About 20 people gather every morning in front of Geumcheon District Office in southwestern Seoul, holding signs and staging protests. Most are in their 50s and 60s and live in a large apartment complex identified only as \"L,\" home to more than 1,700 households. Their protest, which they say is the first demonstration they have ever taken part in, marked its 203rd consecutive day on Sept. 21. They might be expected to be tired by now, but it is anger rather than fatigue that shows on their faces. The protesters are vehemently opposed to a data center. About 100 meters from the entrance to their apartment complex, construction of an eight-story data center has been underway for 11 months. Ko Young-chan, 33, a two-term member of the Geumcheon District Council who lives in L Apartment, said, \"It seems data center developers came here thinking, 'Land prices in a place like Geumcheon District...",
+        "fullText": [
+          "About 20 people gather every morning in front of Geumcheon District Office in southwestern Seoul, holding signs and staging protests. Most are in their 50s and 60s and live in a large apartment complex identified only as \"L,\" home to more than 1,700 households.",
+          "Their protest, which they say is the first demonstration they have ever taken part in, marked its 203rd consecutive day on Sept. 21.",
+          "They might be expected to be tired by now, but it is anger rather than fatigue that shows on their faces. The protesters are vehemently opposed to a data center.",
+          "About 100 meters from the entrance to their apartment complex, construction of an eight-story data center has been underway for 11 months. Ko Young-chan, 33, a two-term member of the Geumcheon District Council who lives in L Apartment, said, \"It seems data center developers came here thinking, 'Land prices in a place like Geumcheon District..."
+        ],
+        "words": [
+          "weekender",
+          "gangnam",
+          "center"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul Whistler Film Festival explores stories of injustice, resistance",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20261016/seoul-whistler-film-festival-explores-stories-of-injustice-resistance?utm_source=rss",
+        "summary": "A whistle is about the simplest instrument there is. It takes one breath to blow, and once it sounds, it's hard to ignore. The Seoul Whistler Film Festival (SWFF) is built around the people who take that breath. For its third year, it's making considerably more noise. The festival will run Oct. 23-25 at Arthouse Momo, the independent cinema located inside Ewha Womans University's ECC complex in western Seoul. It will screen 47 films from 18 countries: 10 features and 37 shorts, animations and experimental works. The \"whistler\" in the name is the whistleblower. SWFF's mission is to tell the stories of people who resist and speak out for justice, human rights, peace, life, the environment and democracy. It also tells the stories of people who expose the pain, conflict and absurdity they carry inside. \"Both threads run through the lineup, often in the same film,\" said Yoon Sol-ji, the festi...",
+        "fullText": [
+          "A whistle is about the simplest instrument there is. It takes one breath to blow, and once it sounds, it's hard to ignore.",
+          "The Seoul Whistler Film Festival (SWFF) is built around the people who take that breath. For its third year, it's making considerably more noise.",
+          "The festival will run Oct. 23-25 at Arthouse Momo, the independent cinema located inside Ewha Womans University's ECC complex in western Seoul.",
+          "It will screen 47 films from 18 countries: 10 features and 37 shorts, animations and experimental works. The \"whistler\" in the name is the whistleblower.",
+          "SWFF's mission is to tell the stories of people who resist and speak out for justice, human rights, peace, life, the environment and democracy. It also tells the stories of people who expose the pain, conflict and absurdity they carry inside.",
+          "\"Both threads run through the lineup, often in the same film,\" said Yoon Sol-ji, the festi..."
+        ],
+        "words": [
+          "whistler",
+          "festival",
+          "explores"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Bipartisan US Senate bill reaffirms 'ironclad' nuclear deterrence pledge to S. Korea",
+        "url": "https://www.koreatimes.co.kr/world/20261016/bipartisan-us-senate-bill-reaffirms-ironclad-nuclear-deterrence-pledge-to-s-korea?utm_source=rss",
+        "summary": "WASHINGTON — Two U.S. senators have introduced bipartisan legislation seeking to reaffirm Washington's \"ironclad\" extended nuclear deterrence commitments to South Korea and other treaty allies, amid growing nuclear threats from North Korea, China and Russia. The Reaffirming Extended Nuclear Deterrence Act, introduced by Sen. Mark Kelly (D-AZ) late last month and cosponsored by Sen. Thom Tillis (R-NC), calls for maintaining a credible U.S. nuclear deterrent supported by conventional military capabilities, joint exercises and strategic consultations with allies. The bill states that United States should \"reaffirm that its extended deterrence commitments to its treaty allies remain ironclad\" and ensure that its military posture, exercises, strategic consultations and defense investments demonstrate The legislation specifically identifies South Korea, Japan, Australia and members of the Nort...",
+        "fullText": [
+          "WASHINGTON — Two U. S.",
+          "senators have introduced bipartisan legislation seeking to reaffirm Washington's \"ironclad\" extended nuclear deterrence commitments to South Korea and other treaty allies, amid growing nuclear threats from North Korea, China and Russia. The Reaffirming Extended Nuclear Deterrence Act, introduced by Sen.",
+          "Mark Kelly (D-AZ) late last month and cosponsored by Sen. Thom Tillis (R-NC), calls for maintaining a credible U.",
+          "S. nuclear deterrent supported by conventional military capabilities, joint exercises and strategic consultations with allies.",
+          "The bill states that United States should \"reaffirm that its extended deterrence commitments to its treaty allies remain ironclad\" and ensure that its military posture, exercises, strategic consultations and defense investments demonstrate The legislation specifically identifies South Korea, Japan, Australia and members of the Nort..."
+        ],
+        "words": [
+          "bipartisan",
+          "senate",
+          "reaffirms"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "label": "Thursday, October 15, 2026",
     "title": "Korea News Brief",
