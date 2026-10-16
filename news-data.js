@@ -1,5 +1,158 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-17",
+    "label": "Saturday, October 17, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Law, Politics, Economy, Weather, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Incheon stabbing raises questions over effectiveness of electronic ankle monitors",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261017/incheon-stabbing-raises-questions-over-effectiveness-of-electronic-ankle-monitors?utm_source=rss",
+        "summary": "The recent stabbing rampage in Incheon by a repeat violent offender wearing an electronic ankle monitor has raised doubts about the system's ability to prevent violent crime. The case has sparked calls for tighter supervision of high-risk offenders, beyond simply tracking their movements. On Tuesday, a man in his 50s previously convicted of attempted murder went on a stabbing attack at a shopping complex in Incheon, injuring nine people. The suspect was wearing an electronic ankle monitor despite having repeatedly violated his supervision conditions and recently been booked by police for possessing a weapon. The suspect was sentenced to four years in prison in 2015 for attempting to murder his ex-wife by stabbing her. After his release in 2019, he was required to wear an electronic ankle monitor until 2029. Despite the monitoring, he was fined in 2021 for violating his curfew four times...",
+        "fullText": [
+          "The recent stabbing rampage in Incheon by a repeat violent offender wearing an electronic ankle monitor has raised doubts about the system's ability to prevent violent crime. The case has sparked calls for tighter supervision of high-risk offenders, beyond simply tracking their movements.",
+          "On Tuesday, a man in his 50s previously convicted of attempted murder went on a stabbing attack at a shopping complex in Incheon, injuring nine people. The suspect was wearing an electronic ankle monitor despite having repeatedly violated his supervision conditions and recently been booked by police for possessing a weapon.",
+          "The suspect was sentenced to four years in prison in 2015 for attempting to murder his ex-wife by stabbing her. After his release in 2019, he was required to wear an electronic ankle monitor until 2029.",
+          "Despite the monitoring, he was fined in 2021 for violating his curfew four times..."
+        ],
+        "words": [
+          "incheon",
+          "stabbing",
+          "raises"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Korean 'haenyeo' diver honored by UN for work in food systems, rural life",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20261017/korean-haenyeo-diver-honored-by-un-for-work-in-food-systems-rural-life?utm_source=rss",
+        "summary": "When Sung Jung-hee slips into the cold waters off Korea’s eastern coast, she wears no oxygen tank — just a mask, a weight belt and four decades of practical instincts from making her living harvesting the ocean floor by hand. That lifetime of hard labor and leadership earned international recognition earlier this week when the Food and Agriculture Organization of the United Nations named Sung one of 100 women honored globally for their contributions to food systems and rural life. Timed to mark the International Year of the Woman Farmer, the distinction recognizes 100 visionary leaders, scientists and community advocates driving sustainable change across global food and maritime networks. Selected from nearly 600 nominees submitted by member nations, Sung is the only honoree from Korea. Sung also serves as head of the Guryongpo fishing community and president of the Gyeongsangbuk-do Haen...",
+        "fullText": [
+          "When Sung Jung-hee slips into the cold waters off Korea’s eastern coast, she wears no oxygen tank — just a mask, a weight belt and four decades of practical instincts from making her living harvesting the ocean floor by hand. That lifetime of hard labor and leadership earned international recognition earlier this week when the Food and Agriculture Organization of the United Nations named Sung one of 100 women honored globally for their contributions to food systems and rural life.",
+          "Timed to mark the International Year of the Woman Farmer, the distinction recognizes 100 visionary leaders, scientists and community advocates driving sustainable change across global food and maritime networks. Selected from nearly 600 nominees submitted by member nations, Sung is the only honoree from Korea.",
+          "Sung also serves as head of the Guryongpo fishing community and president of the Gyeongsangbuk-do Haen..."
+        ],
+        "words": [
+          "haenyeo",
+          "honored",
+          "systems"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US envoy highlights role of S. Korean investment in creating American jobs",
+        "url": "https://www.koreatimes.co.kr/world/20261017/us-envoy-highlights-role-of-s-korean-investment-in-creating-american-jobs?utm_source=rss",
+        "summary": "WASHINGTON — U.S. Ambassador to South Korea Michelle Steel has highlighted the role of South Korean investment in strengthening the U.S. economy and creating American jobs, expressing hope for expanded economic cooperation between the two countries. Steel made the remarks in a post on X after attending a plenary meeting of the U.S.-Korea and Korea-U.S. Business Council, hosted by the Federation of Korean Industries on Thursday. \"Korean investment continues to strengthen the U.S. economy, support American jobs and deepen commercial ties between our two countries,\" she wrote. \"We look forward to building on this momentum and creating even more opportunities for investment and shared growth between our two nations,\" she added. Her remarks underscored Washington's emphasis on attracting South Korean investment following the announcement by Seoul and Washington of details of South Korea's pla...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "Ambassador to South Korea Michelle Steel has highlighted the role of South Korean investment in strengthening the U. S.",
+          "economy and creating American jobs, expressing hope for expanded economic cooperation between the two countries. Steel made the remarks in a post on X after attending a plenary meeting of the U.",
+          "S. -Korea and Korea-U.",
+          "S. Business Council, hosted by the Federation of Korean Industries on Thursday.",
+          "\"Korean investment continues to strengthen the U. S.",
+          "economy, support American jobs and deepen commercial ties between our two countries,\" she wrote. \"We look forward to building on this momentum and creating even more opportunities for investment and shared growth between our two nations,\" she added.",
+          "Her remarks underscored Washington's emphasis on attracting South Korean investment following the announcement by Seoul and Washington of details of South Korea's pla..."
+        ],
+        "words": [
+          "highlights",
+          "investment",
+          "creating"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Hyundai Motor to recall over 94,000 vehicles in US over fire risk",
+        "url": "https://www.koreatimes.co.kr/world/20261017/hyundai-motor-to-recall-over-94000-vehicles-in-us-over-fire-risk?utm_source=rss",
+        "summary": "WASHINGTON — Hyundai Motor America will recall more than 94,000 Hyundai and Genesis vehicles in the United States over a potential fire risk caused by overheating power seat motors, according to U.S. transportation authorities. The recall affects 94,622 vehicles, including certain 2015-2016 Hyundai Genesis and 2017-2020 Genesis G80 models, according to a recall notice posted by the U.S. National Highway Traffic Safety Administration on Oct. 9. The agency said the front power seat motors may overheat due to a stuck power seat control switch, potentially causing a fire while the vehicle is parked or being driven. Owners have been advised to park their vehicles outdoors and away from other vehicles or structures until repairs are completed, as a fire could increase the risk of injury. A remedy for the defect is still under development, with notification letters to affected vehicle owners ex...",
+        "fullText": [
+          "WASHINGTON — Hyundai Motor America will recall more than 94,000 Hyundai and Genesis vehicles in the United States over a potential fire risk caused by overheating power seat motors, according to U. S.",
+          "transportation authorities. The recall affects 94,622 vehicles, including certain 2015-2016 Hyundai Genesis and 2017-2020 Genesis G80 models, according to a recall notice posted by the U.",
+          "S. National Highway Traffic Safety Administration on Oct.",
+          "9. The agency said the front power seat motors may overheat due to a stuck power seat control switch, potentially causing a fire while the vehicle is parked or being driven.",
+          "Owners have been advised to park their vehicles outdoors and away from other vehicles or structures until repairs are completed, as a fire could increase the risk of injury. A remedy for the defect is still under development, with notification letters to affected vehicle owners ex..."
+        ],
+        "words": [
+          "hyundai",
+          "recall",
+          "vehicles"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "White House Press Secretary Zacharia 'let go' from role, official says",
+        "url": "https://www.koreatimes.co.kr/world/20261017/white-house-press-secretary-zacharia-let-go-from-role-official-says?utm_source=rss",
+        "summary": "WASHINGTON — White House Press Secretary Katie Zacharia was \"let go\" from the role, a White House official said on Friday, after President Donald Trump said he had told her to reconsider the job following public scrutiny. \"I told her: 'I think you're better off being happy, and I'm not sure you can ever be happy in this stuff.' There's nothing easy about this stuff,\" Trump told reporters while departing the White House. He added: \"I said to her honestly, 'If I were you, I'd reconsider... think about it. But I would reconsider.'\" Fox News, citing a White House official, later reported that Zacharia was \"transitioning\" out of the role of press secretary. Zacharia started the job on Monday and held her debut White House briefing on Tuesday. She had said she received a call about the role of press secretary last Wednesday and got offered the job to succeed Karoline Leavitt last Friday. Trump...",
+        "fullText": [
+          "WASHINGTON — White House Press Secretary Katie Zacharia was \"let go\" from the role, a White House official said on Friday, after President Donald Trump said he had told her to reconsider the job following public scrutiny. \"I told her: 'I think you're better off being happy, and I'm not sure you can ever be happy in this stuff.",
+          "' There's nothing easy about this stuff,\" Trump told reporters while departing the White House. He added: \"I said to her honestly, 'If I were you, I'd reconsider...",
+          "think about it. But I would reconsider.",
+          "'\" Fox News, citing a White House official, later reported that Zacharia was \"transitioning\" out of the role of press secretary. Zacharia started the job on Monday and held her debut White House briefing on Tuesday.",
+          "She had said she received a call about the role of press secretary last Wednesday and got offered the job to succeed Karoline Leavitt last Friday. Trump..."
+        ],
+        "words": [
+          "secretary",
+          "zacharia",
+          "official"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "China invites Trump spokesperson to visit after 'no proper toilets' remark",
+        "url": "https://www.koreatimes.co.kr/world/20261017/china-invites-trump-spokesperson-to-visit-after-no-proper-toilets-remark?utm_source=rss",
+        "summary": "China's Foreign Ministry responded Friday to White House press secretary Katie Zacharia's remarks that China lacked \"proper toilets,\" suggesting that she visit the country again. Zacharia, who took office less than a week ago, made the comment during a Thursday interview with conservative commentator Jack Posobiec while discussing perceptions in 2016 that China was poised to overtake the United States. \"I remember this very distinctly, having just come from China, thinking, 'How is China the next country on the horizon? They don't even have proper toilets,'\" she said. Asked about the remarks at a regular press briefing Friday, Chinese Foreign Ministry spokesperson Mao Ning offered a brief response. \"She's welcome to come and see China when she has the opportunity,\" Mao said, according to the ministry's official transcript. Zacharia previously lived in Beijing, where she reportedly worked...",
+        "fullText": [
+          "China's Foreign Ministry responded Friday to White House press secretary Katie Zacharia's remarks that China lacked \"proper toilets,\" suggesting that she visit the country again. Zacharia, who took office less than a week ago, made the comment during a Thursday interview with conservative commentator Jack Posobiec while discussing perceptions in 2016 that China was poised to overtake the United States.",
+          "\"I remember this very distinctly, having just come from China, thinking, 'How is China the next country on the horizon? They don't even have proper toilets,'\" she said.",
+          "Asked about the remarks at a regular press briefing Friday, Chinese Foreign Ministry spokesperson Mao Ning offered a brief response. \"She's welcome to come and see China when she has the opportunity,\" Mao said, according to the ministry's official transcript.",
+          "Zacharia previously lived in Beijing, where she reportedly worked..."
+        ],
+        "words": [
+          "invites",
+          "spokesperson",
+          "proper"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "US stock indexes mostly losing ground as tech sector weighs on market",
+        "url": "https://www.koreatimes.co.kr/world/20261017/us-stock-indexes-mostly-losing-ground-as-tech-sector-weighs-on-market?utm_source=rss",
+        "summary": "Stocks on Wall Street are mostly slipping Friday as another pullback in big technology companies weighs on the market. The S&P 500 was down 0.5 percent as of 12:23 p.m. Eastern time and on track for a weekly loss. The benchmark index is just below the all-time high it set last week. The Dow Jones Industrial Average wavered between small gains and losses of less than 0.1 percent. The Nasdaq composite was down 1.3 percent and headed for its first weekly loss in five weeks. Weakness for AI stocks has been a major drag on the tech-heavy index this week. Technology companies were the biggest drag on the broader market. Micron Technology fell 3.8 percent, Advanced Micro Devices dropped 3.7 percent, Broadcom was down 3 percent and Intel lost 4.4 percent. The declines in heavyweight tech stocks outweighed losses in most other parts of the market, and the majority of U.S. stocks were rising. It’s...",
+        "fullText": [
+          "Stocks on Wall Street are mostly slipping Friday as another pullback in big technology companies weighs on the market. The S&P 500 was down 0.",
+          "5 percent as of 12:23 p. m.",
+          "Eastern time and on track for a weekly loss. The benchmark index is just below the all-time high it set last week.",
+          "The Dow Jones Industrial Average wavered between small gains and losses of less than 0. 1 percent.",
+          "The Nasdaq composite was down 1. 3 percent and headed for its first weekly loss in five weeks.",
+          "Weakness for AI stocks has been a major drag on the tech-heavy index this week. Technology companies were the biggest drag on the broader market.",
+          "Micron Technology fell 3. 8 percent, Advanced Micro Devices dropped 3.",
+          "7 percent, Broadcom was down 3 percent and Intel lost 4. 4 percent.",
+          "The declines in heavyweight tech stocks outweighed losses in most other parts of the market, and the majority of U. S.",
+          "stocks were rising. It’s..."
+        ],
+        "words": [
+          "indexes",
+          "mostly",
+          "losing"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "label": "Friday, October 16, 2026",
     "title": "Korea News Brief",
