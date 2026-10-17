@@ -1,5 +1,150 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-18",
+    "label": "Sunday, October 18, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee pays tribute to firefighter killed in Bucheon factory fire",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261018/lee-pays-tribute-to-firefighter-killed-in-bucheon-factory-fire?utm_source=rss",
+        "summary": "President Lee Jae Myung paid his respects Saturday to a firefighter who died while responding to a factory fire in Bucheon, west of Seoul, the presidential office said. Lee posthumously awarded firefighter Kim Jin-seok the Okjo Order of Service Merit in recognition of his dedication and sacrifice, and offered condolences to his bereaved family, the office said. After paying his respects, Lee said, \"The government must provide firefighters with recognition and support commensurate with their dedication and sacrifice.\" Lee also stressed the need to strengthen on-site safety measures to ensure that firefighters can perform their duties in safer working conditions. The president instructed Interior Minister Yoon Ho-jung, who accompanied him, to provide all necessary support for the treatment and recovery of firefighters injured in the blaze. The government also plans to provide further honor...",
+        "fullText": [
+          "President Lee Jae Myung paid his respects Saturday to a firefighter who died while responding to a factory fire in Bucheon, west of Seoul, the presidential office said. Lee posthumously awarded firefighter Kim Jin-seok the Okjo Order of Service Merit in recognition of his dedication and sacrifice, and offered condolences to his bereaved family, the office said.",
+          "After paying his respects, Lee said, \"The government must provide firefighters with recognition and support commensurate with their dedication and sacrifice. \" Lee also stressed the need to strengthen on-site safety measures to ensure that firefighters can perform their duties in safer working conditions.",
+          "The president instructed Interior Minister Yoon Ho-jung, who accompanied him, to provide all necessary support for the treatment and recovery of firefighters injured in the blaze. The government also plans to provide further honor..."
+        ],
+        "words": [
+          "tribute",
+          "firefighter",
+          "killed"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Rookie embracing cleanup role in 1st KBO postseason",
+        "url": "https://www.koreatimes.co.kr/sports/20261018/rookie-embracing-cleanup-role-in-1st-kbo-postseason?utm_source=rss",
+        "summary": "GWANGJU — Playing in his first Korean baseball postseason, LG Twins infielder Moon Jeong-bin wants to have as much fun as he can, not taking the opportunity at hand for granted. The 23-year-old started the 2026 Korea Baseball Organization (KBO) season in the minors and only made his season debut on May 15. He stayed with the Twins the rest of the way and ended up playing 91 games. He finished with 19 home runs and 66 RBIs, both of them the second-highest totals by a rookie. With his raw power, Moon has established himself as the team's primary cleanup hitter, sandwiched by Austin Dean at No. 3 and Moon Bo-gyeong at No. 5. \"Honestly, I figured I would spend most of this year in the minors,\" Moon told reporters before the Twins opened the best-of-five first round against the Kia Tigers at Gwangju-Kia Champions Field in the southwestern city of Gwangju. \"Obviously, I never imagined I would...",
+        "fullText": [
+          "GWANGJU — Playing in his first Korean baseball postseason, LG Twins infielder Moon Jeong-bin wants to have as much fun as he can, not taking the opportunity at hand for granted. The 23-year-old started the 2026 Korea Baseball Organization (KBO) season in the minors and only made his season debut on May 15.",
+          "He stayed with the Twins the rest of the way and ended up playing 91 games. He finished with 19 home runs and 66 RBIs, both of them the second-highest totals by a rookie.",
+          "With his raw power, Moon has established himself as the team's primary cleanup hitter, sandwiched by Austin Dean at No. 3 and Moon Bo-gyeong at No.",
+          "5. \"Honestly, I figured I would spend most of this year in the minors,\" Moon told reporters before the Twins opened the best-of-five first round against the Kia Tigers at Gwangju-Kia Champions Field in the southwestern city of Gwangju.",
+          "\"Obviously, I never imagined I would..."
+        ],
+        "words": [
+          "rookie",
+          "embracing",
+          "cleanup"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Tigers starter eager to enjoy 'adrenaline rush' of 1st KBO postseason game",
+        "url": "https://www.koreatimes.co.kr/sports/20261018/tigers-starter-eager-to-enjoy-adrenaline-rush-of-1st-kbo-postseason-game?utm_source=rss",
+        "summary": "GWANGJU — It has been seven years since right-hander Adam Oller last played in a postseason game, and it came in the U.S. minor leagues. Now pitching for the Kia Tigers in the Korea Baseball Organization (KBO), Oller is set to make his Korean postseason debut Sunday afternoon against the LG Twins in Game 2 of the best-of-five first round. While speaking with Yonhap News Agency on Saturday, Oller was trying to soak in the experience. \"I am excited. I think it is going to be a lot of fun. Obviously, I am seeing all the stuff getting set up,\" Oller said, as he looked around the stands at Gwangju-Kia Champions Field in the southwestern of Gwangju, with postseason banners and team flags being brought out by cheerleaders. \"It seems like it is going to be a very large spectacle. The way I look at it is I am trying to treat it as any other game. At the end of the day, you still got to throw well...",
+        "fullText": [
+          "GWANGJU — It has been seven years since right-hander Adam Oller last played in a postseason game, and it came in the U. S.",
+          "minor leagues. Now pitching for the Kia Tigers in the Korea Baseball Organization (KBO), Oller is set to make his Korean postseason debut Sunday afternoon against the LG Twins in Game 2 of the best-of-five first round.",
+          "While speaking with Yonhap News Agency on Saturday, Oller was trying to soak in the experience. \"I am excited.",
+          "I think it is going to be a lot of fun. Obviously, I am seeing all the stuff getting set up,\" Oller said, as he looked around the stands at Gwangju-Kia Champions Field in the southwestern of Gwangju, with postseason banners and team flags being brought out by cheerleaders.",
+          "\"It seems like it is going to be a very large spectacle. The way I look at it is I am trying to treat it as any other game.",
+          "At the end of the day, you still got to throw well..."
+        ],
+        "words": [
+          "tigers",
+          "starter",
+          "adrenaline"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Korea should approach Trump with business mindset, Sunny Park says",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261018/korea-should-approach-trump-with-business-mindset-sunny-park-says?utm_source=rss",
+        "summary": "When Sunny K. Park arrived in the United States in 1974 with just $200 in his pocket, he had little idea that he would one day become a successful Korean American entrepreneur with extensive ties to Washington. Park, now 84 and president of the American Korean Friendship Society, was 32 when he moved to Indiana to study at Indiana University. Having grown up in poverty and survived the 1950-53 Korean War, he recalled seeing America as a “paradise” filled with opportunities. Two years later, however, he left school to support his family and began selling life insurance door to door. His involvement with the Korean immigrant community eventually led him into a different line of work. While helping newly arrived Koreans find jobs, Park noticed growing demand in the commercial cleaning industry. “Korean immigrants came into the U.S., but they had a tough time to get a job, so I helped them a...",
+        "fullText": [
+          "When Sunny K. Park arrived in the United States in 1974 with just $200 in his pocket, he had little idea that he would one day become a successful Korean American entrepreneur with extensive ties to Washington.",
+          "Park, now 84 and president of the American Korean Friendship Society, was 32 when he moved to Indiana to study at Indiana University. Having grown up in poverty and survived the 1950-53 Korean War, he recalled seeing America as a “paradise” filled with opportunities.",
+          "Two years later, however, he left school to support his family and began selling life insurance door to door. His involvement with the Korean immigrant community eventually led him into a different line of work.",
+          "While helping newly arrived Koreans find jobs, Park noticed growing demand in the commercial cleaning industry. “Korean immigrants came into the U.",
+          "S. , but they had a tough time to get a job, so I helped them a..."
+        ],
+        "words": [
+          "should",
+          "approach",
+          "business"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Wearable robots offer mobility to people with disabilities in Seoul",
+        "url": "https://www.koreatimes.co.kr/southkorea/health/20261018/wearable-robots-offer-mobility-to-people-with-disabilities-in-seoul?utm_source=rss",
+        "summary": "Advanced rehabilitation involving wearable robotics has traditionally remained out of reach for many due to high costs and limited availability outside major medical centers. Now, a pioneering municipal program in western Seoul is bringing this cutting-edge technology directly into neighborhood streets. The Mapo District office is running a specialized robotic rehabilitation initiative designed to help registered residents with mobility impairments regain independence. By partnering with the Seoul Seobuk Hospital and wearable robotics firm Angel Robotics, the district has established a collaborative support framework bridging public health infrastructure with advanced medical engineering. Driven by leading tech firms, research institutes and startups like Hyundai Motor, the Korea Advanced Institute of Science and Technology and Angel Robotics, Korea has rapidly expanded wearable robot te...",
+        "fullText": [
+          "Advanced rehabilitation involving wearable robotics has traditionally remained out of reach for many due to high costs and limited availability outside major medical centers. Now, a pioneering municipal program in western Seoul is bringing this cutting-edge technology directly into neighborhood streets.",
+          "The Mapo District office is running a specialized robotic rehabilitation initiative designed to help registered residents with mobility impairments regain independence. By partnering with the Seoul Seobuk Hospital and wearable robotics firm Angel Robotics, the district has established a collaborative support framework bridging public health infrastructure with advanced medical engineering.",
+          "Driven by leading tech firms, research institutes and startups like Hyundai Motor, the Korea Advanced Institute of Science and Technology and Angel Robotics, Korea has rapidly expanded wearable robot te..."
+        ],
+        "words": [
+          "wearable",
+          "robots",
+          "mobility"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Dark Side of Seoul Podcast digs up city's secrets",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261018/dark-side-of-seoul-podcast-digs-up-citys-secrets?utm_source=rss",
+        "summary": "Korea has always been conscious of its own image, even as K-content exports and inbound tourism numbers continue to break records. But that global spotlight comes with an unspoken condition: show the shiny face, and sweep the unpolished parts under the rug. From outside, the country is often viewed through rose-tinted glasses, a tidy utopia of cute cafes and picture-perfect K-drama lifestyles. The Dark Side of Seoul Podcast offers something that doesn't fit on a postcard: an unvarnished look at Korean history and culture, aimed at the genuinely curious rather than the credulous, equally comfortable with the country's dark folklore as with its murders, crimes and political purges, distant and not so distant. The show is hosted by Joe McPherson and Shawn Morrissey, who have both lived in Korea for more than two decades and together lead The Dark Side of Seoul Ghost Walk. To be clear, this...",
+        "fullText": [
+          "Korea has always been conscious of its own image, even as K-content exports and inbound tourism numbers continue to break records. But that global spotlight comes with an unspoken condition: show the shiny face, and sweep the unpolished parts under the rug.",
+          "From outside, the country is often viewed through rose-tinted glasses, a tidy utopia of cute cafes and picture-perfect K-drama lifestyles. The Dark Side of Seoul Podcast offers something that doesn't fit on a postcard: an unvarnished look at Korean history and culture, aimed at the genuinely curious rather than the credulous, equally comfortable with the country's dark folklore as with its murders, crimes and political purges, distant and not so distant.",
+          "The show is hosted by Joe McPherson and Shawn Morrissey, who have both lived in Korea for more than two decades and together lead The Dark Side of Seoul Ghost Walk. To be clear, this..."
+        ],
+        "words": [
+          "podcast",
+          "secrets",
+          "always"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Tradition isn't everything: Foreign nationals say cafes are most Korean places of all",
+        "url": "https://www.koreatimes.co.kr/lifestyle/20261018/tradition-isnt-everything-foreign-nationals-say-cafes-are-most-korean-places-of-all?utm_source=rss",
+        "summary": "Not long ago, I asked Conrad, a British participant on a food tour, what he considered the most quintessentially British food. I expected him to name the famous fish and chips or a full English breakfast spread. But without hesitation, he answered, “curry.” Seeing my puzzled expression, he smiled and explained. While Britain has its traditional signature dishes, curry is one of the foods Britons eat most frequently today. That got me wondering: What food or food culture best represents Korea today? When I posed the same question to Conrad, his unexpected answer was “coffee and cafe culture.” The other participants on the tour nodded in agreement. When I take foreign visitors on food tours, I often hear the same questions: “Why are there so many cafes in Korea?” and “Why are cafes still so crowded late in the afternoon?” I could explain that Koreans simply love coffee. But a look at Seoul...",
+        "fullText": [
+          "Not long ago, I asked Conrad, a British participant on a food tour, what he considered the most quintessentially British food. I expected him to name the famous fish and chips or a full English breakfast spread.",
+          "But without hesitation, he answered, “curry. ” Seeing my puzzled expression, he smiled and explained.",
+          "While Britain has its traditional signature dishes, curry is one of the foods Britons eat most frequently today. That got me wondering: What food or food culture best represents Korea today?",
+          "When I posed the same question to Conrad, his unexpected answer was “coffee and cafe culture. ” The other participants on the tour nodded in agreement.",
+          "When I take foreign visitors on food tours, I often hear the same questions: “Why are there so many cafes in Korea? ” and “Why are cafes still so crowded late in the afternoon?",
+          "” I could explain that Koreans simply love coffee. But a look at Seoul..."
+        ],
+        "words": [
+          "tradition",
+          "everything",
+          "foreign"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-17",
     "label": "Saturday, October 17, 2026",
     "title": "Korea News Brief",
