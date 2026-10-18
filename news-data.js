@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-19",
+    "label": "Monday, October 19, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Weather, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "An Se-young wins Denmark Open for 9th title of season",
+        "url": "https://www.koreatimes.co.kr/sports/20261019/an-se-young-wins-denmark-open-for-9th-title-of-season?utm_source=rss",
+        "summary": "Reigning world badminton champion An Se-young won the Denmark Open for her ninth international title of the season. An, world No. 1, defeated third-ranked Akane Yamaguchi 2-1 (21-23, 21-14, 21-18) for her second consecutive Denmark Open title at SJF Bank Arena in Odense, Denmark, on Sunday. An extended her winning streak against Yamaguchi to 10, while pushing her record to 61-1 in 62 matches this year. In addition to her six victories on the Badminton World Federation World Tour, the Asian Championships gold medal in April and the world title in August, An also won the Asian Games gold medal last month over Yamaguchi, becoming the first player to win back-to-back women's singles gold medals. An's only loss of the year came in the final of the All England Open in March. Against Yamaguchi on Sunday, An trailed 6-4 in the opening game before scoring the next six points. But the Japanese vet...",
+        "fullText": [
+          "Reigning world badminton champion An Se-young won the Denmark Open for her ninth international title of the season. An, world No.",
+          "1, defeated third-ranked Akane Yamaguchi 2-1 (21-23, 21-14, 21-18) for her second consecutive Denmark Open title at SJF Bank Arena in Odense, Denmark, on Sunday. An extended her winning streak against Yamaguchi to 10, while pushing her record to 61-1 in 62 matches this year.",
+          "In addition to her six victories on the Badminton World Federation World Tour, the Asian Championships gold medal in April and the world title in August, An also won the Asian Games gold medal last month over Yamaguchi, becoming the first player to win back-to-back women's singles gold medals. An's only loss of the year came in the final of the All England Open in March.",
+          "Against Yamaguchi on Sunday, An trailed 6-4 in the opening game before scoring the next six points. But the Japanese vet..."
+        ],
+        "words": [
+          "se-young",
+          "denmark",
+          "season"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Macron condemns those who 'sought to bring down Republic' after rioting mars nationwide protests",
+        "url": "https://www.koreatimes.co.kr/world/20261019/macron-condemns-those-who-sought-to-bring-down-republic-after-rioting-mars-nationwide-protests?utm_source=rss",
+        "summary": "PARIS — French President Emmanuel Macron on Sunday voiced the public’s “anger” and “shame” over rioting and looting during nationwide protests against rising living costs and poor conditions in schools . At least 2,400 people were arrested. Macron echoed other government officials in blaming much of the violence on far-left activists, accusing them of attacking police and public buildings to foment chaos. “Those who looted will have to pay for the damage, and those who sought to bring down the Republic will be held accountable,” Macron said in a televised address to the nation. He denounced “unrestrained violence” by “insurrectionist elements from radical far-left groups, joined by numerous criminals.” Macron earlier held an emergency meeting with senior government officials, a day after masked groups set fires and attacked city halls in several cities. He said he had instructed prefects...",
+        "fullText": [
+          "PARIS — French President Emmanuel Macron on Sunday voiced the public’s “anger” and “shame” over rioting and looting during nationwide protests against rising living costs and poor conditions in schools . At least 2,400 people were arrested.",
+          "Macron echoed other government officials in blaming much of the violence on far-left activists, accusing them of attacking police and public buildings to foment chaos. “Those who looted will have to pay for the damage, and those who sought to bring down the Republic will be held accountable,” Macron said in a televised address to the nation.",
+          "He denounced “unrestrained violence” by “insurrectionist elements from radical far-left groups, joined by numerous criminals. ” Macron earlier held an emergency meeting with senior government officials, a day after masked groups set fires and attacked city halls in several cities.",
+          "He said he had instructed prefects..."
+        ],
+        "words": [
+          "macron",
+          "condemns",
+          "sought"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "4 dead, 39 injured at Canadian military base in grass fire fanned by high winds, officials say",
+        "url": "https://www.koreatimes.co.kr/world/20261019/4-dead-39-injured-at-canadian-military-base-in-grass-fire-fanned-by-high-winds-officials-say?utm_source=rss",
+        "summary": "CALGARY — A fire that killed at least four soldiers and left 19 people in critical condition began with a smoldering grass fire that ignited in an Alberta military base's training area where personnel were drilling, Canadian officials said Sunday. Officials said 39 people were in hospitals as a result of the fire at Canadian Forces Base Wainwright, which began around 4 p.m. MDT (2200 GMT) on Saturday. Winds up to 60 miles per hour (96 kilometers per hour) fed the flames. Major General Wade Rutland described the fire as an \"uncommon, rapid\" event. “I’ve certainly never seen anything like it,\" said Rutland, commander of 1st Canadian Division, which is based in Edmonton, about 210 km (130 miles) west of the military site. Prime Minister Mark Carney said earlier Sunday that the fire was one of the worst peacetime tragedies ever for Canada's armed forces on home soil. \"The nation is in mourni...",
+        "fullText": [
+          "CALGARY — A fire that killed at least four soldiers and left 19 people in critical condition began with a smoldering grass fire that ignited in an Alberta military base's training area where personnel were drilling, Canadian officials said Sunday. Officials said 39 people were in hospitals as a result of the fire at Canadian Forces Base Wainwright, which began around 4 p.",
+          "m. MDT (2200 GMT) on Saturday.",
+          "Winds up to 60 miles per hour (96 kilometers per hour) fed the flames. Major General Wade Rutland described the fire as an \"uncommon, rapid\" event.",
+          "“I’ve certainly never seen anything like it,\" said Rutland, commander of 1st Canadian Division, which is based in Edmonton, about 210 km (130 miles) west of the military site. Prime Minister Mark Carney said earlier Sunday that the fire was one of the worst peacetime tragedies ever for Canada's armed forces on home soil.",
+          "\"The nation is in mourni..."
+        ],
+        "words": [
+          "injured",
+          "canadian",
+          "military"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "BOK poised to hold rates as November hike remains in view",
+        "url": "https://www.koreatimes.co.kr/economy/20261019/bok-poised-to-hold-rates-as-november-hike-remains-in-view?utm_source=rss",
+        "summary": "The Bank of Korea (BOK) is widely expected to keep its benchmark interest rate at 3 percent at Thursday’s policy meeting, while maintaining a hawkish stance that leaves the door open to further hikes in November, market analysts said Sunday. Expectations of a pause emerged after BOK Gov. Shin Hyun-song highlighted the burden that rapid rate increases have imposed on vulnerable borrowers. Holding rates steady at the upcoming Monetary Policy Board meeting would give policymakers time to gauge the impact of the recent hikes on inflation, foreign exchange markets and household debt. Still, strong exports and improving incomes continue to fuel price pressures, suggesting the bank will maintain a hawkish stance and signal that further increases remain possible. The BOK raised its benchmark rate from 2.5 percent to 2.75 percent in July, followed by another increase to 3 percent in August, descr...",
+        "fullText": [
+          "The Bank of Korea (BOK) is widely expected to keep its benchmark interest rate at 3 percent at Thursday’s policy meeting, while maintaining a hawkish stance that leaves the door open to further hikes in November, market analysts said Sunday. Expectations of a pause emerged after BOK Gov.",
+          "Shin Hyun-song highlighted the burden that rapid rate increases have imposed on vulnerable borrowers. Holding rates steady at the upcoming Monetary Policy Board meeting would give policymakers time to gauge the impact of the recent hikes on inflation, foreign exchange markets and household debt.",
+          "Still, strong exports and improving incomes continue to fuel price pressures, suggesting the bank will maintain a hawkish stance and signal that further increases remain possible. The BOK raised its benchmark rate from 2.",
+          "5 percent to 2. 75 percent in July, followed by another increase to 3 percent in August, descr..."
+        ],
+        "words": [
+          "poised",
+          "november",
+          "remains"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Ex-NCT member sees opportunity in K-pop music for kids",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261019/ex-nct-member-sees-opportunity-in-k-pop-music-for-kids?utm_source=rss",
+        "summary": "K-pop songs have long rung out across Korean kindergartens and elementary school classrooms, but few of them were ever written with children in mind. Former NCT member Mark Lee says he wants to fill that gap himself with what he calls \"kids-pop.\" The idea has taken shape through \"Mark Lee & Kids-POP,\" a YouTube series launched in September on the channel for Upper Room, the label he founded after leaving boy band NCT and SM Entertainment in April. In each episode, the Canadian singer meets children, listens to their stories and looks for musical ideas in them. The gap he points to is a familiar one. iKON’s 2018 breakup song “Love Scenario” became a singalong staple among kindergartners, in addition to topping Korea’s year-end digital chart. Even “Golden,” the Billboard Hot 100 chart-topper from Netflix’s animated film “KPop Demon Hunters” that won over young viewers worldwide last year,...",
+        "fullText": [
+          "K-pop songs have long rung out across Korean kindergartens and elementary school classrooms, but few of them were ever written with children in mind. Former NCT member Mark Lee says he wants to fill that gap himself with what he calls \"kids-pop.",
+          "\" The idea has taken shape through \"Mark Lee & Kids-POP,\" a YouTube series launched in September on the channel for Upper Room, the label he founded after leaving boy band NCT and SM Entertainment in April. In each episode, the Canadian singer meets children, listens to their stories and looks for musical ideas in them.",
+          "The gap he points to is a familiar one. iKON’s 2018 breakup song “Love Scenario” became a singalong staple among kindergartners, in addition to topping Korea’s year-end digital chart.",
+          "Even “Golden,” the Billboard Hot 100 chart-topper from Netflix’s animated film “KPop Demon Hunters” that won over young viewers worldwide last year,..."
+        ],
+        "words": [
+          "ex-nct",
+          "member",
+          "opportunity"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "IMF Backs S. Korea's Policy Mix, Supports Future Response Fund",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204940",
+        "summary": "[Economy] : The International Monetary Fund has endorsed the South Korean government's mix of fiscal and monetary policies, including its plan to establish a Future Response Fund. The Ministry of Economy and Finance said Sunday that IMF Managing Director Kristalina Georgieva made the assessment during a meeting with ... [more...]",
+        "fullText": [
+          "[Economy] : The International Monetary Fund has endorsed the South Korean government's mix of fiscal and monetary policies, including its plan to establish a Future Response Fund. The Ministry of Economy and Finance said Sunday that IMF Managing Director Kristalina Georgieva made the assessment during a meeting with ...",
+          "[more... ]"
+        ],
+        "words": [
+          "policy",
+          "supports",
+          "future"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "KBS World",
+        "title": "Won Hits 2-Year High Against Dollar, 19-Year High Against Yen",
+        "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=204939",
+        "summary": "[Economy] : The South Korean won has strengthened against the U.S. dollar this month, pushing the average exchange rate to its strongest level in more than two years amid robust semiconductor exports and increased dollar supply. According to the Bank of Korea's Economic Statistics System, the average won-dollar ... [more...]",
+        "fullText": [
+          "[Economy] : The South Korean won has strengthened against the U. S.",
+          "dollar this month, pushing the average exchange rate to its strongest level in more than two years amid robust semiconductor exports and increased dollar supply. According to the Bank of Korea's Economic Statistics System, the average won-dollar ...",
+          "[more... ]"
+        ],
+        "words": [
+          "against",
+          "dollar",
+          "economy"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-18",
     "label": "Sunday, October 18, 2026",
     "title": "Korea News Brief",
