@@ -1,5 +1,150 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-21",
+    "label": "Wednesday, October 21, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Economy, Politics, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea may be testing Trump's red lines with increased missile launches in 2nd term: analysis",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261021/n-korea-may-be-testing-trumps-red-lines-with-increased-missile-launches-in-2nd-term-analysis?utm_source=rss",
+        "summary": "WASHINGTON — North Korean leader Kim Jong-un may be testing U.S. President Donald Trump's tolerance for military provocations, a U.S. think tank analysis showed Tuesday, as Pyongyang has increased its missile launch activities during Trump's second term. The analysis by Victor Cha and Andy Lim of the Center for Strategic and International Studies (CSIS) raised the possibility that Kim is seeking to gauge Washington's response to his expanding weapons activities despite Trump's repeated overtures for renewed dialogue. The two suggested Kim \"may be testing Trump himself and the limits of Trump's red lines,\" which they characterized as no intercontinental ballistic missile tests, no nuclear tests and no lethal attacks. The analysis noted that North Korea has carried out 34 missile launch events during the first 21 months of Trump's second term, double the 17 recorded during the comparable p...",
+        "fullText": [
+          "WASHINGTON — North Korean leader Kim Jong-un may be testing U. S.",
+          "President Donald Trump's tolerance for military provocations, a U. S.",
+          "think tank analysis showed Tuesday, as Pyongyang has increased its missile launch activities during Trump's second term. The analysis by Victor Cha and Andy Lim of the Center for Strategic and International Studies (CSIS) raised the possibility that Kim is seeking to gauge Washington's response to his expanding weapons activities despite Trump's repeated overtures for renewed dialogue.",
+          "The two suggested Kim \"may be testing Trump himself and the limits of Trump's red lines,\" which they characterized as no intercontinental ballistic missile tests, no nuclear tests and no lethal attacks. The analysis noted that North Korea has carried out 34 missile launch events during the first 21 months of Trump's second term, double the 17 recorded during the comparable p..."
+        ],
+        "words": [
+          "testing",
+          "increased",
+          "missile"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Producer prices up for 2nd month in Sept. on higher prices of agricultural goods",
+        "url": "https://www.koreatimes.co.kr/economy/20261021/producer-prices-up-for-2nd-month-in-sept-on-higher-prices-of-agricultural-goods?utm_source=rss",
+        "summary": "Producer prices rose for the second consecutive month in September driven by higher prices of agricultural goods during the Chuseok season, central bank data showed Wednesday. The producer price index (PPI), a key gauge of future consumer inflation, increased 0.2 percent last month from a month earlier, following a 0.1 percent on-month gain in August, according to the preliminary data from the Bank of Korea (BOK). In July, the index fell for the first time since August 2025. From a year earlier, producer prices rose 7.7 percent in September, slightly slowing from the previous month's 7.9 percent on-year gain, the latest findings showed. Producer prices are a key indicator of future inflation trends, as they influence the prices businesses charge consumers in the months ahead. The BOK said prices of agricultural, livestock and fisheries products rose 2.6 percent in September due to increa...",
+        "fullText": [
+          "Producer prices rose for the second consecutive month in September driven by higher prices of agricultural goods during the Chuseok season, central bank data showed Wednesday. The producer price index (PPI), a key gauge of future consumer inflation, increased 0.",
+          "2 percent last month from a month earlier, following a 0. 1 percent on-month gain in August, according to the preliminary data from the Bank of Korea (BOK).",
+          "In July, the index fell for the first time since August 2025. From a year earlier, producer prices rose 7.",
+          "7 percent in September, slightly slowing from the previous month's 7. 9 percent on-year gain, the latest findings showed.",
+          "Producer prices are a key indicator of future inflation trends, as they influence the prices businesses charge consumers in the months ahead. The BOK said prices of agricultural, livestock and fisheries products rose 2.",
+          "6 percent in September due to increa..."
+        ],
+        "words": [
+          "producer",
+          "prices",
+          "higher"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "S. Korea's UN envoy named co-chair of global AI governance dialogue",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/others/20261021/s-koreas-un-envoy-named-co-chair-of-global-ai-governance-dialogue?utm_source=rss",
+        "summary": "WASHINGTON — South Korea's ambassador to the United Nations has been appointed as co-chair of a U.N. initiative aimed at promoting international cooperation on artificial intelligence (AI) governance, according to the U.N. website Tuesday. Ambassador Cha Ji-hoon was appointed alongside Mutryce Agatha Williams, the permanent representative of Saint Kitts and Nevis, by the president of the U.N. General Assembly on Friday to lead preparations for the 2027 Global Dialogue on AI Governance. The dialogue, scheduled for May 3-4, 2027, will bring together governments and other stakeholders to discuss international cooperation on AI governance, including opportunities and challenges associated with the rapidly developing technology. The initiative was established under a U.N. General Assembly resolution adopted in August 2025 as a platform for discussions involving governments, the private sector...",
+        "fullText": [
+          "WASHINGTON — South Korea's ambassador to the United Nations has been appointed as co-chair of a U. N.",
+          "initiative aimed at promoting international cooperation on artificial intelligence (AI) governance, according to the U. N.",
+          "website Tuesday. Ambassador Cha Ji-hoon was appointed alongside Mutryce Agatha Williams, the permanent representative of Saint Kitts and Nevis, by the president of the U.",
+          "N. General Assembly on Friday to lead preparations for the 2027 Global Dialogue on AI Governance.",
+          "The dialogue, scheduled for May 3-4, 2027, will bring together governments and other stakeholders to discuss international cooperation on AI governance, including opportunities and challenges associated with the rapidly developing technology. The initiative was established under a U.",
+          "N. General Assembly resolution adopted in August 2025 as a platform for discussions involving governments, the private sector..."
+        ],
+        "words": [
+          "co-chair",
+          "global",
+          "governance"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US cites evolving 'threat environment' amid debate over OPCON transition to S. Korea",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261021/us-cites-evolving-threat-environment-amid-debate-over-opcon-transition-to-s-korea?utm_source=rss",
+        "summary": "WASHINGTON — A senior U.S. official said Tuesday the requirements for the transfer of wartime operational control (OPCON) to South Korea remain unchanged but stressed that the threat environment on the Korean Peninsula was evolving faster than ever before. \"The fundamental requirements for OPCON transfer have not changed. But the threat environment is evolving faster now than ever before,\" the official told Yonhap News Agency in response to a media inquiry on the state of the bilateral OPCON transition review process. \"Together, we must be prepared to deter and defeat all regional threats to the alliance,\" the official, who asked not to be identified, added. The official appeared to reflect concerns over evolving threats posed by advancements in Pyongyang's missile and nuclear programs. Separately, the Pentagon reaffirmed that the transfer of wartime OPCON to South Korea remains a condit...",
+        "fullText": [
+          "WASHINGTON — A senior U. S.",
+          "official said Tuesday the requirements for the transfer of wartime operational control (OPCON) to South Korea remain unchanged but stressed that the threat environment on the Korean Peninsula was evolving faster than ever before. \"The fundamental requirements for OPCON transfer have not changed.",
+          "But the threat environment is evolving faster now than ever before,\" the official told Yonhap News Agency in response to a media inquiry on the state of the bilateral OPCON transition review process. \"Together, we must be prepared to deter and defeat all regional threats to the alliance,\" the official, who asked not to be identified, added.",
+          "The official appeared to reflect concerns over evolving threats posed by advancements in Pyongyang's missile and nuclear programs. Separately, the Pentagon reaffirmed that the transfer of wartime OPCON to South Korea remains a condit..."
+        ],
+        "words": [
+          "evolving",
+          "threat",
+          "environment"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Rushed single-stock leveraged ETF rollout leaves questions of responsibility unanswered",
+        "url": "https://www.koreatimes.co.kr/economy/others/20261021/rushed-single-stock-leveraged-etf-rollout-leaves-questions-of-responsibility-unanswered?utm_source=rss",
+        "summary": "Policymakers have yet to explain who decided to introduce single-stock leveraged exchange-traded funds (ETFs) or why their reviews were expedited, even as retail investors have sustained more than 2 trillion won ($1.5 billion) in losses on the products tracking Samsung Electronics and SK hynix. The funds have also drawn criticism for amplifying stock market volatility. At a National Assembly audit Monday, Financial Supervisory Service (FSS) Gov. Lee Chan-jin acknowledged that the products underwent unusually rapid reviews to meet a policy timetable. But he offered no concrete explanation of who set that timetable or on what grounds. These ETFs were made possible by a government decision to ease regulations. An amendment to the enforcement decree of the Capital Markets Act cleared the Cabinet on April 21. The Financial Services Commission (FSC), the country’s top financial regulator, said...",
+        "fullText": [
+          "Policymakers have yet to explain who decided to introduce single-stock leveraged exchange-traded funds (ETFs) or why their reviews were expedited, even as retail investors have sustained more than 2 trillion won ($1. 5 billion) in losses on the products tracking Samsung Electronics and SK hynix.",
+          "The funds have also drawn criticism for amplifying stock market volatility. At a National Assembly audit Monday, Financial Supervisory Service (FSS) Gov.",
+          "Lee Chan-jin acknowledged that the products underwent unusually rapid reviews to meet a policy timetable. But he offered no concrete explanation of who set that timetable or on what grounds.",
+          "These ETFs were made possible by a government decision to ease regulations. An amendment to the enforcement decree of the Capital Markets Act cleared the Cabinet on April 21.",
+          "The Financial Services Commission (FSC), the country’s top financial regulator, said..."
+        ],
+        "words": [
+          "rushed",
+          "single-stock",
+          "leveraged"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Grammy boycott debate turns toward K-pop acts that submitted",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261021/grammy-boycott-debate-turns-toward-k-pop-acts-that-submitted?utm_source=rss",
+        "summary": "Fans were angry at the Grammys/Recording Academy for creating the new Asian pop category, but some of that anger is now directed at K-pop acts that reportedly submitted for the category. The academy has not officially disclosed which acts entered the category, though some have been named in local media outlets. Criticism has mounted in some online fan communities, with people questioning whether the acts should compete in a category that many see as discriminatory and some even asking whether they really want to win a \"racist award.\" Others have countered that pursuing a Grammy nomination is a practical choice for artists. The debate traces back to June, when the academy announced that Best Asian Pop Music Performance, one of five new categories, will debut at the 69th Grammy Awards in February 2027. The award covers recordings that make meaningful use of one or more Asian languages, but...",
+        "fullText": [
+          "Fans were angry at the Grammys/Recording Academy for creating the new Asian pop category, but some of that anger is now directed at K-pop acts that reportedly submitted for the category. The academy has not officially disclosed which acts entered the category, though some have been named in local media outlets.",
+          "Criticism has mounted in some online fan communities, with people questioning whether the acts should compete in a category that many see as discriminatory and some even asking whether they really want to win a \"racist award. \" Others have countered that pursuing a Grammy nomination is a practical choice for artists.",
+          "The debate traces back to June, when the academy announced that Best Asian Pop Music Performance, one of five new categories, will debut at the 69th Grammy Awards in February 2027. The award covers recordings that make meaningful use of one or more Asian languages, but..."
+        ],
+        "words": [
+          "grammy",
+          "boycott",
+          "debate"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Woman who accused Cornell students of rape says president's response made her feel 'disbelieved'",
+        "url": "https://www.koreatimes.co.kr/world/20261021/woman-who-accused-cornell-students-of-rape-says-presidents-response-made-her-feel-disbelieved?utm_source=rss",
+        "summary": "The woman who has accused seven students of raping her at a Cornell University fraternity house has weighed in on a looming faculty vote of no confidence in the school’s leadership, saying the university’s president questioned why she waited to report being assaulted — an alleged remark she said left her feeling “unsupported and disbelieved.” Her case has prompted student protests, renewed scrutiny of the university’s disciplinary system and a state investigation into the alleged assault. In an Oct. 14 letter to faculty leaders obtained by The Associated Press on Tuesday, the woman, identified in court documents as Jane Doe, described a conversation she said took place shortly after she reported the alleged assault in November 2024. According to her secondhand account, the president of her sorority told her that Cornell President Michael Kotlikoff had questioned Jane Doe's delay in repor...",
+        "fullText": [
+          "The woman who has accused seven students of raping her at a Cornell University fraternity house has weighed in on a looming faculty vote of no confidence in the school’s leadership, saying the university’s president questioned why she waited to report being assaulted — an alleged remark she said left her feeling “unsupported and disbelieved. ” Her case has prompted student protests, renewed scrutiny of the university’s disciplinary system and a state investigation into the alleged assault.",
+          "In an Oct. 14 letter to faculty leaders obtained by The Associated Press on Tuesday, the woman, identified in court documents as Jane Doe, described a conversation she said took place shortly after she reported the alleged assault in November 2024.",
+          "According to her secondhand account, the president of her sorority told her that Cornell President Michael Kotlikoff had questioned Jane Doe's delay in repor..."
+        ],
+        "words": [
+          "accused",
+          "cornell",
+          "students"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "label": "Tuesday, October 20, 2026",
     "title": "Korea News Brief",
