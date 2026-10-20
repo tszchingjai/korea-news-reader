@@ -1,5 +1,150 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-20",
+    "label": "Tuesday, October 20, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Politics, Inter-Korea, Law, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul shares open lower after rebound amid AI concerns",
+        "url": "https://www.koreatimes.co.kr/economy/20261020/seoul-shares-open-lower-after-rebound-amid-ai-concerns?utm_source=rss",
+        "summary": "Korean shares opened lower Tuesday, weighed down by losses in major tech heavyweights as investors attempted to cash in recent gains amid woes over investments in the artificial intelligence (AI) value chain. The benchmark Korea Composite Stock Price Index (KOSPI) fell 34.44 points, or 0.6 percent, to 5,733.57 at the opening bell, bucking overnight gains on Wall Street. The index has risen for two consecutive sessions after a sharp dip amid woes over AI-related sectors. Overnight, U.S. stocks ended mixed as technology shares rebounded from their steepest weekly drop since June. The Dow Jones Industrial Average edged down 0.07 percent, while the benchmark S&P 500 rose 0.41 percent and the tech-heavy Nasdaq Composite Index gained 1.11 percent to finish at 26,430.89.",
+        "fullText": [
+          "Korean shares opened lower Tuesday, weighed down by losses in major tech heavyweights as investors attempted to cash in recent gains amid woes over investments in the artificial intelligence (AI) value chain. The benchmark Korea Composite Stock Price Index (KOSPI) fell 34.",
+          "44 points, or 0. 6 percent, to 5,733.",
+          "57 at the opening bell, bucking overnight gains on Wall Street. The index has risen for two consecutive sessions after a sharp dip amid woes over AI-related sectors.",
+          "Overnight, U. S.",
+          "stocks ended mixed as technology shares rebounded from their steepest weekly drop since June. The Dow Jones Industrial Average edged down 0.",
+          "07 percent, while the benchmark S&P 500 rose 0. 41 percent and the tech-heavy Nasdaq Composite Index gained 1.",
+          "11 percent to finish at 26,430. 89."
+        ],
+        "words": [
+          "shares",
+          "rebound",
+          "concerns"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia",
+        "url": "https://www.koreatimes.co.kr/world/20261020/us-ties-with-ukraine-hit-new-low-as-trump-slights-zelenskyy-and-eases-up-on-russia?utm_source=rss",
+        "summary": "WASHINGTON — The U.S.-Ukraine alliance is careening toward a possible breaking point, with Moscow strengthened by President Donald Trump's recent rejection of new Russia sanctions and Kyiv undermined by disruptions in satellite support for its drones during the war. Trump's relationship with Ukrainian President Volodymyr Zelenskyy has always been a moving target , while the Republican president has frequently boasted of his rapport with Russian leader Vladimir Putin . But relations between the U.S. and Ukraine appear to be at a new low, threatening to tip the balance of the war to Russia's favor and imperil America's security interests across the globe. “At this moment in time, things look blacker than they ever had regarding this administration’s policy towards Russia and Ukraine,” said John Herbst, a former ambassador to Ukraine under President George W. Bush and now a scholar with the...",
+        "fullText": [
+          "WASHINGTON — The U. S.",
+          "-Ukraine alliance is careening toward a possible breaking point, with Moscow strengthened by President Donald Trump's recent rejection of new Russia sanctions and Kyiv undermined by disruptions in satellite support for its drones during the war. Trump's relationship with Ukrainian President Volodymyr Zelenskyy has always been a moving target , while the Republican president has frequently boasted of his rapport with Russian leader Vladimir Putin .",
+          "But relations between the U. S.",
+          "and Ukraine appear to be at a new low, threatening to tip the balance of the war to Russia's favor and imperil America's security interests across the globe. “At this moment in time, things look blacker than they ever had regarding this administration’s policy towards Russia and Ukraine,” said John Herbst, a former ambassador to Ukraine under President George W.",
+          "Bush and now a scholar with the..."
+        ],
+        "words": [
+          "ukraine",
+          "slights",
+          "zelenskyy"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea, Russia discuss ways to expand exchanges in education",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261020/n-korea-russia-discuss-ways-to-expand-exchanges-in-education?utm_source=rss",
+        "summary": "The education ministers of North Korea and Russia have met in Pyongyang and discussed ways to expand exchanges in the education field, the North's state media reported Tuesday, amid deepening cooperation between the two nations. North Korean Education Minister Ri Yong-chol and his Russian counterpart, Sergey Kravtsov, held talks the previous day, according to the Korean Central News Agency (KCNA). A Russian delegation, led by Kravtsov, arrived in Pyongyang on Monday. \"At the talks, the successes and experience gained by the two countries in the field of education were shared, and the issues of further boosting bilateral exchange and cooperation were discussed,\" the KCNA reported, without disclosing other details. In a separate dispatch, the KCNA said the Russian delegation toured the Pyongyang University of Education No. 2, a major educational institution for training teachers in the Nor...",
+        "fullText": [
+          "The education ministers of North Korea and Russia have met in Pyongyang and discussed ways to expand exchanges in the education field, the North's state media reported Tuesday, amid deepening cooperation between the two nations. North Korean Education Minister Ri Yong-chol and his Russian counterpart, Sergey Kravtsov, held talks the previous day, according to the Korean Central News Agency (KCNA).",
+          "A Russian delegation, led by Kravtsov, arrived in Pyongyang on Monday. \"At the talks, the successes and experience gained by the two countries in the field of education were shared, and the issues of further boosting bilateral exchange and cooperation were discussed,\" the KCNA reported, without disclosing other details.",
+          "In a separate dispatch, the KCNA said the Russian delegation toured the Pyongyang University of Education No. 2, a major educational institution for training teachers in the Nor..."
+        ],
+        "words": [
+          "russia",
+          "discuss",
+          "expand"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Kenyan cult leader guilty on all charges over 191 starvation deaths",
+        "url": "https://www.koreatimes.co.kr/world/20261020/kenyan-cult-leader-guilty-on-all-charges-over-191-starvation-deaths?utm_source=rss",
+        "summary": "MOMBASA, Kenya — A self-proclaimed Kenyan preacher and his associates were on Monday found guilty of murdering 190 children and one adult in an infamous starvation cult. Hundreds of bodies have been discovered since 2023 at the cult base inland from the Kenyan beach resort of Malindi, in what became known as the \"Shakahola Forest Massacre\". Self-proclaimed pastor Paul Mackenzie was alleged to have incited his acolytes to starve to death in order to \"meet Jesus\". He was impassive in the open-air Mombasa courtroom as he and 28 others were found guilty of murder. \"I am satisfied that the prosecution has proved the case against all the 29 accused persons for the murder of 190 children and one adult,\" judge Diana Kavedza Mochache said. The Office of the Director of Public Prosecutions welcomed the \"momentous\" verdict, with director Renson Ingonga telling reporters: \"Getting a conviction of su...",
+        "fullText": [
+          "MOMBASA, Kenya — A self-proclaimed Kenyan preacher and his associates were on Monday found guilty of murdering 190 children and one adult in an infamous starvation cult. Hundreds of bodies have been discovered since 2023 at the cult base inland from the Kenyan beach resort of Malindi, in what became known as the \"Shakahola Forest Massacre\".",
+          "Self-proclaimed pastor Paul Mackenzie was alleged to have incited his acolytes to starve to death in order to \"meet Jesus\". He was impassive in the open-air Mombasa courtroom as he and 28 others were found guilty of murder.",
+          "\"I am satisfied that the prosecution has proved the case against all the 29 accused persons for the murder of 190 children and one adult,\" judge Diana Kavedza Mochache said. The Office of the Director of Public Prosecutions welcomed the \"momentous\" verdict, with director Renson Ingonga telling reporters: \"Getting a conviction of su..."
+        ],
+        "words": [
+          "kenyan",
+          "leader",
+          "guilty"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds",
+        "url": "https://www.koreatimes.co.kr/world/20261020/trump-approval-falls-to-record-low-of-31-as-midterms-near-reutersipsos-poll-finds?utm_source=rss",
+        "summary": "WASHINGTON — President Donald Trump's approval rating fell to a record low as Americans worried about high gasoline prices and appeared ready to punish his Republican Party in the November 3 congressional elections, according to a Reuters/Ipsos poll that closed on Monday. Some 31% of Americans approve of Trump's performance in office, down a percentage point from two weeks earlier and the lowest level in either of his presidential terms, the four-day poll showed. Asked which party they would vote for if the congressional elections were held today in what is known as a \"generic ballot\" question, some 47% of registered voters in the nationwide poll picked Democrats and 35% chose Republicans. The 12-point Democratic advantage was the widest over the current election cycle and could bolster Democratic hopes of seizing control of the US House of Representatives and the US Senate. For Republic...",
+        "fullText": [
+          "WASHINGTON — President Donald Trump's approval rating fell to a record low as Americans worried about high gasoline prices and appeared ready to punish his Republican Party in the November 3 congressional elections, according to a Reuters/Ipsos poll that closed on Monday. Some 31% of Americans approve of Trump's performance in office, down a percentage point from two weeks earlier and the lowest level in either of his presidential terms, the four-day poll showed.",
+          "Asked which party they would vote for if the congressional elections were held today in what is known as a \"generic ballot\" question, some 47% of registered voters in the nationwide poll picked Democrats and 35% chose Republicans. The 12-point Democratic advantage was the widest over the current election cycle and could bolster Democratic hopes of seizing control of the US House of Representatives and the US Senate.",
+          "For Republic..."
+        ],
+        "words": [
+          "approval",
+          "record",
+          "midterms"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US, local tour stars to converge for LPGA event in S. Korea",
+        "url": "https://www.koreatimes.co.kr/sports/20261020/us-local-tour-stars-to-converge-for-lpga-event-in-s-korea?utm_source=rss",
+        "summary": "Stars from the top U.S. and domestic women's golf tours will converge for an LPGA Tour event in South Korea this week, with a hometown favorite looking to defend her title. The LPGA Tour will bring its annual Asian swing to Haenam, some 330 kilometers south of Seoul in Jeonnam-Gwangju, for the BMW Ladies Championship at Pine Beach Golf Links. The 72-hole stroke-play tournament goes from Thursday to Sunday, with a total purse of $2.35 million. This will be the second straight edition of the tournament played in Haenam. Kim Sei-young, who is from the nearby town of Yeongam, won last year's tournament in front of dozens of friends and relatives to end a five-year LPGA title drought. At No. 9 with 13 career LPGA wins, Kim has had a strong 2026 season with seven top-10 finishes in 17 starts -- a run that will surely improve with a second straight BMW title on home soil this week. No player ha...",
+        "fullText": [
+          "Stars from the top U. S.",
+          "and domestic women's golf tours will converge for an LPGA Tour event in South Korea this week, with a hometown favorite looking to defend her title. The LPGA Tour will bring its annual Asian swing to Haenam, some 330 kilometers south of Seoul in Jeonnam-Gwangju, for the BMW Ladies Championship at Pine Beach Golf Links.",
+          "The 72-hole stroke-play tournament goes from Thursday to Sunday, with a total purse of $2. 35 million.",
+          "This will be the second straight edition of the tournament played in Haenam. Kim Sei-young, who is from the nearby town of Yeongam, won last year's tournament in front of dozens of friends and relatives to end a five-year LPGA title drought.",
+          "At No. 9 with 13 career LPGA wins, Kim has had a strong 2026 season with seven top-10 finishes in 17 starts -- a run that will surely improve with a second straight BMW title on home soil this week.",
+          "No player ha..."
+        ],
+        "words": [
+          "converge",
+          "domestic",
+          "hometown"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "US orders removal of China's DeepSeek products from federal civilian agencies",
+        "url": "https://www.koreatimes.co.kr/world/20261020/us-orders-removal-of-chinas-deepseek-products-from-federal-civilian-agencies?utm_source=rss",
+        "summary": "WASHINGTON — The U.S. Department of Homeland Security (DHS) has ordered federal civilian agencies to remove products developed by Chinese artificial intelligence (AI) startup DeepSeek from their information technology systems and barred them from procuring such products, according to a federal notice released Monday. The order, detailed in a notice scheduled to be published in the Federal Register on Tuesday, applies to information technology products and services developed by Hangzhou DeepSeek Artificial Intelligence Co. and its affiliated entities. The restrictions also cover third-party products and services developed using DeepSeek implementations. The department said the order was issued under the Federal Acquisition Supply Chain Security Act of 2018 following a review of a recommendation by the Federal Acquisition Security Council and related evidence. The order applies to federal...",
+        "fullText": [
+          "WASHINGTON — The U. S.",
+          "Department of Homeland Security (DHS) has ordered federal civilian agencies to remove products developed by Chinese artificial intelligence (AI) startup DeepSeek from their information technology systems and barred them from procuring such products, according to a federal notice released Monday. The order, detailed in a notice scheduled to be published in the Federal Register on Tuesday, applies to information technology products and services developed by Hangzhou DeepSeek Artificial Intelligence Co.",
+          "and its affiliated entities. The restrictions also cover third-party products and services developed using DeepSeek implementations.",
+          "The department said the order was issued under the Federal Acquisition Supply Chain Security Act of 2018 following a review of a recommendation by the Federal Acquisition Security Council and related evidence. The order applies to federal..."
+        ],
+        "words": [
+          "orders",
+          "removal",
+          "deepseek"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "label": "Monday, October 19, 2026",
     "title": "Korea News Brief",
