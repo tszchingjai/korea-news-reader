@@ -1,5 +1,150 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-22",
+    "label": "Thursday, October 22, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Weather, Economy, Korea, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Scientists who laid groundwork for Korea's scientific rise",
+        "url": "https://www.koreatimes.co.kr/opinion/20261022/scientists-who-laid-groundwork-for-koreas-scientific-rise?utm_source=rss",
+        "summary": "On Sept. 24, 1966, some 200 scientists and engineers from 71 academic societies gathered at the old Press Center in central Seoul. A black-and-white photograph taken that day shows a banner written in Chinese characters announcing the founding of the Korean Federation of Science and Technology Societies (KOFST), with the national flag behind the lectern. After the national anthem, the order of proceedings included a \"Song for the Promotion of Science and Technology.\" Korea at the time had no ministry overseeing science, nor did it have a general law for promoting science and technology. At the meeting, the participants adopted the federation's bylaws, elected Kim Yun-gi as its first president and approved a first-year plan that included pushing for a law to promote science and technology. They also adopted a petition urging the government to enact that law, improve conditions for scienti...",
+        "fullText": [
+          "On Sept. 24, 1966, some 200 scientists and engineers from 71 academic societies gathered at the old Press Center in central Seoul.",
+          "A black-and-white photograph taken that day shows a banner written in Chinese characters announcing the founding of the Korean Federation of Science and Technology Societies (KOFST), with the national flag behind the lectern. After the national anthem, the order of proceedings included a \"Song for the Promotion of Science and Technology.",
+          "\" Korea at the time had no ministry overseeing science, nor did it have a general law for promoting science and technology. At the meeting, the participants adopted the federation's bylaws, elected Kim Yun-gi as its first president and approved a first-year plan that included pushing for a law to promote science and technology.",
+          "They also adopted a petition urging the government to enact that law, improve conditions for scienti..."
+        ],
+        "words": [
+          "scientists",
+          "groundwork",
+          "scientific"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "1 person killed in attack on eastern Saudi airport, authorities say",
+        "url": "https://www.koreatimes.co.kr/world/20261022/1-person-killed-in-attack-on-eastern-saudi-airport-authorities-say?utm_source=rss",
+        "summary": "RIYADH, Saudi Arabia — The Saudi Civil Aviation Authority announced that one Saudi resident was killed in attacks Wednesday evening on King Fahad International airport in Dammam in Saudi Arabia on the Persian Gulf near Bahrain and Qatar. The Civil Aviation authority also said eight people were injured and have been transferred to a hospital. The airport also suffered some material damages. Global flight-tracking service Flightradar24 said overnight Thursday on X that flights have been diverted away from the airport. King Fahad airport has been attacked previously amid a wider wave of Houthi missile and projectile strikes targeting major airports in Saudi Arabia. The Iranian-backed Houthis have not commented on this attack. The Saudi Coalition announced that it intercepted 4 drone attacks in the Eastern region. This comes as two people were killed in attack on a Saudi oil facility earlier...",
+        "fullText": [
+          "RIYADH, Saudi Arabia — The Saudi Civil Aviation Authority announced that one Saudi resident was killed in attacks Wednesday evening on King Fahad International airport in Dammam in Saudi Arabia on the Persian Gulf near Bahrain and Qatar. The Civil Aviation authority also said eight people were injured and have been transferred to a hospital.",
+          "The airport also suffered some material damages. Global flight-tracking service Flightradar24 said overnight Thursday on X that flights have been diverted away from the airport.",
+          "King Fahad airport has been attacked previously amid a wider wave of Houthi missile and projectile strikes targeting major airports in Saudi Arabia. The Iranian-backed Houthis have not commented on this attack.",
+          "The Saudi Coalition announced that it intercepted 4 drone attacks in the Eastern region. This comes as two people were killed in attack on a Saudi oil facility earlier..."
+        ],
+        "words": [
+          "person",
+          "killed",
+          "attack"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Cuba seeks closer ties with S. Korea amid prolonged US embargo: envoy",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261022/cuba-seeks-closer-ties-with-s-korea-amid-prolonged-us-embargo-envoy?utm_source=rss",
+        "summary": "Cuba is seeking to deepen economic ties with South Korea as it has been grappling with the economic and energy crises exacerbated by decadeslong U.S. sanctions on Havana, the Cuban ambassador to Seoul has said. Ambassador Claudio Raul Monzon Baeza made the remarks in an interview with Yonhap News Agency in Seoul on Monday, ahead of next week's vote at the U.N. General Assembly on Cuba's annual resolution calling for an end to the U.S. embargo. \"There has been a constant trickle of new measures and sanctions that affect both the public and private sectors,\" Monzon said. \"This is an unprecedented offensive aimed at causing a humanitarian crisis by strangling the economy.\" The ambassador said intensified U.S. sanctions have had far-reaching effects on Cuba's trade, fuel supplies and public services, including healthcare. \"If not the worst, it's at least one of the worst situations we've bee...",
+        "fullText": [
+          "Cuba is seeking to deepen economic ties with South Korea as it has been grappling with the economic and energy crises exacerbated by decadeslong U. S.",
+          "sanctions on Havana, the Cuban ambassador to Seoul has said. Ambassador Claudio Raul Monzon Baeza made the remarks in an interview with Yonhap News Agency in Seoul on Monday, ahead of next week's vote at the U.",
+          "N. General Assembly on Cuba's annual resolution calling for an end to the U.",
+          "S. embargo.",
+          "\"There has been a constant trickle of new measures and sanctions that affect both the public and private sectors,\" Monzon said. \"This is an unprecedented offensive aimed at causing a humanitarian crisis by strangling the economy.",
+          "\" The ambassador said intensified U. S.",
+          "sanctions have had far-reaching effects on Cuba's trade, fuel supplies and public services, including healthcare. \"If not the worst, it's at least one of the worst situations we've bee..."
+        ],
+        "words": [
+          "closer",
+          "prolonged",
+          "embargo"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea, US conclude multinational maritime mine warfare exercise off Busan",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261022/korea-us-conclude-multinational-maritime-mine-warfare-exercise-off-busan?utm_source=rss",
+        "summary": "WASHINGTON — South Korea and the United States have concluded a multinational maritime mine warfare exercise off Korea's southeastern port city of Busan with 15 partner nations, according to the U.S. Navy. The ninth Multi-National Mine Warfare Exercise 2026 concluded Friday after bringing together mine countermeasures vessels, explosive ordnance disposal personnel, clearance divers and autonomous underwater vehicles, the U.S. Navy said in a press release. The exercise was aimed at strengthening mine warfare capabilities and interoperability among participating navies through combined maritime operations. It included mine-hunting operations, harbor clearance and port-entry scenarios, mine detection and neutralization, and seabed surveys using unmanned underwater systems. The U.S. Navy deployed USS Chief, an Avenger-class mine countermeasures ship, alongside expeditionary mine countermeasu...",
+        "fullText": [
+          "WASHINGTON — South Korea and the United States have concluded a multinational maritime mine warfare exercise off Korea's southeastern port city of Busan with 15 partner nations, according to the U. S.",
+          "Navy. The ninth Multi-National Mine Warfare Exercise 2026 concluded Friday after bringing together mine countermeasures vessels, explosive ordnance disposal personnel, clearance divers and autonomous underwater vehicles, the U.",
+          "S. Navy said in a press release.",
+          "The exercise was aimed at strengthening mine warfare capabilities and interoperability among participating navies through combined maritime operations. It included mine-hunting operations, harbor clearance and port-entry scenarios, mine detection and neutralization, and seabed surveys using unmanned underwater systems.",
+          "The U. S.",
+          "Navy deployed USS Chief, an Avenger-class mine countermeasures ship, alongside expeditionary mine countermeasu..."
+        ],
+        "words": [
+          "conclude",
+          "multinational",
+          "maritime"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "NK leader's sister warns of 'new counter means' at border with S. Korea",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261022/nk-leaders-sister-warns-of-new-counter-means-at-border-with-s-korea?utm_source=rss",
+        "summary": "Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, warned Thursday of \"new counter means\" at her country's border with South Korea. \"Our new counter means will get into the alert for duty at all the southern border line and the loudspeakers against the ROK will be on standby in a matter of days,\" the leader's sister said in a statement carried by the North's Korean Central News Agency (KCNA). The remarks came a day after she warned in a separate statement that Pyongyang would resume propaganda loudspeaker broadcasts toward South Korea later this month. Kim also defended North Korea's projects to fortify its border. \"Within the territory where our sovereignty is exercised, the permanent project for the southern border will be surely and successfully continued according to our purposes,\" she said. \"If the permanent project for the southern border is carried out, the dange...",
+        "fullText": [
+          "Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, warned Thursday of \"new counter means\" at her country's border with South Korea. \"Our new counter means will get into the alert for duty at all the southern border line and the loudspeakers against the ROK will be on standby in a matter of days,\" the leader's sister said in a statement carried by the North's Korean Central News Agency (KCNA).",
+          "The remarks came a day after she warned in a separate statement that Pyongyang would resume propaganda loudspeaker broadcasts toward South Korea later this month. Kim also defended North Korea's projects to fortify its border.",
+          "\"Within the territory where our sovereignty is exercised, the permanent project for the southern border will be surely and successfully continued according to our purposes,\" she said. \"If the permanent project for the southern border is carried out, the dange..."
+        ],
+        "words": [
+          "leader",
+          "sister",
+          "counter"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Publishers seek safeguards over suspected AI book-buying spree",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20261022/publishers-seek-safeguards-over-suspected-ai-book-buying-spree?utm_source=rss",
+        "summary": "Korean publishers are calling for stronger copyright protections and compensation as bulk book purchase requests suspected of being linked to artificial intelligence (AI) training raise concerns over intellectual property theft. Publishing groups are investigating suspicious orders and seeking a coordinated response. However, authors and publishers face a fundamental obstacle: they often cannot know for sure whether their books are being used to train AI systems. Kyobo Book Centre, a bookstore chain in Korea, said on Wednesday that 10 overseas companies, including businesses in the United States and Britain, had approached it since early this year, each seeking only one copy of roughly 100,000 titles. “Many introduced themselves as book wholesalers,” a Kyobo official was quoted as saying by Yonhap News Agency Tuesday. The official added that some denied an AI training purpose but identif...",
+        "fullText": [
+          "Korean publishers are calling for stronger copyright protections and compensation as bulk book purchase requests suspected of being linked to artificial intelligence (AI) training raise concerns over intellectual property theft. Publishing groups are investigating suspicious orders and seeking a coordinated response.",
+          "However, authors and publishers face a fundamental obstacle: they often cannot know for sure whether their books are being used to train AI systems. Kyobo Book Centre, a bookstore chain in Korea, said on Wednesday that 10 overseas companies, including businesses in the United States and Britain, had approached it since early this year, each seeking only one copy of roughly 100,000 titles.",
+          "“Many introduced themselves as book wholesalers,” a Kyobo official was quoted as saying by Yonhap News Agency Tuesday. The official added that some denied an AI training purpose but identif..."
+        ],
+        "words": [
+          "publishers",
+          "safeguards",
+          "suspected"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's int'l student boom puts universities to new test",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261022/koreas-intl-student-boom-puts-universities-to-new-test?utm_source=rss",
+        "summary": "SINGAPORE, LONDON, SEOUL — Korea reached its goal of attracting 300,000 international students ahead of schedule. Now comes the harder part. As the government shifts its focus from quantity to quality, universities face a tougher test of whether they can turn rising enrollment into quality education, meaningful career opportunities and long-term talent retention. Under its Study Korea 300K initiative launched in 2023, the government set a target of attracting 300,000 international students by 2027. It reached that milestone early, with enrollment climbing to 307,464 this year, according to the Ministry of Education. Yet the gap between recruitment and retention remains wide, raising questions about whether universities are equipped to deliver on the government's new priorities. Despite a surge in international enrollment, Korea continues to struggle to retain foreign graduates. Of the 36...",
+        "fullText": [
+          "SINGAPORE, LONDON, SEOUL — Korea reached its goal of attracting 300,000 international students ahead of schedule. Now comes the harder part.",
+          "As the government shifts its focus from quantity to quality, universities face a tougher test of whether they can turn rising enrollment into quality education, meaningful career opportunities and long-term talent retention. Under its Study Korea 300K initiative launched in 2023, the government set a target of attracting 300,000 international students by 2027.",
+          "It reached that milestone early, with enrollment climbing to 307,464 this year, according to the Ministry of Education. Yet the gap between recruitment and retention remains wide, raising questions about whether universities are equipped to deliver on the government's new priorities.",
+          "Despite a surge in international enrollment, Korea continues to struggle to retain foreign graduates. Of the 36..."
+        ],
+        "words": [
+          "student",
+          "universities",
+          "singapore"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "label": "Wednesday, October 21, 2026",
     "title": "Korea News Brief",
