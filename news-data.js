@@ -1,5 +1,148 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-24",
+    "label": "Saturday, October 24, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Politics, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "US Army activates air defense battalion in Guam amid N. Korean, Chinese missile threats: report",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261024/us-army-activates-air-defense-battalion-in-guam-amid-n-korean-chinese-missile-threats-report?utm_source=rss",
+        "summary": "WASHINGTON — The U.S. Army has activated an air defense battalion in Guam to bolster the island's defenses against regional missile threats, including those posed by North Korea and China, a U.S. military news outlet reported Friday. The 3rd Battalion, 43rd Air Defense Artillery Regiment, held an activation ceremony on Oct. 16 at Andersen Air Force Base in Guam and will assume the air defense responsibilities previously carried out by Task Force Talon, according to USNI News. Task Force Talon began its rotational mission in 2013 to counter potential North Korean ballistic missile threats, but its responsibilities have since expanded amid China's growing missile capabilities, the report said. The newly activated battalion is expected to operate Patriot, Terminal High Altitude Area Defense (THAAD) and Intermediate Fires Protection Capability (IFPC) systems as part of a layered defense netw...",
+        "fullText": [
+          "WASHINGTON — The U. S.",
+          "Army has activated an air defense battalion in Guam to bolster the island's defenses against regional missile threats, including those posed by North Korea and China, a U. S.",
+          "military news outlet reported Friday. The 3rd Battalion, 43rd Air Defense Artillery Regiment, held an activation ceremony on Oct.",
+          "16 at Andersen Air Force Base in Guam and will assume the air defense responsibilities previously carried out by Task Force Talon, according to USNI News. Task Force Talon began its rotational mission in 2013 to counter potential North Korean ballistic missile threats, but its responsibilities have since expanded amid China's growing missile capabilities, the report said.",
+          "The newly activated battalion is expected to operate Patriot, Terminal High Altitude Area Defense (THAAD) and Intermediate Fires Protection Capability (IFPC) systems as part of a layered defense netw..."
+        ],
+        "words": [
+          "activates",
+          "defense",
+          "battalion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
+        "url": "https://www.koreatimes.co.kr/world/20261024/trump-at-south-florida-rally-revives-the-idea-of-military-intervention-in-cuba-after-iran?utm_source=rss",
+        "summary": "FORT MYERS, Fla. (AP) — President Donald Trump on Friday told a rally for candidates in South Florida that U.S. warships returning from the Middle East could stop over in Cuba on their way back from the Iran war, his latest suggestion of taking an interventionist approach to the nearby country. Trump first floated this idea earlier this year, but has not mentioned it in recent months. But he revived it in response to a shouted question from the crowd about the island nation. He was campaigning just days ahead of midterm elections in which voters have expressed concern about the impact the U.S. war on Iran has had on prices of goods from gas to groceries. “We’ll do a little stopover,” Trump said. “Actually, what we’re going to do with Cuba is, we’re going to come back from Iran. Those beautiful ships will pass Cuba. We’ll have one of them stop about 50 yards off the coast. They’ll raise u...",
+        "fullText": [
+          "FORT MYERS, Fla. (AP) — President Donald Trump on Friday told a rally for candidates in South Florida that U.",
+          "S. warships returning from the Middle East could stop over in Cuba on their way back from the Iran war, his latest suggestion of taking an interventionist approach to the nearby country.",
+          "Trump first floated this idea earlier this year, but has not mentioned it in recent months. But he revived it in response to a shouted question from the crowd about the island nation.",
+          "He was campaigning just days ahead of midterm elections in which voters have expressed concern about the impact the U. S.",
+          "war on Iran has had on prices of goods from gas to groceries. “We’ll do a little stopover,” Trump said.",
+          "“Actually, what we’re going to do with Cuba is, we’re going to come back from Iran. Those beautiful ships will pass Cuba.",
+          "We’ll have one of them stop about 50 yards off the coast. They’ll raise u..."
+        ],
+        "words": [
+          "florida",
+          "revives",
+          "military"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Explore one of Seoul's trendiest spots through architect-led tour of Seongsu",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261024/explore-one-of-seouls-trendiest-spots-through-architect-led-tour-of-seongsu?utm_source=rss",
+        "summary": "On the paved narrow streets of Seongsu-dong, red-brick shoe factories built during Korea’s mid-century manufacturing boom now stand beside sweeping, glass-fronted flagships and repurposed industrial storehouses. Once a gritty hub for leather workers and cobblers, the neighborhood has earned a reputation as the \"Brooklyn of Seoul\" — a playground for architectural experimentation where old-world industrial heritage meets ultra-modern design. Now, local authorities are opening the doors to this urban metamorphosis, inviting residents to walk through the neighborhood's living architectural archive alongside professional designers. Seongdong District said it will host its 10th annual \"Gagahoho\" Architecture Academy from Oct. 26-31 in partnership with the Seongdong Architects Association. The weeklong initiative culminates on Oct. 31 with an architect-led walking tour through Seongsu-dong’s mo...",
+        "fullText": [
+          "On the paved narrow streets of Seongsu-dong, red-brick shoe factories built during Korea’s mid-century manufacturing boom now stand beside sweeping, glass-fronted flagships and repurposed industrial storehouses. Once a gritty hub for leather workers and cobblers, the neighborhood has earned a reputation as the \"Brooklyn of Seoul\" — a playground for architectural experimentation where old-world industrial heritage meets ultra-modern design.",
+          "Now, local authorities are opening the doors to this urban metamorphosis, inviting residents to walk through the neighborhood's living architectural archive alongside professional designers. Seongdong District said it will host its 10th annual \"Gagahoho\" Architecture Academy from Oct.",
+          "26-31 in partnership with the Seongdong Architects Association. The weeklong initiative culminates on Oct.",
+          "31 with an architect-led walking tour through Seongsu-dong’s mo..."
+        ],
+        "words": [
+          "explore",
+          "trendiest",
+          "through"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Export push seeks to breathe new life into Korea's hollowed-out mining towns",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261024/export-push-seeks-to-breathe-new-life-into-koreas-hollowed-out-mining-towns?utm_source=rss",
+        "summary": "Deep in the rugged, forested mountains of Gangwon Province, the hollowed-out shafts of abandoned anthracite mines stand as quiet monuments to Korea’s industrial birth. During their mid-20th-century heyday, these bustling towns fueled the nation’s postwar economic miracle, powering domestic hearths and heavy manufacturing alike. But as Korea’s energy needs shifted toward oil and gas in the 1980s, the region entered a long, steep decline. While a handful of major mines remained operational into the 2020s, the last state-run mine officially closed its shafts in mid-2025 — leaving behind steep valleys marked by demographic collapse and crumbling local economies. Now, trade officials and local leaders are trying a new approach to revive these quiet valleys: connecting their remaining small businesses directly to overseas markets. Rather than relying solely on local tourism or government aid,...",
+        "fullText": [
+          "Deep in the rugged, forested mountains of Gangwon Province, the hollowed-out shafts of abandoned anthracite mines stand as quiet monuments to Korea’s industrial birth. During their mid-20th-century heyday, these bustling towns fueled the nation’s postwar economic miracle, powering domestic hearths and heavy manufacturing alike.",
+          "But as Korea’s energy needs shifted toward oil and gas in the 1980s, the region entered a long, steep decline. While a handful of major mines remained operational into the 2020s, the last state-run mine officially closed its shafts in mid-2025 — leaving behind steep valleys marked by demographic collapse and crumbling local economies.",
+          "Now, trade officials and local leaders are trying a new approach to revive these quiet valleys: connecting their remaining small businesses directly to overseas markets. Rather than relying solely on local tourism or government aid,..."
+        ],
+        "words": [
+          "export",
+          "breathe",
+          "hollowed-out"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Pharmacies emerge as new K-beauty stops for foreign tourists",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261024/pharmacies-emerge-as-new-k-beauty-stops-for-foreign-tourists?utm_source=rss",
+        "summary": "In Seoul's bustling Namdaemun Market, a group of American tourists stepped out of a pharmacy and opened their shopping bags to show their haul: a box of Bacchus energy drinks and three packages of polydeoxyribonucleotide (PDRN) skin care products. Inside, other foreign shoppers queued at the counters with acne treatments, scar gels and cosmetics in hand. Pharmacists in white coats scanned their purchases at the registers. Scenes like this are becoming increasingly common as Korean pharmacies emerge as a new stop on the K-beauty tourism route. Foreign visitors are seeking both over-the-counter (OTC) dermatological drugs available only at pharmacies and pharmacy-sold cosmetics promoted through social media. “Foreign tourists now account for 40 to 50 percent of our sales,” Park Jun-sun, who runs one of the pharmacies in Namdaemun Market, told The Korea Times. “There weren’t that many when I...",
+        "fullText": [
+          "In Seoul's bustling Namdaemun Market, a group of American tourists stepped out of a pharmacy and opened their shopping bags to show their haul: a box of Bacchus energy drinks and three packages of polydeoxyribonucleotide (PDRN) skin care products. Inside, other foreign shoppers queued at the counters with acne treatments, scar gels and cosmetics in hand.",
+          "Pharmacists in white coats scanned their purchases at the registers. Scenes like this are becoming increasingly common as Korean pharmacies emerge as a new stop on the K-beauty tourism route.",
+          "Foreign visitors are seeking both over-the-counter (OTC) dermatological drugs available only at pharmacies and pharmacy-sold cosmetics promoted through social media. “Foreign tourists now account for 40 to 50 percent of our sales,” Park Jun-sun, who runs one of the pharmacies in Namdaemun Market, told The Korea Times.",
+          "“There weren’t that many when I..."
+        ],
+        "words": [
+          "pharmacies",
+          "emerge",
+          "k-beauty"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "North Korea's diversifying missile arsenal complicates South's defense",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261024/north-koreas-diversifying-missile-arsenal-complicates-souths-defense?utm_source=rss",
+        "summary": "North Korea is displaying an increasingly diverse missile arsenal this year, firing from different platforms — on land, aboard warships and, according to Pyongyang, underwater from a submarine — while testing weapons designed to carry heavier warheads, maneuver to evade interception and inflict damage over wider areas. The frequency of missile tests has also increased, with 16 ballistic missile launches recorded through Oct. 12, which exceeds the six recorded in all of 2025 and 12 in 2024. But what's more threatening than the frequency of ballistic missiles is diversification, with cruise missile tests added on seven occasions through Oct. 14, involving land-based launchers, destroyers and, purportedly, a submarine. The expanding arsenal gives North Korean leader Kim Jong-un’s military more options to approach targets from different directions and coordinate strikes, placing greater dema...",
+        "fullText": [
+          "North Korea is displaying an increasingly diverse missile arsenal this year, firing from different platforms — on land, aboard warships and, according to Pyongyang, underwater from a submarine — while testing weapons designed to carry heavier warheads, maneuver to evade interception and inflict damage over wider areas. The frequency of missile tests has also increased, with 16 ballistic missile launches recorded through Oct.",
+          "12, which exceeds the six recorded in all of 2025 and 12 in 2024. But what's more threatening than the frequency of ballistic missiles is diversification, with cruise missile tests added on seven occasions through Oct.",
+          "14, involving land-based launchers, destroyers and, purportedly, a submarine. The expanding arsenal gives North Korean leader Kim Jong-un’s military more options to approach targets from different directions and coordinate strikes, placing greater dema..."
+        ],
+        "words": [
+          "diversifying",
+          "missile",
+          "arsenal"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "5 creepy Korean creatures, both famed and obscure",
+        "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261024/5-creepy-korean-creatures-both-famed-and-obscure?utm_source=rss",
+        "summary": "Halloween is just around the corner, and even though Korea does not traditionally celebrate with jack-o’-lanterns and trick-or-treating, the familiar prickle on the back of the neck at night and the whispering autumn breeze seem to be anticipating the time when the veil between our world and the world of spirits is thin. For readers who would like to celebrate the spooky season, second-guess the shapes in the shadows of their room or want a novel idea for a costume to wear to a party, here are five Korean ghosts that might keep you up at night. Gumiho The \"gumiho,\" or the nine-tailed fox, is one of the better-known Korean spirits, especially following its inclusion in the hit video game League of Legends. One of the game's most celebrated characters is Ahri, a bewitching and seductive fox lady who drains the souls of others. The gumiho also appears frequently in Korean dramas and webtoon...",
+        "fullText": [
+          "Halloween is just around the corner, and even though Korea does not traditionally celebrate with jack-o’-lanterns and trick-or-treating, the familiar prickle on the back of the neck at night and the whispering autumn breeze seem to be anticipating the time when the veil between our world and the world of spirits is thin. For readers who would like to celebrate the spooky season, second-guess the shapes in the shadows of their room or want a novel idea for a costume to wear to a party, here are five Korean ghosts that might keep you up at night.",
+          "Gumiho The \"gumiho,\" or the nine-tailed fox, is one of the better-known Korean spirits, especially following its inclusion in the hit video game League of Legends. One of the game's most celebrated characters is Ahri, a bewitching and seductive fox lady who drains the souls of others.",
+          "The gumiho also appears frequently in Korean dramas and webtoon..."
+        ],
+        "words": [
+          "creepy",
+          "creatures",
+          "obscure"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "label": "Friday, October 23, 2026",
     "title": "Korea News Brief",
