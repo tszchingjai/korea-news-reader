@@ -1,5 +1,157 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-23",
+    "label": "Friday, October 23, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Weather, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "SK hynix halts review of US stock market listing of Solidigm",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261023/sk-hynix-halts-review-of-us-stock-market-listing-of-solidigm?utm_source=rss",
+        "summary": "Solidigm, SK hynix’s NAND flash memory subsidiary, has decided to halt its review of potential pre-IPO fundraising and initial public offering (IPO) options, citing volatile capital markets and recent trends in semiconductor stock prices, SK hynix said Friday. \"While SK hynix and Solidigm continue to deliver solid business performance, financial market volatility has increased, contributing to a broader correction in semiconductor stocks,\" SK hynix said in a press statement. \"After comprehensively assessing these business conditions, Solidigm has decided to discontinue its review of potential pre-IPO and IPO options.\" Reports circulated that Solidigm, SK hynix’s NAND flash memory subsidiary, was considering a U.S. IPO as early as next year that could value the company at up to $150 billion, with the listing seen as a way to secure funding for U.S. production facilities and technology dev...",
+        "fullText": [
+          "Solidigm, SK hynix’s NAND flash memory subsidiary, has decided to halt its review of potential pre-IPO fundraising and initial public offering (IPO) options, citing volatile capital markets and recent trends in semiconductor stock prices, SK hynix said Friday. \"While SK hynix and Solidigm continue to deliver solid business performance, financial market volatility has increased, contributing to a broader correction in semiconductor stocks,\" SK hynix said in a press statement.",
+          "\"After comprehensively assessing these business conditions, Solidigm has decided to discontinue its review of potential pre-IPO and IPO options. \" Reports circulated that Solidigm, SK hynix’s NAND flash memory subsidiary, was considering a U.",
+          "S. IPO as early as next year that could value the company at up to $150 billion, with the listing seen as a way to secure funding for U.",
+          "S. production facilities and technology dev..."
+        ],
+        "words": [
+          "review",
+          "market",
+          "listing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Delinquency ratio on bank loans up for 2nd month in August",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20261023/delinquency-ratio-on-bank-loans-up-for-2nd-month-in-august?utm_source=rss",
+        "summary": "The delinquency ratio on loans extended by banks rose for the second consecutive month in August, data showed Friday. The delinquency numbers on banks' won-denominated loans stood at 0.69 percent as of end-August, up 0.06 percentage point from a month earlier, according to the data from the Financial Supervisory Service (FSS). The amount of newly overdue loans came to 3 trillion won ($2.26 billion) in August, down 0.2 trillion won from the previous month. The amount of write-offs of such loans, on the other hand, came in at 1.5 trillion won, up 0.1 trillion won over the cited period, according to the FSS. The delinquency ratio for corporate loans stood at 0.86 percent as of end-August, up 0.08 percentage point from a month earlier, and the ratio for household loans rose 0.03 percentage point to 0.45 percent over the same period.",
+        "fullText": [
+          "The delinquency ratio on loans extended by banks rose for the second consecutive month in August, data showed Friday. The delinquency numbers on banks' won-denominated loans stood at 0.",
+          "69 percent as of end-August, up 0. 06 percentage point from a month earlier, according to the data from the Financial Supervisory Service (FSS).",
+          "The amount of newly overdue loans came to 3 trillion won ($2. 26 billion) in August, down 0.",
+          "2 trillion won from the previous month. The amount of write-offs of such loans, on the other hand, came in at 1.",
+          "5 trillion won, up 0. 1 trillion won over the cited period, according to the FSS.",
+          "The delinquency ratio for corporate loans stood at 0. 86 percent as of end-August, up 0.",
+          "08 percentage point from a month earlier, and the ratio for household loans rose 0. 03 percentage point to 0.",
+          "45 percent over the same period."
+        ],
+        "words": [
+          "delinquency",
+          "august",
+          "extended"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Old KBO rivals to duel for ticket to championship series",
+        "url": "https://www.koreatimes.co.kr/sports/20261023/old-kbo-rivals-to-duel-for-ticket-to-championship-series?utm_source=rss",
+        "summary": "Two clubs with a long history of heated rivalry will battle for a spot in the Korean baseball championship series starting this weekend. The Samsung Lions and the Kia Tigers will square off in the best-of-five second round in the Korea Baseball Organization (KBO) postseason. The opening game is 2 p.m. Sunday at Daegu Samsung Lions Park in the southeastern city of Daegu. The second game will also be in Daegu at 6:30 p.m. Monday. The series will then shift to the Tigers' home in the southwestern city of Gwangju, with Game 3 at 6:30 p.m. Wednesday at Gwangju-Kia Champions Field. If necessary, Game 4 is 6:30 p.m. Thursday in Gwangju. Should the teams need a Game 5 to decide the winner, the final game will be in Daegu at 2 p.m. Oct. 31. The winner of this showdown will advance to the Korean Series, where the KT Wiz, the regular-season champions, are waiting. The Lions, by finishing in second...",
+        "fullText": [
+          "Two clubs with a long history of heated rivalry will battle for a spot in the Korean baseball championship series starting this weekend. The Samsung Lions and the Kia Tigers will square off in the best-of-five second round in the Korea Baseball Organization (KBO) postseason.",
+          "The opening game is 2 p. m.",
+          "Sunday at Daegu Samsung Lions Park in the southeastern city of Daegu. The second game will also be in Daegu at 6:30 p.",
+          "m. Monday.",
+          "The series will then shift to the Tigers' home in the southwestern city of Gwangju, with Game 3 at 6:30 p. m.",
+          "Wednesday at Gwangju-Kia Champions Field. If necessary, Game 4 is 6:30 p.",
+          "m. Thursday in Gwangju.",
+          "Should the teams need a Game 5 to decide the winner, the final game will be in Daegu at 2 p. m.",
+          "Oct. 31.",
+          "The winner of this showdown will advance to the Korean Series, where the KT Wiz, the regular-season champions, are waiting. The Lions, by finishing in second..."
+        ],
+        "words": [
+          "rivals",
+          "ticket",
+          "championship"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "S. Korea sends letter to UNSC urging NK to take responsibility for DMZ mine blasts",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261023/s-korea-sends-letter-to-unsc-urging-nk-to-take-responsibility-for-dmz-mine-blasts?utm_source=rss",
+        "summary": "WASHINGTON — South Korea has sent a letter to the president of the U.N. Security Council (UNSC) over last month's land mine explosion incident near the inter-Korean border that injured three South Korean soldiers, calling for North Korea to apologize and take responsibility for the incident, according to officials Thursday. South Korean Ambassador to the United Nations Cha Ji-hoon sent the roughly two-page letter to his Greek counterpart, who holds the rotating Security Council presidency, outlining the findings of an investigation into the Sept. 21 explosion in the Demilitarized Zone (DMZ), according to the South Korean mission to the U.N. The letter is said to emphasize that the explosion was caused by a land mine planted by North Korean troops and constituted a violation of the Korean War Armistice Agreement. It also called on Pyongyang to take responsible measures and engage in dialo...",
+        "fullText": [
+          "WASHINGTON — South Korea has sent a letter to the president of the U. N.",
+          "Security Council (UNSC) over last month's land mine explosion incident near the inter-Korean border that injured three South Korean soldiers, calling for North Korea to apologize and take responsibility for the incident, according to officials Thursday. South Korean Ambassador to the United Nations Cha Ji-hoon sent the roughly two-page letter to his Greek counterpart, who holds the rotating Security Council presidency, outlining the findings of an investigation into the Sept.",
+          "21 explosion in the Demilitarized Zone (DMZ), according to the South Korean mission to the U. N.",
+          "The letter is said to emphasize that the explosion was caused by a land mine planted by North Korean troops and constituted a violation of the Korean War Armistice Agreement. It also called on Pyongyang to take responsible measures and engage in dialo..."
+        ],
+        "words": [
+          "letter",
+          "urging",
+          "responsibility"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Trump-Kim summit unlikely in near future amid N. Korean demands: US experts",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261023/trump-kim-summit-unlikely-in-near-future-amid-n-korean-demands-us-experts?utm_source=rss",
+        "summary": "WASHINGTON — The prospects of a summit between U.S. President Donald Trump and North Korean leader Kim Jong-un in the near future remain slim, U.S. experts said, citing Pyongyang's demands for a shift in Washington's policy toward the North, including its approach to denuclearization. Jenny Town, a senior fellow at the Stimson Center, and Ankit Panda, a nuclear policy expert at the Carnegie Endowment for International Peace, offered their assessments during a podcast discussion hosted by Victor Cha, Korea chair at the Center for Strategic and International Studies, published Thursday. Town said the North has made clear that they reject the notion of any kind of denuclearization agenda. \"The question isn't, 'Will North Korea come to the table?' The question is, 'Is the U.S. willing to do those things (change its North Korean policy)?'\" she said, referring to North Korea's demands for chan...",
+        "fullText": [
+          "WASHINGTON — The prospects of a summit between U. S.",
+          "President Donald Trump and North Korean leader Kim Jong-un in the near future remain slim, U. S.",
+          "experts said, citing Pyongyang's demands for a shift in Washington's policy toward the North, including its approach to denuclearization. Jenny Town, a senior fellow at the Stimson Center, and Ankit Panda, a nuclear policy expert at the Carnegie Endowment for International Peace, offered their assessments during a podcast discussion hosted by Victor Cha, Korea chair at the Center for Strategic and International Studies, published Thursday.",
+          "Town said the North has made clear that they reject the notion of any kind of denuclearization agenda. \"The question isn't, 'Will North Korea come to the table?",
+          "' The question is, 'Is the U. S.",
+          "willing to do those things (change its North Korean policy)? '\" she said, referring to North Korea's demands for chan..."
+        ],
+        "words": [
+          "trump-kim",
+          "summit",
+          "unlikely"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "China's humanoids go job hunting amid Korea's bets on physical AI",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20261023/chinas-humanoids-go-job-hunting-amid-koreas-bets-on-physical-ai?utm_source=rss",
+        "summary": "Chinese humanoid robot makers are accelerating efforts to gain a foothold in Korea, moving beyond dance performances and showroom displays to factory trials and other commercial applications as Seoul beefs up investment in physical artificial intelligence (AI). A string of Chinese robotics companies have flexed their muscles or announced projects in the country this year, including Hong Kong-listed Ubtech, startup Anyverse Dynamics, Shanghai-based Agibot and leading robot maker Unitree. “China’s new generation of robot companies has global DNA and naturally looks overseas, and Korea is one of the most important markets in Asia-Pacific,” said Ethan Qi, an associate director covering robotics at Counterpoint Research. The absence of locally built humanoids available at scale has created an opening for Chinese suppliers, he added. Early footprint Representatives of Galaxy Robot Park, a robo...",
+        "fullText": [
+          "Chinese humanoid robot makers are accelerating efforts to gain a foothold in Korea, moving beyond dance performances and showroom displays to factory trials and other commercial applications as Seoul beefs up investment in physical artificial intelligence (AI). A string of Chinese robotics companies have flexed their muscles or announced projects in the country this year, including Hong Kong-listed Ubtech, startup Anyverse Dynamics, Shanghai-based Agibot and leading robot maker Unitree.",
+          "“China’s new generation of robot companies has global DNA and naturally looks overseas, and Korea is one of the most important markets in Asia-Pacific,” said Ethan Qi, an associate director covering robotics at Counterpoint Research. The absence of locally built humanoids available at scale has created an opening for Chinese suppliers, he added.",
+          "Early footprint Representatives of Galaxy Robot Park, a robo..."
+        ],
+        "words": [
+          "humanoids",
+          "hunting",
+          "physical"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Chung Mong-Koo Foundation's pianists sweep international awards",
+        "url": "https://www.koreatimes.co.kr/business/others/20261023/chung-mong-koo-foundations-pianists-sweep-international-awards?utm_source=rss",
+        "summary": "Three young Korean pianists — supported by Hyundai Motor Chung Mong-Koo Foundation — have earned international recognition this year, winning top prizes at major competitions in Europe and the United States. Shin Young-ho, 19, placed second in the piano category at the 76th Giovanni Battista Viotti International Music Competition, which concluded in Vercelli, Italy, on Oct. 17. Lee Jeong-woo, 18, won first prize at the 20th George Enescu International Competition in Bucharest, Romania, in September, while Lee Ju-eon, 15, claimed prizes at three international piano competitions in the United States during the first half of the year. The achievements highlight the progress of a new generation of pianists who have received sustained support from the foundation, as they pursue international careers. Shin continued his strong performance on the international competition circuit, following a s...",
+        "fullText": [
+          "Three young Korean pianists — supported by Hyundai Motor Chung Mong-Koo Foundation — have earned international recognition this year, winning top prizes at major competitions in Europe and the United States. Shin Young-ho, 19, placed second in the piano category at the 76th Giovanni Battista Viotti International Music Competition, which concluded in Vercelli, Italy, on Oct.",
+          "17. Lee Jeong-woo, 18, won first prize at the 20th George Enescu International Competition in Bucharest, Romania, in September, while Lee Ju-eon, 15, claimed prizes at three international piano competitions in the United States during the first half of the year.",
+          "The achievements highlight the progress of a new generation of pianists who have received sustained support from the foundation, as they pursue international careers. Shin continued his strong performance on the international competition circuit, following a s..."
+        ],
+        "words": [
+          "mong-koo",
+          "foundation",
+          "pianists"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "label": "Thursday, October 22, 2026",
     "title": "Korea News Brief",
