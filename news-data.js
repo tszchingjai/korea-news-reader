@@ -1,5 +1,143 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-25",
+    "label": "Sunday, October 25, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Inter-Korea, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
+        "url": "https://www.koreatimes.co.kr/world/20261025/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms?utm_source=rss",
+        "summary": "KYIV — Ukraine said on Saturday that the Starlink satellite system and its military version Starshield were now fully functional after over a week of restrictions that disrupted military operations and intensified tensions with the U.S. But hours later, SpaceX CEO Elon Musk, whose company owns Starlink, accused the Ukrainian military of violating the company's terms. Neither Musk nor the U.S. government, which operates Starshield using Starlink technology, had taken responsibility for imposing the curbs. \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\" Musk said on X. Ukrainian presidential adviser Serhiy Beskrestnov said on the Telegram app that the country is \"physically unable\" to use Starlink for long- and medium-range attack drone operations. Ukraine's general staff and defence ministry...",
+        "fullText": [
+          "KYIV — Ukraine said on Saturday that the Starlink satellite system and its military version Starshield were now fully functional after over a week of restrictions that disrupted military operations and intensified tensions with the U. S.",
+          "But hours later, SpaceX CEO Elon Musk, whose company owns Starlink, accused the Ukrainian military of violating the company's terms. Neither Musk nor the U.",
+          "S. government, which operates Starshield using Starlink technology, had taken responsibility for imposing the curbs.",
+          "\"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\" Musk said on X.",
+          "Ukrainian presidential adviser Serhiy Beskrestnov said on the Telegram app that the country is \"physically unable\" to use Starlink for long- and medium-range attack drone operations. Ukraine's general staff and defence ministry..."
+        ],
+        "words": [
+          "ukraine",
+          "starshield",
+          "normal"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea reports leader Kim's surprise visit to China",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korea-reports-leader-kims-surprise-visit-to-china?utm_source=rss",
+        "summary": "North Korea on Sunday confirmed leader Kim Jong-un's surprise visit to China the previous day, a trip that highlights renewed efforts by Pyongyang and Beijing to strengthen bilateral ties. On Saturday, South Korean government sources said Kim had visited the Chinese border city of Dandong, where he met with Wang Huning, China's fourth-highest-ranking official and chairman of the National Committee of the Chinese People's Political Consultative Conference. According to the North's Korean Central News Agency (KCNA) on Sunday, Kim visited Dandong the previous day, where he paid tribute at a war memorial to Chinese soldiers who fought in the 1950-53 Korean War. Kim said North Korea would continue to uphold the two countries' \"invincible friendship forged in blood,\" KCNA reported. Kim also attended a banquet hosted by Wang at the direction of Chinese President Xi Jinping and visited a bus fac...",
+        "fullText": [
+          "North Korea on Sunday confirmed leader Kim Jong-un's surprise visit to China the previous day, a trip that highlights renewed efforts by Pyongyang and Beijing to strengthen bilateral ties. On Saturday, South Korean government sources said Kim had visited the Chinese border city of Dandong, where he met with Wang Huning, China's fourth-highest-ranking official and chairman of the National Committee of the Chinese People's Political Consultative Conference.",
+          "According to the North's Korean Central News Agency (KCNA) on Sunday, Kim visited Dandong the previous day, where he paid tribute at a war memorial to Chinese soldiers who fought in the 1950-53 Korean War. Kim said North Korea would continue to uphold the two countries' \"invincible friendship forged in blood,\" KCNA reported.",
+          "Kim also attended a banquet hosted by Wang at the direction of Chinese President Xi Jinping and visited a bus fac..."
+        ],
+        "words": [
+          "reports",
+          "leader",
+          "surprise"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Volunteers earn hours for future care as Seoul district pioneers exchange model",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261025/volunteers-earn-hours-for-future-care-as-seoul-district-pioneers-exchange-model?utm_source=rss",
+        "summary": "In the neighborhoods of western Seoul, an hour spent helping an elderly neighbor navigate a smartphone touchscreen could soon buy a ride to a hospital appointment or a helping hand with daily chores down the road. Seodaemun District is preparing to launch a local \"time bank\" system, allowing residents to earn time credits by volunteering and redeem them later for help from their neighbors. The ambitious initiative aims to transform the traditionally one-way dynamic of municipal welfare into a reciprocal, community-driven safety net. Under the framework, every hour a resident spends assisting someone in the community earns one hour of \"time currency.\" Unlike traditional volunteer programs that draw a strict line between givers and receivers, the time bank operates on absolute equality: anyone can offer a skill they have and request support when they run into daily hurdles. The program com...",
+        "fullText": [
+          "In the neighborhoods of western Seoul, an hour spent helping an elderly neighbor navigate a smartphone touchscreen could soon buy a ride to a hospital appointment or a helping hand with daily chores down the road. Seodaemun District is preparing to launch a local \"time bank\" system, allowing residents to earn time credits by volunteering and redeem them later for help from their neighbors.",
+          "The ambitious initiative aims to transform the traditionally one-way dynamic of municipal welfare into a reciprocal, community-driven safety net. Under the framework, every hour a resident spends assisting someone in the community earns one hour of \"time currency.",
+          "\" Unlike traditional volunteer programs that draw a strict line between givers and receivers, the time bank operates on absolute equality: anyone can offer a skill they have and request support when they run into daily hurdles. The program com..."
+        ],
+        "words": [
+          "volunteers",
+          "future",
+          "district"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korean leader Kim Jong-un visits China to inaugurate a new cross-border bridge",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/n-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge?utm_source=rss",
+        "summary": "North Korean leader Kim Jong-un visited China on Saturday, inaugurating a new bridge that connects the two countries and saying he hoped to expand cooperation with his powerful neighbor. Kim’s visit to China is his latest move in an increasingly assertive foreign policy as he seeks to align Pyongyang with Beijing and Moscow in a united front against the United States under what he portrays as a “new Cold War.” It's his first visit in a year. Kim arrived in the Chinese border city of Dandong Saturday after crossing the newly opened bridge , according to South Korea’s Unification Ministry, which handles affairs related to North Korea, and China's official Xinhua News Agency. Both sides promised to strengthen cooperation He met with Wang Huning, a member of the Standing Committee of China’s Communist Party. The two toured a car factory, and promised to strengthen the bilateral relationship....",
+        "fullText": [
+          "North Korean leader Kim Jong-un visited China on Saturday, inaugurating a new bridge that connects the two countries and saying he hoped to expand cooperation with his powerful neighbor. Kim’s visit to China is his latest move in an increasingly assertive foreign policy as he seeks to align Pyongyang with Beijing and Moscow in a united front against the United States under what he portrays as a “new Cold War.",
+          "” It's his first visit in a year. Kim arrived in the Chinese border city of Dandong Saturday after crossing the newly opened bridge , according to South Korea’s Unification Ministry, which handles affairs related to North Korea, and China's official Xinhua News Agency.",
+          "Both sides promised to strengthen cooperation He met with Wang Huning, a member of the Standing Committee of China’s Communist Party. The two toured a car factory, and promised to strengthen the bilateral relationship...."
+        ],
+        "words": [
+          "leader",
+          "jong-un",
+          "visits"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Houthis attack Yemen's Aden, say Saudi strikes kill 16",
+        "url": "https://www.koreatimes.co.kr/world/20261025/houthis-attack-yemens-aden-say-saudi-strikes-kill-16?utm_source=rss",
+        "summary": "RIYADH, Saudi Arabia — Yemen's Houthis said on Saturday they attacked the southern city of Aden, the interim seat of the Saudi-backed government, after accusing Riyadh of killing 16 people in strikes on capital Sanaa and a Red Sea port city. Saudi Arabia and the internationally recognised Yemeni government have come under sustained attack from the Iran-backed Houthis, shifting the focus of the wider Middle East war that erupted with US-Israeli strikes on Iran in February. The Saudi-led coalition said earlier on Saturday it had intercepted two missiles targeting Saudi cities Taif and Yanbu in the kingdom's west, before explosions were heard in Yemen's Aden, the home of the government that Riyadh supports in the years-long civil war. The Houthis quickly claimed the attack on Aden, saying they targeted a naval base and military camp overseen by Saudi forces. \"Our armed forces targeted Saudi...",
+        "fullText": [
+          "RIYADH, Saudi Arabia — Yemen's Houthis said on Saturday they attacked the southern city of Aden, the interim seat of the Saudi-backed government, after accusing Riyadh of killing 16 people in strikes on capital Sanaa and a Red Sea port city. Saudi Arabia and the internationally recognised Yemeni government have come under sustained attack from the Iran-backed Houthis, shifting the focus of the wider Middle East war that erupted with US-Israeli strikes on Iran in February.",
+          "The Saudi-led coalition said earlier on Saturday it had intercepted two missiles targeting Saudi cities Taif and Yanbu in the kingdom's west, before explosions were heard in Yemen's Aden, the home of the government that Riyadh supports in the years-long civil war. The Houthis quickly claimed the attack on Aden, saying they targeted a naval base and military camp overseen by Saudi forces.",
+          "\"Our armed forces targeted Saudi..."
+        ],
+        "words": [
+          "houthis",
+          "attack",
+          "strikes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Thousands march in France over schools and living costs as police use tear gas",
+        "url": "https://www.koreatimes.co.kr/world/20261025/thousands-march-in-france-over-schools-and-living-costs-as-police-use-tear-gas?utm_source=rss",
+        "summary": "PARIS — Tens of thousands of students and workers marched in Paris and other French cities Saturday over school funding and soaring living costs, putting President Emmanuel Macron under pressure to answer demands for better living standards and prevent more violence after protests last weekend degenerated into rioting and looting. Police used tear gas in Lyon, where the rally had been banned, on Saturday morning. In Clermont-Ferrand, officers used tear gas and stun grenades to push back demonstrators trying to reach the city center, French media reported. In the southwestern city of Toulouse, 26,500 people joined the protests, according to local authorities. The unrest is shaking Macron's authority in the final months of his presidency before voters choose his successor in May. The stakes are high: the far-right National Rally has accused his government of failing to protect the public a...",
+        "fullText": [
+          "PARIS — Tens of thousands of students and workers marched in Paris and other French cities Saturday over school funding and soaring living costs, putting President Emmanuel Macron under pressure to answer demands for better living standards and prevent more violence after protests last weekend degenerated into rioting and looting. Police used tear gas in Lyon, where the rally had been banned, on Saturday morning.",
+          "In Clermont-Ferrand, officers used tear gas and stun grenades to push back demonstrators trying to reach the city center, French media reported. In the southwestern city of Toulouse, 26,500 people joined the protests, according to local authorities.",
+          "The unrest is shaking Macron's authority in the final months of his presidency before voters choose his successor in May. The stakes are high: the far-right National Rally has accused his government of failing to protect the public a..."
+        ],
+        "words": [
+          "thousands",
+          "france",
+          "schools"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Granddaughter of Korean independence fighter brings Korean history to US schools",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261025/granddaughter-of-korean-independence-fighter-brings-korean-history-to-us-schools?utm_source=rss",
+        "summary": "At the first Korea Book Festival in Vancouver, Canada, which runs through Oct. 31, a very meaningful book was exhibited: \"Jessie’s Diary,\" reborn as a graphic novel. On Oct. 8, a session was held where readers read the original work and shared their impressions, receiving a great response. The graphic novel has been introduced in French, Chinese and Japanese, and preparations are underway to publish an English edition of the original work as well. \"Jessie’s Diary\" is a child-rearing journal kept for eight years, beginning in 1938 with the birth of the couple’s eldest daughter, Jessie, by Yang Woo-jo (1897-1964) and Choe Seon-hwa (1911-2003), a husband and wife who participated in the Korean Provisional Government. Alongside their deep love for their family, the diary chronicles the provisional government’s life in exile, the daily lives of independence activists and anecdotes about promi...",
+        "fullText": [
+          "At the first Korea Book Festival in Vancouver, Canada, which runs through Oct. 31, a very meaningful book was exhibited: \"Jessie’s Diary,\" reborn as a graphic novel.",
+          "On Oct. 8, a session was held where readers read the original work and shared their impressions, receiving a great response.",
+          "The graphic novel has been introduced in French, Chinese and Japanese, and preparations are underway to publish an English edition of the original work as well. \"Jessie’s Diary\" is a child-rearing journal kept for eight years, beginning in 1938 with the birth of the couple’s eldest daughter, Jessie, by Yang Woo-jo (1897-1964) and Choe Seon-hwa (1911-2003), a husband and wife who participated in the Korean Provisional Government.",
+          "Alongside their deep love for their family, the diary chronicles the provisional government’s life in exile, the daily lives of independence activists and anecdotes about promi..."
+        ],
+        "words": [
+          "granddaughter",
+          "independence",
+          "fighter"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-24",
     "label": "Saturday, October 24, 2026",
     "title": "Korea News Brief",
