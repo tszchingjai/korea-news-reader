@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-27",
+    "label": "Tuesday, October 27, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Law, Korea, Inter-Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "First lady's attendance at adoptees' gathering offers comfort, visibility, but will it bring real change?",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261027/first-ladys-attendance-at-adoptees-gathering-offers-comfort-visibility-but-will-it-bring-real-change?utm_source=rss",
+        "summary": "More than 600 Korean-born adoptees came from countries around the world to visit the nation of their birth, for the International Korean Adoptee Associations (IKAA) Gathering, Oct. 19-24. The Oct. 19 opening ceremony for this year's event featured a historic appearance by first lady Kim Hea Kyung, marking the first time a Korean first lady has attended the gathering. Her visit also marked the third occasion that adoption-related issues have been publicly addressed during President Lee Jae Myung's administration. For many attendees, the gesture was meaningful, but it was also met with cautious optimism and lingering frustration. The triennial IKAA Gathering goes far beyond heritage tourism or giving participants opportunities to reconnect with their roots. It serves as a platform for collective advocacy, bringing together grassroots organizers, legal experts, scholars and adoptees to addr...",
+        "fullText": [
+          "More than 600 Korean-born adoptees came from countries around the world to visit the nation of their birth, for the International Korean Adoptee Associations (IKAA) Gathering, Oct. 19-24.",
+          "The Oct. 19 opening ceremony for this year's event featured a historic appearance by first lady Kim Hea Kyung, marking the first time a Korean first lady has attended the gathering.",
+          "Her visit also marked the third occasion that adoption-related issues have been publicly addressed during President Lee Jae Myung's administration. For many attendees, the gesture was meaningful, but it was also met with cautious optimism and lingering frustration.",
+          "The triennial IKAA Gathering goes far beyond heritage tourism or giving participants opportunities to reconnect with their roots. It serves as a platform for collective advocacy, bringing together grassroots organizers, legal experts, scholars and adoptees to addr..."
+        ],
+        "words": [
+          "attendance",
+          "adoptees",
+          "gathering"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Court temporarily suspends 2-year bidding ban on LIG D&A",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261027/court-temporarily-suspends-2-year-bidding-ban-on-lig-da?utm_source=rss",
+        "summary": "LIG Defense & Aerospace (LIG D&A) said Tuesday a court has temporarily suspended a two-year ban on its participation in defense procurement bids imposed by Korea's arms procurement agency. Last month, the Defense Acquisition Program Administration (DAPA) imposed the ban after LIG D&A officials were indicted on charges of bribing a DAPA official during weapons procurement tenders. The ban was due to take effect Thursday. LIG D&A said in a regulatory filing that the court had suspended the ban until Nov. 20, allowing the company to continue bidding for defense contracts. A formal hearing is scheduled for Nov. 5 to review the company's request for a longer suspension. The court will then decide whether to keep the ban suspended pending the outcome of the company's lawsuit challenging the sanction. \"If the court grants the request, LIG D&A will be able to continue bidding for defense contrac...",
+        "fullText": [
+          "LIG Defense & Aerospace (LIG D&A) said Tuesday a court has temporarily suspended a two-year ban on its participation in defense procurement bids imposed by Korea's arms procurement agency. Last month, the Defense Acquisition Program Administration (DAPA) imposed the ban after LIG D&A officials were indicted on charges of bribing a DAPA official during weapons procurement tenders.",
+          "The ban was due to take effect Thursday. LIG D&A said in a regulatory filing that the court had suspended the ban until Nov.",
+          "20, allowing the company to continue bidding for defense contracts. A formal hearing is scheduled for Nov.",
+          "5 to review the company's request for a longer suspension. The court will then decide whether to keep the ban suspended pending the outcome of the company's lawsuit challenging the sanction.",
+          "\"If the court grants the request, LIG D&A will be able to continue bidding for defense contrac..."
+        ],
+        "words": [
+          "temporarily",
+          "suspends",
+          "bidding"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Seoul needs more allies, advocates",
+        "url": "https://www.koreatimes.co.kr/opinion/20261027/seoul-needs-more-allies-advocates?utm_source=rss",
+        "summary": "This month, Ukraine’s often tumultuous diplomacy experienced a new conflict when U.S. President Donald Trump announced an energy deal with Russia and demanded that Kyiv refrain from attacking Russian oil refineries. Ukrainian President Volodymyr Zelenskyy’s criticism of Washington’s decision has resulted in Trump threatening retaliation and suggesting Ukraine should replace its leader. Ukraine has since encountered difficulties in using U.S.-provided satellite services for military intelligence, heightening fears of a further reduction in U.S. support for war-beleaguered Ukraine. Ukraine's challenge highlights what have become recurrent occurrences: U.S. allies’ vulnerability to their superpower ally’s pressures and threat of abandonment. Ukraine’s vulnerability, however, has partially been offset by the continued support from other U.S. allies. Multiple European countries have increased...",
+        "fullText": [
+          "This month, Ukraine’s often tumultuous diplomacy experienced a new conflict when U. S.",
+          "President Donald Trump announced an energy deal with Russia and demanded that Kyiv refrain from attacking Russian oil refineries. Ukrainian President Volodymyr Zelenskyy’s criticism of Washington’s decision has resulted in Trump threatening retaliation and suggesting Ukraine should replace its leader.",
+          "Ukraine has since encountered difficulties in using U. S.",
+          "-provided satellite services for military intelligence, heightening fears of a further reduction in U. S.",
+          "support for war-beleaguered Ukraine. Ukraine's challenge highlights what have become recurrent occurrences: U.",
+          "S. allies’ vulnerability to their superpower ally’s pressures and threat of abandonment.",
+          "Ukraine’s vulnerability, however, has partially been offset by the continued support from other U. S.",
+          "allies. Multiple European countries have increased..."
+        ],
+        "words": [
+          "allies",
+          "advocates",
+          "ukraine"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "BLACKPINK's Jisoo to release 2nd prerelease single 'Addicted'",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261027/blackpinks-jisoo-to-release-2nd-prerelease-single-addicted?utm_source=rss",
+        "summary": "Jisoo of K-pop girl group BLACKPINK will release \"Addicted,\" the second prerelease single from her upcoming first solo full-length album, on Friday, her agency, Blissoo, said Tuesday. The song follows \"Click,\" which Jisoo released last month as the first single of the new album. The official release date for the full album has not yet been announced. \"Jisoo, who sung about a special connection in which two people are naturally drawn to each other in 'Click,' will showcase another distinctive concept transformation through 'Addicted,'\" the agency said in a release. The singer released her solo EP \"Amortage\" last year. She also entered the U.S. Billboard Hot 100 with \"Eyes Closed,\" a collaboration single with British pop star Zayn.",
+        "fullText": [
+          "Jisoo of K-pop girl group BLACKPINK will release \"Addicted,\" the second prerelease single from her upcoming first solo full-length album, on Friday, her agency, Blissoo, said Tuesday. The song follows \"Click,\" which Jisoo released last month as the first single of the new album.",
+          "The official release date for the full album has not yet been announced. \"Jisoo, who sung about a special connection in which two people are naturally drawn to each other in 'Click,' will showcase another distinctive concept transformation through 'Addicted,'\" the agency said in a release.",
+          "The singer released her solo EP \"Amortage\" last year. She also entered the U.",
+          "S. Billboard Hot 100 with \"Eyes Closed,\" a collaboration single with British pop star Zayn."
+        ],
+        "words": [
+          "blackpink",
+          "release",
+          "prerelease"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea's Kim vows to deepen ties with Vietnam in reply to its leader Lam",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261027/n-koreas-kim-vows-to-deepen-ties-with-vietnam-in-reply-to-its-leader-lam?utm_source=rss",
+        "summary": "North Korean leader Kim Jong-un has pledged to deepen his country's ties with Vietnam in a reply to President To Lam, Pyongyang's state media said Tuesday. Lam sent a letter to Kim on Sept. 9 to mark the 78th anniversary of North Korea's national founding. \"The traditional relations of friendship and cooperation between the two countries, which entered a new development period after our Pyongyang meeting last October, will further expand and develop in the common interests of the two peoples,\" Kim wrote in his reply sent Monday, according to the Korean Central News Agency (KCNA). Lam, in his last month's letter, said relations had strengthened steadily since the summit and that both sides had carried out the leaders' agreements. Vietnam, he added, was ready to work with North Korea for regional and global peace and stability. Ties between the two countries have warmed since Lam's October...",
+        "fullText": [
+          "North Korean leader Kim Jong-un has pledged to deepen his country's ties with Vietnam in a reply to President To Lam, Pyongyang's state media said Tuesday. Lam sent a letter to Kim on Sept.",
+          "9 to mark the 78th anniversary of North Korea's national founding. \"The traditional relations of friendship and cooperation between the two countries, which entered a new development period after our Pyongyang meeting last October, will further expand and develop in the common interests of the two peoples,\" Kim wrote in his reply sent Monday, according to the Korean Central News Agency (KCNA).",
+          "Lam, in his last month's letter, said relations had strengthened steadily since the summit and that both sides had carried out the leaders' agreements. Vietnam, he added, was ready to work with North Korea for regional and global peace and stability.",
+          "Ties between the two countries have warmed since Lam's October..."
+        ],
+        "words": [
+          "deepen",
+          "vietnam",
+          "leader"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea's economy grows 1% in Q3 on chip exports, beating forecasts",
+        "url": "https://www.koreatimes.co.kr/economy/20261027/koreas-economy-grows-1-in-q3-on-chip-exports-beating-forecasts?utm_source=rss",
+        "summary": "Korea's economy expanded 1 percent in the third quarter from the previous quarter, extending its stronger-than-expected recovery on the back of booming semiconductor exports, the Bank of Korea (BOK) said Tuesday. Preliminary data from the central bank showed that real gross domestic product (GDP) rose 1 percent in the July-September period, exceeding the BOK's own projection of 0.3 percent for the quarter. Facilities investment rose 4.1 percent, mainly on increased investment in machinery, including semiconductor manufacturing equipment. Investment in intellectual property products grew 2.3 percent as spending on research and development and software increased. Exports grew 2.3 percent, driven mainly by semiconductors and machinery and electrical equipment. Imports rose 2.4 percent, led by increases in crude oil and semiconductor manufacturing equipment. The stronger-than-expected growth...",
+        "fullText": [
+          "Korea's economy expanded 1 percent in the third quarter from the previous quarter, extending its stronger-than-expected recovery on the back of booming semiconductor exports, the Bank of Korea (BOK) said Tuesday. Preliminary data from the central bank showed that real gross domestic product (GDP) rose 1 percent in the July-September period, exceeding the BOK's own projection of 0.",
+          "3 percent for the quarter. Facilities investment rose 4.",
+          "1 percent, mainly on increased investment in machinery, including semiconductor manufacturing equipment. Investment in intellectual property products grew 2.",
+          "3 percent as spending on research and development and software increased. Exports grew 2.",
+          "3 percent, driven mainly by semiconductors and machinery and electrical equipment. Imports rose 2.",
+          "4 percent, led by increases in crude oil and semiconductor manufacturing equipment. The stronger-than-expected growth..."
+        ],
+        "words": [
+          "economy",
+          "exports",
+          "beating"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "US bill names N. Korea, Iran among countries of concern in AI cybersecurity initiative",
+        "url": "https://www.koreatimes.co.kr/world/20261027/us-bill-names-n-korea-iran-among-countries-of-concern-in-ai-cybersecurity-initiative?utm_source=rss",
+        "summary": "U.S. lawmakers have introduced a bill aimed at strengthening American cybersecurity defenses against artificial intelligence (AI) attacks, naming North Korea and Iran among countries of concern, congressional data showed Monday. The AI Cyber Defense Act, introduced by Rep. Pat Harrigan (R-NC) and Rep. George Whitesides (D-CA) and referred to the House Committee on Science, Space and Technology, would direct the National Institute of Standards and Technology (NIST) to work with private-sector AI stakeholders to develop voluntary standards and best practices for detecting and preventing AI distillation attacks. The legislation identifies North Korea, China, Russia, Iran and Cuba as countries of concern. The measure would require NIST to engage with private-sector AI stakeholders within 180 days of enactment to establish a definition of so-called AI distillation attacks, and develop volunta...",
+        "fullText": [
+          "U. S.",
+          "lawmakers have introduced a bill aimed at strengthening American cybersecurity defenses against artificial intelligence (AI) attacks, naming North Korea and Iran among countries of concern, congressional data showed Monday. The AI Cyber Defense Act, introduced by Rep.",
+          "Pat Harrigan (R-NC) and Rep. George Whitesides (D-CA) and referred to the House Committee on Science, Space and Technology, would direct the National Institute of Standards and Technology (NIST) to work with private-sector AI stakeholders to develop voluntary standards and best practices for detecting and preventing AI distillation attacks.",
+          "The legislation identifies North Korea, China, Russia, Iran and Cuba as countries of concern. The measure would require NIST to engage with private-sector AI stakeholders within 180 days of enactment to establish a definition of so-called AI distillation attacks, and develop volunta..."
+        ],
+        "words": [
+          "countries",
+          "concern",
+          "cybersecurity"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-26",
     "label": "Monday, October 26, 2026",
     "title": "Korea News Brief",
