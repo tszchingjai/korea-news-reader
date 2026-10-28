@@ -1,5 +1,148 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-28",
+    "label": "Wednesday, October 28, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Politics, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open sharply higher on revived AI optimism, SK hynix earnings",
+        "url": "https://www.koreatimes.co.kr/economy/20261028/seoul-stocks-open-sharply-higher-on-revived-ai-optimism-sk-hynix-earnings?utm_source=rss",
+        "summary": "Korean stocks opened sharply higher Wednesday, tracking overnight gains on Wall Street, as strong artificial intelligence (AI)-driven semiconductor earnings lifted investor sentiment ahead of the Federal Reserve's interest rate decision. The benchmark Korea Composite Stock Price Index (KOSPI) rose 183.73 points, or 3.26 percent, to 5,822.07 as of 9:15 a.m., extending its rally after surging more than 3 percent in the previous session. Overnight, U.S. stocks extended their gains, led by a rally in AI-related technology shares. The tech-heavy Nasdaq Composite climbed 1.18 percent, while the Philadelphia Semiconductor Index jumped 3.6 percent, providing a positive note for Korean chipmakers. Before the opening bell, SK hynix reported a 631 percent spike in third-quarter operating profit at 83.33 trillion won ($62.78 billion), with sales soaring 327.9 percent to 104.61 trillion won on robust...",
+        "fullText": [
+          "Korean stocks opened sharply higher Wednesday, tracking overnight gains on Wall Street, as strong artificial intelligence (AI)-driven semiconductor earnings lifted investor sentiment ahead of the Federal Reserve's interest rate decision. The benchmark Korea Composite Stock Price Index (KOSPI) rose 183.",
+          "73 points, or 3. 26 percent, to 5,822.",
+          "07 as of 9:15 a. m.",
+          ", extending its rally after surging more than 3 percent in the previous session. Overnight, U.",
+          "S. stocks extended their gains, led by a rally in AI-related technology shares.",
+          "The tech-heavy Nasdaq Composite climbed 1. 18 percent, while the Philadelphia Semiconductor Index jumped 3.",
+          "6 percent, providing a positive note for Korean chipmakers. Before the opening bell, SK hynix reported a 631 percent spike in third-quarter operating profit at 83.",
+          "33 trillion won ($62. 78 billion), with sales soaring 327.",
+          "9 percent to 104. 61 trillion won on robust..."
+        ],
+        "words": [
+          "stocks",
+          "sharply",
+          "higher"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee warns against 'irresponsible extremism' jeopardizing reforms",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261028/lee-warns-against-irresponsible-extremism-jeopardizing-reforms?utm_source=rss",
+        "summary": "President Lee Jae Myung on Wednesday warned against \"irresponsible extremism\" that he said is demanding excessive reform, insisting such extremism may jeopardize effective reforms. Lee made the remarks on the social platform X in response to a user demanding he apologize for describing his critics as \"irresponsible extremists.\" \"There are those who sincerely call for prosecution reform for the country and the people, but there are also those who, in reality, hinder prosecution reform by only calling for clarity or making excessive, inflammatory demands for their hidden political and personal agendas,\" the president wrote. \"Calling for 'all-or-nothing' approaches as if they are the only true leader of reform and attacking those who are genuinely seeking reform while inciting fears of failure to take advantage of the urgent desire of some people to reform is irresponsible extremism,\" he ad...",
+        "fullText": [
+          "President Lee Jae Myung on Wednesday warned against \"irresponsible extremism\" that he said is demanding excessive reform, insisting such extremism may jeopardize effective reforms. Lee made the remarks on the social platform X in response to a user demanding he apologize for describing his critics as \"irresponsible extremists.",
+          "\" \"There are those who sincerely call for prosecution reform for the country and the people, but there are also those who, in reality, hinder prosecution reform by only calling for clarity or making excessive, inflammatory demands for their hidden political and personal agendas,\" the president wrote. \"Calling for 'all-or-nothing' approaches as if they are the only true leader of reform and attacking those who are genuinely seeking reform while inciting fears of failure to take advantage of the urgent desire of some people to reform is irresponsible extremism,\" he ad..."
+        ],
+        "words": [
+          "against",
+          "irresponsible",
+          "extremism"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Personal data of some 38,000 customers at Daishin Securities leaked",
+        "url": "https://www.koreatimes.co.kr/business/banking-finance/20261028/personal-data-of-some-38000-customers-at-daishin-securities-leaked?utm_source=rss",
+        "summary": "Personal information of 38,490 customers has been leaked from Daishin Securities, the brokerage said Wednesday. Sensitive information, including names, e-mail addresses and mobile phone numbers, was found to have been leaked after the brokerage detected signs of unauthorized access by hackers last week, the securities firm said.",
+        "fullText": [
+          "Personal information of 38,490 customers has been leaked from Daishin Securities, the brokerage said Wednesday. Sensitive information, including names, e-mail addresses and mobile phone numbers, was found to have been leaked after the brokerage detected signs of unauthorized access by hackers last week, the securities firm said."
+        ],
+        "words": [
+          "personal",
+          "customers",
+          "daishin"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US ends visa waiver for Chinese over birth tourism, people smuggling allegations",
+        "url": "https://www.koreatimes.co.kr/world/20261028/us-ends-visa-waiver-for-chinese-over-birth-tourism-people-smuggling-allegations?utm_source=rss",
+        "summary": "Washington has suspended visa-free entry for Chinese visitors to the Northern Mariana Islands amid allegations of birth tourism and people smuggling in the US territory. The Department of Homeland Security (DHS) announced on Monday the suspension of the Commonwealth of the Northern Mariana Islands Economic Vitality and Security Travel Authorization Program. US Senator Mike Lee hailed the move on social media, calling the program a \"Biden-era loophole for Chinese birth tourism\" and praising the Trump administration for having \"closed\" the pathway. The program, also known as EVS-TAP, allowed pre-screened Chinese nationals to visit the islands for up to 14 days without a US visa. Under the new decision, existing authorizations will be cancelled from October 30, although Chinese nationals already in the Pacific Ocean territory may complete their authorized stays. More than 3,000 Chinese nati...",
+        "fullText": [
+          "Washington has suspended visa-free entry for Chinese visitors to the Northern Mariana Islands amid allegations of birth tourism and people smuggling in the US territory. The Department of Homeland Security (DHS) announced on Monday the suspension of the Commonwealth of the Northern Mariana Islands Economic Vitality and Security Travel Authorization Program.",
+          "US Senator Mike Lee hailed the move on social media, calling the program a \"Biden-era loophole for Chinese birth tourism\" and praising the Trump administration for having \"closed\" the pathway. The program, also known as EVS-TAP, allowed pre-screened Chinese nationals to visit the islands for up to 14 days without a US visa.",
+          "Under the new decision, existing authorizations will be cancelled from October 30, although Chinese nationals already in the Pacific Ocean territory may complete their authorized stays. More than 3,000 Chinese nati..."
+        ],
+        "words": [
+          "waiver",
+          "chinese",
+          "tourism"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Gov't to carry out large-scale inspections into IT infrastructures amid recent hacking attacks",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261028/govt-to-carry-out-large-scale-inspections-into-it-infrastructures-amid-recent-hacking-attacks?utm_source=rss",
+        "summary": "The government is set to carry out large-scale vulnerability inspections on around 170 key information technology (IT) infrastructures in the private sector, amid back-to-back cybersecurity breaches at public institutions and financial firms, an official said Wednesday. The ministry of science and ICT will conduct a security vulnerability assessment targeting 111 public organizations that manage such infrastructures, with a particular focus on those connected to the Internet, such as web pages and public-facing servers. Inspections are expected to conclude by the end of the year at the latest, the official added. The latest measures come after a total of 16 commercial banks reported cyberattacks that led to the breach of customer data this year. President Lee Jae Myung has also expressed concern over such attacks, calling for the country to develop cybersecurity methods suited to the art...",
+        "fullText": [
+          "The government is set to carry out large-scale vulnerability inspections on around 170 key information technology (IT) infrastructures in the private sector, amid back-to-back cybersecurity breaches at public institutions and financial firms, an official said Wednesday. The ministry of science and ICT will conduct a security vulnerability assessment targeting 111 public organizations that manage such infrastructures, with a particular focus on those connected to the Internet, such as web pages and public-facing servers.",
+          "Inspections are expected to conclude by the end of the year at the latest, the official added. The latest measures come after a total of 16 commercial banks reported cyberattacks that led to the breach of customer data this year.",
+          "President Lee Jae Myung has also expressed concern over such attacks, calling for the country to develop cybersecurity methods suited to the art..."
+        ],
+        "words": [
+          "large-scale",
+          "inspections",
+          "infrastructures"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "No more superpowers",
+        "url": "https://www.koreatimes.co.kr/opinion/20261028/no-more-superpowers?utm_source=rss",
+        "summary": "STOCKHOLM — As the term “middle powers” has gained currency this year, it has forced us to ask which countries actually belong to this grouping. After all, shouldn’t most states be described that way? With his much-cited speech at the World Economic Forum in Davos in January, Canadian Prime Minister Mark Carney revived a debate about shifting power structures in today’s world. He believes we are seeing a “rupture” in the global order, one that will require middle powers to cooperate to resist economic coercion and political domination by others. Although he did not mention the United States, President Donald Trump immediately sensed, correctly, that some of Carney’s remarks were directed against him. But, again, how should the middle powers that Carney had in mind be distinguished from the other powers of our time, if at all? Perhaps one should start by discussing those other powers. It...",
+        "fullText": [
+          "STOCKHOLM — As the term “middle powers” has gained currency this year, it has forced us to ask which countries actually belong to this grouping. After all, shouldn’t most states be described that way?",
+          "With his much-cited speech at the World Economic Forum in Davos in January, Canadian Prime Minister Mark Carney revived a debate about shifting power structures in today’s world. He believes we are seeing a “rupture” in the global order, one that will require middle powers to cooperate to resist economic coercion and political domination by others.",
+          "Although he did not mention the United States, President Donald Trump immediately sensed, correctly, that some of Carney’s remarks were directed against him. But, again, how should the middle powers that Carney had in mind be distinguished from the other powers of our time, if at all?",
+          "Perhaps one should start by discussing those other powers. It..."
+        ],
+        "words": [
+          "superpowers",
+          "stockholm",
+          "middle"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Brazil's Flavio Bolsonaro flees to US after election loss",
+        "url": "https://www.koreatimes.co.kr/world/20261028/brazils-flavio-bolsonaro-flees-to-us-after-election-loss?utm_source=rss",
+        "summary": "BRASILIA — Defeated right-wing presidential candidate Flavio Bolsonaro left Brazil and is traveling to the United States despite a court order banning him from exiting the country, U.S. media reported Tuesday. The son of jailed ex-leader Jair Bolsonaro lost the presidential election Sunday to incumbent Luiz Inacio Lula da Silva and refused to concede defeat. The right-wing senator on Monday said a Supreme Court justice had ordered him to hand over his passports. Bolsonaro is under investigation for alleged corruption and money laundering, and with his election loss is also set to lose parliamentary immunity. The 45-year-old was traveling to Florida, CNN reported, citing an anonymous official source. Other U.S. media confirmed he was heading to the country. The U.S. State Department said Tuesday it would issue visas to Bolsonaro and his family, without confirming his travel plans. A polic...",
+        "fullText": [
+          "BRASILIA — Defeated right-wing presidential candidate Flavio Bolsonaro left Brazil and is traveling to the United States despite a court order banning him from exiting the country, U. S.",
+          "media reported Tuesday. The son of jailed ex-leader Jair Bolsonaro lost the presidential election Sunday to incumbent Luiz Inacio Lula da Silva and refused to concede defeat.",
+          "The right-wing senator on Monday said a Supreme Court justice had ordered him to hand over his passports. Bolsonaro is under investigation for alleged corruption and money laundering, and with his election loss is also set to lose parliamentary immunity.",
+          "The 45-year-old was traveling to Florida, CNN reported, citing an anonymous official source. Other U.",
+          "S. media confirmed he was heading to the country.",
+          "The U. S.",
+          "State Department said Tuesday it would issue visas to Bolsonaro and his family, without confirming his travel plans. A polic..."
+        ],
+        "words": [
+          "brazil",
+          "flavio",
+          "bolsonaro"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-27",
     "label": "Tuesday, October 27, 2026",
     "title": "Korea News Brief",
