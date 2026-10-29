@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-29",
+    "label": "Thursday, October 29, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Weather, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Samsung Electronics logs Q3 operating profit of $80.4 bil.",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261029/samsung-electronics-logs-q3-operating-profit-of-804-bil?utm_source=rss",
+        "summary": "Samsung Electronics on Thursday reported 107.44 trillion won ($80.4 billion) in third-quarter operating profit, setting a new quarterly earnings record. The company said in a regulatory filing that its revenue and operating profit for the July-September period stood at 195.25 trillion won and 107.44 trillion won, respectively. Revenue grew 126.9 percent year-on-year, while operating profit surged 783 percent. Its operating profit margin reached 55 percent during the three-month period. Samsung Electronics announced a quarterly dividend of 4,601 won per share, more than 12 times its quarterly payout of around 370 won per share in the first and second quarters.",
+        "fullText": [
+          "Samsung Electronics on Thursday reported 107. 44 trillion won ($80.",
+          "4 billion) in third-quarter operating profit, setting a new quarterly earnings record. The company said in a regulatory filing that its revenue and operating profit for the July-September period stood at 195.",
+          "25 trillion won and 107. 44 trillion won, respectively.",
+          "Revenue grew 126. 9 percent year-on-year, while operating profit surged 783 percent.",
+          "Its operating profit margin reached 55 percent during the three-month period. Samsung Electronics announced a quarterly dividend of 4,601 won per share, more than 12 times its quarterly payout of around 370 won per share in the first and second quarters."
+        ],
+        "words": [
+          "samsung",
+          "electronics",
+          "operating"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "2 Koreans injured in deadly train collision in Spain",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261029/2-koreans-injured-in-deadly-train-collision-in-spain?utm_source=rss",
+        "summary": "Two Korean nationals were among hundreds of people killed or injured in a tragic train collision in Spain, Seoul's foreign ministry said Thursday. At least 68 people were killed in the collision between two high-speed trains near Urda in Spain's Toledo province Wednesday, according to media reports. The two trains were carrying more than 500 passengers. A total of 11 Korean passengers had been confirmed aboard the trains involved in the accident as of 6:40 a.m. Thursday, according to the ministry. One of the two injured passengers sustained minor injuries and was discharged from the hospital after receiving treatment, while the other remains hospitalized, it added. \"Our embassy in Spain is maintaining close contact with local authorities and continuing to check for any additional Korean casualties,\" the ministry said. The accident occurred when a high-speed train operated by Spain's stat...",
+        "fullText": [
+          "Two Korean nationals were among hundreds of people killed or injured in a tragic train collision in Spain, Seoul's foreign ministry said Thursday. At least 68 people were killed in the collision between two high-speed trains near Urda in Spain's Toledo province Wednesday, according to media reports.",
+          "The two trains were carrying more than 500 passengers. A total of 11 Korean passengers had been confirmed aboard the trains involved in the accident as of 6:40 a.",
+          "m. Thursday, according to the ministry.",
+          "One of the two injured passengers sustained minor injuries and was discharged from the hospital after receiving treatment, while the other remains hospitalized, it added. \"Our embassy in Spain is maintaining close contact with local authorities and continuing to check for any additional Korean casualties,\" the ministry said.",
+          "The accident occurred when a high-speed train operated by Spain's stat..."
+        ],
+        "words": [
+          "koreans",
+          "injured",
+          "deadly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Ukraine, Russia, US peace negotiators to meet between Nov. 6 and 10, Zelensky says",
+        "url": "https://www.koreatimes.co.kr/world/20261029/ukraine-russia-us-peace-negotiators-to-meet-between-nov-6-and-10-zelensky-says?utm_source=rss",
+        "summary": "Ukrainian President Volodymyr Zelensky said on Wednesday that he hoped that a trilateral meeting between peace negotiators from Ukraine, Russia and the United States would take place in Abu Dhabi between November 6 and November 10. Zelensky said that Kyiv wanted Europe to be involved in the talks on how to end the war, adding that unity and stronger pressure on Russia were needed.",
+        "fullText": [
+          "Ukrainian President Volodymyr Zelensky said on Wednesday that he hoped that a trilateral meeting between peace negotiators from Ukraine, Russia and the United States would take place in Abu Dhabi between November 6 and November 10. Zelensky said that Kyiv wanted Europe to be involved in the talks on how to end the war, adding that unity and stronger pressure on Russia were needed."
+        ],
+        "words": [
+          "ukraine",
+          "russia",
+          "negotiators"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open tad higher as Fed holds rates ahead of Samsung earnings report",
+        "url": "https://www.koreatimes.co.kr/economy/20261029/seoul-stocks-open-tad-higher-as-fed-holds-rates-ahead-of-samsung-earnings-report?utm_source=rss",
+        "summary": "Korean stocks opened slightly higher Thursday, buoyed by the Federal Reserve's decision to hold interest rates steady and expectations for strong third-quarter earnings from Samsung Electronics amid robust memory chip demand. The benchmark Korea Composite Stock Price Index (KOSPI) added 10.2 points, or 0.17 percent, to 6,022.64 as of 9:15 a.m., extending its rally after surging more than 6 percent in the previous session. Overnight, U.S. stocks gained after the Federal Open Market Committee voted 10-2 to keep its benchmark interest rate unchanged at 3.75-4 percent. The Dow Jones Industrial Average rose 0.19 percent, the S&P 500 added 0.28 percent, and the tech-heavy Nasdaq gained 0.27 percent. In the earnings guidance earlier this month, Samsung Electronics forecast third-quarter sales of 195 trillion won ($145 billion) and operating profit of 107.4 trillion won, driven by strong demand...",
+        "fullText": [
+          "Korean stocks opened slightly higher Thursday, buoyed by the Federal Reserve's decision to hold interest rates steady and expectations for strong third-quarter earnings from Samsung Electronics amid robust memory chip demand. The benchmark Korea Composite Stock Price Index (KOSPI) added 10.",
+          "2 points, or 0. 17 percent, to 6,022.",
+          "64 as of 9:15 a. m.",
+          ", extending its rally after surging more than 6 percent in the previous session. Overnight, U.",
+          "S. stocks gained after the Federal Open Market Committee voted 10-2 to keep its benchmark interest rate unchanged at 3.",
+          "75-4 percent. The Dow Jones Industrial Average rose 0.",
+          "19 percent, the S&P 500 added 0. 28 percent, and the tech-heavy Nasdaq gained 0.",
+          "27 percent. In the earnings guidance earlier this month, Samsung Electronics forecast third-quarter sales of 195 trillion won ($145 billion) and operating profit of 107.",
+          "4 trillion won, driven by strong demand..."
+        ],
+        "words": [
+          "stocks",
+          "higher",
+          "samsung"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Late singer Shin Hae-chul, BLACKPINK among 10 to receive cultural merit",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261029/late-singer-shin-hae-chul-blackpink-among-10-to-receive-cultural-merit?utm_source=rss",
+        "summary": "The late singer Shin Hae-chul, comedian Yoo Jae-suk, singer Han Young-ae and K-pop girl group BLACKPINK will be awarded national cultural merits Thursday in recognition of their contributions to Korean pop culture. In total, 36 individuals and groups will receive the Order of Cultural Merit and official commendations at the 2026 Korea Popular Culture and Arts Awards, according to the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency. Now in its 17th year, the ceremony — to be held at the National Theater of Korea in central Seoul — is the government's highest honor for pop culture artists, including singers, actors, comedians, voice actors and broadcast writers. This year's honorees include 10 recipients of the Order of Cultural Merit, alongside seven recipients of the presidential commendation, eight for the prime minister's commendation and 11 for the cultur...",
+        "fullText": [
+          "The late singer Shin Hae-chul, comedian Yoo Jae-suk, singer Han Young-ae and K-pop girl group BLACKPINK will be awarded national cultural merits Thursday in recognition of their contributions to Korean pop culture. In total, 36 individuals and groups will receive the Order of Cultural Merit and official commendations at the 2026 Korea Popular Culture and Arts Awards, according to the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency.",
+          "Now in its 17th year, the ceremony — to be held at the National Theater of Korea in central Seoul — is the government's highest honor for pop culture artists, including singers, actors, comedians, voice actors and broadcast writers. This year's honorees include 10 recipients of the Order of Cultural Merit, alongside seven recipients of the presidential commendation, eight for the prime minister's commendation and 11 for the cultur..."
+        ],
+        "words": [
+          "singer",
+          "hae-chul",
+          "blackpink"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics",
+        "url": "https://www.koreatimes.co.kr/world/20261029/netanyahu-and-top-rival-face-postelection-choices-that-could-redefine-israeli-politics?utm_source=rss",
+        "summary": "JERUSALEM — Israelis braced for perhaps weeks of political uncertainty Wednesday after an election that has challenged Prime Minister Benjamin Netanyahu ’s grip on power and raised the almost unthinkable possibility of some Jewish and Arab parties teaming up in an effort to unseat him. Final election results could come as early as Thursday evening, though no clear winner is expected to emerge. Arab-led parties made a historic showing, but it’s not clear if the other opponents of Netanyahu's far-right government would form a coalition with them to reach a majority of seats in parliament. Issues around the Palestinians and their descendants remain incredibly sensitive, and Israelis are already renewing a debate about the identity of the nation founded as a state for the Jewish people. On Wednesday, Netanyahu warned against a “dangerous government” that might include Arab parties, whose con...",
+        "fullText": [
+          "JERUSALEM — Israelis braced for perhaps weeks of political uncertainty Wednesday after an election that has challenged Prime Minister Benjamin Netanyahu ’s grip on power and raised the almost unthinkable possibility of some Jewish and Arab parties teaming up in an effort to unseat him. Final election results could come as early as Thursday evening, though no clear winner is expected to emerge.",
+          "Arab-led parties made a historic showing, but it’s not clear if the other opponents of Netanyahu's far-right government would form a coalition with them to reach a majority of seats in parliament. Issues around the Palestinians and their descendants remain incredibly sensitive, and Israelis are already renewing a debate about the identity of the nation founded as a state for the Jewish people.",
+          "On Wednesday, Netanyahu warned against a “dangerous government” that might include Arab parties, whose con..."
+        ],
+        "words": [
+          "netanyahu",
+          "postelection",
+          "choices"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee set to hold summit with German chancellor on economic cooperation",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261029/lee-set-to-hold-summit-with-german-chancellor-on-economic-cooperation?utm_source=rss",
+        "summary": "President Lee Jae Myung was set Thursday to hold a summit with German Chancellor Friedrich Merz in Seoul to discuss ways to expand economic cooperation between the two countries. The trip marks Merz's first visit to South Korea since taking office and the first visit by a German chancellor to the country in three years. Lee and Merz are scheduled to hold a summit at Cheong Wa Dae later in the day, followed by a joint press statement and an official dinner, according to Seoul's presidential office. During the talks, the two leaders are expected to discuss economic cooperation in future industries, such as batteries, semiconductors and artificial intelligence (AI), as well as defense and arms industry cooperation, and regional and international issues. \"The visit is expected to help advance bilateral ties in a more strategic and forward-looking direction,\" presidential spokesperson Kang Yu...",
+        "fullText": [
+          "President Lee Jae Myung was set Thursday to hold a summit with German Chancellor Friedrich Merz in Seoul to discuss ways to expand economic cooperation between the two countries. The trip marks Merz's first visit to South Korea since taking office and the first visit by a German chancellor to the country in three years.",
+          "Lee and Merz are scheduled to hold a summit at Cheong Wa Dae later in the day, followed by a joint press statement and an official dinner, according to Seoul's presidential office. During the talks, the two leaders are expected to discuss economic cooperation in future industries, such as batteries, semiconductors and artificial intelligence (AI), as well as defense and arms industry cooperation, and regional and international issues.",
+          "\"The visit is expected to help advance bilateral ties in a more strategic and forward-looking direction,\" presidential spokesperson Kang Yu..."
+        ],
+        "words": [
+          "summit",
+          "german",
+          "chancellor"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "label": "Wednesday, October 28, 2026",
     "title": "Korea News Brief",
