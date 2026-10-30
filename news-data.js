@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-30",
+    "label": "Friday, October 30, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea to open 1st Korean Cultural Center in Malaysia",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261030/korea-to-open-1st-korean-cultural-center-in-malaysia?utm_source=rss",
+        "summary": "Korea was set to open its first Korean Cultural Center in Malaysia with a ceremony Friday. The new center marks the 36th such facility worldwide and the fifth in Southeast Asia. Located across from Kuala Lumpur's Petronas Twin Towers, the biggest tourist attraction in Malaysia, the venue has a 100-seat performance hall, an exhibition room, a cinema, a library and classrooms, according to Seoul's culture ministry. The performance hall on the first floor is equipped with a large LED panel to showcase Korean cultural content and is lined with bookshelves on both sides so visitors can use the space to read and socialize when no shows are scheduled. First Vice Minister of Culture, Sports and Tourism Kim Young-soo noted that Malaysia has a strong interest in Korean culture. \"We expect the center will serve as a focal point for bringing fresh momentum across the overall Korean cultural industry...",
+        "fullText": [
+          "Korea was set to open its first Korean Cultural Center in Malaysia with a ceremony Friday. The new center marks the 36th such facility worldwide and the fifth in Southeast Asia.",
+          "Located across from Kuala Lumpur's Petronas Twin Towers, the biggest tourist attraction in Malaysia, the venue has a 100-seat performance hall, an exhibition room, a cinema, a library and classrooms, according to Seoul's culture ministry. The performance hall on the first floor is equipped with a large LED panel to showcase Korean cultural content and is lined with bookshelves on both sides so visitors can use the space to read and socialize when no shows are scheduled.",
+          "First Vice Minister of Culture, Sports and Tourism Kim Young-soo noted that Malaysia has a strong interest in Korean culture. \"We expect the center will serve as a focal point for bringing fresh momentum across the overall Korean cultural industry..."
+        ],
+        "words": [
+          "cultural",
+          "center",
+          "malaysia"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open lower on Wall Street losses, AI concerns",
+        "url": "https://www.koreatimes.co.kr/economy/20261030/seoul-stocks-open-lower-on-wall-street-losses-ai-concerns?utm_source=rss",
+        "summary": "Korean stocks opened lower Friday, tracking overnight losses on Wall Street, as renewed concerns over the sustainability of the artificial intelligence (AI) boom weighed on investor sentiment. After opening 2.99 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) extended its earlier losses to trade lower 228.43 points, or 3.85 percent, to 5,709.23 as of 9:15 a.m. The index fell 1.24 percent in the previous session on profit-taking in heavyweight chip stocks, despite Samsung Electronics' record quarterly earnings. Overnight, Wall Street shares retreated, led by a sell-off in technology shares. Google parent Alphabet plunged more than 12 percent after its third-quarter revenue rose 25 percent on-year to $127.58 billion but missed market expectations, raising concerns over returns on massive AI investments. The tech-heavy Nasdaq Composite Index shed 1.38 percent, while t...",
+        "fullText": [
+          "Korean stocks opened lower Friday, tracking overnight losses on Wall Street, as renewed concerns over the sustainability of the artificial intelligence (AI) boom weighed on investor sentiment. After opening 2.",
+          "99 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) extended its earlier losses to trade lower 228. 43 points, or 3.",
+          "85 percent, to 5,709. 23 as of 9:15 a.",
+          "m. The index fell 1.",
+          "24 percent in the previous session on profit-taking in heavyweight chip stocks, despite Samsung Electronics' record quarterly earnings. Overnight, Wall Street shares retreated, led by a sell-off in technology shares.",
+          "Google parent Alphabet plunged more than 12 percent after its third-quarter revenue rose 25 percent on-year to $127. 58 billion but missed market expectations, raising concerns over returns on massive AI investments.",
+          "The tech-heavy Nasdaq Composite Index shed 1. 38 percent, while t..."
+        ],
+        "words": [
+          "stocks",
+          "street",
+          "losses"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Top diplomats of S. Korea, US, Japan to discuss N. Korea, trilateral cooperation",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261030/top-diplomats-of-s-korea-us-japan-to-discuss-n-korea-trilateral-cooperation?utm_source=rss",
+        "summary": "The top diplomats of South Korea, the United States and Japan will meet in the U.S. on Friday to discuss Korean Peninsula issues and ways to strengthen economic security cooperation, officials said. Foreign Minister Cho Hyun is set to hold trilateral talks with U.S. Secretary of State Marco Rubio and Japanese Foreign Minister Toshimitsu Motegi on the sidelines of the Group of 20 (G20) foreign ministers' meeting in Atlanta later in the day, according to the officials at Seoul's foreign ministry. The three ministers are expected to assess North Korea's latest missile launches and closer ties between Pyongyang and Beijing following North Korean leader Kim Jong-un's recent visit to China, and discuss ways to coordinate their responses to Pyongyang. Also on the table would be ways to encourage Pyongyang to return to dialogue, as the South Korean government has stressed its role as a \"pacemake...",
+        "fullText": [
+          "The top diplomats of South Korea, the United States and Japan will meet in the U. S.",
+          "on Friday to discuss Korean Peninsula issues and ways to strengthen economic security cooperation, officials said. Foreign Minister Cho Hyun is set to hold trilateral talks with U.",
+          "S. Secretary of State Marco Rubio and Japanese Foreign Minister Toshimitsu Motegi on the sidelines of the Group of 20 (G20) foreign ministers' meeting in Atlanta later in the day, according to the officials at Seoul's foreign ministry.",
+          "The three ministers are expected to assess North Korea's latest missile launches and closer ties between Pyongyang and Beijing following North Korean leader Kim Jong-un's recent visit to China, and discuss ways to coordinate their responses to Pyongyang. Also on the table would be ways to encourage Pyongyang to return to dialogue, as the South Korean government has stressed its role as a \"pacemake..."
+        ],
+        "words": [
+          "diplomats",
+          "discuss",
+          "trilateral"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Lions infielder Ryu Ji-hyuk savors 1st postseason homer vs. ex-team: 'It was incredible'",
+        "url": "https://www.koreatimes.co.kr/sports/20261030/lions-infielder-ryu-ji-hyuk-savors-1st-postseason-homer-vs-ex-team-it-was-incredible?utm_source=rss",
+        "summary": "Samsung Lions infielder Ryu Ji-hyuk will never be mistaken for a power hitter. In 1,221 regular-season games over 15 years in the Korea Baseball Organization (KBO), Ryu has hit just 23 home runs. And in 38 postseason games before Thursday night, Ryu had zero homers. Ryu's breakthrough dinger came at an opportune time for his club. His two-run home run off Kia Tigers starter Keisho Shirakawa gave the Lions a 4-3 lead in the top of the fifth in Game 3 of the second round in the KBO postseason. Although the Lions gave up the tying run in the bottom sixth, they pulled ahead with two runs in the seventh for a 6-4 victory. \"I don't usually hit home runs. So even when I do connect for one, I always run hard out of the box because, honestly, I don't really know how it is supposed to feel to hit the ball out,\" Ryu said. \"But today, for some reason, I knew I had hit one as soon as I made contact....",
+        "fullText": [
+          "Samsung Lions infielder Ryu Ji-hyuk will never be mistaken for a power hitter. In 1,221 regular-season games over 15 years in the Korea Baseball Organization (KBO), Ryu has hit just 23 home runs.",
+          "And in 38 postseason games before Thursday night, Ryu had zero homers. Ryu's breakthrough dinger came at an opportune time for his club.",
+          "His two-run home run off Kia Tigers starter Keisho Shirakawa gave the Lions a 4-3 lead in the top of the fifth in Game 3 of the second round in the KBO postseason. Although the Lions gave up the tying run in the bottom sixth, they pulled ahead with two runs in the seventh for a 6-4 victory.",
+          "\"I don't usually hit home runs. So even when I do connect for one, I always run hard out of the box because, honestly, I don't really know how it is supposed to feel to hit the ball out,\" Ryu said.",
+          "\"But today, for some reason, I knew I had hit one as soon as I made contact...."
+        ],
+        "words": [
+          "infielder",
+          "ji-hyuk",
+          "savors"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Poverty in the age of plenty: The paradox of AI",
+        "url": "https://www.koreatimes.co.kr/opinion/20261030/poverty-in-the-age-of-plenty-the-paradox-of-ai?utm_source=rss",
+        "summary": "We are approaching a world in which intelligence is abundant, information is virtually free and machines can do in seconds what once took humans months. But strangely, the more technologically advanced we become, the less we perceive what truly matters. We have more ways to communicate but feel more disconnected. We have more access to knowledge but less confidence. There is more convenience but less patience. This paradox is not new. Economist John M. Keynes in his 1930 essay “Economic Possibilities for our Grandchildren” predicted that technological progress could eventually allow people to work as little as 15 hours a week. Nearly a century later, we all have smart devices in our pockets with algorithms anticipating our preferences and artificial intelligence (AI) assistants capable of quickly producing reports, presentations and even computer code. However, more leisure time failed t...",
+        "fullText": [
+          "We are approaching a world in which intelligence is abundant, information is virtually free and machines can do in seconds what once took humans months. But strangely, the more technologically advanced we become, the less we perceive what truly matters.",
+          "We have more ways to communicate but feel more disconnected. We have more access to knowledge but less confidence.",
+          "There is more convenience but less patience. This paradox is not new.",
+          "Economist John M. Keynes in his 1930 essay “Economic Possibilities for our Grandchildren” predicted that technological progress could eventually allow people to work as little as 15 hours a week.",
+          "Nearly a century later, we all have smart devices in our pockets with algorithms anticipating our preferences and artificial intelligence (AI) assistants capable of quickly producing reports, presentations and even computer code. However, more leisure time failed t..."
+        ],
+        "words": [
+          "poverty",
+          "plenty",
+          "paradox"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Sept. industrial output growth hits 15-yr high on chips; retail sales, investment also up",
+        "url": "https://www.koreatimes.co.kr/economy/20261030/sept-industrial-output-growth-hits-15-yr-high-on-chips-retail-sales-investment-also-up?utm_source=rss",
+        "summary": "Korea's industrial output expanded in September from a month earlier at the fastest pace in more than 15 years, led by chips, data showed Friday, with retail sales and facility investment also gaining ground. Industrial production rose 3 percent on-month in September, according to data from the Ministry of Data and Statistics. It marked the sharpest gain since the 3.4 percent increase posted in March 2011. It also marked the first time since June that the three major indicators increased simultaneously. The overall industrial output grew on-month in June by 2.6 percent, which narrowed to 0.1 percent in July. In August, the output shed 1.2 percent. Output in the mining and manufacturing sector, a key pillar of the economy, soared 9 percent, led mostly by semiconductor production, which jumped 19.2 percent. The increase in chip output was the largest since the 28.2 percent gain posted in F...",
+        "fullText": [
+          "Korea's industrial output expanded in September from a month earlier at the fastest pace in more than 15 years, led by chips, data showed Friday, with retail sales and facility investment also gaining ground. Industrial production rose 3 percent on-month in September, according to data from the Ministry of Data and Statistics.",
+          "It marked the sharpest gain since the 3. 4 percent increase posted in March 2011.",
+          "It also marked the first time since June that the three major indicators increased simultaneously. The overall industrial output grew on-month in June by 2.",
+          "6 percent, which narrowed to 0. 1 percent in July.",
+          "In August, the output shed 1. 2 percent.",
+          "Output in the mining and manufacturing sector, a key pillar of the economy, soared 9 percent, led mostly by semiconductor production, which jumped 19. 2 percent.",
+          "The increase in chip output was the largest since the 28. 2 percent gain posted in F..."
+        ],
+        "words": [
+          "industrial",
+          "output",
+          "growth"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea reports weapons demonstration featuring cruise missiles, rocket launchers, drones",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261030/n-korea-reports-weapons-demonstration-featuring-cruise-missiles-rocket-launchers-drones?utm_source=rss",
+        "summary": "North Korea has staged a weapons demonstration featuring suicide attack drones, cruise missiles and a super-large multiple rocket launcher, state media reported Friday. The demonstration was held Thursday in connection with an exhibition on unmanned aerial technology attended by leader Kim Jong-un, according to the North's Korean Central News Agency (KCNA). The event took place on the same day that South Korea's Joint Chiefs of Staff (JCS) detected around 10 short-range ballistic missiles launched from the Wonsan area toward the East Sea. The exhibition featured various types of strategic and tactical multipurpose drones, suicide attack drones and other combat systems, while the weapons demonstration involved tactical suicide attack drones, cruise missiles and a 600-millimeter multiple rocket launcher unit, KCNA said. The agency claimed that air-to-ground missiles launched from suicide a...",
+        "fullText": [
+          "North Korea has staged a weapons demonstration featuring suicide attack drones, cruise missiles and a super-large multiple rocket launcher, state media reported Friday. The demonstration was held Thursday in connection with an exhibition on unmanned aerial technology attended by leader Kim Jong-un, according to the North's Korean Central News Agency (KCNA).",
+          "The event took place on the same day that South Korea's Joint Chiefs of Staff (JCS) detected around 10 short-range ballistic missiles launched from the Wonsan area toward the East Sea. The exhibition featured various types of strategic and tactical multipurpose drones, suicide attack drones and other combat systems, while the weapons demonstration involved tactical suicide attack drones, cruise missiles and a 600-millimeter multiple rocket launcher unit, KCNA said.",
+          "The agency claimed that air-to-ground missiles launched from suicide a..."
+        ],
+        "words": [
+          "reports",
+          "weapons",
+          "demonstration"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-29",
     "label": "Thursday, October 29, 2026",
     "title": "Korea News Brief",
