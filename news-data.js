@@ -1,5 +1,161 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-10-31",
+    "label": "Saturday, October 31, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Inter-Korea, Korea, Law, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korean envoy to US vows support for bilateral investment at Hyundai's Alabama plant",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261031/korean-envoy-to-us-vows-support-for-bilateral-investment-at-hyundais-alabama-plant?utm_source=rss",
+        "summary": "WASHINGTON — Korean Ambassador to the United States Kang Kyung-wha has pledged to strengthen cooperation with U.S. authorities to support bilateral investment, describing Hyundai Motor Group's latest investment in Alabama as an example of the expanding economic partnership between the two countries. Kang made the remarks Wednesday while attending a ceremony announcing Hyundai Motor Manufacturing Alabama's plan to invest about $450 million in its Montgomery plant, according to the Korean Embassy in Washington. The ambassador highlighted Hyundai's presence in the U.S. as an \"outstanding example\" of how the Korea-U.S. alliance has evolved over more than seven decades, expanding beyond its security foundations into cooperation in economic security and advanced technology. Kang also said the investment would combine Korea's advanced manufacturing capabilities with America's innovation and mar...",
+        "fullText": [
+          "WASHINGTON — Korean Ambassador to the United States Kang Kyung-wha has pledged to strengthen cooperation with U. S.",
+          "authorities to support bilateral investment, describing Hyundai Motor Group's latest investment in Alabama as an example of the expanding economic partnership between the two countries. Kang made the remarks Wednesday while attending a ceremony announcing Hyundai Motor Manufacturing Alabama's plan to invest about $450 million in its Montgomery plant, according to the Korean Embassy in Washington.",
+          "The ambassador highlighted Hyundai's presence in the U. S.",
+          "as an \"outstanding example\" of how the Korea-U. S.",
+          "alliance has evolved over more than seven decades, expanding beyond its security foundations into cooperation in economic security and advanced technology. Kang also said the investment would combine Korea's advanced manufacturing capabilities with America's innovation and mar..."
+        ],
+        "words": [
+          "support",
+          "bilateral",
+          "investment"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "S. Korean, US, Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of NK",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261031/s-korean-us-japanese-fms-reaffirm-resolute-commitment-to-complete-denuclearization-of-nk?utm_source=rss",
+        "summary": "WASHINGTON — The top diplomats of South Korea, the United States and Japan on Friday reaffirmed their commitment to the complete denuclearization of North Korea during trilateral talks, the U.S. State Department said. South Korean Foreign Minister Cho Hyun met with U.S. Secretary of State Marco Rubio met and Japanese Foreign Minister Toshimitsu Motegi on the sidelines of a Group of 20 (G20) meeting in Atlanta, according to a State Department readout. \"The Secretary and Foreign Ministers reaffirmed their resolute commitment to the complete denuclearization\" of North Korea and the full implementation of U.N. Security Council resolutions, the department said. The three ministers also underscored the need to enforce U.N. sanctions prohibiting activities that generate revenue for Pyongyang's nuclear and ballistic missile programs, while commending the work of the Multilateral Sanctions Monito...",
+        "fullText": [
+          "WASHINGTON — The top diplomats of South Korea, the United States and Japan on Friday reaffirmed their commitment to the complete denuclearization of North Korea during trilateral talks, the U. S.",
+          "State Department said. South Korean Foreign Minister Cho Hyun met with U.",
+          "S. Secretary of State Marco Rubio met and Japanese Foreign Minister Toshimitsu Motegi on the sidelines of a Group of 20 (G20) meeting in Atlanta, according to a State Department readout.",
+          "\"The Secretary and Foreign Ministers reaffirmed their resolute commitment to the complete denuclearization\" of North Korea and the full implementation of U. N.",
+          "Security Council resolutions, the department said. The three ministers also underscored the need to enforce U.",
+          "N. sanctions prohibiting activities that generate revenue for Pyongyang's nuclear and ballistic missile programs, while commending the work of the Multilateral Sanctions Monito..."
+        ],
+        "words": [
+          "japanese",
+          "reaffirm",
+          "resolute"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Once shunned, prisons become sought-after facilities for local communities",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261031/once-shunned-prisons-become-sought-after-facilities-for-local-communities?utm_source=rss",
+        "summary": "Prisons, once widely regarded as undesirable facilities, are now drawing competition from local governments seeking to revive shrinking communities and struggling economies. Seven municipal governments are competing to host four new correctional facilities as part of the Ministry of Justice’s first nationwide competitive bidding process for prison sites. The ministry launched a nationwide call for applications on Aug. 28, marking the first time it has used a competitive bidding process to select sites for new correctional facilities. Previously, sites were chosen through consultations between the ministry and local governments. Under the new system, municipalities must seek residents' input and obtain approval from their local councils before submitting bids. The four planned facilities will each have a capacity of 1,000 inmates and employ around 250 staff members. Seven local government...",
+        "fullText": [
+          "Prisons, once widely regarded as undesirable facilities, are now drawing competition from local governments seeking to revive shrinking communities and struggling economies. Seven municipal governments are competing to host four new correctional facilities as part of the Ministry of Justice’s first nationwide competitive bidding process for prison sites.",
+          "The ministry launched a nationwide call for applications on Aug. 28, marking the first time it has used a competitive bidding process to select sites for new correctional facilities.",
+          "Previously, sites were chosen through consultations between the ministry and local governments. Under the new system, municipalities must seek residents' input and obtain approval from their local councils before submitting bids.",
+          "The four planned facilities will each have a capacity of 1,000 inmates and employ around 250 staff members. Seven local government..."
+        ],
+        "words": [
+          "shunned",
+          "prisons",
+          "become"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korean webtoon finds new audience in India, creator eyes global reach",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261031/korean-webtoon-finds-new-audience-in-india-creator-eyes-global-reach?utm_source=rss",
+        "summary": "The Korean webtoon \"Here We Go Again\" by Go Eun has found a new audience in India, with a locally produced adaptation released Friday. Available on JioHotstar, one of India's major streaming platforms, \"Love Always\" was directed by Madhumita Sundararaman and stars Indian actors Gouri G Kishan, Ramzan Muhammed, Jayaprakash and Jayasudha. The series is the first adaptation of a Korean webtoon in India. The original work ran on Kakao's webtoon platform between 2015 and 2017, and garnered more than 200 million views. The Korea Times spoke with the webtoon artist about the adaptation and her hopes for the global reach of Korean comics. Go said she learned around 2020 or 2021 that her work was being adapted for Indian audiences. “My first reaction was like, ‘Wait, my work is getting adapted? Really?’ Then came, ‘In India?’ I was fascinated, but also dumbfounded,” Go recalled. “Here We Go Again...",
+        "fullText": [
+          "The Korean webtoon \"Here We Go Again\" by Go Eun has found a new audience in India, with a locally produced adaptation released Friday. Available on JioHotstar, one of India's major streaming platforms, \"Love Always\" was directed by Madhumita Sundararaman and stars Indian actors Gouri G Kishan, Ramzan Muhammed, Jayaprakash and Jayasudha.",
+          "The series is the first adaptation of a Korean webtoon in India. The original work ran on Kakao's webtoon platform between 2015 and 2017, and garnered more than 200 million views.",
+          "The Korea Times spoke with the webtoon artist about the adaptation and her hopes for the global reach of Korean comics. Go said she learned around 2020 or 2021 that her work was being adapted for Indian audiences.",
+          "“My first reaction was like, ‘Wait, my work is getting adapted? Really?",
+          "’ Then came, ‘In India? ’ I was fascinated, but also dumbfounded,” Go recalled.",
+          "“Here We Go Again..."
+        ],
+        "words": [
+          "webtoon",
+          "audience",
+          "creator"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Korea expands benefits for retired working dogs to help them find forever homes",
+        "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20261031/korea-expands-benefits-for-retired-working-dogs-to-help-them-find-forever-homes?utm_source=rss",
+        "summary": "Korea is stepping up its efforts to help retired working dogs find forever homes by building a comprehensive, state-funded safety net designed to ease the steep financial burden on adoptive families. Under an expanded initiative led by the Ministry of Agriculture, Food and Rural Affairs, the government is introducing direct medical subsidies, discounted veterinary care, and dedicated hospice facilities to ensure these canine public servants are cared for after their service ends. Roughly 1,100 working dogs currently serve across six government bodies, including the military, police, fire services, customs and quarantine inspection. Among them, the Animal and Plant Quarantine Agency alone operates approximately 70 specialized detector dogs at key international travel hubs. For years, private adoption for retired working dogs faced steep hurdles. Specialized breeds like beagles, Labradors,...",
+        "fullText": [
+          "Korea is stepping up its efforts to help retired working dogs find forever homes by building a comprehensive, state-funded safety net designed to ease the steep financial burden on adoptive families. Under an expanded initiative led by the Ministry of Agriculture, Food and Rural Affairs, the government is introducing direct medical subsidies, discounted veterinary care, and dedicated hospice facilities to ensure these canine public servants are cared for after their service ends.",
+          "Roughly 1,100 working dogs currently serve across six government bodies, including the military, police, fire services, customs and quarantine inspection. Among them, the Animal and Plant Quarantine Agency alone operates approximately 70 specialized detector dogs at key international travel hubs.",
+          "For years, private adoption for retired working dogs faced steep hurdles. Specialized breeds like beagles, Labradors,..."
+        ],
+        "words": [
+          "expands",
+          "benefits",
+          "retired"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "[WEEKENDER] Unknown at home, big abroad",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261031/weekender-unknown-at-home-big-abroad?utm_source=rss",
+        "summary": "It is generally considered less risky for companies to first establish a robust consumer base in the country where they are based, giving them a comfort zone for operations like marketing, administration and customer service. Expanding into overseas markets would be a logical next step. Major Korean firms almost always follow this approach, building operational know-how and a strong domestic following before venturing into uncharted territories. Global expansion has become increasingly encouraging for Korean beauty and food firms thanks to their growing presence on the global stage. According to the Ministry of Food and Drug Safety, Korean beauty exports hit a record $11.4 billion in 2025, up 24.5 percent from 2021. Korean food exports also reached a record in 2025 at $10.4 billion, up 21.9 percent over the same period, according to the Ministry of Agriculture, Food and Rural Affairs. Th...",
+        "fullText": [
+          "It is generally considered less risky for companies to first establish a robust consumer base in the country where they are based, giving them a comfort zone for operations like marketing, administration and customer service. Expanding into overseas markets would be a logical next step.",
+          "Major Korean firms almost always follow this approach, building operational know-how and a strong domestic following before venturing into uncharted territories. Global expansion has become increasingly encouraging for Korean beauty and food firms thanks to their growing presence on the global stage.",
+          "According to the Ministry of Food and Drug Safety, Korean beauty exports hit a record $11. 4 billion in 2025, up 24.",
+          "5 percent from 2021. Korean food exports also reached a record in 2025 at $10.",
+          "4 billion, up 21. 9 percent over the same period, according to the Ministry of Agriculture, Food and Rural Affairs.",
+          "Th..."
+        ],
+        "words": [
+          "weekender",
+          "unknown",
+          "abroad"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
+        "url": "https://www.koreatimes.co.kr/world/20261031/oil-jumps-2-settles-at-6-month-highs-on-fears-of-escalation-in-iran?utm_source=rss",
+        "summary": "Oil prices jumped more than 2 percent on Friday and settled at their highest levels since the end of April, as traders braced for a potential escalation in the Iran war after the U.S. midterm elections, with an attack on a tanker in the Strait of Hormuz highlighting supply risks. Brent crude futures for December, which expired on Friday, settled up $2.76, or 2.4 percent, at $117.64 a barrel, after touching a high of $118. The more active January contract gained $2.63 to $113.43. U.S. West Texas Intermediate (WTI) crude futures settled $2.12, or 2.08 percent, higher at $104.12. For the month, Brent finished 13.6 percent higher, while WTI rose 15.2 percent. \"Traders will remain focused on oil flows out of the Middle East and the likely escalation by U.S. and allied forces,\" said Dennis Kissler, senior vice president of trading at BOK Financial. On Friday, a tanker in the Strait of Hormuz w...",
+        "fullText": [
+          "Oil prices jumped more than 2 percent on Friday and settled at their highest levels since the end of April, as traders braced for a potential escalation in the Iran war after the U. S.",
+          "midterm elections, with an attack on a tanker in the Strait of Hormuz highlighting supply risks. Brent crude futures for December, which expired on Friday, settled up $2.",
+          "76, or 2. 4 percent, at $117.",
+          "64 a barrel, after touching a high of $118. The more active January contract gained $2.",
+          "63 to $113. 43.",
+          "U. S.",
+          "West Texas Intermediate (WTI) crude futures settled $2. 12, or 2.",
+          "08 percent, higher at $104. 12.",
+          "For the month, Brent finished 13. 6 percent higher, while WTI rose 15.",
+          "2 percent. \"Traders will remain focused on oil flows out of the Middle East and the likely escalation by U.",
+          "S. and allied forces,\" said Dennis Kissler, senior vice president of trading at BOK Financial.",
+          "On Friday, a tanker in the Strait of Hormuz w..."
+        ],
+        "words": [
+          "settles",
+          "-month",
+          "escalation"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "label": "Friday, October 30, 2026",
     "title": "Korea News Brief",
