@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-01",
+    "label": "Sunday, November 1, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Law, Inter-Korea, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Syria weighing whether to join Mecca pact: foreign minister",
+        "url": "https://www.koreatimes.co.kr/world/20261101/syria-weighing-whether-to-join-mecca-pact-foreign-minister?utm_source=rss",
+        "summary": "MANAMA — Syria's top diplomat on Saturday said Damascus was considering whether to join the NATO-style Mecca defense alliance that binds Turkey, Saudi Arabia and Pakistan. Saudi Arabia, under heavy fire from Yemen's Houthis, is a key backer of Syria's government that came to power after the fall of former strongman Bashar al-Assad in December 2024. \"Discussions are currently underway to evaluate Syria's entry into the Mecca alliance,\" Foreign Minister Asaad al-Shaibani said at the Manama Dialogue conference in Bahrain. Saudi Arabia has been rallying support against escalating Houthi attacks, including a major strike that closed Riyadh's international airport for two weeks this month. In August, Saudi Arabia, Pakistan and Turkey signed the defense pact in Mecca, Islam's holiest city, that states an attack on one country is to be considered an attack on all three. Pakistan and Turkey have...",
+        "fullText": [
+          "MANAMA — Syria's top diplomat on Saturday said Damascus was considering whether to join the NATO-style Mecca defense alliance that binds Turkey, Saudi Arabia and Pakistan. Saudi Arabia, under heavy fire from Yemen's Houthis, is a key backer of Syria's government that came to power after the fall of former strongman Bashar al-Assad in December 2024.",
+          "\"Discussions are currently underway to evaluate Syria's entry into the Mecca alliance,\" Foreign Minister Asaad al-Shaibani said at the Manama Dialogue conference in Bahrain. Saudi Arabia has been rallying support against escalating Houthi attacks, including a major strike that closed Riyadh's international airport for two weeks this month.",
+          "In August, Saudi Arabia, Pakistan and Turkey signed the defense pact in Mecca, Islam's holiest city, that states an attack on one country is to be considered an attack on all three. Pakistan and Turkey have..."
+        ],
+        "words": [
+          "weighing",
+          "whether",
+          "foreign"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "ICE agent charged with assault for hitting a fleeing man with his car will turn himself in Monday",
+        "url": "https://www.koreatimes.co.kr/world/20261101/ice-agent-charged-with-assault-for-hitting-a-fleeing-man-with-his-car-will-turn-himself-in-monday?utm_source=rss",
+        "summary": "A federal immigration officer charged with aggravated assault after he ran over a Mexican man with his car in Houston will turn himself in on Monday, according to his attorney. Mario Alberto Morales, a U.S. Immigration and Customs Enforcement officer, struck Miguel Parra Hernandez, a 48-year-old construction worker, with his unmarked SUV on Oct. 10, as he chased Parra Hernandez through a parking lot. A grand jury indicted Morales on Friday on a felony charge of aggravated assault with a deadly weapon. Morales is planning to turn himself in at a courthouse sometime on Monday, David Lindenmuth, his attorney, told The Associated Press. Lindenmuth previously told the AP that the incident was “clearly just an accident” and that local officials had “invented a crime out of thin air.” Parra Hernandez broke his leg and is recovering at a rehabilitation facility while in federal custody, Harris C...",
+        "fullText": [
+          "A federal immigration officer charged with aggravated assault after he ran over a Mexican man with his car in Houston will turn himself in on Monday, according to his attorney. Mario Alberto Morales, a U.",
+          "S. Immigration and Customs Enforcement officer, struck Miguel Parra Hernandez, a 48-year-old construction worker, with his unmarked SUV on Oct.",
+          "10, as he chased Parra Hernandez through a parking lot. A grand jury indicted Morales on Friday on a felony charge of aggravated assault with a deadly weapon.",
+          "Morales is planning to turn himself in at a courthouse sometime on Monday, David Lindenmuth, his attorney, told The Associated Press. Lindenmuth previously told the AP that the incident was “clearly just an accident” and that local officials had “invented a crime out of thin air.",
+          "” Parra Hernandez broke his leg and is recovering at a rehabilitation facility while in federal custody, Harris C..."
+        ],
+        "words": [
+          "charged",
+          "assault",
+          "hitting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Rioters loot stores in Frankfurt as Gen Z-led protests in Germany turn violent",
+        "url": "https://www.koreatimes.co.kr/world/20261101/rioters-loot-stores-in-frankfurt-as-gen-z-led-protests-in-germany-turn-violent?utm_source=rss",
+        "summary": "FRANKFURT/BERLIN — Hooded rioters looted stores in Frankfurt late on Saturday after tens of thousands of demonstrators took to the streets across Germany's biggest cities to demand better education and lower living costs. The protests followed a wave of Gen Z-led demonstrations across Europe this year. In Serbia, student-led activism helped unseat the country's longtime leader at the ballot box, while protests in France have descended into rioting and looting. The German protests organized by the campaign group \"Gen Z regelt\" — \"Gen Z takes charge\" in German — took place in 34 cities including Berlin, Frankfurt and Munich. The group says it opposes compulsory military service and wants greater investment in education as many young Germans struggle with rising costs. In Frankfurt, Germany's financial hub, at least two stores were looted as protests turned violent, with several more damage...",
+        "fullText": [
+          "FRANKFURT/BERLIN — Hooded rioters looted stores in Frankfurt late on Saturday after tens of thousands of demonstrators took to the streets across Germany's biggest cities to demand better education and lower living costs. The protests followed a wave of Gen Z-led demonstrations across Europe this year.",
+          "In Serbia, student-led activism helped unseat the country's longtime leader at the ballot box, while protests in France have descended into rioting and looting. The German protests organized by the campaign group \"Gen Z regelt\" — \"Gen Z takes charge\" in German — took place in 34 cities including Berlin, Frankfurt and Munich.",
+          "The group says it opposes compulsory military service and wants greater investment in education as many young Germans struggle with rising costs. In Frankfurt, Germany's financial hub, at least two stores were looted as protests turned violent, with several more damage..."
+        ],
+        "words": [
+          "rioters",
+          "stores",
+          "frankfurt"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "FBI says N. Korea responsible for over $6 bil. crypto theft from Binance",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261101/fbi-says-n-korea-responsible-for-over-6-bil-crypto-theft-from-binance?utm_source=rss",
+        "summary": "WASHINGTON — The U.S. Federal Bureau of Investigation (FBI) said Saturday that North Korea was responsible for the theft of more than $6 billion in cryptocurrency from Binance, the world's largest cryptocurrency exchange, earlier this week. \"The FBI is releasing information advising the Democratic People's Republic of Korea was responsible for the theft of more than $6 billion in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the agency said in a cyber alert, referring to North Korea by its official name. The FBI identified the North Korean cyber operation as \"TraderTraitor,\" a name previously associated with cryptocurrency thefts carried out by North Korean hackers. The agency said it had observed the hackers converting stolen assets primarily into Ethereum, a major cryptocurrency, in cooperation with the U.S. Secret Service and the Internal Revenue...",
+        "fullText": [
+          "WASHINGTON — The U. S.",
+          "Federal Bureau of Investigation (FBI) said Saturday that North Korea was responsible for the theft of more than $6 billion in cryptocurrency from Binance, the world's largest cryptocurrency exchange, earlier this week. \"The FBI is releasing information advising the Democratic People's Republic of Korea was responsible for the theft of more than $6 billion in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the agency said in a cyber alert, referring to North Korea by its official name.",
+          "The FBI identified the North Korean cyber operation as \"TraderTraitor,\" a name previously associated with cryptocurrency thefts carried out by North Korean hackers. The agency said it had observed the hackers converting stolen assets primarily into Ethereum, a major cryptocurrency, in cooperation with the U.",
+          "S. Secret Service and the Internal Revenue..."
+        ],
+        "words": [
+          "responsible",
+          "crypto",
+          "binance"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea tests cluster bomb mountable on tactical ballistic missiles",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261101/n-korea-tests-cluster-bomb-mountable-on-tactical-ballistic-missiles?utm_source=rss",
+        "summary": "North Korea has tested a cluster bomb that can be mounted on tactical ballistic missiles and vowed to field various types of cluster warheads by the end of the year, its state media said Sunday. The North's Missile Administration conducted the test on Saturday to assess adaptation to combat and power of a cluster-bomb warhead to be mounted on tactical ballistic missiles, the Korean Central News Agency (KCNA) said. Gen. Kim Jong-sik, member of the Central Military Commission of the ruling Workers' Party of Korea (WPK) and first vice department director of the WPK Central Committee oversaw the test, the KCNA said. A cluster bomb releases dozens to hundreds of submunitions, allowing it to strike multiple targets over a wide area. The research institutes under the Missile Administration \"confirmed that Standard Type 2 cluster-bomb warhead is capable of turning into ashes a target area of 12...",
+        "fullText": [
+          "North Korea has tested a cluster bomb that can be mounted on tactical ballistic missiles and vowed to field various types of cluster warheads by the end of the year, its state media said Sunday. The North's Missile Administration conducted the test on Saturday to assess adaptation to combat and power of a cluster-bomb warhead to be mounted on tactical ballistic missiles, the Korean Central News Agency (KCNA) said.",
+          "Gen. Kim Jong-sik, member of the Central Military Commission of the ruling Workers' Party of Korea (WPK) and first vice department director of the WPK Central Committee oversaw the test, the KCNA said.",
+          "A cluster bomb releases dozens to hundreds of submunitions, allowing it to strike multiple targets over a wide area. The research institutes under the Missile Administration \"confirmed that Standard Type 2 cluster-bomb warhead is capable of turning into ashes a target area of 12..."
+        ],
+        "words": [
+          "cluster",
+          "mountable",
+          "tactical"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Trump open to talks with N. Korean leader but no meeting scheduled: Rubio",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261101/trump-open-to-talks-with-n-korean-leader-but-no-meeting-scheduled-rubio?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump remains open to talks with North Korean leader Kim Jong-un if Pyongyang is willing to discuss issues of concern to Washington and its allies, but no meeting has been scheduled, U.S. Secretary of State Marco Rubio said Saturday. Rubio made the remarks during a press conference following a Group of 20 (G20) foreign ministers' meeting in Atlanta. \"I think the president's perspective is, if North Korea and Kim Jong-un is prepared to talk with the United States about issues that are of concern to us and of concern to our allies, like South Korea, he would be open to doing it,\" Rubio said. \"Nothing has been scheduled. I do not have anything to announce in regards to that today,\" he added. His remarks came amid persistent speculations over the possibility of renewed diplomacy between Trump and Kim, who held three meetings during Trump's first presidentia...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump remains open to talks with North Korean leader Kim Jong-un if Pyongyang is willing to discuss issues of concern to Washington and its allies, but no meeting has been scheduled, U. S.",
+          "Secretary of State Marco Rubio said Saturday. Rubio made the remarks during a press conference following a Group of 20 (G20) foreign ministers' meeting in Atlanta.",
+          "\"I think the president's perspective is, if North Korea and Kim Jong-un is prepared to talk with the United States about issues that are of concern to us and of concern to our allies, like South Korea, he would be open to doing it,\" Rubio said. \"Nothing has been scheduled.",
+          "I do not have anything to announce in regards to that today,\" he added. His remarks came amid persistent speculations over the possibility of renewed diplomacy between Trump and Kim, who held three meetings during Trump's first presidentia..."
+        ],
+        "words": [
+          "leader",
+          "meeting",
+          "scheduled"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "From 'Lake of Death' to Clavius, Korea searches moon for 2032 landing sites",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/from-lake-of-death-to-clavius-korea-searches-moon-for-2032-landing-sites?utm_source=rss",
+        "summary": "Korea is shopping for real estate on the moon, and its newly established space agency has its eye on some of the lunar surface’s most forbidding neighborhoods. At a recent academic symposium, the Korea AeroSpace Administration (KASA) revealed a shortlist of prospective landing sites for two robotic missions scheduled for 2032. The agency is weighing 20 candidate zones for its flagship lunar lander and nine for a precursor soft-landing demonstration craft, signaling a decisive shift toward boots-on-the-surface ambitions for a nation long playing catch-up in deep-space exploration. Rather than sticking strictly to the lunar south pole — a crowded target for NASA’s Artemis program and rival missions seeking water ice — Korean scientists are eyeing a broader, strategically varied grid. The candidate list spans ancient impact basins, jagged basaltic plains, and deep pit craters that could hou...",
+        "fullText": [
+          "Korea is shopping for real estate on the moon, and its newly established space agency has its eye on some of the lunar surface’s most forbidding neighborhoods. At a recent academic symposium, the Korea AeroSpace Administration (KASA) revealed a shortlist of prospective landing sites for two robotic missions scheduled for 2032.",
+          "The agency is weighing 20 candidate zones for its flagship lunar lander and nine for a precursor soft-landing demonstration craft, signaling a decisive shift toward boots-on-the-surface ambitions for a nation long playing catch-up in deep-space exploration. Rather than sticking strictly to the lunar south pole — a crowded target for NASA’s Artemis program and rival missions seeking water ice — Korean scientists are eyeing a broader, strategically varied grid.",
+          "The candidate list spans ancient impact basins, jagged basaltic plains, and deep pit craters that could hou..."
+        ],
+        "words": [
+          "clavius",
+          "searches",
+          "landing"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "label": "Saturday, October 31, 2026",
     "title": "Korea News Brief",
