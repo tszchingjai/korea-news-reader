@@ -1,5 +1,155 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-02",
+    "label": "Monday, November 2, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee's approval rating rises on summit achievements, economic policies: poll",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261102/lees-approval-rating-rises-on-summit-achievements-economic-policies-poll?utm_source=rss",
+        "summary": "President Lee Jae Myung's approval rating came to 36.9 percent last week, a poll showed Monday, rising slightly from a week earlier on the back of diplomatic achievements and economic policies but remaining below 40 percent for the 10th consecutive week. In the poll conducted on 2,515 adults nationwide from last Monday to Friday by Realmeter, positive assessments of Lee's job performance rose 1.6 percentage points from the previous week. His disapproval rating fell 2.2 percentage points to 60.1 percent in the latest survey. Realmeter said the increase appears to have been driven by diplomatic achievements from the recent Korea-Germany summit and positive economic indicators, including a current account surplus and the government's plans to expand the housing supply in the greater Seoul area. Lee's approval rating has stayed below 40 percent in Realmeter surveys since slipping to 38.9 per...",
+        "fullText": [
+          "President Lee Jae Myung's approval rating came to 36. 9 percent last week, a poll showed Monday, rising slightly from a week earlier on the back of diplomatic achievements and economic policies but remaining below 40 percent for the 10th consecutive week.",
+          "In the poll conducted on 2,515 adults nationwide from last Monday to Friday by Realmeter, positive assessments of Lee's job performance rose 1. 6 percentage points from the previous week.",
+          "His disapproval rating fell 2. 2 percentage points to 60.",
+          "1 percent in the latest survey. Realmeter said the increase appears to have been driven by diplomatic achievements from the recent Korea-Germany summit and positive economic indicators, including a current account surplus and the government's plans to expand the housing supply in the greater Seoul area.",
+          "Lee's approval rating has stayed below 40 percent in Realmeter surveys since slipping to 38. 9 per..."
+        ],
+        "words": [
+          "approval",
+          "rating",
+          "summit"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "2 best teams from KBO regular season on collision course in Korean Series",
+        "url": "https://www.koreatimes.co.kr/sports/20261102/2-best-teams-from-kbo-regular-season-on-collision-course-in-korean-series?utm_source=rss",
+        "summary": "The two best teams in the regular season will square off in the Korean baseball championship series starting this week, with one team going for its second title and the other chasing its ninth. The KT Wiz and the Samsung Lions will duke it out in the best-of-seven Korean Series, with Game 1 starting at 6:30 p.m. Tuesday at KT Wiz Park in Suwon, some 30 kilometers south of Seoul. After the first two games in Suwon on Tuesday and Wednesday, the Lions will host Games 3 and 4 on Friday and Saturday, and, if necessary, Game 5 on Sunday at Daegu Samsung Lion Park in Daegu, about 230 kilometers southeast of Seoul. The Wiz will host Games 6 and 7 on Nov. 10 and 11 if the series goes that far. The Wiz had the best record in the regular season in the Korea Baseball Organization (KBO) at 90-49-5 (wins-losses-ties), while the Lions finished eight games back at 83-58-3. The Wiz earned a bye to the Ko...",
+        "fullText": [
+          "The two best teams in the regular season will square off in the Korean baseball championship series starting this week, with one team going for its second title and the other chasing its ninth. The KT Wiz and the Samsung Lions will duke it out in the best-of-seven Korean Series, with Game 1 starting at 6:30 p.",
+          "m. Tuesday at KT Wiz Park in Suwon, some 30 kilometers south of Seoul.",
+          "After the first two games in Suwon on Tuesday and Wednesday, the Lions will host Games 3 and 4 on Friday and Saturday, and, if necessary, Game 5 on Sunday at Daegu Samsung Lion Park in Daegu, about 230 kilometers southeast of Seoul. The Wiz will host Games 6 and 7 on Nov.",
+          "10 and 11 if the series goes that far. The Wiz had the best record in the regular season in the Korea Baseball Organization (KBO) at 90-49-5 (wins-losses-ties), while the Lions finished eight games back at 83-58-3.",
+          "The Wiz earned a bye to the Ko..."
+        ],
+        "words": [
+          "regular",
+          "season",
+          "collision"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "How students dethroned Serbia's strongman",
+        "url": "https://www.koreatimes.co.kr/opinion/20261102/how-students-dethroned-serbias-strongman?utm_source=rss",
+        "summary": "VIENNA — After 14 years of authoritarian rule, Aleksandar Vučić and his Serbian Progressive Party (SNS) have been ousted from power. Although polls had predicted a close election, the student-led opposition ultimately won by a wide margin. In an election that was neither free nor fair—owing to media capture, violence against the government’s opponents, and the SNS’s blatant misuse of state resources—the Student List won 53 percent of the popular vote, which translated into 141 parliamentary seats and an absolute majority. Vučić and his SNS trailed badly, with 38.8% and 103 seats. The students’ victory was the culmination of months of protests that began in November 2024, when a canopy at the Novi Sad railway station collapsed, killing 16 people. With the government doing little to punish those responsible, the public outcry continued to build, and popular mobilization paved the way to ch...",
+        "fullText": [
+          "VIENNA — After 14 years of authoritarian rule, Aleksandar Vučić and his Serbian Progressive Party (SNS) have been ousted from power. Although polls had predicted a close election, the student-led opposition ultimately won by a wide margin.",
+          "In an election that was neither free nor fair—owing to media capture, violence against the government’s opponents, and the SNS’s blatant misuse of state resources—the Student List won 53 percent of the popular vote, which translated into 141 parliamentary seats and an absolute majority. Vučić and his SNS trailed badly, with 38.",
+          "8% and 103 seats. The students’ victory was the culmination of months of protests that began in November 2024, when a canopy at the Novi Sad railway station collapsed, killing 16 people.",
+          "With the government doing little to punish those responsible, the public outcry continued to build, and popular mobilization paved the way to ch..."
+        ],
+        "words": [
+          "students",
+          "dethroned",
+          "serbia"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Distrust in election polls",
+        "url": "https://www.koreatimes.co.kr/opinion/20261102/distrust-in-election-polls?utm_source=rss",
+        "summary": "This story reports on distrust in election polls.",
+        "fullText": [
+          "This story reports on distrust in election polls."
+        ],
+        "words": [
+          "distrust",
+          "election",
+          "reports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open lower as disappointing tech earnings trigger AI spending woes",
+        "url": "https://www.koreatimes.co.kr/economy/20261102/seoul-stocks-open-lower-as-disappointing-tech-earnings-trigger-ai-spending-woes?utm_source=rss",
+        "summary": "Seoul stocks opened lower Monday weighed down by declines in U.S. tech shares amid concerns over massive investments in artificial intelligence (AI). The benchmark Korea Composite Stock Price Index (KOSPI) was down 51 points, or 0.89 percent, to 5,679.74 as of 9:15 a.m. Major stock indexes on Wall Street closed lower Friday (U.S. time), following disappointing quarterly earnings from Intel and Amazon, which amplified growing concerns over the sustainability of AI spending. The S&P500 fell 1.82 percent, and the tech-heavy Nasdaq declined 2.86 percent. On the Middle East front, Iranian negotiators were in Doha on Sunday (local time) for a third consecutive day of talks with Qatari mediators to end the U.S.-Iran war. Investors are also closely following the U.S. jobs report and the U.S. midterm elections set to take place Tuesday. In Seoul, most market top-caps were trading lower. Chip gian...",
+        "fullText": [
+          "Seoul stocks opened lower Monday weighed down by declines in U. S.",
+          "tech shares amid concerns over massive investments in artificial intelligence (AI). The benchmark Korea Composite Stock Price Index (KOSPI) was down 51 points, or 0.",
+          "89 percent, to 5,679. 74 as of 9:15 a.",
+          "m. Major stock indexes on Wall Street closed lower Friday (U.",
+          "S. time), following disappointing quarterly earnings from Intel and Amazon, which amplified growing concerns over the sustainability of AI spending.",
+          "The S&P500 fell 1. 82 percent, and the tech-heavy Nasdaq declined 2.",
+          "86 percent. On the Middle East front, Iranian negotiators were in Doha on Sunday (local time) for a third consecutive day of talks with Qatari mediators to end the U.",
+          "S. -Iran war.",
+          "Investors are also closely following the U. S.",
+          "jobs report and the U. S.",
+          "midterm elections set to take place Tuesday. In Seoul, most market top-caps were trading lower.",
+          "Chip gian..."
+        ],
+        "words": [
+          "stocks",
+          "disappointing",
+          "earnings"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+        "url": "https://www.koreatimes.co.kr/world/20261102/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says?utm_source=rss",
+        "summary": "WEST PALM BEACH — A business jet carrying nine people nose-dived into a South Florida neighborhood Sunday and erupted into a giant fireball that appeared to just miss homes before crashing near a busy roadway. Everyone on board was killed, the nation's transportation secretary said. Video recorded by people inside their cars captured the terrifying moment the Bahamas-bound aircraft plunged from the sky, before striking near the roadway and exploding. Flames flickered around chunks of pavement lining the crater as people milled about, expressing shock that it landed only feet from homes and inches from passing vehicles. Thick black smoke engulfed the crash site. Transportation Secretary Sean Duffy posted on X that the Learjet 60 crashed in Palm Beach County at 12:50 p.m. and called it a “horrific tragedy.” The Federal Aviation Administration is sending a team to support the National Trans...",
+        "fullText": [
+          "WEST PALM BEACH — A business jet carrying nine people nose-dived into a South Florida neighborhood Sunday and erupted into a giant fireball that appeared to just miss homes before crashing near a busy roadway. Everyone on board was killed, the nation's transportation secretary said.",
+          "Video recorded by people inside their cars captured the terrifying moment the Bahamas-bound aircraft plunged from the sky, before striking near the roadway and exploding. Flames flickered around chunks of pavement lining the crater as people milled about, expressing shock that it landed only feet from homes and inches from passing vehicles.",
+          "Thick black smoke engulfed the crash site. Transportation Secretary Sean Duffy posted on X that the Learjet 60 crashed in Palm Beach County at 12:50 p.",
+          "m. and called it a “horrific tragedy.",
+          "” The Federal Aviation Administration is sending a team to support the National Trans..."
+        ],
+        "words": [
+          "people",
+          "aboard",
+          "crashed"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "APEC China's role to revitalize Asia-Pacific economy",
+        "url": "https://www.koreatimes.co.kr/opinion/20261102/apec-chinas-role-to-revitalize-asia-pacific-economy?utm_source=rss",
+        "summary": "The Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, China, scheduled for Nov. 18-19, should serve as an event to revive the Asia-Pacific's economic dynamism and unlock the region's enormous potential. In the artificial intelligence (AI) era, regional economic security and supply-chain resilience will help determine global prosperity. High tariffs and technological rivalry make cooperation urgent. Korea should carry APEC Gyeongju's achievements forward to Vietnam's 2027 chairmanship. In 2024, APEC's 21 economies accounted for approximately 61 percent of global gross domestic products, 46 percent of trade in goods and commercial services and 37 percent of the world's population — nearly 3 billion people. Their strengths span technology, finance, manufacturing, consumer markets and natural resources. AI, robotics, clean energy and digital services offer growth opportunities tha...",
+        "fullText": [
+          "The Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, China, scheduled for Nov. 18-19, should serve as an event to revive the Asia-Pacific's economic dynamism and unlock the region's enormous potential.",
+          "In the artificial intelligence (AI) era, regional economic security and supply-chain resilience will help determine global prosperity. High tariffs and technological rivalry make cooperation urgent.",
+          "Korea should carry APEC Gyeongju's achievements forward to Vietnam's 2027 chairmanship. In 2024, APEC's 21 economies accounted for approximately 61 percent of global gross domestic products, 46 percent of trade in goods and commercial services and 37 percent of the world's population — nearly 3 billion people.",
+          "Their strengths span technology, finance, manufacturing, consumer markets and natural resources. AI, robotics, clean energy and digital services offer growth opportunities tha..."
+        ],
+        "words": [
+          "revitalize",
+          "asia-pacific",
+          "economy"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "label": "Sunday, November 1, 2026",
     "title": "Korea News Brief",
