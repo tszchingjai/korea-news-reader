@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-03",
+    "label": "Tuesday, November 3, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "9 Korean picture books win national award, set sights on global readers",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261103/9-korean-picture-books-win-national-award-set-sights-on-global-readers?utm_source=rss",
+        "summary": "Nine Korean picture books have been selected for the 2026 Korea Picture Book Award, with the government pledging export support to help winning authors reach readers worldwide. The Ministry of Culture, Sports and Tourism said Tuesday that nine works were chosen from 506 entries for the fourth annual awards, established in 2023 to promote the development of Korean picture books and expand their presence in overseas markets. The awards ceremony is scheduled for 2 p.m. Tuesday at Ferrum Tower in central Seoul. The two grand prizes went to Jeon Mi-hwa's \"To the Fish in the Sea, to the Birds in the Sky, to the Animals in the Forest, and to Humans\" in fiction and Kim Ji-won's \"Raising Earthworms\" in nonfiction. Each grand prize winner will receive 15 million won ($10,350) and the Culture Minister's Award. The six special awards recognize works by Baek Hee-na, for \"Gumeongcheong\"; Kim Bok-hee a...",
+        "fullText": [
+          "Nine Korean picture books have been selected for the 2026 Korea Picture Book Award, with the government pledging export support to help winning authors reach readers worldwide. The Ministry of Culture, Sports and Tourism said Tuesday that nine works were chosen from 506 entries for the fourth annual awards, established in 2023 to promote the development of Korean picture books and expand their presence in overseas markets.",
+          "The awards ceremony is scheduled for 2 p. m.",
+          "Tuesday at Ferrum Tower in central Seoul. The two grand prizes went to Jeon Mi-hwa's \"To the Fish in the Sea, to the Birds in the Sky, to the Animals in the Forest, and to Humans\" in fiction and Kim Ji-won's \"Raising Earthworms\" in nonfiction.",
+          "Each grand prize winner will receive 15 million won ($10,350) and the Culture Minister's Award. The six special awards recognize works by Baek Hee-na, for \"Gumeongcheong\"; Kim Bok-hee a..."
+        ],
+        "words": [
+          "picture",
+          "national",
+          "sights"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "T.O.P, Nana make surprise appearance at fan-organized birthday cafe",
+        "url": "https://www.koreatimes.co.kr/entertainment/20261103/top-nana-make-surprise-appearance-at-fan-organized-birthday-cafe?utm_source=rss",
+        "summary": "T.O.P and Nana have made an unexpected appearance together at a fan-organized birthday cafe, just one day after the former BIGBANG member apologized to longtime supporters following the closure of a fansite that had backed him for nearly 20 years. A video showing the couple visiting the cafe in Seoul's Gangnam District was posted Monday on the venue's social media account. The cafe was decorated by fans to celebrate T.O.P's birthday on Wednesday. The appearance drew particular attention as T.O.P and Nana publicly confirmed their relationship only last month. In the video, T.O.P, whose real name is Choi Seung-hyun, wears a black jacket, white mask and cap as he looks around the fan-decorated space. Nana, wearing a gray jacket, cap and mask, stays by his side while touring the cafe and appears to film T.O.P on her phone. The timing of the visit has attracted further attention because it co...",
+        "fullText": [
+          "T. O.",
+          "P and Nana have made an unexpected appearance together at a fan-organized birthday cafe, just one day after the former BIGBANG member apologized to longtime supporters following the closure of a fansite that had backed him for nearly 20 years. A video showing the couple visiting the cafe in Seoul's Gangnam District was posted Monday on the venue's social media account.",
+          "The cafe was decorated by fans to celebrate T. O.",
+          "P's birthday on Wednesday. The appearance drew particular attention as T.",
+          "O. P and Nana publicly confirmed their relationship only last month.",
+          "In the video, T. O.",
+          "P, whose real name is Choi Seung-hyun, wears a black jacket, white mask and cap as he looks around the fan-decorated space. Nana, wearing a gray jacket, cap and mask, stays by his side while touring the cafe and appears to film T.",
+          "O. P on her phone.",
+          "The timing of the visit has attracted further attention because it co..."
+        ],
+        "words": [
+          "surprise",
+          "appearance",
+          "fan-organized"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Kookmin University professor recognized among World's Top 2% Scientists",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261103/kookmin-university-professor-recognized-among-worlds-top-2-scientists?utm_source=rss",
+        "summary": "Kim Dae-hwan, a professor at Kookmin University’s School of Electrical Engineering, has been included in the 2026 World’s Top 2% Scientists list compiled by Stanford University and Elsevier. The list recognizes the top 2 percent of researchers in their respective fields based on a comprehensive analysis of research impact, including citation metrics and publication output, drawing on data from Elsevier’s Scopus database. Kookmin University said Kim has focused on the physical characterization of semiconductor devices based on indium gallium zinc oxide, a material used in next-generation memory and display technologies. He has published 484 papers in international journals and major academic conferences proceedings, garnering 7,926 citations, according to Scopus data as of October. “I am honored to be recognized among the World’s Top 2% of Scientists, and I owe this achievement to the fac...",
+        "fullText": [
+          "Kim Dae-hwan, a professor at Kookmin University’s School of Electrical Engineering, has been included in the 2026 World’s Top 2% Scientists list compiled by Stanford University and Elsevier. The list recognizes the top 2 percent of researchers in their respective fields based on a comprehensive analysis of research impact, including citation metrics and publication output, drawing on data from Elsevier’s Scopus database.",
+          "Kookmin University said Kim has focused on the physical characterization of semiconductor devices based on indium gallium zinc oxide, a material used in next-generation memory and display technologies. He has published 484 papers in international journals and major academic conferences proceedings, garnering 7,926 citations, according to Scopus data as of October.",
+          "“I am honored to be recognized among the World’s Top 2% of Scientists, and I owe this achievement to the fac..."
+        ],
+        "words": [
+          "kookmin",
+          "university",
+          "professor"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "BTS member Jimin's father says his cafe will close in a year",
+        "url": "https://www.koreatimes.co.kr/entertainment/20261103/bts-member-jimins-father-says-his-cafe-will-close-in-a-year?utm_source=rss",
+        "summary": "A cafe operated by the father of BTS member Jimin has announced that it will close in one year, prompting disappointment among fans and renewed speculation over previously alleged disputes surrounding the business. ZM-illennial, the cafe run by Jimin’s father in Busan, recently posted a notice on its official channel titled \"D-365.\" \"We sincerely thank everyone who has visited ZM-illennial, cherished it and continued to show us unwavering interest and love,\" the cafe said. \"We will do our best until the very last moment so that ZM-illennial will remain a good memory for a long time.\" The unexpected announcement drew emotional responses from fans, particularly those who had hoped to visit the cafe. \"I haven't had a chance to visit yet, so this is disappointing,\" one fan said. Others said, \"This is so heartbreaking,\" and \"I don't know what happened, but I wish they could keep it open.\" The...",
+        "fullText": [
+          "A cafe operated by the father of BTS member Jimin has announced that it will close in one year, prompting disappointment among fans and renewed speculation over previously alleged disputes surrounding the business. ZM-illennial, the cafe run by Jimin’s father in Busan, recently posted a notice on its official channel titled \"D-365.",
+          "\" \"We sincerely thank everyone who has visited ZM-illennial, cherished it and continued to show us unwavering interest and love,\" the cafe said. \"We will do our best until the very last moment so that ZM-illennial will remain a good memory for a long time.",
+          "\" The unexpected announcement drew emotional responses from fans, particularly those who had hoped to visit the cafe. \"I haven't had a chance to visit yet, so this is disappointing,\" one fan said.",
+          "Others said, \"This is so heartbreaking,\" and \"I don't know what happened, but I wish they could keep it open. \" The..."
+        ],
+        "words": [
+          "member",
+          "father",
+          "operated"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Industrial decarbonization is good for business",
+        "url": "https://www.koreatimes.co.kr/opinion/20261103/industrial-decarbonization-is-good-for-business?utm_source=rss",
+        "summary": "BOSTON — It is not easy to be optimistic about climate change nowadays. In the United States, President Donald Trump’s administration has eliminated incentives for clean-energy investment, slashed funding for numerous private-sector projects, and rescinded long-standing rules limiting greenhouse-gas (GHG) emissions from vehicles and power plants. Even in Europe, a longtime climate-policy leader, deadlines are being pushed back and compliance obligations reduced as other challenges, like the war in Ukraine, take priority. Fortunately, these developments do not tell the whole story. The global industrial sector, which generates about one-third of GHG emissions, is quietly making significant progress. Over the past year, our team at MIT has looked closely at multinational companies that are pursuing industrial decarbonization strategies despite global headwinds. What we frequently found wer...",
+        "fullText": [
+          "BOSTON — It is not easy to be optimistic about climate change nowadays. In the United States, President Donald Trump’s administration has eliminated incentives for clean-energy investment, slashed funding for numerous private-sector projects, and rescinded long-standing rules limiting greenhouse-gas (GHG) emissions from vehicles and power plants.",
+          "Even in Europe, a longtime climate-policy leader, deadlines are being pushed back and compliance obligations reduced as other challenges, like the war in Ukraine, take priority. Fortunately, these developments do not tell the whole story.",
+          "The global industrial sector, which generates about one-third of GHG emissions, is quietly making significant progress. Over the past year, our team at MIT has looked closely at multinational companies that are pursuing industrial decarbonization strategies despite global headwinds.",
+          "What we frequently found wer..."
+        ],
+        "words": [
+          "industrial",
+          "decarbonization",
+          "business"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "A nightmare on all streets",
+        "url": "https://www.koreatimes.co.kr/opinion/20261103/a-nightmare-on-all-streets?utm_source=rss",
+        "summary": "This story reports on a nightmare on all streets.",
+        "fullText": [
+          "This story reports on a nightmare on all streets."
+        ],
+        "words": [
+          "nightmare",
+          "streets",
+          "reports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Why Abdul El-Sayed is now a top Senate contender",
+        "url": "https://www.koreatimes.co.kr/opinion/20261103/why-abdul-el-sayed-is-now-a-top-senate-contender?utm_source=rss",
+        "summary": "There’s little question Michigan’s U.S. Senate race is a bellwether for the entire nation in this midterm election. The contest between Republican Mike Rogers and Democrat Abdul El-Sayed is now the most expensive election in Michigan history, with $400 million, perhaps $500 million by Tuesday, in spending. But how did Michigan’s open U.S. Senate seat become such a marquee race? And how did El-Sayed, whose progressive policies were considered far outside the mainstream just eight years ago, become a leading contender for the U.S. Senate? The answer is that Michigan has been moving left for a decade. El-Sayed didn’t necessarily change his politics to win Michigan. Michigan’s political environment changed enough to make his politics more popular. To understand how, we have to start in 2016. In the bitter presidential rivalry that year, Vermont Sen. Bernie Sanders beat Democratic establishme...",
+        "fullText": [
+          "There’s little question Michigan’s U. S.",
+          "Senate race is a bellwether for the entire nation in this midterm election. The contest between Republican Mike Rogers and Democrat Abdul El-Sayed is now the most expensive election in Michigan history, with $400 million, perhaps $500 million by Tuesday, in spending.",
+          "But how did Michigan’s open U. S.",
+          "Senate seat become such a marquee race? And how did El-Sayed, whose progressive policies were considered far outside the mainstream just eight years ago, become a leading contender for the U.",
+          "S. Senate?",
+          "The answer is that Michigan has been moving left for a decade. El-Sayed didn’t necessarily change his politics to win Michigan.",
+          "Michigan’s political environment changed enough to make his politics more popular. To understand how, we have to start in 2016.",
+          "In the bitter presidential rivalry that year, Vermont Sen. Bernie Sanders beat Democratic establishme..."
+        ],
+        "words": [
+          "el-sayed",
+          "senate",
+          "contender"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "label": "Monday, November 2, 2026",
     "title": "Korea News Brief",
