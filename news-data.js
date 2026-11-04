@@ -1,5 +1,143 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-04",
+    "label": "Wednesday, November 4, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261104/n-korea-fires-unidentified-projectile-toward-east-sea-jcs?utm_source=rss",
+        "summary": "North Korea fired an unidentified projectile toward the East Sea on Wednesday, the South Korean military said. The Joint Chiefs of Staff (JCS) said it detected the launch, without elaborating. The latest launch came after the North fired a dozen short-range ballistic missiles toward the East Sea from the Wonsan area Thursday, less than a week after the South Korean military proposed military talks with Pyongyang over the inter-Korean border. North Korean state media has reported that Pyongyang also tested a cluster bomb that can be mounted on tactical ballistic missiles Saturday. The South Korean military did not disclose its detection of the test.",
+        "fullText": [
+          "North Korea fired an unidentified projectile toward the East Sea on Wednesday, the South Korean military said. The Joint Chiefs of Staff (JCS) said it detected the launch, without elaborating.",
+          "The latest launch came after the North fired a dozen short-range ballistic missiles toward the East Sea from the Wonsan area Thursday, less than a week after the South Korean military proposed military talks with Pyongyang over the inter-Korean border. North Korean state media has reported that Pyongyang also tested a cluster bomb that can be mounted on tactical ballistic missiles Saturday.",
+          "The South Korean military did not disclose its detection of the test."
+        ],
+        "words": [
+          "unidentified",
+          "projectile",
+          "toward"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Senior N. Korean party official visiting China: KCNA",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261104/senior-n-korean-party-official-visiting-china-kcna?utm_source=rss",
+        "summary": "A senior North Korean ruling party official has arrived in China, the North's state media confirmed Wednesday, a visit that underscores deepening cooperation between Pyongyang and Beijing. Kim Song-nam, a member of the Political Bureau of the Workers' Party of Korea (WPK) and a party secretary, embarked on a trip to China on Tuesday, leading a party delegation, according to the Korean Central News Agency (KCNA). His visit came at the invitation of China's Communist Party's Central Committee. The delegation's arrival came just 10 days after North Korean leader Kim Jong-un made a surprise visit to the Chinese border city of Dandong — an indication that the two countries are stepping up efforts to reinforce high-level exchanges and traditional ties. North Korea and China have been deepening their cooperation after bilateral relations had chilled amid Pyongyang's closer ties with Russia over...",
+        "fullText": [
+          "A senior North Korean ruling party official has arrived in China, the North's state media confirmed Wednesday, a visit that underscores deepening cooperation between Pyongyang and Beijing. Kim Song-nam, a member of the Political Bureau of the Workers' Party of Korea (WPK) and a party secretary, embarked on a trip to China on Tuesday, leading a party delegation, according to the Korean Central News Agency (KCNA).",
+          "His visit came at the invitation of China's Communist Party's Central Committee. The delegation's arrival came just 10 days after North Korean leader Kim Jong-un made a surprise visit to the Chinese border city of Dandong — an indication that the two countries are stepping up efforts to reinforce high-level exchanges and traditional ties.",
+          "North Korea and China have been deepening their cooperation after bilateral relations had chilled amid Pyongyang's closer ties with Russia over..."
+        ],
+        "words": [
+          "senior",
+          "official",
+          "visiting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea calls for APEC cooperation on energy supply chains, AI",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261104/korea-calls-for-apec-cooperation-on-energy-supply-chains-ai?utm_source=rss",
+        "summary": "Korea has called for stronger cooperation among Asia-Pacific Economic Cooperation (APEC) members to build stable energy supply chains amid the region's vulnerability to crises in the Middle East, the foreign ministry said Wednesday. Second Vice Foreign Minister Kim Jina made the call during the 37th APEC Ministerial Meeting held via videoconference the previous day, according to the ministry. Co-chaired by Chinese Foreign Minister Wang Yi and Commerce Minister Wang Wentao, the meeting brought together foreign and trade ministers from the 21 APEC member economies to discuss ways to foster cooperation for an Asia-Pacific community and advance regional economic integration. Kim stressed the need for closer cooperation among APEC members to strengthen regional energy resilience and diversify energy supplies. On artificial intelligence (AI), Kim called for stronger cooperation based on the AP...",
+        "fullText": [
+          "Korea has called for stronger cooperation among Asia-Pacific Economic Cooperation (APEC) members to build stable energy supply chains amid the region's vulnerability to crises in the Middle East, the foreign ministry said Wednesday. Second Vice Foreign Minister Kim Jina made the call during the 37th APEC Ministerial Meeting held via videoconference the previous day, according to the ministry.",
+          "Co-chaired by Chinese Foreign Minister Wang Yi and Commerce Minister Wang Wentao, the meeting brought together foreign and trade ministers from the 21 APEC member economies to discuss ways to foster cooperation for an Asia-Pacific community and advance regional economic integration. Kim stressed the need for closer cooperation among APEC members to strengthen regional energy resilience and diversify energy supplies.",
+          "On artificial intelligence (AI), Kim called for stronger cooperation based on the AP..."
+        ],
+        "words": [
+          "cooperation",
+          "energy",
+          "supply"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Korea, Poland discuss expanding defense, energy, infra cooperation",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261104/korea-poland-discuss-expanding-defense-energy-infra-cooperation?utm_source=rss",
+        "summary": "Korea and Poland have discussed ways to strengthen cooperation in defense, energy, batteries and infrastructure, as the two countries seek to build on agreements reached at their leaders' summit in April, Seoul's foreign ministry said Wednesday. The seventh round of their joint economic committee took place in Warsaw on Tuesday (local time), co-chaired by Park Jong-han, deputy minister for economic affairs, and Michal Baranowski, Poland's deputy minister of economic development and technology, according to the ministry. During the meeting, the two sides reviewed progress in implementing agreements reached at the summit between President Lee Jae Myung and Polish Prime Minister Donald Tusk in April and discussed ways to expand cooperation across key sectors. Park and Baranowski agreed to explore ways to expand defense cooperation, building on Poland's purchases of Korean K2 tanks, K9 howit...",
+        "fullText": [
+          "Korea and Poland have discussed ways to strengthen cooperation in defense, energy, batteries and infrastructure, as the two countries seek to build on agreements reached at their leaders' summit in April, Seoul's foreign ministry said Wednesday. The seventh round of their joint economic committee took place in Warsaw on Tuesday (local time), co-chaired by Park Jong-han, deputy minister for economic affairs, and Michal Baranowski, Poland's deputy minister of economic development and technology, according to the ministry.",
+          "During the meeting, the two sides reviewed progress in implementing agreements reached at the summit between President Lee Jae Myung and Polish Prime Minister Donald Tusk in April and discussed ways to expand cooperation across key sectors. Park and Baranowski agreed to explore ways to expand defense cooperation, building on Poland's purchases of Korean K2 tanks, K9 howit..."
+        ],
+        "words": [
+          "poland",
+          "discuss",
+          "expanding"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Pope invites youth to bring 'questions and wounds' to 2027 World Youth Day in Seoul",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261104/pope-invites-youth-to-bring-questions-and-wounds-to-2027-world-youth-day-in-seoul?utm_source=rss",
+        "summary": "Pope Leo XIV has encouraged young Catholics to bring their \"questions and wounds\" to World Youth Day 2027, saying he looks forward to meeting them at the international gathering set to be held in Seoul next year. \"Bring to Christ your questions and your wounds but also the wounds that tear apart your societies and set your countries against one another,\" the pope said in a message released by the Holy See on Tuesday (Vatican time), which was also published in Korean. \"Do not wait until you are perfect before opening yourselves to him. He comes to meet you just as you are. ... Allow yourselves to be united and transformed by his love,\" he said, highlighting the theme of World Youth Day. \"Take courage! I have overcome the world.\" The pope noted that the young generation may feel anxious about the future or stressed about appearing perfect, especially under the influence of social media and...",
+        "fullText": [
+          "Pope Leo XIV has encouraged young Catholics to bring their \"questions and wounds\" to World Youth Day 2027, saying he looks forward to meeting them at the international gathering set to be held in Seoul next year. \"Bring to Christ your questions and your wounds but also the wounds that tear apart your societies and set your countries against one another,\" the pope said in a message released by the Holy See on Tuesday (Vatican time), which was also published in Korean.",
+          "\"Do not wait until you are perfect before opening yourselves to him. He comes to meet you just as you are.",
+          "... Allow yourselves to be united and transformed by his love,\" he said, highlighting the theme of World Youth Day.",
+          "\"Take courage! I have overcome the world.",
+          "\" The pope noted that the young generation may feel anxious about the future or stressed about appearing perfect, especially under the influence of social media and..."
+        ],
+        "words": [
+          "invites",
+          "questions",
+          "wounds"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "King Charles III speaks to world leaders in Antigua, expresses 'sorrow' over slave trade",
+        "url": "https://www.koreatimes.co.kr/world/20261104/king-charles-iii-speaks-to-world-leaders-in-antigua-expresses-sorrow-over-slave-trade?utm_source=rss",
+        "summary": "ST. JOHN’S, Antigua — King Charles III called the transatlantic slave trade a “shameful chapter of history” during a speech Tuesday at the official opening of the Commonwealth Heads of Government Meeting in Antigua. Charles spoke just days after British Prime Minister Andy Burnham said he is open to making a formal apology and proposed leading a program of debt restructuring to help the Commonwealth’s poorest countries, although he has rejected calls for the U.K. to pay reparations. Charles said that the transatlantic slave trade “still casts a shadow over these islands and other members of our Commonwealth\" but did not apologize. “That shameful chapter of history is one that fills my heart with horror and my soul with the most profound personal sorrow, and yet, history also teaches us that evil not need have the last word, but character and courage can combine to overcome the most monst...",
+        "fullText": [
+          "ST. JOHN’S, Antigua — King Charles III called the transatlantic slave trade a “shameful chapter of history” during a speech Tuesday at the official opening of the Commonwealth Heads of Government Meeting in Antigua.",
+          "Charles spoke just days after British Prime Minister Andy Burnham said he is open to making a formal apology and proposed leading a program of debt restructuring to help the Commonwealth’s poorest countries, although he has rejected calls for the U. K.",
+          "to pay reparations. Charles said that the transatlantic slave trade “still casts a shadow over these islands and other members of our Commonwealth\" but did not apologize.",
+          "“That shameful chapter of history is one that fills my heart with horror and my soul with the most profound personal sorrow, and yet, history also teaches us that evil not need have the last word, but character and courage can combine to overcome the most monst..."
+        ],
+        "words": [
+          "charles",
+          "speaks",
+          "leaders"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Growing underwater nuclear ambitions in Asia Pacific",
+        "url": "https://www.koreatimes.co.kr/opinion/20261104/growing-underwater-nuclear-ambitions-in-asia-pacific?utm_source=rss",
+        "summary": "Since the advent of nuclear-powered vessels, nuclear and maritime security have been closely intertwined. The introduction of nuclear-powered ballistic missile submarines (SSBNs) has further complicated the relationship. An increasing number of countries rely on SSBNs to maintain credible second-strike capabilities, the foundation of nuclear deterrence. The proliferation of nuclear-powered attack submarines (SSNs) adds another layer of complexity. SSNs are often regarded as effective platforms for countering SSBNs, given their stealth capabilities in the underwater domain. Indeed, one of the primary motivations for countries, including those without nuclear weapons, to acquire SSNs is their \"hunter-killer\" capability, which enables them to counter underwater threats and maintain a favourable balance of power in the maritime domain and in an escalation dominance scenario. Yet an SSN fleet...",
+        "fullText": [
+          "Since the advent of nuclear-powered vessels, nuclear and maritime security have been closely intertwined. The introduction of nuclear-powered ballistic missile submarines (SSBNs) has further complicated the relationship.",
+          "An increasing number of countries rely on SSBNs to maintain credible second-strike capabilities, the foundation of nuclear deterrence. The proliferation of nuclear-powered attack submarines (SSNs) adds another layer of complexity.",
+          "SSNs are often regarded as effective platforms for countering SSBNs, given their stealth capabilities in the underwater domain. Indeed, one of the primary motivations for countries, including those without nuclear weapons, to acquire SSNs is their \"hunter-killer\" capability, which enables them to counter underwater threats and maintain a favourable balance of power in the maritime domain and in an escalation dominance scenario.",
+          "Yet an SSN fleet..."
+        ],
+        "words": [
+          "growing",
+          "underwater",
+          "nuclear"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "label": "Tuesday, November 3, 2026",
     "title": "Korea News Brief",
