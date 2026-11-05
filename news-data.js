@@ -1,5 +1,145 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-05",
+    "label": "Thursday, November 5, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Over 470,000 pieces of personal data leaked from 37 financial firms: FSC",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261105/over-470000-pieces-of-personal-data-leaked-from-37-financial-firms-fsc?utm_source=rss",
+        "summary": "More than 470,000 personal data records have been leaked from 37 companies across the financial sector over the past month, with the amount of funds stolen estimated at 1 billion won ($745,000), the financial regulator said Thursday. The Financial Services Commission (FSC) held a meeting with officials from financial trade associations and government agencies, including the Financial Supervisory Service and the Financial Security Institute, to review data protection systems and artificial intelligence (AI) capabilities in the financial sector. Since Sept. 30, when the first data leak was detected, a total of 40 data leak incidents have been reported at 37 companies, including four commercial banks, five financial investment firms, three insurance firms and five savings banks, according to the FSC. The regulator said the leaked data did not include sensitive personal information that coul...",
+        "fullText": [
+          "More than 470,000 personal data records have been leaked from 37 companies across the financial sector over the past month, with the amount of funds stolen estimated at 1 billion won ($745,000), the financial regulator said Thursday. The Financial Services Commission (FSC) held a meeting with officials from financial trade associations and government agencies, including the Financial Supervisory Service and the Financial Security Institute, to review data protection systems and artificial intelligence (AI) capabilities in the financial sector.",
+          "Since Sept. 30, when the first data leak was detected, a total of 40 data leak incidents have been reported at 37 companies, including four commercial banks, five financial investment firms, three insurance firms and five savings banks, according to the FSC.",
+          "The regulator said the leaked data did not include sensitive personal information that coul..."
+        ],
+        "words": [
+          "pieces",
+          "personal",
+          "leaked"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says Hegseth doing 'a very good job' as questions swirl about his future",
+        "url": "https://www.koreatimes.co.kr/world/20261105/trump-says-hegseth-doing-a-very-good-job-as-questions-swirl-about-his-future?utm_source=rss",
+        "summary": "WASHINGTON — US President Donald Trump backed Defense Secretary Pete Hegseth on Wednesday, a day after Democrats won control of both chambers of Congress in midterm elections that reflected voter anger over the Iran war. Asked whether he was considering replacing Hegseth, whom he has described as a champion of the war, Trump told reporters: \"No, I think he's doing a very good job.\" The response contrasted with then-President George Bush, who fired Defense Secretary Donald Rumsfeld the morning after the 2006 midterm elections, when voter discontent over the Iraq war helped Democrats win control of Congress. But sources said Trump could still replace Hegseth as Republicans assess their losses. One Trump adviser said Hegseth \"could be on the chopping block\" because of the war. \"Someone is going to get blamed for this and you know it's not going to be him (Trump),\" the adviser said. Trump ha...",
+        "fullText": [
+          "WASHINGTON — US President Donald Trump backed Defense Secretary Pete Hegseth on Wednesday, a day after Democrats won control of both chambers of Congress in midterm elections that reflected voter anger over the Iran war. Asked whether he was considering replacing Hegseth, whom he has described as a champion of the war, Trump told reporters: \"No, I think he's doing a very good job.",
+          "\" The response contrasted with then-President George Bush, who fired Defense Secretary Donald Rumsfeld the morning after the 2006 midterm elections, when voter discontent over the Iraq war helped Democrats win control of Congress. But sources said Trump could still replace Hegseth as Republicans assess their losses.",
+          "One Trump adviser said Hegseth \"could be on the chopping block\" because of the war. \"Someone is going to get blamed for this and you know it's not going to be him (Trump),\" the adviser said.",
+          "Trump ha..."
+        ],
+        "words": [
+          "hegseth",
+          "questions",
+          "future"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "NCT Dream turns 10-year milestone into disco celebration with 'Boogie Woogie'",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/nct-dream-turns-10-year-milestone-into-disco-celebration-with-boogie-woogie?utm_source=rss",
+        "summary": "NCT Dream is turning a decade together into a dance-floor celebration, bringing vintage disco rhythms and exuberant choreography to “Boogie Woogie,” the lead single from its upcoming sixth full-length album. The seven-member group, under SM Entertainment, will release “DREAM AFTER DREAM,” featuring 10 tracks across various genres, on global music platforms at 6 p.m. Sunday, Nov. 9. “Boogie Woogie” blends the nostalgic sound of 1970s disco funk with modern synthesizers in an upbeat dance track that celebrates the group's 10 years together. The song carries a message of gratitude toward those who have made everyday moments special, encouraging listeners to appreciate the present and enjoy life together. Member Jaemin also participated in writing the lyrics. Its choreography follows the track's buoyant rhythm, featuring energetic movements designed to evoke the atmosphere of a lively celebr...",
+        "fullText": [
+          "NCT Dream is turning a decade together into a dance-floor celebration, bringing vintage disco rhythms and exuberant choreography to “Boogie Woogie,” the lead single from its upcoming sixth full-length album. The seven-member group, under SM Entertainment, will release “DREAM AFTER DREAM,” featuring 10 tracks across various genres, on global music platforms at 6 p.",
+          "m. Sunday, Nov.",
+          "9. “Boogie Woogie” blends the nostalgic sound of 1970s disco funk with modern synthesizers in an upbeat dance track that celebrates the group's 10 years together.",
+          "The song carries a message of gratitude toward those who have made everyday moments special, encouraging listeners to appreciate the present and enjoy life together. Member Jaemin also participated in writing the lyrics.",
+          "Its choreography follows the track's buoyant rhythm, featuring energetic movements designed to evoke the atmosphere of a lively celebr..."
+        ],
+        "words": [
+          "milestone",
+          "celebration",
+          "boogie"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "TXT previews new album with 6 tracks capturing turbulence of youth",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/txt-previews-new-album-with-6-tracks-capturing-turbulence-of-youth?utm_source=rss",
+        "summary": "K-pop group Tomorrow X Together, better known as TXT, gave global fans a first taste of their upcoming album, teasing six new tracks that channel the raw friction, desires and restless intensity of young adulthood through a genre-spanning soundscape. The five-member group released the preview video for its ninth mini album, “PERFECT STORM,” on HYBE Labels' YouTube channel at midnight Wednesday. The preview features snippets of all six tracks, including lead single “Angel Bite,” alongside “Storm is...,” “Higher Love,” “Sweetest Escape,” “Touch the Sky” and “Hate It or Love It.” The album examines the struggles of Generation Z as its members move beyond teenage fantasies and uncertainty to confront adult realities, according to BigHit Music. Its title track, “Angel Bite,” blends playful, video game-inspired sounds with rough-edged yet wistful melodies in a style described as disco-plug. Th...",
+        "fullText": [
+          "K-pop group Tomorrow X Together, better known as TXT, gave global fans a first taste of their upcoming album, teasing six new tracks that channel the raw friction, desires and restless intensity of young adulthood through a genre-spanning soundscape. The five-member group released the preview video for its ninth mini album, “PERFECT STORM,” on HYBE Labels' YouTube channel at midnight Wednesday.",
+          "The preview features snippets of all six tracks, including lead single “Angel Bite,” alongside “Storm is... ,” “Higher Love,” “Sweetest Escape,” “Touch the Sky” and “Hate It or Love It.",
+          "” The album examines the struggles of Generation Z as its members move beyond teenage fantasies and uncertainty to confront adult realities, according to BigHit Music. Its title track, “Angel Bite,” blends playful, video game-inspired sounds with rough-edged yet wistful melodies in a style described as disco-plug.",
+          "Th..."
+        ],
+        "words": [
+          "previews",
+          "tracks",
+          "capturing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "S. Korea rejects Russia's criticism of joint military exercises with US",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261105/s-korea-rejects-russias-criticism-of-joint-military-exercises-with-us?utm_source=rss",
+        "summary": "South Korea on Thursday rejected Russia's criticism of its joint military exercises with the United States, stressing that the drills are defensive in nature and aimed at promoting peace and stability on the Korean Peninsula. Seoul's foreign ministry issued the statement after a spokesperson at Russia's foreign ministry claimed Tuesday the South Korea-U.S. exercises are designed \"to rehearse preemptive strikes\" against North Korea, including with nuclear weapons, and urged Seoul \"to respect Pyongyang's sovereign right\" to ensure its own security. \"The joint South Korea-U.S. military exercises are defensive in nature and are conducted annually to maintain a robust combined defense posture in response to North Korea's advancing nuclear and missile threats,\" Seoul's foreign ministry said in a statement sent to Yonhap News Agency. \"They contribute to peace and stability not only on the Korea...",
+        "fullText": [
+          "South Korea on Thursday rejected Russia's criticism of its joint military exercises with the United States, stressing that the drills are defensive in nature and aimed at promoting peace and stability on the Korean Peninsula. Seoul's foreign ministry issued the statement after a spokesperson at Russia's foreign ministry claimed Tuesday the South Korea-U.",
+          "S. exercises are designed \"to rehearse preemptive strikes\" against North Korea, including with nuclear weapons, and urged Seoul \"to respect Pyongyang's sovereign right\" to ensure its own security.",
+          "\"The joint South Korea-U. S.",
+          "military exercises are defensive in nature and are conducted annually to maintain a robust combined defense posture in response to North Korea's advancing nuclear and missile threats,\" Seoul's foreign ministry said in a statement sent to Yonhap News Agency. \"They contribute to peace and stability not only on the Korea..."
+        ],
+        "words": [
+          "rejects",
+          "russia",
+          "criticism"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Shin Min-a, Lee Jin-uk to appear in upcoming romance drama",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261105/shin-min-a-lee-jin-uk-to-appear-in-upcoming-romance-drama?utm_source=rss",
+        "summary": "Actors Shin Min-a and Lee Jin-uk will portray a couple who reunite after a breakup in an upcoming romance drama set to premiere in the first half of next year, its broadcaster said Thursday. Set in a restaurant that only opens Wednesdays, Thursdays and Fridays, the series follows the love, forgiveness and growth of its lead characters, according to MBC. The Korean title of the series is \"Wednesdays, Thursdays, Fridays.\" Shin portrays Eun-soo, who reunites with a boyfriend she broke up with 12 years ago, while Lee appears as the chef of the restaurant and Eun-soo's former boyfriend. The series also features Teo Yoo as Eun-soo's husband, a business executive. Joo Hyun, known for \"The World of the Married,\" based on the BBC series \"Doctor Foster,\" penned the upcoming drama, while director Jung Dong-yoon of the sports drama \"Stove League\" helmed the series.",
+        "fullText": [
+          "Actors Shin Min-a and Lee Jin-uk will portray a couple who reunite after a breakup in an upcoming romance drama set to premiere in the first half of next year, its broadcaster said Thursday. Set in a restaurant that only opens Wednesdays, Thursdays and Fridays, the series follows the love, forgiveness and growth of its lead characters, according to MBC.",
+          "The Korean title of the series is \"Wednesdays, Thursdays, Fridays. \" Shin portrays Eun-soo, who reunites with a boyfriend she broke up with 12 years ago, while Lee appears as the chef of the restaurant and Eun-soo's former boyfriend.",
+          "The series also features Teo Yoo as Eun-soo's husband, a business executive. Joo Hyun, known for \"The World of the Married,\" based on the BBC series \"Doctor Foster,\" penned the upcoming drama, while director Jung Dong-yoon of the sports drama \"Stove League\" helmed the series."
+        ],
+        "words": [
+          "jin-uk",
+          "appear",
+          "upcoming"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Stray Kids score 3rd Japanese platinum certification ahead of Tokyo Dome concerts",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261105/stray-kids-score-3rd-japanese-platinum-certification-ahead-of-tokyo-dome-concerts?utm_source=rss",
+        "summary": "Stray Kids have added another milestone in Japan, earning their third streaming platinum certification as the group prepares to launch three nights of concerts at Tokyo Dome on Friday. “Special,” the title track of the group's third full-length album, “★★★★★ (5-STAR),” surpassed 100 million cumulative streams in Japan as of September 2026, earning platinum certification from the Recording Industry Association of Japan (RIAJ), according to JYP Entertainment. The achievement marks the group's third Japanese streaming platinum certification, following those awarded to “MANIAC,” from the mini album “ODDINARY,” and “CASE 143,” from “MAXIDENT.” The certification comes ahead of Stray Kids' Tokyo Dome concerts, scheduled for Friday through Sunday as part of their “RUN IT” world tour. The Nov. 7 performance, second of the three Tokyo shows, will also be broadcast live in cinemas worldwide in part...",
+        "fullText": [
+          "Stray Kids have added another milestone in Japan, earning their third streaming platinum certification as the group prepares to launch three nights of concerts at Tokyo Dome on Friday. “Special,” the title track of the group's third full-length album, “★★★★★ (5-STAR),” surpassed 100 million cumulative streams in Japan as of September 2026, earning platinum certification from the Recording Industry Association of Japan (RIAJ), according to JYP Entertainment.",
+          "The achievement marks the group's third Japanese streaming platinum certification, following those awarded to “MANIAC,” from the mini album “ODDINARY,” and “CASE 143,” from “MAXIDENT. ” The certification comes ahead of Stray Kids' Tokyo Dome concerts, scheduled for Friday through Sunday as part of their “RUN IT” world tour.",
+          "The Nov. 7 performance, second of the three Tokyo shows, will also be broadcast live in cinemas worldwide in part..."
+        ],
+        "words": [
+          "japanese",
+          "platinum",
+          "certification"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "label": "Wednesday, November 4, 2026",
     "title": "Korea News Brief",
