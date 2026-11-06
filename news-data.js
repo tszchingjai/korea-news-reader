@@ -1,5 +1,151 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-06",
+    "label": "Friday, November 6, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Weather, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Rohingya Muslim refugees who fled persecution in Myanmar face new challenges in Malaysia",
+        "url": "https://www.koreatimes.co.kr/world/20261106/rohingya-muslim-refugees-who-fled-persecution-in-myanmar-face-new-challenges-in-malaysia?utm_source=rss",
+        "summary": "KUALA LUMPUR, Malaysia — Nur Sadek was once on track to become an Islamic scholar. His mother dreamed of raising a son who would serve as a faith leader in their western Myanmar village. Sadek’s family belongs to the Rohingya ethnic minority. The predominantly Muslim group shares an area in Myanmar's Rakhine State with Buddhists and a smaller Hindu population. Ethnic and religious divisions have long shaped the region’s history. He fled alongside loved ones in 2017 after soldiers opened fire on his community and bullets struck the tin roof of his home. He ran with nothing but the clothes on his back and never returned. Around 700,000 Rohingya escaped a military crackdown that year and crossed into neighboring Bangladesh , according to the U.N. refugee agency, known as UNHCR. More have sought refuge in other countries across Asia, including India, Indonesia and Thailand. As of February 20...",
+        "fullText": [
+          "KUALA LUMPUR, Malaysia — Nur Sadek was once on track to become an Islamic scholar. His mother dreamed of raising a son who would serve as a faith leader in their western Myanmar village.",
+          "Sadek’s family belongs to the Rohingya ethnic minority. The predominantly Muslim group shares an area in Myanmar's Rakhine State with Buddhists and a smaller Hindu population.",
+          "Ethnic and religious divisions have long shaped the region’s history. He fled alongside loved ones in 2017 after soldiers opened fire on his community and bullets struck the tin roof of his home.",
+          "He ran with nothing but the clothes on his back and never returned. Around 700,000 Rohingya escaped a military crackdown that year and crossed into neighboring Bangladesh , according to the U.",
+          "N. refugee agency, known as UNHCR.",
+          "More have sought refuge in other countries across Asia, including India, Indonesia and Thailand. As of February 20..."
+        ],
+        "words": [
+          "rohingya",
+          "muslim",
+          "refugees"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Russia and Ukraine exchange airstrikes as US envoy describes renewed security talks as productive",
+        "url": "https://www.koreatimes.co.kr/world/20261106/russia-and-ukraine-exchange-airstrikes-as-us-envoy-describes-renewed-security-talks-as-productive?utm_source=rss",
+        "summary": "KYIV, Ukraine — Russia and Ukraine exchanged airstrikes overnight as the second day of talks on Ukraine’s postwar reconstruction and security guarantees once the fighting ends wrapped up in Brussels on Thursday. The latest Russian aerial barrage underscored the scale of the rebuilding task, as did the continuing search for people missing beneath the rubble after a deadly airstrike in southern Ukraine on Monday. Ukraine launched hundreds of drones at Russian targets. Russia’s Defense Ministry said its forces shot down nearly 500 drones overnight. A Ukrainian attack on a bus killed five people and wounded 13 others Thursday in Ukraine’s Russian-occupied Luhansk region, according to Leonid Pasechnik, the region’s Moscow-backed leader. Further details were not immediately available. Meanwhile, rescue teams continued searching for more than 30 people believed trapped in the wreckage of a form...",
+        "fullText": [
+          "KYIV, Ukraine — Russia and Ukraine exchanged airstrikes overnight as the second day of talks on Ukraine’s postwar reconstruction and security guarantees once the fighting ends wrapped up in Brussels on Thursday. The latest Russian aerial barrage underscored the scale of the rebuilding task, as did the continuing search for people missing beneath the rubble after a deadly airstrike in southern Ukraine on Monday.",
+          "Ukraine launched hundreds of drones at Russian targets. Russia’s Defense Ministry said its forces shot down nearly 500 drones overnight.",
+          "A Ukrainian attack on a bus killed five people and wounded 13 others Thursday in Ukraine’s Russian-occupied Luhansk region, according to Leonid Pasechnik, the region’s Moscow-backed leader. Further details were not immediately available.",
+          "Meanwhile, rescue teams continued searching for more than 30 people believed trapped in the wreckage of a form..."
+        ],
+        "words": [
+          "russia",
+          "ukraine",
+          "exchange"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "N. Korea says Japan's push to raise defense spending will only burden its people",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261106/n-korea-says-japans-push-to-raise-defense-spending-will-only-burden-its-people?utm_source=rss",
+        "summary": "North Korea on Friday criticized Japan's push to increase defense spending, saying it will darken prospects of Japan's economic recovery and impose \"heavy hardships\" on its people. In an article carried by the official Korean Central News Agency (KCNA), a researcher at the Institute for Japan Studies under the North's foreign ministry, issued the criticism, following reports that Tokyo is considering nearly doubling its defense expenditures over the next five years. The North has long responded sensitively to Japan's military reinforcement plans, arguing they could worsen a regional arms race, heighten military tensions and bring back memories of Tokyo's past militarism. Japan colonized the Korean Peninsula from 1910-1945. \"What is clear is that the increase in military expenditure will not only darken the prospect of the recovery of the Japanese economy but also impose heavy hardships o...",
+        "fullText": [
+          "North Korea on Friday criticized Japan's push to increase defense spending, saying it will darken prospects of Japan's economic recovery and impose \"heavy hardships\" on its people. In an article carried by the official Korean Central News Agency (KCNA), a researcher at the Institute for Japan Studies under the North's foreign ministry, issued the criticism, following reports that Tokyo is considering nearly doubling its defense expenditures over the next five years.",
+          "The North has long responded sensitively to Japan's military reinforcement plans, arguing they could worsen a regional arms race, heighten military tensions and bring back memories of Tokyo's past militarism. Japan colonized the Korean Peninsula from 1910-1945.",
+          "\"What is clear is that the increase in military expenditure will not only darken the prospect of the recovery of the Japanese economy but also impose heavy hardships o..."
+        ],
+        "words": [
+          "defense",
+          "spending",
+          "burden"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Finance minister vows timely actions to ease stock market volatility",
+        "url": "https://www.koreatimes.co.kr/economy/20261106/finance-minister-vows-timely-actions-to-ease-stock-market-volatility?utm_source=rss",
+        "summary": "The country's finance minister said Friday that the financial authorities will map out measures to help the local stock market be less volatile amid the ongoing tech rout. In an economy-related meeting, Finance Minister Lee Hyoung-il said the U.S. midterm elections are an important watershed for the global economy, saying that overnight falls on Wall Street in the face of tighter regulations on AI-related sectors would deliver a blow to the global market. Lee said the Korean economy's fundamentals are more solid than ever before and vowed to respond to external uncertainties. Shortly after the opening bell, trading of the KOSPI-listed shares was suspended for 20 minutes, as the benchmark index plunged by more than 8 percent amid tech sell-offs.",
+        "fullText": [
+          "The country's finance minister said Friday that the financial authorities will map out measures to help the local stock market be less volatile amid the ongoing tech rout. In an economy-related meeting, Finance Minister Lee Hyoung-il said the U.",
+          "S. midterm elections are an important watershed for the global economy, saying that overnight falls on Wall Street in the face of tighter regulations on AI-related sectors would deliver a blow to the global market.",
+          "Lee said the Korean economy's fundamentals are more solid than ever before and vowed to respond to external uncertainties. Shortly after the opening bell, trading of the KOSPI-listed shares was suspended for 20 minutes, as the benchmark index plunged by more than 8 percent amid tech sell-offs."
+        ],
+        "words": [
+          "finance",
+          "minister",
+          "timely"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "AI investment fears spark panic selling in Samsung, SK hynix",
+        "url": "https://www.koreatimes.co.kr/economy/20261106/ai-investment-fears-spark-panic-selling-in-samsung-sk-hynix?utm_source=rss",
+        "summary": "Fears that the artificial intelligence (AI) investment cycle may be nearing its peak triggered a wave of panic selling in semiconductor stocks, Friday, sending shares of Korea’s two chipmaking giants, Samsung Electronics and SK hynix, plunging nearly 10 percent. As of 10:30 a.m., SK hynix had tumbled 10.28 percent, while Samsung Electronics had fallen 7.99 percent. The benchmark KOSPI opened 2.24 percent lower at 5,263.26 before triggering a circuit breaker just three minutes into the session, which temporarily suspends trading for 20 minutes when market movements become too volatile and breach a certain threshold. The index subsequently plunged more than 8 percent, falling below the 5,000 mark for the first time in 10 months since January.",
+        "fullText": [
+          "Fears that the artificial intelligence (AI) investment cycle may be nearing its peak triggered a wave of panic selling in semiconductor stocks, Friday, sending shares of Korea’s two chipmaking giants, Samsung Electronics and SK hynix, plunging nearly 10 percent. As of 10:30 a.",
+          "m. , SK hynix had tumbled 10.",
+          "28 percent, while Samsung Electronics had fallen 7. 99 percent.",
+          "The benchmark KOSPI opened 2. 24 percent lower at 5,263.",
+          "26 before triggering a circuit breaker just three minutes into the session, which temporarily suspends trading for 20 minutes when market movements become too volatile and breach a certain threshold. The index subsequently plunged more than 8 percent, falling below the 5,000 mark for the first time in 10 months since January."
+        ],
+        "words": [
+          "investment",
+          "selling",
+          "samsung"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Trading of KOSPI stocks suspended amid tech sell-off",
+        "url": "https://www.koreatimes.co.kr/economy/20261106/trading-of-kospi-stocks-suspended-amid-tech-sell-off?utm_source=rss",
+        "summary": "Korea's bourse operator on Friday activated a circuit breaker for the benchmark Korea Composite Stock Price Index (KOSPI) on an extended sell-off in tech shares. Trading of KOSPI-listed shares was halted for 20 minutes from 9:03, as the index plunged more than 8 percent from the previous session's close. The benchmark index came under heavy selling pressure following a tech rout on Wall Street, triggered by concerns that Democrats' sweeping victory in the U.S. midterms could slow down the pace of the build out of artificial intelligence (AI) data centers. It marked the tenth time this year that the KRX has activated a circuit breaker.",
+        "fullText": [
+          "Korea's bourse operator on Friday activated a circuit breaker for the benchmark Korea Composite Stock Price Index (KOSPI) on an extended sell-off in tech shares. Trading of KOSPI-listed shares was halted for 20 minutes from 9:03, as the index plunged more than 8 percent from the previous session's close.",
+          "The benchmark index came under heavy selling pressure following a tech rout on Wall Street, triggered by concerns that Democrats' sweeping victory in the U. S.",
+          "midterms could slow down the pace of the build out of artificial intelligence (AI) data centers. It marked the tenth time this year that the KRX has activated a circuit breaker."
+        ],
+        "words": [
+          "trading",
+          "stocks",
+          "suspended"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open sharply lower on AI fears after US midterms",
+        "url": "https://www.koreatimes.co.kr/economy/20261106/seoul-stocks-open-sharply-lower-on-ai-fears-after-us-midterms?utm_source=rss",
+        "summary": "Seoul stocks opened sharply lower Friday, tracking an overnight rout on Wall Street as investors feared a Democratic sweep in Congress could decelerate the data center build-out. The benchmark Korea Composite Stock Price Index (KOSPI) opened down 120.54 points, or 2.24 percent, at 5,263.26. Major U.S. stock indexes tumbled overnight as the midterm election results weighed heavily on U.S. stocks amid fears over sectors related to artificial intelligence (AI). The S&P 500 fell 4.36 percent, while the tech-heavy Nasdaq plummeted 5.52 percent. The Democrats' sweeping victory could slow down investments in data centers and the rollout of such facilities, which have faced widespread opposition from the public. Adding further concerns is a rise in oil prices after Iranian forces said at least five tankers have been damaged in the Strait of Hormuz.",
+        "fullText": [
+          "Seoul stocks opened sharply lower Friday, tracking an overnight rout on Wall Street as investors feared a Democratic sweep in Congress could decelerate the data center build-out. The benchmark Korea Composite Stock Price Index (KOSPI) opened down 120.",
+          "54 points, or 2. 24 percent, at 5,263.",
+          "26. Major U.",
+          "S. stock indexes tumbled overnight as the midterm election results weighed heavily on U.",
+          "S. stocks amid fears over sectors related to artificial intelligence (AI).",
+          "The S&P 500 fell 4. 36 percent, while the tech-heavy Nasdaq plummeted 5.",
+          "52 percent. The Democrats' sweeping victory could slow down investments in data centers and the rollout of such facilities, which have faced widespread opposition from the public.",
+          "Adding further concerns is a rise in oil prices after Iranian forces said at least five tankers have been damaged in the Strait of Hormuz."
+        ],
+        "words": [
+          "stocks",
+          "sharply",
+          "midterms"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "label": "Thursday, November 5, 2026",
     "title": "Korea News Brief",
