@@ -1,5 +1,146 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-07",
+    "label": "Saturday, November 7, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Inter-Korea, Politics, Economy, Law. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Mirae Asset says data breaches exposed customer, employee information",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261107/mirae-asset-says-data-breaches-exposed-customer-employee-information?utm_source=rss",
+        "summary": "Mirae Asset Securities Co. said Saturday that it suffered cyberattacks that resulted in the leakage of account numbers some 3,800 customers and personal information of over 35,000 current, former employees and contractors. The South Korean brokerage said unauthorized external access occurred Wednesday and Thursday, targeting its mobile web phone authentication login service and internal system, respectively. They resulted in the leakage of some 3,800 customer account numbers and information on 35,255 current, former and contractors. The non-customer, corporate data leaked included names, employee ID numbers, email addresses, mobile phone numbers and passwords. Mirae Asset said it immediately blocked the affected access routes after detecting suspicious activity from external IP addresses and activated its emergency response system. The company also said it reported the incident to the Fi...",
+        "fullText": [
+          "Mirae Asset Securities Co. said Saturday that it suffered cyberattacks that resulted in the leakage of account numbers some 3,800 customers and personal information of over 35,000 current, former employees and contractors.",
+          "The South Korean brokerage said unauthorized external access occurred Wednesday and Thursday, targeting its mobile web phone authentication login service and internal system, respectively. They resulted in the leakage of some 3,800 customer account numbers and information on 35,255 current, former and contractors.",
+          "The non-customer, corporate data leaked included names, employee ID numbers, email addresses, mobile phone numbers and passwords. Mirae Asset said it immediately blocked the affected access routes after detecting suspicious activity from external IP addresses and activated its emergency response system.",
+          "The company also said it reported the incident to the Fi..."
+        ],
+        "words": [
+          "breaches",
+          "exposed",
+          "customer"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "UN chief calls for restoration of inter-Korean communication channels amid DMZ tensions",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261107/un-chief-calls-for-restoration-of-inter-korean-communication-channels-amid-dmz-tensions?utm_source=rss",
+        "summary": "WASHINGTON — U.N. Secretary-General Antonio Guterres has called for the restoration of communication channels between South and North Korea amid concerns over a potential escalation of tensions across the border. \"The Secretary-General remains concerned about the situation in the Korean Peninsula, including potential escalation of tensions across the Demilitarized Zone (DMZ),\" United Nations spokesperson Stephane Dujarric said during a regular press briefing Thursday. Dujarric said that Guterres encourages relevant parties \"to initiate the resumption of communication channels, including military-to-military communications, all of this in order to avoid unintended accidents or miscalculations.\" The spokesperson also stressed the importance of diplomatic efforts to ease tensions on the Korean Peninsula. \"Diplomatic engagement and renewed dialogue remain the only pathway to reduce tensions...",
+        "fullText": [
+          "WASHINGTON — U. N.",
+          "Secretary-General Antonio Guterres has called for the restoration of communication channels between South and North Korea amid concerns over a potential escalation of tensions across the border. \"The Secretary-General remains concerned about the situation in the Korean Peninsula, including potential escalation of tensions across the Demilitarized Zone (DMZ),\" United Nations spokesperson Stephane Dujarric said during a regular press briefing Thursday.",
+          "Dujarric said that Guterres encourages relevant parties \"to initiate the resumption of communication channels, including military-to-military communications, all of this in order to avoid unintended accidents or miscalculations. \" The spokesperson also stressed the importance of diplomatic efforts to ease tensions on the Korean Peninsula.",
+          "\"Diplomatic engagement and renewed dialogue remain the only pathway to reduce tensions..."
+        ],
+        "words": [
+          "restoration",
+          "inter-korean",
+          "communication"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "JoongAng Ilbo buyers have financial room to fund acquisition: KIS report",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261107/joongang-ilbo-buyers-have-financial-room-to-fund-acquisition-kis-report?utm_source=rss",
+        "summary": "In an unconventional lifeline for Korea's traditional press, a diverse corporate coalition spanning tech, retail and entertainment has agreed to rescue JoongAng Ilbo, one of the nation’s most influential conservative daily newspapers. Under a 520 billion won ($388 million) conditional agreement approved Wednesday by the boards of Daou Technology, Saramin, CJ Corp. and Shinsegae, the newly injected capital will flow directly into the newspaper to clear its debts and pull the media outlet out of a creditor-led workout program it entered this summer. According to an assessment by Korea Investors Service (KIS), a Moody’s affiliate, the acquiring companies possess the financial capacity to comfortably fund the transaction. Under the agreed funding structure, Daou Technology will cover 36.5 percent of the total, or about 189.8 billion won, while CJ Corp. will contribute 35.7 percent, or 185.6...",
+        "fullText": [
+          "In an unconventional lifeline for Korea's traditional press, a diverse corporate coalition spanning tech, retail and entertainment has agreed to rescue JoongAng Ilbo, one of the nation’s most influential conservative daily newspapers. Under a 520 billion won ($388 million) conditional agreement approved Wednesday by the boards of Daou Technology, Saramin, CJ Corp.",
+          "and Shinsegae, the newly injected capital will flow directly into the newspaper to clear its debts and pull the media outlet out of a creditor-led workout program it entered this summer. According to an assessment by Korea Investors Service (KIS), a Moody’s affiliate, the acquiring companies possess the financial capacity to comfortably fund the transaction.",
+          "Under the agreed funding structure, Daou Technology will cover 36. 5 percent of the total, or about 189.",
+          "8 billion won, while CJ Corp. will contribute 35.",
+          "7 percent, or 185. 6..."
+        ],
+        "words": [
+          "joongang",
+          "buyers",
+          "financial"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "[COVER STORY] Ruling party leader's credibility put on line as Shincheonji claims backfire",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261107/cover-story-ruling-party-leaders-credibility-put-on-line-as-shincheonji-claims-backfire?utm_source=rss",
+        "summary": "Kim Min-seok, chairman of the ruling Democratic Party of Korea (DPK) and former prime minister, is facing a test of his credibility after an internal investigation failed to substantiate his claims of a “secret alliance” involving his leadership rival and the nonmainstream religious sect Shincheonji. On Friday, Kim apologized again during the party’s Supreme Council meeting. It was his third apology over the controversy, following remarks at Tuesday’s closed-door meeting of party lawmakers and on the party’s YouTube channel on Thursday. “I once again offer my apologies to everyone who was hurt as I raised serious concerns and warned about religious interference in politics during the party’s leadership election,” Kim said. He was referring to his allegation in the run-up to the Aug. 17 party leadership election that the anti-President Lee Jae Myung faction within the party and Shincheonj...",
+        "fullText": [
+          "Kim Min-seok, chairman of the ruling Democratic Party of Korea (DPK) and former prime minister, is facing a test of his credibility after an internal investigation failed to substantiate his claims of a “secret alliance” involving his leadership rival and the nonmainstream religious sect Shincheonji. On Friday, Kim apologized again during the party’s Supreme Council meeting.",
+          "It was his third apology over the controversy, following remarks at Tuesday’s closed-door meeting of party lawmakers and on the party’s YouTube channel on Thursday. “I once again offer my apologies to everyone who was hurt as I raised serious concerns and warned about religious interference in politics during the party’s leadership election,” Kim said.",
+          "He was referring to his allegation in the run-up to the Aug. 17 party leadership election that the anti-President Lee Jae Myung faction within the party and Shincheonj..."
+        ],
+        "words": [
+          "ruling",
+          "leader",
+          "credibility"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "From Pokemon to T1, global fandoms open new market for Korean resellers",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261107/from-pokemon-to-t1-global-fandoms-open-new-market-for-korean-resellers?utm_source=rss",
+        "summary": "Korean sellers are finding new opportunities in the global collectibles market, as overseas buyers are willing to pay a premium for rare, hard-to-find items, with trading card sales by Korean sellers on eBay more than tripling year-on-year in the third quarter. EBay said Friday that Korean sellers in the Collectible Card Games Category saw the highest sales growth among all Korean sellers on the global e-commerce platform from July to September this year. Trading cards featuring characters, artists or celebrity athletes fueled platform users’ attraction toward the Korean resellers. The most popular trading cards featured characters from the globally popular animated franchise Pokemon and iconic League of Legends esports team T1. The top-selling item in the category was the 2026 KOREA MEGA FESTA Magikarp card, which also ranked ninth in overall sales among Korean sellers on eBay. The Rift...",
+        "fullText": [
+          "Korean sellers are finding new opportunities in the global collectibles market, as overseas buyers are willing to pay a premium for rare, hard-to-find items, with trading card sales by Korean sellers on eBay more than tripling year-on-year in the third quarter. EBay said Friday that Korean sellers in the Collectible Card Games Category saw the highest sales growth among all Korean sellers on the global e-commerce platform from July to September this year.",
+          "Trading cards featuring characters, artists or celebrity athletes fueled platform users’ attraction toward the Korean resellers. The most popular trading cards featured characters from the globally popular animated franchise Pokemon and iconic League of Legends esports team T1.",
+          "The top-selling item in the category was the 2026 KOREA MEGA FESTA Magikarp card, which also ranked ninth in overall sales among Korean sellers on eBay. The Rift..."
+        ],
+        "words": [
+          "pokemon",
+          "global",
+          "fandoms"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Protesters break into Microsoft data center site in Amsterdam as Europe's backlash spreads",
+        "url": "https://www.koreatimes.co.kr/world/20261107/protesters-break-into-microsoft-data-center-site-in-amsterdam-as-europes-backlash-spreads?utm_source=rss",
+        "summary": "THE HAGUE, Netherlands — Protesters broke into a construction site for a new Microsoft data center in Amsterdam on Friday, with some climbing a crane and setting off flares while others clashed with police. Nathan Timmer of the protest group Geef Tegengas, a phrase that translates as Push Back, told local broadcaster AT5 that protesters were occupying the site in an effort to stop construction. Campaigners against data centers in Europe are expected to stage protests and other actions in several countries on Friday and Saturday, demanding a moratorium on large-scale developments to address social and environmental concerns around the energy-hungry behemoths. “We don’t want it to be built. Nobody needs it,” Timmer said. “The only thing this will be used for is AI slop. AI warfare, data surveillance, and committing genocides. We don’t want that,” he added, vowing to continue protesting unt...",
+        "fullText": [
+          "THE HAGUE, Netherlands — Protesters broke into a construction site for a new Microsoft data center in Amsterdam on Friday, with some climbing a crane and setting off flares while others clashed with police. Nathan Timmer of the protest group Geef Tegengas, a phrase that translates as Push Back, told local broadcaster AT5 that protesters were occupying the site in an effort to stop construction.",
+          "Campaigners against data centers in Europe are expected to stage protests and other actions in several countries on Friday and Saturday, demanding a moratorium on large-scale developments to address social and environmental concerns around the energy-hungry behemoths. “We don’t want it to be built.",
+          "Nobody needs it,” Timmer said. “The only thing this will be used for is AI slop.",
+          "AI warfare, data surveillance, and committing genocides. We don’t want that,” he added, vowing to continue protesting unt..."
+        ],
+        "words": [
+          "protesters",
+          "microsoft",
+          "center"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Democratic candidates with a Christian message helped flip Congress",
+        "url": "https://www.koreatimes.co.kr/world/20261107/democratic-candidates-with-a-christian-message-helped-flip-congress?utm_source=rss",
+        "summary": "Clergy members and other Democratic candidates with an unapologetically Christian message to “love your neighbor” helped their party flip control of Congress. It was a striking midterm victory that demonstrated the strength of the religious left as a counter to the stalwart evangelical support for President Donald Trump and his fellow Republicans. “This attempt to corner the market on Christianity by evangelicals was repudiated,” said Brian Kaylor, a Baptist pastor and editor of a progressive faith and politics site. Instead, American mainline Protestantism, with its less-strident theology, took the election spotlight. Seminarian James Talarico in Texas, megachurch pastor Adam Hamilton in Kansas and Iowa ministers Sarah Trone Garriott and Lindsay James flipped key seats in the U.S. Senate and House. They’re part of the mainline Presbyterian, Methodist and Lutheran branches with moderate...",
+        "fullText": [
+          "Clergy members and other Democratic candidates with an unapologetically Christian message to “love your neighbor” helped their party flip control of Congress. It was a striking midterm victory that demonstrated the strength of the religious left as a counter to the stalwart evangelical support for President Donald Trump and his fellow Republicans.",
+          "“This attempt to corner the market on Christianity by evangelicals was repudiated,” said Brian Kaylor, a Baptist pastor and editor of a progressive faith and politics site. Instead, American mainline Protestantism, with its less-strident theology, took the election spotlight.",
+          "Seminarian James Talarico in Texas, megachurch pastor Adam Hamilton in Kansas and Iowa ministers Sarah Trone Garriott and Lindsay James flipped key seats in the U. S.",
+          "Senate and House. They’re part of the mainline Presbyterian, Methodist and Lutheran branches with moderate..."
+        ],
+        "words": [
+          "democratic",
+          "candidates",
+          "christian"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "label": "Friday, November 6, 2026",
     "title": "Korea News Brief",
