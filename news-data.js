@@ -1,5 +1,150 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-08",
+    "label": "Sunday, November 8, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Inter-Korea, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Strong earthquake with preliminary magnitude of 5.7 strikes Japan",
+        "url": "https://www.koreatimes.co.kr/world/20261108/strong-earthquake-with-preliminary-magnitude-of-57-strikes-japan?utm_source=rss",
+        "summary": "TOKYO — A strong earthquake shook central Japan early Sunday, shattering store windows, causing people to flee buildings and leaving at least 22 people injured, according to local media. Japan’s Meteorological Agency put the quake’s magnitude at 5.7, while the U.S. Geological Survey reported it at magnitude 5.5. Smaller aftershocks were reported. A wide area near Aichi Prefecture was affected, including the city of Hamamatsu, the ancient capitals of Kyoto and Nara and nearby prefectures of Yamanashi, where Mount Fuji is located, as well as Gifu. Japanese TV footage showed shattered store windows and scattered shards of glass on the streets. A bookstore was left with mounds of books that had flown off the shelves. The injuries included people who fell from stairs while they were trying to flee. The quake, which struck at 1:04 a.m., was located about 40 kilometers (25 miles) below the eart...",
+        "fullText": [
+          "TOKYO — A strong earthquake shook central Japan early Sunday, shattering store windows, causing people to flee buildings and leaving at least 22 people injured, according to local media. Japan’s Meteorological Agency put the quake’s magnitude at 5.",
+          "7, while the U. S.",
+          "Geological Survey reported it at magnitude 5. 5.",
+          "Smaller aftershocks were reported. A wide area near Aichi Prefecture was affected, including the city of Hamamatsu, the ancient capitals of Kyoto and Nara and nearby prefectures of Yamanashi, where Mount Fuji is located, as well as Gifu.",
+          "Japanese TV footage showed shattered store windows and scattered shards of glass on the streets. A bookstore was left with mounds of books that had flown off the shelves.",
+          "The injuries included people who fell from stairs while they were trying to flee. The quake, which struck at 1:04 a.",
+          "m. , was located about 40 kilometers (25 miles) below the eart..."
+        ],
+        "words": [
+          "strong",
+          "earthquake",
+          "preliminary"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says he wants UFC chief Dana White for White House press secretary",
+        "url": "https://www.koreatimes.co.kr/world/20261108/trump-says-he-wants-ufc-chief-dana-white-for-white-house-press-secretary?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump on Saturday said he had asked mixed martial arts promoter Dana White to serve as White House press secretary and called on him to bring some fighters along as assistants \"even though some are not from our country.\" White, chief executive of the Ultimate Fighting Championship, is a \"violent Fighter and Warrior,\" Trump wrote in a Truth Social post. Trump also asked for six current or former UFC titleholders to join White, including two athletes from Russia's Dagestan region, Islam Makhachev and Khabib Nurmagomedov; Americans Justin Gaethje, Daniel Cormier and \"Kayla Harris,\" likely a reference to Kayla Harrison; and Amanda Nunes, a Brazilian native who became a U.S. citizen last year. \"We need these people to defend us against the Lunatic Left,\" Trump wrote. White and UFC's parent company, TKO Group Holdings, did not immediately return requests for...",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump on Saturday said he had asked mixed martial arts promoter Dana White to serve as White House press secretary and called on him to bring some fighters along as assistants \"even though some are not from our country. \" White, chief executive of the Ultimate Fighting Championship, is a \"violent Fighter and Warrior,\" Trump wrote in a Truth Social post.",
+          "Trump also asked for six current or former UFC titleholders to join White, including two athletes from Russia's Dagestan region, Islam Makhachev and Khabib Nurmagomedov; Americans Justin Gaethje, Daniel Cormier and \"Kayla Harris,\" likely a reference to Kayla Harrison; and Amanda Nunes, a Brazilian native who became a U. S.",
+          "citizen last year. \"We need these people to defend us against the Lunatic Left,\" Trump wrote.",
+          "White and UFC's parent company, TKO Group Holdings, did not immediately return requests for..."
+        ],
+        "words": [
+          "secretary",
+          "washington",
+          "president"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+        "url": "https://www.koreatimes.co.kr/world/20261108/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu?utm_source=rss",
+        "summary": "JERUSALEM — Israeli President Isaac Herzog said Saturday night that he was giving opposition candidate Gadi Eisenkot the first opportunity to form a governing coalition following elections on Oct. 27. Eisenkot, a former military chief who ran as the main challenger to Prime Minister Benjamin Netanyahu, is now a step closer to ousting Israel’s longest-serving premier. “This is the time to establish a national emergency government. I will do anything possible to prove us worthy,” Eisenkot posted on his X account just after the presidential announcement. He has up to six weeks to form a coalition, a challenging task in a deeply divided country reeling from the Oct. 7, 2023, Hamas-led attacks and the three years of wars that have followed in Gaza and beyond. In discussions with the president this week, representatives from most of Israel’s main parties recommended Eisenkot be tasked with ass...",
+        "fullText": [
+          "JERUSALEM — Israeli President Isaac Herzog said Saturday night that he was giving opposition candidate Gadi Eisenkot the first opportunity to form a governing coalition following elections on Oct. 27.",
+          "Eisenkot, a former military chief who ran as the main challenger to Prime Minister Benjamin Netanyahu, is now a step closer to ousting Israel’s longest-serving premier. “This is the time to establish a national emergency government.",
+          "I will do anything possible to prove us worthy,” Eisenkot posted on his X account just after the presidential announcement. He has up to six weeks to form a coalition, a challenging task in a deeply divided country reeling from the Oct.",
+          "7, 2023, Hamas-led attacks and the three years of wars that have followed in Gaza and beyond. In discussions with the president this week, representatives from most of Israel’s main parties recommended Eisenkot be tasked with ass..."
+        ],
+        "words": [
+          "israel",
+          "president",
+          "opposition"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "US calls for coordinated action against N. Korean cyber threats following Binance hack",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261108/us-calls-for-coordinated-action-against-n-korean-cyber-threats-following-binance-hack?utm_source=rss",
+        "summary": "The United States on Saturday called for international cooperation to combat North Korea's illicit cyber activities following a massive cryptocurrency theft involving Binance. \"Particularly in light of the recent hack of Binance, it is critical for governments to work together and do their own part to mitigate the DPRK cyber threat and curb illicit DPRK revenue generation,\" a State Department spokesperson told Yonhap News Agency in a written response. DPRK stands for the Democratic People's Republic of Korea, North Korea's official name. The remarks were made in response to an inquiry about potential coordination between Washington and Seoul on additional sanctions following the U.S. Federal Bureau of Investigation's attribution of the cryptocurrency theft to North Korean actors. The spokesperson also emphasized the importance of enforcing existing international sanctions and taking meas...",
+        "fullText": [
+          "The United States on Saturday called for international cooperation to combat North Korea's illicit cyber activities following a massive cryptocurrency theft involving Binance. \"Particularly in light of the recent hack of Binance, it is critical for governments to work together and do their own part to mitigate the DPRK cyber threat and curb illicit DPRK revenue generation,\" a State Department spokesperson told Yonhap News Agency in a written response.",
+          "DPRK stands for the Democratic People's Republic of Korea, North Korea's official name. The remarks were made in response to an inquiry about potential coordination between Washington and Seoul on additional sanctions following the U.",
+          "S. Federal Bureau of Investigation's attribution of the cryptocurrency theft to North Korean actors.",
+          "The spokesperson also emphasized the importance of enforcing existing international sanctions and taking meas..."
+        ],
+        "words": [
+          "coordinated",
+          "action",
+          "against"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Busan nears 4 mil. foreign visitor mark after beating 2025 total in 9 months",
+        "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261108/busan-nears-4-mil-foreign-visitor-mark-after-beating-2025-total-in-9-months?utm_source=rss",
+        "summary": "Long viewed as a scenic coastal secondary stop for international travelers venturing outside Seoul, Korea’s second-largest city is rapidly transforming into a standalone global destination. Driven by expanded direct flights, cruise traffic, and a surge in international visitors, Busan welcomed 3.93 million foreign tourists in the first nine months of 2026, the Busan Metropolitan Government said Friday. The figure easily surpassed the southeastern port city's total visitor count of 3.64 million for all of 2025 and positions it to clear its annual target of 4 million visitors well ahead of schedule. The shift marks a crucial milestone in Korea’s broader efforts to disperse tourism beyond the capital. Nationwide, international arrivals rose 21.5 percent over the same period, but Busan saw a 47 percent surge — more than double the national growth rate. Unlike past years, when foreign tourist...",
+        "fullText": [
+          "Long viewed as a scenic coastal secondary stop for international travelers venturing outside Seoul, Korea’s second-largest city is rapidly transforming into a standalone global destination. Driven by expanded direct flights, cruise traffic, and a surge in international visitors, Busan welcomed 3.",
+          "93 million foreign tourists in the first nine months of 2026, the Busan Metropolitan Government said Friday. The figure easily surpassed the southeastern port city's total visitor count of 3.",
+          "64 million for all of 2025 and positions it to clear its annual target of 4 million visitors well ahead of schedule. The shift marks a crucial milestone in Korea’s broader efforts to disperse tourism beyond the capital.",
+          "Nationwide, international arrivals rose 21. 5 percent over the same period, but Busan saw a 47 percent surge — more than double the national growth rate.",
+          "Unlike past years, when foreign tourist..."
+        ],
+        "words": [
+          "foreign",
+          "visitor",
+          "beating"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[TEST DRIVE] Audi Korea's A6 returns as dynamic sports sedan",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261108/test-drive-audi-koreas-a6-returns-as-dynamic-sports-sedan?utm_source=rss",
+        "summary": "The new Audi A6 flagship sedan makes its strongest impression through a firm, planted ride that balances sharp handling with long-distance comfort. After a seven-year wait for a full redesign, the German automaker’s flagship combustion-engine sedan returns with a clearer sense of purpose, positioning itself between BMW’s agility and Mercedes-Benz’s emphasis on ride comfort. Driving the A6 45 TFSI quattro S-line across Seoul’s urban streets and surrounding highways over three days, covering about 300 kilometers, the sedan felt more than composed and reassuring at speed without sacrificing everyday usability. The first thing that stood out was how firmly the car held the road. Its suspension absorbed bumps without allowing the body to feel loose or unsettled, while steering inputs translated into predictable movements. The ride was noticeably taut, giving the sedan a sporting character wit...",
+        "fullText": [
+          "The new Audi A6 flagship sedan makes its strongest impression through a firm, planted ride that balances sharp handling with long-distance comfort. After a seven-year wait for a full redesign, the German automaker’s flagship combustion-engine sedan returns with a clearer sense of purpose, positioning itself between BMW’s agility and Mercedes-Benz’s emphasis on ride comfort.",
+          "Driving the A6 45 TFSI quattro S-line across Seoul’s urban streets and surrounding highways over three days, covering about 300 kilometers, the sedan felt more than composed and reassuring at speed without sacrificing everyday usability. The first thing that stood out was how firmly the car held the road.",
+          "Its suspension absorbed bumps without allowing the body to feel loose or unsettled, while steering inputs translated into predictable movements. The ride was noticeably taut, giving the sedan a sporting character wit..."
+        ],
+        "words": [
+          "returns",
+          "dynamic",
+          "sports"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea Drag Pageant to select Miss Femme Supreme 2026",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261108/korea-drag-pageant-to-select-miss-femme-supreme-2026?utm_source=rss",
+        "summary": "Eight drag queens actively performing in Seoul are gearing up to compete for the inaugural title of Miss Femme Supreme 2026 at the first-ever Korea Drag Pageant. The event was created to celebrate artistic excellence in drag performance, connect Korean performers with the international drag community and contribute to the growth and visibility of drag culture in Korea. \"At the heart of it, I want someone who has dreamed of becoming a pageant queen to have a real opportunity to pursue that dream here in Korea,\" said Leah Taylor, the founder of Korea Drag Pageant, an independent organization dedicated to developing professional drag pageantry in Korea through competitions, educational initiatives and international collaboration. \"I want the contestants to feel that their work has been taken seriously and that they have a stage worthy of their preparation and ambition. For audiences, I hope...",
+        "fullText": [
+          "Eight drag queens actively performing in Seoul are gearing up to compete for the inaugural title of Miss Femme Supreme 2026 at the first-ever Korea Drag Pageant. The event was created to celebrate artistic excellence in drag performance, connect Korean performers with the international drag community and contribute to the growth and visibility of drag culture in Korea.",
+          "\"At the heart of it, I want someone who has dreamed of becoming a pageant queen to have a real opportunity to pursue that dream here in Korea,\" said Leah Taylor, the founder of Korea Drag Pageant, an independent organization dedicated to developing professional drag pageantry in Korea through competitions, educational initiatives and international collaboration. \"I want the contestants to feel that their work has been taken seriously and that they have a stage worthy of their preparation and ambition.",
+          "For audiences, I hope..."
+        ],
+        "words": [
+          "pageant",
+          "select",
+          "supreme"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "label": "Saturday, November 7, 2026",
     "title": "Korea News Brief",
