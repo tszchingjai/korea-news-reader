@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-09",
+    "label": "Monday, November 9, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Law, Economy, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hyundai Motor's HTWO teams up with Air Liquide to expand hydrogen mobility in China",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261109/hyundai-motors-htwo-teams-up-with-air-liquide-to-expand-hydrogen-mobility-in-china?utm_source=rss",
+        "summary": "Hyundai Motor Group said Monday its hydrogen business brand HTWO will partner with French industrial gas company Air Liquide to expand hydrogen-powered mobility in China. HTWO Guangzhou, the Korean automotive group's first overseas hydrogen fuel-cell system manufacturing base, signed a cooperation agreement with Air Liquide China on the sidelines of the China International Import Expo 2026, which opened in Shanghai last week. Under the agreement, the two companies will combine HTWO Guangzhou's hydrogen fuel-cell system technology with Air Liquide's expertise in hydrogen production, storage, transportation and infrastructure development. The partnership is aimed at accelerating the adoption of hydrogen-powered vehicles in China by integrating fuel cell technology with the hydrogen supply and refueling infrastructure.",
+        "fullText": [
+          "Hyundai Motor Group said Monday its hydrogen business brand HTWO will partner with French industrial gas company Air Liquide to expand hydrogen-powered mobility in China. HTWO Guangzhou, the Korean automotive group's first overseas hydrogen fuel-cell system manufacturing base, signed a cooperation agreement with Air Liquide China on the sidelines of the China International Import Expo 2026, which opened in Shanghai last week.",
+          "Under the agreement, the two companies will combine HTWO Guangzhou's hydrogen fuel-cell system technology with Air Liquide's expertise in hydrogen production, storage, transportation and infrastructure development. The partnership is aimed at accelerating the adoption of hydrogen-powered vehicles in China by integrating fuel cell technology with the hydrogen supply and refueling infrastructure."
+        ],
+        "words": [
+          "hyundai",
+          "liquide",
+          "expand"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Troubled broadcaster JTBC to select preferred bidder in January",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261109/troubled-broadcaster-jtbc-to-select-preferred-bidder-in-january?utm_source=rss",
+        "summary": "Debt-ridden Korean broadcaster JTBC plans to select a preferred bidder in January, the company said Monday, putting up its official notice for the envisioned sale. The sale will be conducted through an open competitive bidding process through the injection of external capital, EY Hanyoung, the accounting firm advising the sale, said in the notice. Potential bidders can submit their letter of intent over the next four weeks. JTBC said it will conduct the sale in a \"transparent and fair\" manner in accordance with relevant laws and rehabilitation court procedures. \"Through the merger and acquisition, we hope to establish a sustainable base for growth and strengthen content and channel competitiveness,\" the broadcaster said. The sale notice came some two months after the Seoul Bankruptcy Court approved JTBC's request to begin rehabilitation proceedings in late August, allowing the company to...",
+        "fullText": [
+          "Debt-ridden Korean broadcaster JTBC plans to select a preferred bidder in January, the company said Monday, putting up its official notice for the envisioned sale. The sale will be conducted through an open competitive bidding process through the injection of external capital, EY Hanyoung, the accounting firm advising the sale, said in the notice.",
+          "Potential bidders can submit their letter of intent over the next four weeks. JTBC said it will conduct the sale in a \"transparent and fair\" manner in accordance with relevant laws and rehabilitation court procedures.",
+          "\"Through the merger and acquisition, we hope to establish a sustainable base for growth and strengthen content and channel competitiveness,\" the broadcaster said. The sale notice came some two months after the Seoul Bankruptcy Court approved JTBC's request to begin rehabilitation proceedings in late August, allowing the company to..."
+        ],
+        "words": [
+          "troubled",
+          "broadcaster",
+          "select"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "The tech brotherhood wants sovereignty",
+        "url": "https://www.koreatimes.co.kr/opinion/20261109/the-tech-brotherhood-wants-sovereignty?utm_source=rss",
+        "summary": "NEW YORK — Over several centuries, nation-states have come to define the international system and govern much of humanity. After emerging in modern Europe and spreading through colonialism, they eventually made it to every corner of the world through postwar decolonization. Their defining feature is control over territory and its inhabitants, without interference by others. Modern nation-states are still with us, of course, but a new form of sovereignty, capable of even more intrusive and insidious forms of control than most states can muster, is asserting itself. Such is the nature of the new tech sovereignty being advanced, through words and deeds, by a small brotherhood whose members have been crystal clear about their goal of replacing the state and subordinating other necessary institutions to their will. For example, Peter Thiel, one of the co-founders of PayPal, speaks openly abou...",
+        "fullText": [
+          "NEW YORK — Over several centuries, nation-states have come to define the international system and govern much of humanity. After emerging in modern Europe and spreading through colonialism, they eventually made it to every corner of the world through postwar decolonization.",
+          "Their defining feature is control over territory and its inhabitants, without interference by others. Modern nation-states are still with us, of course, but a new form of sovereignty, capable of even more intrusive and insidious forms of control than most states can muster, is asserting itself.",
+          "Such is the nature of the new tech sovereignty being advanced, through words and deeds, by a small brotherhood whose members have been crystal clear about their goal of replacing the state and subordinating other necessary institutions to their will. For example, Peter Thiel, one of the co-founders of PayPal, speaks openly abou..."
+        ],
+        "words": [
+          "brotherhood",
+          "sovereignty",
+          "several"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "President Lee's approval rating falls to 35.9%: poll",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261109/president-lees-approval-rating-falls-to-359-poll?utm_source=rss",
+        "summary": "President Lee Jae Myung's approval rating fell to 35.9 percent last week likely due to an intense political standoff over legislation and stock market volatility, a pollster said Monday. Positive assessments of Lee's job performance dropped by 1 percentage point from the previous week in the poll conducted on 2,528 adults from last Monday to Friday, according to Realmeter. Negative assessments rose by 0.5 percentage point to 60.6 percent, while 3.4 percent of respondents said they were not sure. Realmeter attributed the lower approval rating to last week's standoff between the ruling and main opposition parties over a bill calling for a special counsel investigation into alleged fabricated indictments targeting the president and others. The bill passed the National Assembly on Friday, led by the ruling Democratic Party of Korea (DPK). The pollster also attributed the decline to last week...",
+        "fullText": [
+          "President Lee Jae Myung's approval rating fell to 35. 9 percent last week likely due to an intense political standoff over legislation and stock market volatility, a pollster said Monday.",
+          "Positive assessments of Lee's job performance dropped by 1 percentage point from the previous week in the poll conducted on 2,528 adults from last Monday to Friday, according to Realmeter. Negative assessments rose by 0.",
+          "5 percentage point to 60. 6 percent, while 3.",
+          "4 percent of respondents said they were not sure. Realmeter attributed the lower approval rating to last week's standoff between the ruling and main opposition parties over a bill calling for a special counsel investigation into alleged fabricated indictments targeting the president and others.",
+          "The bill passed the National Assembly on Friday, led by the ruling Democratic Party of Korea (DPK). The pollster also attributed the decline to last week..."
+        ],
+        "words": [
+          "president",
+          "approval",
+          "rating"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Innospace to launch upgraded suborbital rocket in Brazil on Nov. 29",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261109/innospace-to-launch-upgraded-suborbital-rocket-in-brazil-on-nov-29?utm_source=rss",
+        "summary": "Korean space startup Innospace said Monday it plans to launch its upgraded multipurpose suborbital rocket, Sebit, in Brazil on Nov. 29, following an unsuccessful maiden test flight in August. The company has secured a 26-day launch window from Nov. 16 to Dec. 11 at the Alcantara Launch Center in Brazil, in coordination with state-owned aerospace company ALADA, the Brazilian Air Force and the Brazilian Space Agency. The final launch date and time will be determined based on weather conditions, launch readiness and other operational factors. Sebit is a multipurpose suborbital rocket designed to provide commercial testing and validation services. The single-stage rocket is powered by a 4-ton-class hybrid engine and measures 8.7 meters in length and 0.7 meters in diameter. The upcoming flight will mark Sebit's second test launch following a series of technical upgrades aimed at improving its...",
+        "fullText": [
+          "Korean space startup Innospace said Monday it plans to launch its upgraded multipurpose suborbital rocket, Sebit, in Brazil on Nov. 29, following an unsuccessful maiden test flight in August.",
+          "The company has secured a 26-day launch window from Nov. 16 to Dec.",
+          "11 at the Alcantara Launch Center in Brazil, in coordination with state-owned aerospace company ALADA, the Brazilian Air Force and the Brazilian Space Agency. The final launch date and time will be determined based on weather conditions, launch readiness and other operational factors.",
+          "Sebit is a multipurpose suborbital rocket designed to provide commercial testing and validation services. The single-stage rocket is powered by a 4-ton-class hybrid engine and measures 8.",
+          "7 meters in length and 0. 7 meters in diameter.",
+          "The upcoming flight will mark Sebit's second test launch following a series of technical upgrades aimed at improving its..."
+        ],
+        "words": [
+          "innospace",
+          "launch",
+          "upgraded"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks buck gains on Wall Street to open lower",
+        "url": "https://www.koreatimes.co.kr/economy/20261109/seoul-stocks-buck-gains-on-wall-street-to-open-lower?utm_source=rss",
+        "summary": "Seoul stocks bucked gains on Wall Street to open lower Monday as investors dumped tech heavyweights. The benchmark Korea Composite Stock Price Index (KOSPI) was down 31.68 points, or 0.63 percent, to 5,028.01 points, as of 9:15 a.m. Major stock indexes in the U.S. closed higher Friday (local time), led by a rebound in chipmakers despite fears of tighter artificial intelligence (AI) regulations after the Democrats' midterm sweep linger. The S&P 500 added 0.31 percent, while the tech-heavy Nasdaq rose 1.09 percent. Investors are digesting fresh uncertainties surrounding Nvidia Corp. after the company announced it has launched an independent investigation into allegations its chief Jensen Huang was targeted by a Chinese spy. They are also closely following the moves from the Federal Reserve for cues on the next U.S. policy directions. In Seoul, most large-cap shares were trading lower. Chip...",
+        "fullText": [
+          "Seoul stocks bucked gains on Wall Street to open lower Monday as investors dumped tech heavyweights. The benchmark Korea Composite Stock Price Index (KOSPI) was down 31.",
+          "68 points, or 0. 63 percent, to 5,028.",
+          "01 points, as of 9:15 a. m.",
+          "Major stock indexes in the U. S.",
+          "closed higher Friday (local time), led by a rebound in chipmakers despite fears of tighter artificial intelligence (AI) regulations after the Democrats' midterm sweep linger. The S&P 500 added 0.",
+          "31 percent, while the tech-heavy Nasdaq rose 1. 09 percent.",
+          "Investors are digesting fresh uncertainties surrounding Nvidia Corp. after the company announced it has launched an independent investigation into allegations its chief Jensen Huang was targeted by a Chinese spy.",
+          "They are also closely following the moves from the Federal Reserve for cues on the next U. S.",
+          "policy directions. In Seoul, most large-cap shares were trading lower.",
+          "Chip..."
+        ],
+        "words": [
+          "stocks",
+          "street",
+          "bucked"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Strategies for supply chain risks in energy transition",
+        "url": "https://www.koreatimes.co.kr/opinion/20261109/strategies-for-supply-chain-risks-in-energy-transition?utm_source=rss",
+        "summary": "Having painfully experienced the vulnerability of fossil fuel dependence through the war in Ukraine and conflicts in the Middle East, the world is accelerating the transition to clean energy. Paradoxically, however, in an effort to escape the risks of fossil fuel supply chains, countries are now facing a new risk: dependence on specific nations for energy transition technologies. Korea is highly dependent on China for its energy transition technology supply chains. In the solar power sector, the share of Chinese-made modules rose sharply from 29 percent in 2023 to 58 percent in 2024 and reached 69 percent last year. In just two years, dominance has shifted from domestically produced products to ones from a single foreign country. Furthermore, the share of Korean-made cells — the core components of solar modules — plummeted from 35 percent in 2021 to just 4 percent last year. This is attr...",
+        "fullText": [
+          "Having painfully experienced the vulnerability of fossil fuel dependence through the war in Ukraine and conflicts in the Middle East, the world is accelerating the transition to clean energy. Paradoxically, however, in an effort to escape the risks of fossil fuel supply chains, countries are now facing a new risk: dependence on specific nations for energy transition technologies.",
+          "Korea is highly dependent on China for its energy transition technology supply chains. In the solar power sector, the share of Chinese-made modules rose sharply from 29 percent in 2023 to 58 percent in 2024 and reached 69 percent last year.",
+          "In just two years, dominance has shifted from domestically produced products to ones from a single foreign country. Furthermore, the share of Korean-made cells — the core components of solar modules — plummeted from 35 percent in 2021 to just 4 percent last year.",
+          "This is attr..."
+        ],
+        "words": [
+          "strategies",
+          "supply",
+          "energy"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "label": "Sunday, November 8, 2026",
     "title": "Korea News Brief",
