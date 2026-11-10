@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-10",
+    "label": "Tuesday, November 10, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Special counsel suspects NEC forged vote tally sheet in Gyeonggi education chief election",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261110/special-counsel-suspects-nec-forged-vote-tally-sheet-in-gyeonggi-education-chief-election?utm_source=rss",
+        "summary": "A special counsel team said Tuesday it suspects a National Election Commission (NEC) employee concealed and forged a vote tally sheet during the election for education superintendent of Gyeonggi Province in June. Investigators were sent to the Gyeonggi provincial election commission and the election commission in Gwangju, Gyeonggi Province, earlier in the day to execute a search and seizure warrant and verify the suspicions, according to the team led by independent counsel Lee Tae-han. The team suspects the employee of the Gwangju election commission concealed and forged the vote tally sheet, which the local commission sought to cover up, leading to an incorrect final tally. Lee's team has been investigating various suspected irregularities involving the NEC after it was launched in early September to look mainly into what led to the unprecedented ballot shortages in June's nationwide lo...",
+        "fullText": [
+          "A special counsel team said Tuesday it suspects a National Election Commission (NEC) employee concealed and forged a vote tally sheet during the election for education superintendent of Gyeonggi Province in June. Investigators were sent to the Gyeonggi provincial election commission and the election commission in Gwangju, Gyeonggi Province, earlier in the day to execute a search and seizure warrant and verify the suspicions, according to the team led by independent counsel Lee Tae-han.",
+          "The team suspects the employee of the Gwangju election commission concealed and forged the vote tally sheet, which the local commission sought to cover up, leading to an incorrect final tally. Lee's team has been investigating various suspected irregularities involving the NEC after it was launched in early September to look mainly into what led to the unprecedented ballot shortages in June's nationwide lo..."
+        ],
+        "words": [
+          "special",
+          "counsel",
+          "suspects"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Top 10 firms take up over 60% of Korea's exports in Q3 amid chip boom",
+        "url": "https://www.koreatimes.co.kr/economy/20261110/top-10-firms-take-up-over-60-of-koreas-exports-in-q3-amid-chip-boom?utm_source=rss",
+        "summary": "The share of Korea's top 10 exporters in the country's total outbound shipments rose sharply in the third quarter from a year earlier, data showed Tuesday, driven by strong demand for semiconductors and other technology products. Exports by the top 10 companies accounted for 60.9 percent of total exports in the July-September period, up from 40.5 percent a year earlier, according to data compiled by the Ministry of Data and Statistics. The country's top 100 exporters accounted for 79.4 percent of total exports in the third quarter, up from 67.9 percent a year earlier. Korea's total exports came to $318.6 billion in the third quarter, an increase of 72.3 percent on-year. By company size, exports by conglomerates more than doubled to $248.6 billion, while those by medium-sized companies rose 12.8 percent to $36.9 billion. Exports by small enterprises also gained a solid 10.7 percent to $32...",
+        "fullText": [
+          "The share of Korea's top 10 exporters in the country's total outbound shipments rose sharply in the third quarter from a year earlier, data showed Tuesday, driven by strong demand for semiconductors and other technology products. Exports by the top 10 companies accounted for 60.",
+          "9 percent of total exports in the July-September period, up from 40. 5 percent a year earlier, according to data compiled by the Ministry of Data and Statistics.",
+          "The country's top 100 exporters accounted for 79. 4 percent of total exports in the third quarter, up from 67.",
+          "9 percent a year earlier. Korea's total exports came to $318.",
+          "6 billion in the third quarter, an increase of 72. 3 percent on-year.",
+          "By company size, exports by conglomerates more than doubled to $248. 6 billion, while those by medium-sized companies rose 12.",
+          "8 percent to $36. 9 billion.",
+          "Exports by small enterprises also gained a solid 10. 7 percent to $32..."
+        ],
+        "words": [
+          "exports",
+          "exporters",
+          "country"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "When a tech billionaire's private life becomes America's problem",
+        "url": "https://www.koreatimes.co.kr/opinion/20261110/when-a-tech-billionaires-private-life-becomes-americas-problem?utm_source=rss",
+        "summary": "SEATTLE — In Seattle, you don't have to work in technology to feel its influence. Amazon and Microsoft are major employers here, and their influence extends well beyond their offices. Layoffs make headlines, unsettle neighborhoods and leave families wondering what comes next. The industry's ups and downs are hard to ignore, even for those who have never worked in tech. Living here, I've often been struck by how much power a relatively small group of corporate executives holds over people's everyday lives. But the controversy surrounding Nvidia CEO Jensen Huang offers a reminder that their influence can extend well beyond the economy, sometimes into territory usually reserved for governments and intelligence agencies. Huang, whose company sits at the center of the global artificial intelligence (AI) boom, recently acknowledged having an extramarital affair. That alone would have been enou...",
+        "fullText": [
+          "SEATTLE — In Seattle, you don't have to work in technology to feel its influence. Amazon and Microsoft are major employers here, and their influence extends well beyond their offices.",
+          "Layoffs make headlines, unsettle neighborhoods and leave families wondering what comes next. The industry's ups and downs are hard to ignore, even for those who have never worked in tech.",
+          "Living here, I've often been struck by how much power a relatively small group of corporate executives holds over people's everyday lives. But the controversy surrounding Nvidia CEO Jensen Huang offers a reminder that their influence can extend well beyond the economy, sometimes into territory usually reserved for governments and intelligence agencies.",
+          "Huang, whose company sits at the center of the global artificial intelligence (AI) boom, recently acknowledged having an extramarital affair. That alone would have been enou..."
+        ],
+        "words": [
+          "billionaire",
+          "private",
+          "becomes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Naver's Dunamu takeover faces antitrust scrutiny amid competition concerns",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261110/navers-dunamu-takeover-faces-antitrust-scrutiny-amid-competition-concerns?utm_source=rss",
+        "summary": "The Fair Trade Commission (FTC) has launched a formal review of Naver Financial’s planned acquisition of Dunamu, saying the deal could substantially restrict competition across multiple markets, including online payments and digital asset exchanges, the watchdog said Tuesday. The deal involves a comprehensive stock swap under which Naver Financial would acquire all shares of Dunamu. In return, Dunamu shareholders would receive about 2.54 shares of Naver Financial for each Dunamu share. Dunamu is the operator of the nation’s leading crypto exchange Upbit. If completed, Naver Financial would become Dunamu’s sole parent company, while Dunamu would become its wholly owned subsidiary. The proposed merger raises competition concerns in several relevant markets. The companies reported their corrective measures to ease such concerns, and the FTC initiated a review of the measured proposed by the...",
+        "fullText": [
+          "The Fair Trade Commission (FTC) has launched a formal review of Naver Financial’s planned acquisition of Dunamu, saying the deal could substantially restrict competition across multiple markets, including online payments and digital asset exchanges, the watchdog said Tuesday. The deal involves a comprehensive stock swap under which Naver Financial would acquire all shares of Dunamu.",
+          "In return, Dunamu shareholders would receive about 2. 54 shares of Naver Financial for each Dunamu share.",
+          "Dunamu is the operator of the nation’s leading crypto exchange Upbit. If completed, Naver Financial would become Dunamu’s sole parent company, while Dunamu would become its wholly owned subsidiary.",
+          "The proposed merger raises competition concerns in several relevant markets. The companies reported their corrective measures to ease such concerns, and the FTC initiated a review of the measured proposed by the..."
+        ],
+        "words": [
+          "dunamu",
+          "takeover",
+          "antitrust"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[K-ART FOCUS] Yeon Jin-yeong challenges conventions of masculinity",
+        "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20261110/k-art-focus-yeon-jin-yeong-challenges-conventions-of-masculinity?utm_source=rss",
+        "summary": "A U.S. military uniform becomes a bathrobe. Combat boots take on the soft, playful look of jelly shoes. A military duffel bag becomes a Birkin-style handbag. A urinal is adorned with colorful beads, as though it, too, needs accessories to stand out. Bathroom mirrors are covered with images of male fashion models drawn from the artist's own Instagram feed. Inside a former military bathroom and shower at Camp Greaves in Paju, Gyeonggi Province, installation artist Yeon Jin-yeong gives symbols of military masculinity an unexpected makeover. Objects associated with toughness and discipline become pretty, pliable and decorative. His installation for “DMZ Open Exhibition: Staging” explores and questions Korea’s changing ideals of masculinity, where traditional expectations of toughness, endurance and conformity coexist with a growing pressure for men to refine, display and reinvent their appea...",
+        "fullText": [
+          "A U. S.",
+          "military uniform becomes a bathrobe. Combat boots take on the soft, playful look of jelly shoes.",
+          "A military duffel bag becomes a Birkin-style handbag. A urinal is adorned with colorful beads, as though it, too, needs accessories to stand out.",
+          "Bathroom mirrors are covered with images of male fashion models drawn from the artist's own Instagram feed. Inside a former military bathroom and shower at Camp Greaves in Paju, Gyeonggi Province, installation artist Yeon Jin-yeong gives symbols of military masculinity an unexpected makeover.",
+          "Objects associated with toughness and discipline become pretty, pliable and decorative. His installation for “DMZ Open Exhibition: Staging” explores and questions Korea’s changing ideals of masculinity, where traditional expectations of toughness, endurance and conformity coexist with a growing pressure for men to refine, display and reinvent their appea..."
+        ],
+        "words": [
+          "jin-yeong",
+          "challenges",
+          "conventions"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "IWF Korea mentors North Jeolla startups on global expansion",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261110/iwf-korea-mentors-north-jeolla-startups-on-global-expansion?utm_source=rss",
+        "summary": "The International Women's Forum Korea (IWF Korea) held one-on-one mentoring sessions for local startups in North Jeolla Province on Saturday to help them evaluate their business strategies and prepare for overseas expansion. IWF Korea said Tuesday that it hosted the \"Local Startup Value-Up: Local to Global\" mentoring program in Jeonju, North Jeolla Province. The program was organized as part of the 2026 J-Startup Festa and held in conjunction with the 11th Startup Jeonbuk Entrepreneurship Expo in Jeonju's Hanok Village. It was jointly sponsored by the Ministry of SMEs and Startups, North Jeolla Province and the city of Jeonju, with the Jeonbuk Center for Creative Economy and Innovation, the Jeonbuk Business Agency, investment firm Krypton and IWF Korea participating in its organization. The initiative aimed to help local startups leverage regional assets and brands, strengthen their comp...",
+        "fullText": [
+          "The International Women's Forum Korea (IWF Korea) held one-on-one mentoring sessions for local startups in North Jeolla Province on Saturday to help them evaluate their business strategies and prepare for overseas expansion. IWF Korea said Tuesday that it hosted the \"Local Startup Value-Up: Local to Global\" mentoring program in Jeonju, North Jeolla Province.",
+          "The program was organized as part of the 2026 J-Startup Festa and held in conjunction with the 11th Startup Jeonbuk Entrepreneurship Expo in Jeonju's Hanok Village. It was jointly sponsored by the Ministry of SMEs and Startups, North Jeolla Province and the city of Jeonju, with the Jeonbuk Center for Creative Economy and Innovation, the Jeonbuk Business Agency, investment firm Krypton and IWF Korea participating in its organization.",
+          "The initiative aimed to help local startups leverage regional assets and brands, strengthen their comp..."
+        ],
+        "words": [
+          "mentors",
+          "jeolla",
+          "startups"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Samsung supports 1,000 startups, helping attract $1.6 bil. in investment",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261110/samsung-supports-1000-startups-helping-attract-16-bil-in-investment?utm_source=rss",
+        "summary": "Samsung Electronics said Tuesday it has supported 1,000 startups, helping attract a cumulative 2.2 trillion won ($1.6 billion) in investment. Notably, the Korean tech giant selects promising entrepreneurs and startups for its C-Lab initiative, choosing 30 companies this year, the company said. Of the selected startups, 15 are currently conducting technology verification projects with Samsung Electronics, with the company seeking to identify further opportunities for business collaborations. Twelve of the startups are based outside the Seoul metropolitan area, Samsung said. Samsung has operated regional C-Lab hubs in the central city of Daegu and the southwestern city of Gwangju since 2023 to foster regional economic development. At an event held Tuesday at its R&D center in southern Seoul, representatives from six startups took the stage to share their growth stories and examples of busi...",
+        "fullText": [
+          "Samsung Electronics said Tuesday it has supported 1,000 startups, helping attract a cumulative 2. 2 trillion won ($1.",
+          "6 billion) in investment. Notably, the Korean tech giant selects promising entrepreneurs and startups for its C-Lab initiative, choosing 30 companies this year, the company said.",
+          "Of the selected startups, 15 are currently conducting technology verification projects with Samsung Electronics, with the company seeking to identify further opportunities for business collaborations. Twelve of the startups are based outside the Seoul metropolitan area, Samsung said.",
+          "Samsung has operated regional C-Lab hubs in the central city of Daegu and the southwestern city of Gwangju since 2023 to foster regional economic development. At an event held Tuesday at its R&D center in southern Seoul, representatives from six startups took the stage to share their growth stories and examples of busi..."
+        ],
+        "words": [
+          "samsung",
+          "supports",
+          "startups"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "label": "Monday, November 9, 2026",
     "title": "Korea News Brief",
