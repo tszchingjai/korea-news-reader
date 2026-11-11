@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-11",
+    "label": "Wednesday, November 11, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Turbulent geopolitics: 'Korean Dream' initiative can be a path forward",
+        "url": "https://www.koreatimes.co.kr/opinion/20261111/turbulent-geopolitics-korean-dream-initiative-can-be-a-path-forward?utm_source=rss",
+        "summary": "As the Sinamrok River Bridge — a core logistical gateway on the North Korea–China border — officially opens and North Korean leader Kim Jong-un makes a visit to Dandong, China, the Northeast Asian geopolitical landscape is rapidly restructuring into a tightly knit North Korea–China–Russia axis. Having gained nuclear capabilities, North Korea has secured external and economic safeguards through China and Russia, emboldening Kim Jong-un to aggressively push his “hostile two-state doctrine” and sever all ties with South Korea. This tectonic shift not only renders South Korea’s traditional appeasement policies obsolete but also diminishes any realistic expectations for meaningful breakthroughs in potential future U.S.–North Korea summits. With China and Russia actively ignoring international sanctions, Kim has no structural incentive to compromise with Washington or rush into dialogue for sa...",
+        "fullText": [
+          "As the Sinamrok River Bridge — a core logistical gateway on the North Korea–China border — officially opens and North Korean leader Kim Jong-un makes a visit to Dandong, China, the Northeast Asian geopolitical landscape is rapidly restructuring into a tightly knit North Korea–China–Russia axis. Having gained nuclear capabilities, North Korea has secured external and economic safeguards through China and Russia, emboldening Kim Jong-un to aggressively push his “hostile two-state doctrine” and sever all ties with South Korea.",
+          "This tectonic shift not only renders South Korea’s traditional appeasement policies obsolete but also diminishes any realistic expectations for meaningful breakthroughs in potential future U. S.",
+          "–North Korea summits. With China and Russia actively ignoring international sanctions, Kim has no structural incentive to compromise with Washington or rush into dialogue for sa..."
+        ],
+        "words": [
+          "turbulent",
+          "geopolitics",
+          "initiative"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Gov't to release growth forecasts 3 times per year: finance minister",
+        "url": "https://www.koreatimes.co.kr/economy/20261111/govt-to-release-growth-forecasts-3-times-per-year-finance-minister?utm_source=rss",
+        "summary": "Korea's top economic policymaker said Wednesday the government will release annual economic growth forecasts three times a year starting in 2027, up from the current two, to respond more proactively to changing economic conditions. Finance Minister Lee Hyoung-il made the announcement as he discussed details of the government's economic growth strategy for next year with relevant ministers, indicating the plan will seek sustainable growth by addressing disparities. \"In order to promptly respond to the changing environment at home and abroad, the government will increase the number of economic outlooks issued from two to three, which would mark the first change in 32 years,\" Lee said. Lee said the government will no longer release a separate economic growth strategy for the second half of the year under the revised system, but will instead draw up supplementary measures to address economic...",
+        "fullText": [
+          "Korea's top economic policymaker said Wednesday the government will release annual economic growth forecasts three times a year starting in 2027, up from the current two, to respond more proactively to changing economic conditions. Finance Minister Lee Hyoung-il made the announcement as he discussed details of the government's economic growth strategy for next year with relevant ministers, indicating the plan will seek sustainable growth by addressing disparities.",
+          "\"In order to promptly respond to the changing environment at home and abroad, the government will increase the number of economic outlooks issued from two to three, which would mark the first change in 32 years,\" Lee said. Lee said the government will no longer release a separate economic growth strategy for the second half of the year under the revised system, but will instead draw up supplementary measures to address economic..."
+        ],
+        "words": [
+          "release",
+          "growth",
+          "forecasts"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US charges 3 men with plotting terror attacks, including planned assault on UK air base",
+        "url": "https://www.koreatimes.co.kr/world/20261111/us-charges-3-men-with-plotting-terror-attacks-including-planned-assault-on-uk-air-base?utm_source=rss",
+        "summary": "NEW YORK — A man jailed on terrorism charges in New York was able to pass secret messages to Iranian operatives planning an attack on a British air base used by the U.S. Air Force, according to an indictment unsealed Tuesday. The new indictment offers fresh insight into an episode shrouded in mystery since Sept. 27, when a group of men were detained on suspected explosives and terrorism offenses after three suspicious vans were spotted traveling toward a British air base where U.S. bombers were stationed. The new charges accuse Mohammad Baqer Saad Dawood al-Saadi, a dual Iranian-Iraqi national jailed at the Metropolitan Detention Center in Brooklyn, of a role in plotting to attack the Royal Air Force Base in Fairford, in western England, even though he'd been arrested last spring. According to prosecutors, al-Saadi used coded language in phone and video calls to his mother and sister in...",
+        "fullText": [
+          "NEW YORK — A man jailed on terrorism charges in New York was able to pass secret messages to Iranian operatives planning an attack on a British air base used by the U. S.",
+          "Air Force, according to an indictment unsealed Tuesday. The new indictment offers fresh insight into an episode shrouded in mystery since Sept.",
+          "27, when a group of men were detained on suspected explosives and terrorism offenses after three suspicious vans were spotted traveling toward a British air base where U. S.",
+          "bombers were stationed. The new charges accuse Mohammad Baqer Saad Dawood al-Saadi, a dual Iranian-Iraqi national jailed at the Metropolitan Detention Center in Brooklyn, of a role in plotting to attack the Royal Air Force Base in Fairford, in western England, even though he'd been arrested last spring.",
+          "According to prosecutors, al-Saadi used coded language in phone and video calls to his mother and sister in..."
+        ],
+        "words": [
+          "charges",
+          "plotting",
+          "terror"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea ranks 10th place in global AI, digital competitiveness",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261111/korea-ranks-10th-place-in-global-ai-digital-competitiveness?utm_source=rss",
+        "summary": "Korea came in 10th place among 70 countries in a global digital and artificial intelligence (AI) competitiveness ranking, the science ministry said Wednesday. The country moved up eight spots from the previous year, according to the report published by the International Institute for Management Development, a Swiss-based business school, according to the ministry. Taking the top spot this year was the United States, rising from its fourth spot a year ago. Canada, however, lost its top-spot position to be ranked at fifth place this year. Among countries in the Asia-Pacific region, Singapore was ranked second place, China came in at seventh place, and Japan ranked 19th place. By category, Korea ranked third in the technology infrastructure and efficiency metrics. The country ranked first place in the research and development expenditure per gross domestic product category and ranked eighth...",
+        "fullText": [
+          "Korea came in 10th place among 70 countries in a global digital and artificial intelligence (AI) competitiveness ranking, the science ministry said Wednesday. The country moved up eight spots from the previous year, according to the report published by the International Institute for Management Development, a Swiss-based business school, according to the ministry.",
+          "Taking the top spot this year was the United States, rising from its fourth spot a year ago. Canada, however, lost its top-spot position to be ranked at fifth place this year.",
+          "Among countries in the Asia-Pacific region, Singapore was ranked second place, China came in at seventh place, and Japan ranked 19th place. By category, Korea ranked third in the technology infrastructure and efficiency metrics.",
+          "The country ranked first place in the research and development expenditure per gross domestic product category and ranked eighth..."
+        ],
+        "words": [
+          "global",
+          "digital",
+          "competitiveness"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Exports more than double in 1st 10 days of November",
+        "url": "https://www.koreatimes.co.kr/economy/others/20261111/exports-more-than-double-in-1st-10-days-of-november?utm_source=rss",
+        "summary": "Korea's exports more than doubled in the first 10 days of November from a year earlier, customs data showed Wednesday, bringing the country closer to reaching $1 trillion in annual exports. Outbound shipments reached $33.5 billion in the Nov. 1-10 period, compared with $15.7 billion a year earlier, according to data from the Korea Customs Service. It was the highest export value recorded for the first 10 days of any November. Imports rose 45 percent on-year to $24.7 billion over the cited period, resulting in a trade surplus of $8.8 billion. By sector, exports of chips soared 331.2 percent to $16.6 billion. Semiconductors accounted for 49.7 percent of the total outbound shipments, up 25.3 percentage points from a year earlier. Outbound shipments of petroleum products also more than doubled to $2 billion over the period. Exports of cars, on the other hand, fell 4.3 percent to $1.4 billion...",
+        "fullText": [
+          "Korea's exports more than doubled in the first 10 days of November from a year earlier, customs data showed Wednesday, bringing the country closer to reaching $1 trillion in annual exports. Outbound shipments reached $33.",
+          "5 billion in the Nov. 1-10 period, compared with $15.",
+          "7 billion a year earlier, according to data from the Korea Customs Service. It was the highest export value recorded for the first 10 days of any November.",
+          "Imports rose 45 percent on-year to $24. 7 billion over the cited period, resulting in a trade surplus of $8.",
+          "8 billion. By sector, exports of chips soared 331.",
+          "2 percent to $16. 6 billion.",
+          "Semiconductors accounted for 49. 7 percent of the total outbound shipments, up 25.",
+          "3 percentage points from a year earlier. Outbound shipments of petroleum products also more than doubled to $2 billion over the period.",
+          "Exports of cars, on the other hand, fell 4. 3 percent to $1.",
+          "4 billion..."
+        ],
+        "words": [
+          "exports",
+          "double",
+          "november"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea to extend fuel tax cuts through January to ease price burdens",
+        "url": "https://www.koreatimes.co.kr/economy/policy/20261111/korea-to-extend-fuel-tax-cuts-through-january-to-ease-price-burdens?utm_source=rss",
+        "summary": "Korea will extend its fuel tax cuts by another two months through January to ease the financial burden on the public amid lingering uncertainty in the Middle East, the finance ministry said Wednesday. The Ministry of Finance and Economy said the decision was made at a meeting of economy-related ministers chaired by Finance Minister Lee Hyoung-il, taking into account the need to ease the burden on households and the government's capacity to respond to future price volatility. Under the measure, the current tax cuts of 15 percent on gasoline and 25 percent on diesel and butane, originally set to expire at the end of this month, will remain in place through the end of January. The government has maintained the rates since May. The ministry said the larger tax cuts on diesel and butane reflect the importance of diesel to industrial and logistics operations and the widespread use of butane as...",
+        "fullText": [
+          "Korea will extend its fuel tax cuts by another two months through January to ease the financial burden on the public amid lingering uncertainty in the Middle East, the finance ministry said Wednesday. The Ministry of Finance and Economy said the decision was made at a meeting of economy-related ministers chaired by Finance Minister Lee Hyoung-il, taking into account the need to ease the burden on households and the government's capacity to respond to future price volatility.",
+          "Under the measure, the current tax cuts of 15 percent on gasoline and 25 percent on diesel and butane, originally set to expire at the end of this month, will remain in place through the end of January. The government has maintained the rates since May.",
+          "The ministry said the larger tax cuts on diesel and butane reflect the importance of diesel to industrial and logistics operations and the widespread use of butane as..."
+        ],
+        "words": [
+          "extend",
+          "through",
+          "january"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea to launch task force to tackle disparities",
+        "url": "https://www.koreatimes.co.kr/economy/20261111/korea-to-launch-task-force-to-tackle-disparities?utm_source=rss",
+        "summary": "Korea will launch a new task force led by the finance minister to address widening disparities across various sectors, the government said Wednesday. Finance Minister Lee Hyoung-il unveiled the plan during a meeting with economy-related ministers, saying the task force will consist of five working groups tasked with addressing disparities in the labor market, industries, regions, generations and social classes. Each group will be led by a vice minister responsible for the respective area and work with state-run research institutes to identify key policy tasks. \"The artificial intelligence transformation could deepen and accelerate disparities, leading to a K-shaped divide,\" the government said. \"There are concerns that the benefits of growth are not being shared equally with those at the bottom, while upward mobility remains limited.\" The working groups will officially launch Thursday, w...",
+        "fullText": [
+          "Korea will launch a new task force led by the finance minister to address widening disparities across various sectors, the government said Wednesday. Finance Minister Lee Hyoung-il unveiled the plan during a meeting with economy-related ministers, saying the task force will consist of five working groups tasked with addressing disparities in the labor market, industries, regions, generations and social classes.",
+          "Each group will be led by a vice minister responsible for the respective area and work with state-run research institutes to identify key policy tasks. \"The artificial intelligence transformation could deepen and accelerate disparities, leading to a K-shaped divide,\" the government said.",
+          "\"There are concerns that the benefits of growth are not being shared equally with those at the bottom, while upward mobility remains limited. \" The working groups will officially launch Thursday, w..."
+        ],
+        "words": [
+          "launch",
+          "tackle",
+          "disparities"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "label": "Tuesday, November 10, 2026",
     "title": "Korea News Brief",
