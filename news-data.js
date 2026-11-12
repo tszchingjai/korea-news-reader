@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-12",
+    "label": "Thursday, November 12, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Law, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump to flex muscles on Asia tour after midterms losses",
+        "url": "https://www.koreatimes.co.kr/world/20261112/trump-to-flex-muscles-on-asia-tour-after-midterms-losses?utm_source=rss",
+        "summary": "WASHINGTON — After his party suffered a midterms hammering, President Donald Trump faces a new challenge: proving he is still the boss of U.S. foreign policy on the global stage. With Trump politically hamstrung as he enters the remaining two-year \"lame duck\" period of his White House tenure, world leaders may be quietly wondering how to leverage the new balance of power in Washington. The 80-year-old Republican heads to the ASEAN summit in the Philippines and APEC summit in China from a radically transformed and hostile political landscape at home after the Democrats seized both the House of Representatives and Senate. Constitutionally banned from seeking a third term in the 2028 presidential race, the unpredictable billionaire could be all the more inclined to focus his energy on the international stage. \"After bad midterms, this is how presidents reset,\" Edgard Kagan, an expert at the...",
+        "fullText": [
+          "WASHINGTON — After his party suffered a midterms hammering, President Donald Trump faces a new challenge: proving he is still the boss of U. S.",
+          "foreign policy on the global stage. With Trump politically hamstrung as he enters the remaining two-year \"lame duck\" period of his White House tenure, world leaders may be quietly wondering how to leverage the new balance of power in Washington.",
+          "The 80-year-old Republican heads to the ASEAN summit in the Philippines and APEC summit in China from a radically transformed and hostile political landscape at home after the Democrats seized both the House of Representatives and Senate. Constitutionally banned from seeking a third term in the 2028 presidential race, the unpredictable billionaire could be all the more inclined to focus his energy on the international stage.",
+          "\"After bad midterms, this is how presidents reset,\" Edgard Kagan, an expert at the..."
+        ],
+        "words": [
+          "muscles",
+          "midterms",
+          "losses"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "FRIDAY, Nov. 13, 2026",
+        "url": "https://www.koreatimes.co.kr/opinion/todayinhistory/20261112/friday-nov-13-2026?utm_source=rss",
+        "summary": "1789-In a letter to Jean-Baptiste Le Roy, Benjamin Franklin writes \"in this world nothing can be said to be certain, except death and taxes\" 1933-First modern sit-down strike by Hormel meatpackers in Austin, Minnesota 1956-US Supreme Court rules racial segregation on buses in Alabama unconstitutional 1993-7.1 seaquake east of Kamchatka 1980-U.S. spacecraft Voyager 1 sends back first close-up pictures of Saturn during its fly-by 1985-Nevado del Ruiz volcano erupts in Colombia, killing 25,000 in the town of Armero 2018-Trial of Mexican drug lord Joaquín \"El Chapo\" Guzmán begins in New York, he is charged with drug trafficking, money laundering, and murder 2002-Eminem releases the single \"Lose Yourself\" from the soundtrack of \"8 Mile\", the first rap song to win the Academy Award for Best Original Song",
+        "fullText": [
+          "1789-In a letter to Jean-Baptiste Le Roy, Benjamin Franklin writes \"in this world nothing can be said to be certain, except death and taxes\" 1933-First modern sit-down strike by Hormel meatpackers in Austin, Minnesota 1956-US Supreme Court rules racial segregation on buses in Alabama unconstitutional 1993-7. 1 seaquake east of Kamchatka 1980-U.",
+          "S. spacecraft Voyager 1 sends back first close-up pictures of Saturn during its fly-by 1985-Nevado del Ruiz volcano erupts in Colombia, killing 25,000 in the town of Armero 2018-Trial of Mexican drug lord Joaquín \"El Chapo\" Guzmán begins in New York, he is charged with drug trafficking, money laundering, and murder 2002-Eminem releases the single \"Lose Yourself\" from the soundtrack of \"8 Mile\", the first rap song to win the Academy Award for Best Original Song"
+        ],
+        "words": [
+          "friday",
+          "letter",
+          "jean-baptiste"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Kim Go-eun, Gang Dong-won to star in new Netflix series",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261112/kim-go-eun-gang-dong-won-to-star-in-new-netflix-series?utm_source=rss",
+        "summary": "Actors Kim Go-eun and Gang Dong-won have been cast in an upcoming historical romance drama, Netflix said Thursday, in what marks their first collaboration. Titled \"The Twilight Between Us,\" the action-packed series follows a man and a woman from two families that have been locked in a long feud, who are forced to marry by royal decree, according to the streaming platform. Gang portrays Mu-yeong, an illegitimate son of the Kang family, who lives an isolated life despite his excellent martial arts skills and noble mind. Kim plays Su-ryeon, the only daughter of the Han family, who is compelled to marry Mu-yeong after failing to become crown princess. Park Ji-eun, who penned hit dramas such as \"Queen of Tears\" (2024) and \"Crash Landing on You\" (2019-2020), wrote the upcoming drama. It is directed by hit producer Kim Won-suk, known for \"When Life Gives You Tangerines\" (2025), \"My Mister\" (201...",
+        "fullText": [
+          "Actors Kim Go-eun and Gang Dong-won have been cast in an upcoming historical romance drama, Netflix said Thursday, in what marks their first collaboration. Titled \"The Twilight Between Us,\" the action-packed series follows a man and a woman from two families that have been locked in a long feud, who are forced to marry by royal decree, according to the streaming platform.",
+          "Gang portrays Mu-yeong, an illegitimate son of the Kang family, who lives an isolated life despite his excellent martial arts skills and noble mind. Kim plays Su-ryeon, the only daughter of the Han family, who is compelled to marry Mu-yeong after failing to become crown princess.",
+          "Park Ji-eun, who penned hit dramas such as \"Queen of Tears\" (2024) and \"Crash Landing on You\" (2019-2020), wrote the upcoming drama. It is directed by hit producer Kim Won-suk, known for \"When Life Gives You Tangerines\" (2025), \"My Mister\" (201..."
+        ],
+        "words": [
+          "go-eun",
+          "dong-won",
+          "netflix"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Beloved 1970s comic 'Chorus of Pigeons' named modern cultural treasure",
+        "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261112/beloved-1970s-comic-chorus-of-pigeons-named-modern-cultural-treasure?utm_source=rss",
+        "summary": "The original manuscripts of “Chorus of Pigeons,” a beloved 1970s family comic by the late cartoonist Lee Sang-moo, have been designated as preliminary cultural heritage, the Korea Manhwa Contents Agency said Thursday. Finalized by the Korea Heritage Service earlier this week, the designation encompasses 601 hand-drawn manuscript pages and scripts for a television adaptation, all housed at the agency. The state category protects artifacts under 50 years old that are too recent for formal cultural heritage registration yet deemed vital to preserve. Serialized in the children’s magazine \"Sonyeon Joongang\" from April 1978 to June 1979, the story resonated widely with readers for its portrayal of an ordinary family holding onto hope amid poverty and hardship. Even in an era when comics were largely dismissed as lowbrow entertainment, the series earned rare official acclaim. It won an excellen...",
+        "fullText": [
+          "The original manuscripts of “Chorus of Pigeons,” a beloved 1970s family comic by the late cartoonist Lee Sang-moo, have been designated as preliminary cultural heritage, the Korea Manhwa Contents Agency said Thursday. Finalized by the Korea Heritage Service earlier this week, the designation encompasses 601 hand-drawn manuscript pages and scripts for a television adaptation, all housed at the agency.",
+          "The state category protects artifacts under 50 years old that are too recent for formal cultural heritage registration yet deemed vital to preserve. Serialized in the children’s magazine \"Sonyeon Joongang\" from April 1978 to June 1979, the story resonated widely with readers for its portrayal of an ordinary family holding onto hope amid poverty and hardship.",
+          "Even in an era when comics were largely dismissed as lowbrow entertainment, the series earned rare official acclaim. It won an excellen..."
+        ],
+        "words": [
+          "beloved",
+          "chorus",
+          "pigeons"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Ramyeon exports set to rise 30% in 2027 on expanded production: sources",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261112/ramyeon-exports-set-to-rise-30-in-2027-on-expanded-production-sources?utm_source=rss",
+        "summary": "Korea's ramyeon exports are expected to increase 30 percent in 2027 from a year earlier, driven by expanded production capacity, industry sources said Thursday. Ramyeon shipments rose 26 percent to $1.59 billion in the January-October period, already surpassing last year's full-year growth rate of 22 percent and total exports of $1.52 billion, according to data from the trade ministry and other sources. \"Major ramyeon makers' investments in production facilities are expected to continue driving export growth next year,\" an industry official said over the phone. Nongshim, Korea's leading instant noodle maker, began operations last month at its first plant dedicated to exports in the southern port city of Busan. The company currently generates about 40 percent of its total ramyeon sales from overseas markets, including the United States, China and Japan. It operates seven plants in Korea a...",
+        "fullText": [
+          "Korea's ramyeon exports are expected to increase 30 percent in 2027 from a year earlier, driven by expanded production capacity, industry sources said Thursday. Ramyeon shipments rose 26 percent to $1.",
+          "59 billion in the January-October period, already surpassing last year's full-year growth rate of 22 percent and total exports of $1. 52 billion, according to data from the trade ministry and other sources.",
+          "\"Major ramyeon makers' investments in production facilities are expected to continue driving export growth next year,\" an industry official said over the phone. Nongshim, Korea's leading instant noodle maker, began operations last month at its first plant dedicated to exports in the southern port city of Busan.",
+          "The company currently generates about 40 percent of its total ramyeon sales from overseas markets, including the United States, China and Japan. It operates seven plants in Korea a..."
+        ],
+        "words": [
+          "ramyeon",
+          "exports",
+          "expanded"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korea opens final 2026 round of foreign worker permits",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261112/korea-opens-final-2026-round-of-foreign-worker-permits?utm_source=rss",
+        "summary": "Korea will accept its final round of applications this year for foreign worker visas starting Nov. 23, offering 6,699 new permits to help businesses ease persistent labor shortages while introducing incentives for employers who complete human rights and labor law training, the Ministry of Employment and Labor said Thursday. The five-day application window, running through Nov. 27, covers nonprofessional employment visas, known as E-9, across five major sectors. Manufacturing accounts for the lion’s share of the quota with 4,510 slots, followed by agriculture and livestock with 954, fisheries with 897, construction with 198 and services with 140. Should employer demand exceed sector caps, officials said they will tap into a flexible reserve pool of 10,000 additional permits. The announcement underscores Korea’s growing reliance on overseas labor to sustain its export-driven factories, far...",
+        "fullText": [
+          "Korea will accept its final round of applications this year for foreign worker visas starting Nov. 23, offering 6,699 new permits to help businesses ease persistent labor shortages while introducing incentives for employers who complete human rights and labor law training, the Ministry of Employment and Labor said Thursday.",
+          "The five-day application window, running through Nov. 27, covers nonprofessional employment visas, known as E-9, across five major sectors.",
+          "Manufacturing accounts for the lion’s share of the quota with 4,510 slots, followed by agriculture and livestock with 954, fisheries with 897, construction with 198 and services with 140. Should employer demand exceed sector caps, officials said they will tap into a flexible reserve pool of 10,000 additional permits.",
+          "The announcement underscores Korea’s growing reliance on overseas labor to sustain its export-driven factories, far..."
+        ],
+        "words": [
+          "foreign",
+          "worker",
+          "permits"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "LG Twins bring back slugger Dean on record contract for foreign hitter",
+        "url": "https://www.koreatimes.co.kr/sports/20261112/lg-twins-bring-back-slugger-dean-on-record-contract-for-foreign-hitter?utm_source=rss",
+        "summary": "The LG Twins announced Thursday they will bring back their American slugger Austin Dean on the most lucrative deal for a foreign hitter in South Korean baseball history. The Twins said Dean will be back for his fifth season in the Korea Baseball Organization (KBO) on a new one-year deal worth $2 million. The previous record for the biggest annual salary for a foreign hitter had been $1.8 million, set by both former KT Wiz outfielder Mel Rojas Jr. and SSG Landers outfielder Guillermo Heredia in 2025. Former Doosan Bears pitcher Dustin Nippert holds the mark for the largest annual salary for a foreign player, with the $2.1 million he made in 2017. In 2026, Dean played all 144 games and set a franchise record with 41 home runs, finishing third overall in the league in that category. He led the KBO in on-base plus slugging with 1.062 while finishing third with 127 RBIs and 180 hits, and four...",
+        "fullText": [
+          "The LG Twins announced Thursday they will bring back their American slugger Austin Dean on the most lucrative deal for a foreign hitter in South Korean baseball history. The Twins said Dean will be back for his fifth season in the Korea Baseball Organization (KBO) on a new one-year deal worth $2 million.",
+          "The previous record for the biggest annual salary for a foreign hitter had been $1. 8 million, set by both former KT Wiz outfielder Mel Rojas Jr.",
+          "and SSG Landers outfielder Guillermo Heredia in 2025. Former Doosan Bears pitcher Dustin Nippert holds the mark for the largest annual salary for a foreign player, with the $2.",
+          "1 million he made in 2017. In 2026, Dean played all 144 games and set a franchise record with 41 home runs, finishing third overall in the league in that category.",
+          "He led the KBO in on-base plus slugging with 1. 062 while finishing third with 127 RBIs and 180 hits, and four..."
+        ],
+        "words": [
+          "slugger",
+          "record",
+          "contract"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "label": "Wednesday, November 11, 2026",
     "title": "Korea News Brief",
