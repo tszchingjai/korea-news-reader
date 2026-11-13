@@ -1,5 +1,140 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-13",
+    "label": "Friday, November 13, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Korea, Economy, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "FM Cho heads to China for talks with Wang Yi on bilateral ties, prospects for NK-US dialogue",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261113/fm-cho-heads-to-china-for-talks-with-wang-yi-on-bilateral-ties-prospects-for-nk-us-dialogue?utm_source=rss",
+        "summary": "Foreign Minister Cho Hyun departed for China on Friday for talks with his Chinese counterpart, Wang Yi, on bilateral relations and issues concerning the Korean Peninsula, including the possibility of renewed dialogue between Washington and Pyongyang. Cho was scheduled to hold talks with Wang later in the day, followed by a dinner hosted by the Chinese foreign minister, according to the foreign ministry. \"We plan to discuss the overall state of bilateral relations, particularly issues that need to be coordinated between the two countries ahead of the Asia-Pacific Economic Cooperation (APEC) summit,\" Cho told reporters at Gimpo International Airport before departing for China. His visit comes ahead of President Lee Jae Myung's planned trip to China for the APEC summit in Shenzhen from Wednesday to Thursday, and the ministerial meeting was expected to help lay the groundwork for a potential...",
+        "fullText": [
+          "Foreign Minister Cho Hyun departed for China on Friday for talks with his Chinese counterpart, Wang Yi, on bilateral relations and issues concerning the Korean Peninsula, including the possibility of renewed dialogue between Washington and Pyongyang. Cho was scheduled to hold talks with Wang later in the day, followed by a dinner hosted by the Chinese foreign minister, according to the foreign ministry.",
+          "\"We plan to discuss the overall state of bilateral relations, particularly issues that need to be coordinated between the two countries ahead of the Asia-Pacific Economic Cooperation (APEC) summit,\" Cho told reporters at Gimpo International Airport before departing for China. His visit comes ahead of President Lee Jae Myung's planned trip to China for the APEC summit in Shenzhen from Wednesday to Thursday, and the ministerial meeting was expected to help lay the groundwork for a potential..."
+        ],
+        "words": [
+          "bilateral",
+          "prospects",
+          "dialogue"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Winter blooms transform Seoul Botanic Park into festive garden",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261113/winter-blooms-transform-seoul-botanic-park-into-festive-garden?utm_source=rss",
+        "summary": "Tucked inside western Seoul’s Gangseo District, Seoul Botanic Park is defying the winter chill with a vibrant seasonal showcase of more than 40 tropical orchid varieties, 300 poinsettias and imaginative plant displays designed to liven up indoor spaces. The exhibition, titled “Between Winter and Plants,” runs from Friday through Jan. 31, 2027, across the park’s greenhouse, Seed Library and Garden Support Center. At the Tropical Hall, a display titled “Today, Orchids” features Aria, a miniature Phalaenopsis orchid developed domestically in 2019, alongside more than 40 varieties of tropical orchids, including Oncidium, Cattleya, Vanda and Cymbidium. The Mediterranean Hall presents a Christmas garden featuring 300 plants from 15 domestically developed poinsettia varieties, including red Flame, green Green Star, peach Grace and pink Pink Bell. The display also features unusual spherical-brac...",
+        "fullText": [
+          "Tucked inside western Seoul’s Gangseo District, Seoul Botanic Park is defying the winter chill with a vibrant seasonal showcase of more than 40 tropical orchid varieties, 300 poinsettias and imaginative plant displays designed to liven up indoor spaces. The exhibition, titled “Between Winter and Plants,” runs from Friday through Jan.",
+          "31, 2027, across the park’s greenhouse, Seed Library and Garden Support Center. At the Tropical Hall, a display titled “Today, Orchids” features Aria, a miniature Phalaenopsis orchid developed domestically in 2019, alongside more than 40 varieties of tropical orchids, including Oncidium, Cattleya, Vanda and Cymbidium.",
+          "The Mediterranean Hall presents a Christmas garden featuring 300 plants from 15 domestically developed poinsettia varieties, including red Flame, green Green Star, peach Grace and pink Pink Bell. The display also features unusual spherical-brac..."
+        ],
+        "words": [
+          "winter",
+          "blooms",
+          "transform"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "N. Korea changes national flag's aspect ratio for 1st time since 1948",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261113/n-korea-changes-national-flags-aspect-ratio-for-1st-time-since-1948?utm_source=rss",
+        "summary": "North Korea has revised its constitution to change its national flag's aspect ratio for the first time since its regime was established in 1948, according to the amended basic law posted on the website of Pyongyang's propaganda outlet. Article 166 of the revised constitution posted on Naenara's website stipulates that the ratio of the flag's height to its width is 1 to 1.65, replacing the previous ratio of 1 to 2. The change came as North Korean leader Kim Jong-un has sought to build his own governing style and national identity while retaining some legacies of his predecessors. The flag's 1-to-2 ratio rule had remained unchanged in the law until the North's constitutional revision in September 2023. Despite the ratio change, the overall design of the North's flag remains intact, consisting of a broad red stripe in the center, narrow white stripes above and below it, blue stripes above a...",
+        "fullText": [
+          "North Korea has revised its constitution to change its national flag's aspect ratio for the first time since its regime was established in 1948, according to the amended basic law posted on the website of Pyongyang's propaganda outlet. Article 166 of the revised constitution posted on Naenara's website stipulates that the ratio of the flag's height to its width is 1 to 1.",
+          "65, replacing the previous ratio of 1 to 2. The change came as North Korean leader Kim Jong-un has sought to build his own governing style and national identity while retaining some legacies of his predecessors.",
+          "The flag's 1-to-2 ratio rule had remained unchanged in the law until the North's constitutional revision in September 2023. Despite the ratio change, the overall design of the North's flag remains intact, consisting of a broad red stripe in the center, narrow white stripes above and below it, blue stripes above a..."
+        ],
+        "words": [
+          "changes",
+          "national",
+          "aspect"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul files criminal complaints against 5 serial 119 prank callers",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261113/seoul-files-criminal-complaints-against-5-serial-119-prank-callers?utm_source=rss",
+        "summary": "For the emergency dispatchers staffing Seoul’s 119 hotline — Korea’s equivalent of 911 — every second counts. Yet over the past year, a handful of individuals treated the city’s critical lifeline for fires, accidents, and medical emergencies as a personal bulletin board, a late-night cab service, and a sounding board for drunken rants. The Seoul Metropolitan Government said Friday that it had filed criminal complaints against five habitual callers who collectively flooded the 119 emergency dispatch center with 8,710 non-emergency calls and text messages between September 2025 and August 2026. The barrage intensified sharply over the summer. Between June and August alone, the five individuals accounted for 4,034 separate contacts — an average of more than 40 disruptions a day. Among the worst offenders, one individual placed 2,661 phone calls, while another sent 2,886 text messages. Accor...",
+        "fullText": [
+          "For the emergency dispatchers staffing Seoul’s 119 hotline — Korea’s equivalent of 911 — every second counts. Yet over the past year, a handful of individuals treated the city’s critical lifeline for fires, accidents, and medical emergencies as a personal bulletin board, a late-night cab service, and a sounding board for drunken rants.",
+          "The Seoul Metropolitan Government said Friday that it had filed criminal complaints against five habitual callers who collectively flooded the 119 emergency dispatch center with 8,710 non-emergency calls and text messages between September 2025 and August 2026. The barrage intensified sharply over the summer.",
+          "Between June and August alone, the five individuals accounted for 4,034 separate contacts — an average of more than 40 disruptions a day. Among the worst offenders, one individual placed 2,661 phone calls, while another sent 2,886 text messages.",
+          "Accor..."
+        ],
+        "words": [
+          "criminal",
+          "complaints",
+          "against"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Korean economy continues to 'grow at solid pace': finance ministry",
+        "url": "https://www.koreatimes.co.kr/economy/20261113/korean-economy-continues-to-grow-at-solid-pace-finance-ministry?utm_source=rss",
+        "summary": "The Korean economy continues to \"grow at a solid pace,\" although inflationary pressures stemming from high oil prices could weigh on people's livelihoods, the finance ministry said Friday. The Ministry of Finance and Economy offered the assessment in the November edition of its economic report, known as the Green Book, signaling a more positive view of economic conditions after previously describing the economy as continuing to \"recover.\" The finance ministry began using the term \"recovery\" in November 2025 and maintained the assessment through October this year, except in April. In its April report, the ministry temporarily dropped the reference to \"recovery,\" instead citing \"increased downside risks\" amid the Middle East war, before returning to the previous wording in May. \"Recently, the South Korean economy has continued to grow at a solid pace, supported by a substantial increase in...",
+        "fullText": [
+          "The Korean economy continues to \"grow at a solid pace,\" although inflationary pressures stemming from high oil prices could weigh on people's livelihoods, the finance ministry said Friday. The Ministry of Finance and Economy offered the assessment in the November edition of its economic report, known as the Green Book, signaling a more positive view of economic conditions after previously describing the economy as continuing to \"recover.",
+          "\" The finance ministry began using the term \"recovery\" in November 2025 and maintained the assessment through October this year, except in April. In its April report, the ministry temporarily dropped the reference to \"recovery,\" instead citing \"increased downside risks\" amid the Middle East war, before returning to the previous wording in May.",
+          "\"Recently, the South Korean economy has continued to grow at a solid pace, supported by a substantial increase in..."
+        ],
+        "words": [
+          "economy",
+          "continues",
+          "finance"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee to hold bilateral talks with Thai, Philippine leaders at ASEAN summit",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/others/20261113/lee-to-hold-bilateral-talks-with-thai-philippine-leaders-at-asean-summit?utm_source=rss",
+        "summary": "Korean President Lee Jae Myung will hold bilateral meetings with his Thai and Philippine counterparts next week on the sidelines of a summit of the Association of Southeast Asian Nations (ASEAN), his spokesperson said Friday. Presidential spokesperson Kang Yu-jung announced Lee's planned meetings as the Korean president is scheduled to attend the ASEAN summit in the Philippines and the Asia-Pacific Economic Cooperation (APEC) meeting in China. Lee will attend the ASEAN summit in Manila on Monday and Tuesday before traveling to China's Shenzhen on Wednesday for a two-day trip to attend the APEC summit. Lee will separately meet with Thai Prime Minister Anutin Charnvirakul and Philippine President Ferdinand Romualdez Marcos Jr. on Monday afternoon on the sidelines of the ASEAN summit, Kang said in a press release. On the sidelines of the APEC summit Wednesday, Lee will hold a luncheon meeti...",
+        "fullText": [
+          "Korean President Lee Jae Myung will hold bilateral meetings with his Thai and Philippine counterparts next week on the sidelines of a summit of the Association of Southeast Asian Nations (ASEAN), his spokesperson said Friday. Presidential spokesperson Kang Yu-jung announced Lee's planned meetings as the Korean president is scheduled to attend the ASEAN summit in the Philippines and the Asia-Pacific Economic Cooperation (APEC) meeting in China.",
+          "Lee will attend the ASEAN summit in Manila on Monday and Tuesday before traveling to China's Shenzhen on Wednesday for a two-day trip to attend the APEC summit. Lee will separately meet with Thai Prime Minister Anutin Charnvirakul and Philippine President Ferdinand Romualdez Marcos Jr.",
+          "on Monday afternoon on the sidelines of the ASEAN summit, Kang said in a press release. On the sidelines of the APEC summit Wednesday, Lee will hold a luncheon meeti..."
+        ],
+        "words": [
+          "bilateral",
+          "philippine",
+          "leaders"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
+        "url": "https://www.koreatimes.co.kr/world/20261113/chinas-access-to-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress?utm_source=rss",
+        "summary": "US House Speaker Mike Johnson said on Thursday there was growing consensus in Congress on limiting chip exports to China after a spy scandal forced out Nvidia CEO Jensen Huang. Huang stepped down after reports of a romantic relationship with a businesswoman whom US authorities suspect of spying for the Chinese government. Lawmakers from both parties have since called for tougher restrictions on China's access to advanced AI chips, threatening access to chips that underpin China's surging AI development. And senior White House officials were discussing whether Commerce Secretary Howard Lutnick should be pushed out, two people familiar with the situation said, as the desire to take action rose across Washington. A growing number of lawmakers have criticized Lutnick for the administration's refusal to add dozens of Chinese companies to a key US trade blacklist, and over whether the governme...",
+        "fullText": [
+          "US House Speaker Mike Johnson said on Thursday there was growing consensus in Congress on limiting chip exports to China after a spy scandal forced out Nvidia CEO Jensen Huang. Huang stepped down after reports of a romantic relationship with a businesswoman whom US authorities suspect of spying for the Chinese government.",
+          "Lawmakers from both parties have since called for tougher restrictions on China's access to advanced AI chips, threatening access to chips that underpin China's surging AI development. And senior White House officials were discussing whether Commerce Secretary Howard Lutnick should be pushed out, two people familiar with the situation said, as the desire to take action rose across Washington.",
+          "A growing number of lawmakers have criticized Lutnick for the administration's refusal to add dozens of Chinese companies to a key US trade blacklist, and over whether the governme..."
+        ],
+        "words": [
+          "access",
+          "nvidia",
+          "traction"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "label": "Thursday, November 12, 2026",
     "title": "Korea News Brief",
