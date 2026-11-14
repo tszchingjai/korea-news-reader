@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-14",
+    "label": "Saturday, November 14, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Inter-Korea, Weather, Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Trump to meet Xi, Putin in China next week; no plans for N. Korea engagement: reports",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261114/trump-to-meet-xi-putin-in-china-next-week-no-plans-for-n-korea-engagement-reports?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump is scheduled to meet Chinese President Xi Jinping and Russian President Vladimir Putin in China next week, while there are no plans for him to engage with North Korea during his upcoming Asia trip, foreign media reports said Friday. Trump will meet Xi and Putin on Thursday on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, China, Bloomberg reported, citing a White House spokeswoman. The planned meeting comes as Trump seeks a diplomatic solution to the war in Ukraine, while Washington and Beijing continue to navigate differences over trade, tariffs and other geopolitical issues. Separately, Reuters reported that a U.S. official said there were no plans for Trump to engage with North Korea during his trip to Asia next week, amid speculation over the possibility of renewed diplomacy between Washington and Pyongyang.",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump is scheduled to meet Chinese President Xi Jinping and Russian President Vladimir Putin in China next week, while there are no plans for him to engage with North Korea during his upcoming Asia trip, foreign media reports said Friday. Trump will meet Xi and Putin on Thursday on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, China, Bloomberg reported, citing a White House spokeswoman.",
+          "The planned meeting comes as Trump seeks a diplomatic solution to the war in Ukraine, while Washington and Beijing continue to navigate differences over trade, tariffs and other geopolitical issues. Separately, Reuters reported that a U.",
+          "S. official said there were no plans for Trump to engage with North Korea during his trip to Asia next week, amid speculation over the possibility of renewed diplomacy between Washington and Pyongyang."
+        ],
+        "words": [
+          "engagement",
+          "reports",
+          "washington"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "US grounds flights nationwide after air traffic control communications outage",
+        "url": "https://www.koreatimes.co.kr/world/20261114/us-grounds-flights-nationwide-after-air-traffic-control-communications-outage?utm_source=rss",
+        "summary": "WASHINGTON — The US Federal Aviation Administration grounded all departing flights nationwide on Friday after a communications failure hit air traffic control centers, in only the second such shutdown since the September 11, 2001, attacks. Nearly 7,000 flights were delayed or canceled, according to flight-tracking service FlightAware. Planes already in the air were allowed to land, but those on the ground could not take off. The disruption is the latest and most dramatic sign of strain on a US air traffic control system beset by equipment and communications failures, controller shortages and aging infrastructure. “The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers. FAA technicians are investigating the issue. We will provide immediate updates as we have them,” Transportation Secretary Sean Duffy sa...",
+        "fullText": [
+          "WASHINGTON — The US Federal Aviation Administration grounded all departing flights nationwide on Friday after a communications failure hit air traffic control centers, in only the second such shutdown since the September 11, 2001, attacks. Nearly 7,000 flights were delayed or canceled, according to flight-tracking service FlightAware.",
+          "Planes already in the air were allowed to land, but those on the ground could not take off. The disruption is the latest and most dramatic sign of strain on a US air traffic control system beset by equipment and communications failures, controller shortages and aging infrastructure.",
+          "“The FAA issued a nationwide ground stop for all U. S.",
+          "airports following a communication issue impacting all Air Route Traffic Control Centers. FAA technicians are investigating the issue.",
+          "We will provide immediate updates as we have them,” Transportation Secretary Sean Duffy sa..."
+        ],
+        "words": [
+          "grounds",
+          "flights",
+          "nationwide"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "With only 20,000 Korean War veterans still alive, gov't steps up efforts to preserve their stories",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261114/with-only-20000-korean-war-veterans-still-alive-govt-steps-up-efforts-to-preserve-their-stories?utm_source=rss",
+        "summary": "PYEONGTAEK, Gyeonggi Province — When a group of Korean War veterans visited Camp Humphreys on Nov. 5, the emotional meeting with a new generation of American soldiers offered a rare moment of recognition. However, for the roughly 20,000 Korean veterans of the 1950-53 war still living — now averaging 94 years old — the more urgent question is whether the government can provide adequate care, medical support and financial assistance in their remaining years. Vice Minister of Patriots and Veterans Affairs Kang Yun-jin, who accompanied them, said the visit brought back memories of her earlier work promoting exchanges between Korean and American veterans. Watching the veterans receive a warm welcome from U.S. soldiers was particularly moving, she said. But beyond such occasions, Kang said the government’s priority must be ensuring that veterans receive proper care and recognition while they a...",
+        "fullText": [
+          "PYEONGTAEK, Gyeonggi Province — When a group of Korean War veterans visited Camp Humphreys on Nov. 5, the emotional meeting with a new generation of American soldiers offered a rare moment of recognition.",
+          "However, for the roughly 20,000 Korean veterans of the 1950-53 war still living — now averaging 94 years old — the more urgent question is whether the government can provide adequate care, medical support and financial assistance in their remaining years. Vice Minister of Patriots and Veterans Affairs Kang Yun-jin, who accompanied them, said the visit brought back memories of her earlier work promoting exchanges between Korean and American veterans.",
+          "Watching the veterans receive a warm welcome from U. S.",
+          "soldiers was particularly moving, she said. But beyond such occasions, Kang said the government’s priority must be ensuring that veterans receive proper care and recognition while they a..."
+        ],
+        "words": [
+          "veterans",
+          "efforts",
+          "preserve"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Antitrust fines to hit brokerage, bank earnings but leave capital buffers intact: KIS report",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261114/antitrust-fines-to-hit-brokerage-bank-earnings-but-leave-capital-buffers-intact-kis-report?utm_source=rss",
+        "summary": "Korea’s largest-ever antitrust fine will cut into this year’s earnings at the brokerages and banks that underwrite government debt, but it is unlikely to weaken their capital buffers, according to Korea Investors Service (KIS), a Moody’s affiliate. In a report released earlier this week, the credit rating agency said the penalties imposed by the Korea Fair Trade Commission (FTC) will make “a short-term decline in profitability unavoidable,” especially at the firms facing the largest penalties. It added that their capital strength and the earnings they built up in the first half should be enough to absorb the cost, creating a formidable yet manageable financial hurdle for the country's primary financial institutions. The regulatory crackdown stems from an investigation into primary dealers in Korea's sovereign debt market. The FTC issued corrective orders on Wednesday and imposed roughly...",
+        "fullText": [
+          "Korea’s largest-ever antitrust fine will cut into this year’s earnings at the brokerages and banks that underwrite government debt, but it is unlikely to weaken their capital buffers, according to Korea Investors Service (KIS), a Moody’s affiliate. In a report released earlier this week, the credit rating agency said the penalties imposed by the Korea Fair Trade Commission (FTC) will make “a short-term decline in profitability unavoidable,” especially at the firms facing the largest penalties.",
+          "It added that their capital strength and the earnings they built up in the first half should be enough to absorb the cost, creating a formidable yet manageable financial hurdle for the country's primary financial institutions. The regulatory crackdown stems from an investigation into primary dealers in Korea's sovereign debt market.",
+          "The FTC issued corrective orders on Wednesday and imposed roughly..."
+        ],
+        "words": [
+          "antitrust",
+          "brokerage",
+          "earnings"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[COVER STORY] 'It feels like coming home': Korean War veterans revisit US Army base after 70 years",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261114/cover-story-it-feels-like-coming-home-korean-war-veterans-revisit-us-army-base-after-70-years?utm_source=rss",
+        "summary": "PYEONGTAEK, Gyeonggi Province — More than seven decades after the 1950-53 Korean War, a group of Korean veterans returned to a U.S. Army base where they once served — this time as honored guests of a new generation of American soldiers. “It feels like coming home,” said Kang Ku-kon, who was 15 when he volunteered and began helping care for wounded American soldiers at an Eighth Army field hospital. “I served here 70 years ago. The moment I walked in, even the smell was the same.” Kang was among a group of Korean War veterans welcomed to Camp Humphreys in Pyeongtaek, Gyeonggi Province, on Nov. 5. As their bus arrived at the Van Fleet Hall, a U.S. Army band began playing. For many of the visitors, now in their 90s, the trip offered a chance to see a place tied to their wartime service and meet the soldiers stationed there today. The visit grew out of a request from the veterans themselves....",
+        "fullText": [
+          "PYEONGTAEK, Gyeonggi Province — More than seven decades after the 1950-53 Korean War, a group of Korean veterans returned to a U. S.",
+          "Army base where they once served — this time as honored guests of a new generation of American soldiers. “It feels like coming home,” said Kang Ku-kon, who was 15 when he volunteered and began helping care for wounded American soldiers at an Eighth Army field hospital.",
+          "“I served here 70 years ago. The moment I walked in, even the smell was the same.",
+          "” Kang was among a group of Korean War veterans welcomed to Camp Humphreys in Pyeongtaek, Gyeonggi Province, on Nov. 5.",
+          "As their bus arrived at the Van Fleet Hall, a U. S.",
+          "Army band began playing. For many of the visitors, now in their 90s, the trip offered a chance to see a place tied to their wartime service and meet the soldiers stationed there today.",
+          "The visit grew out of a request from the veterans themselves...."
+        ],
+        "words": [
+          "coming",
+          "veterans",
+          "revisit"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[MORNING CALM TALES] Déjà vu and the 'Yakult ajumma'",
+        "url": "https://www.koreatimes.co.kr/opinion/20261114/morning-calm-tales-deja-vu-and-the-yakult-ajumma?utm_source=rss",
+        "summary": "The other day, I was walking back to my apartment when a familiar sight caught my eye. A woman was quietly gliding down the sidewalk in a small electric cart. Without thinking, I smiled and motioned for her to stop. As she came closer, my mind drifted back to the winter of 1991, when I was a young foreigner discovering Korea one small surprise at a time. During my first few weeks in Seoul, I became convinced I kept seeing the same woman. She was everywhere. I saw her near my apartment in Jamsil. A day or two later, I spotted her several blocks away. Then there she was again outside the subway station. At least, I thought it was her. She always looked the same — a light beige winter jacket, a matching cap, her breath hanging in the cold morning air as she pushed a small cart from one apartment building to the next. Was I seeing the same woman? Was it déjà vu? Everywhere I went, there she...",
+        "fullText": [
+          "The other day, I was walking back to my apartment when a familiar sight caught my eye. A woman was quietly gliding down the sidewalk in a small electric cart.",
+          "Without thinking, I smiled and motioned for her to stop. As she came closer, my mind drifted back to the winter of 1991, when I was a young foreigner discovering Korea one small surprise at a time.",
+          "During my first few weeks in Seoul, I became convinced I kept seeing the same woman. She was everywhere.",
+          "I saw her near my apartment in Jamsil. A day or two later, I spotted her several blocks away.",
+          "Then there she was again outside the subway station. At least, I thought it was her.",
+          "She always looked the same — a light beige winter jacket, a matching cap, her breath hanging in the cold morning air as she pushed a small cart from one apartment building to the next. Was I seeing the same woman?",
+          "Was it déjà vu? Everywhere I went, there she..."
+        ],
+        "words": [
+          "morning",
+          "yakult",
+          "ajumma"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Microsoft 'deeply sorry' as outage triggers global chaos",
+        "url": "https://www.koreatimes.co.kr/world/20261114/microsoft-deeply-sorry-as-outage-triggers-global-chaos?utm_source=rss",
+        "summary": "WASHINGTON — Microsoft on Friday apologized for a global outage that disrupted public services and businesses around the world, as it reported a \"broad recovery\" for Outlook email and other services. The company ruled out any malicious \"cyber or AI\" activity as the cause of the outage, which affected several Microsoft products and disrupted health care services, delayed corporate earnings reports and left schools struggling to communicate. \"We are deeply sorry for the disruption this incident has caused our customers and partners,\" Microsoft said on X, adding full services were still being restored after the outage started on Thursday. \"We are seeing broad recovery and stability across our services. This was a technical issue not related to cyber or AI / agents.\" The disruption knocked out Microsoft products in 74 countries and territories, affecting users across the Americas and parts o...",
+        "fullText": [
+          "WASHINGTON — Microsoft on Friday apologized for a global outage that disrupted public services and businesses around the world, as it reported a \"broad recovery\" for Outlook email and other services. The company ruled out any malicious \"cyber or AI\" activity as the cause of the outage, which affected several Microsoft products and disrupted health care services, delayed corporate earnings reports and left schools struggling to communicate.",
+          "\"We are deeply sorry for the disruption this incident has caused our customers and partners,\" Microsoft said on X, adding full services were still being restored after the outage started on Thursday. \"We are seeing broad recovery and stability across our services.",
+          "This was a technical issue not related to cyber or AI / agents. \" The disruption knocked out Microsoft products in 74 countries and territories, affecting users across the Americas and parts o..."
+        ],
+        "words": [
+          "microsoft",
+          "deeply",
+          "outage"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "label": "Friday, November 13, 2026",
     "title": "Korea News Brief",
