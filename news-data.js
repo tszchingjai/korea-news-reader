@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-15",
+    "label": "Sunday, November 15, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Politics, Law, Korea, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+        "url": "https://www.koreatimes.co.kr/world/20261115/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda?utm_source=rss",
+        "summary": "DENVER — Fresh from a midterm election landslide, Democrats met in Denver this week united in wanting to deliver voters relief from high costs, but split over how to achieve that, what lessons to draw from their victory and how combative they should be toward President Donald Trump. Despite the celebratory mood after the November 3 rout of Republicans, tensions between moderates and a restive progressive wing surfaced at the party's first major gathering since its victory, along with anxiety that the party could squander the opportunity voters had handed it. The gathering offered an early glimpse of the battle to define its future as prospective 2028 presidential candidates and senior leaders debated how to turn electoral success into a governing agenda while navigating long-standing ideological and generational divides. The conference, hosted by Majority Democrats, a group that advocate...",
+        "fullText": [
+          "DENVER — Fresh from a midterm election landslide, Democrats met in Denver this week united in wanting to deliver voters relief from high costs, but split over how to achieve that, what lessons to draw from their victory and how combative they should be toward President Donald Trump. Despite the celebratory mood after the November 3 rout of Republicans, tensions between moderates and a restive progressive wing surfaced at the party's first major gathering since its victory, along with anxiety that the party could squander the opportunity voters had handed it.",
+          "The gathering offered an early glimpse of the battle to define its future as prospective 2028 presidential candidates and senior leaders debated how to turn electoral success into a governing agenda while navigating long-standing ideological and generational divides. The conference, hosted by Majority Democrats, a group that advocate..."
+        ],
+        "words": [
+          "midterm",
+          "democrats",
+          "cost-cutting"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "[ZOOMER DIARIES] Something beautiful is going to happen",
+        "url": "https://www.koreatimes.co.kr/opinion/20261115/zoomer-diaries-something-beautiful-is-going-to-happen?utm_source=rss",
+        "summary": "I am not free from my own criticisms of the modern human condition. Consider my writing to be contaminated, but I tried my best regardless. It feels at times that we are all trapped in a cycle of mundanity, like a hamster on a wheel, running with all its strength to go nowhere, tricked into thinking stagnation is progress. It feels like there is nothing new to look forward to in my generation, or indeed in any generation after this, that will rival the scale of the previous generations. In this stagnation, I am reminded of the 2019 video game Disco Elysium. In this cult classic, we follow a police detective who has lost all hope and joy in life, tasked with investigating a murder mystery in the port city of Martinaise. The people of Martinaise, from corrupt union officials to unapologetic racists and even snobbish venture capitalists, all speak with a voice tinged with despair — at peace...",
+        "fullText": [
+          "I am not free from my own criticisms of the modern human condition. Consider my writing to be contaminated, but I tried my best regardless.",
+          "It feels at times that we are all trapped in a cycle of mundanity, like a hamster on a wheel, running with all its strength to go nowhere, tricked into thinking stagnation is progress. It feels like there is nothing new to look forward to in my generation, or indeed in any generation after this, that will rival the scale of the previous generations.",
+          "In this stagnation, I am reminded of the 2019 video game Disco Elysium. In this cult classic, we follow a police detective who has lost all hope and joy in life, tasked with investigating a murder mystery in the port city of Martinaise.",
+          "The people of Martinaise, from corrupt union officials to unapologetic racists and even snobbish venture capitalists, all speak with a voice tinged with despair — at peace..."
+        ],
+        "words": [
+          "zoomer",
+          "diaries",
+          "something"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Riots in France: How anti-government protests spiraled out of control",
+        "url": "https://www.koreatimes.co.kr/world/20261115/riots-in-france-how-anti-government-protests-spiraled-out-of-control?utm_source=rss",
+        "summary": "PARIS — Smashed windows and ransacked shops. Bloodied teenage protesters. A city hall on fire. Such scenes shocked France as rioting erupted last month during nationwide protests over high living costs and strained public services. Government officials have repeatedly blamed far-left radicals and “opportunistic delinquents,” who they say took advantage of mostly peaceful demonstrations to attack symbols of state authority and capitalism across France. But the authorities’ heavy-handed response – including thousands of arrests, police beatings and curbs on marches – has added to the volatile mix of grievances fueling an anti-government groundswell that shows no sign of abating before next year’s presidential election, Reuters found. Reuters journalists reviewed dozens of videos of the violence, attended the court hearings of 26 people accused of taking part and interviewed over 50 governm...",
+        "fullText": [
+          "PARIS — Smashed windows and ransacked shops. Bloodied teenage protesters.",
+          "A city hall on fire. Such scenes shocked France as rioting erupted last month during nationwide protests over high living costs and strained public services.",
+          "Government officials have repeatedly blamed far-left radicals and “opportunistic delinquents,” who they say took advantage of mostly peaceful demonstrations to attack symbols of state authority and capitalism across France. But the authorities’ heavy-handed response – including thousands of arrests, police beatings and curbs on marches – has added to the volatile mix of grievances fueling an anti-government groundswell that shows no sign of abating before next year’s presidential election, Reuters found.",
+          "Reuters journalists reviewed dozens of videos of the violence, attended the court hearings of 26 people accused of taking part and interviewed over 50 governm..."
+        ],
+        "words": [
+          "france",
+          "anti-government",
+          "protests"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+        "url": "https://www.koreatimes.co.kr/world/20261115/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang?utm_source=rss",
+        "summary": "Elon Musk said chipmaker Nvidia would lose \"critical\" deals without its now ousted CEO Jensen Huang, in a post on X on Saturday. Musk said that while Huang drove supply chain \"brilliantly\" at Nvidia, many such deals were \"a handshake with Jensen, not a written contract.\"",
+        "fullText": [
+          "Elon Musk said chipmaker Nvidia would lose \"critical\" deals without its now ousted CEO Jensen Huang, in a post on X on Saturday. Musk said that while Huang drove supply chain \"brilliantly\" at Nvidia, many such deals were \"a handshake with Jensen, not a written contract.",
+          "\""
+        ],
+        "words": [
+          "nvidia",
+          "critical",
+          "without"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
+        "url": "https://www.koreatimes.co.kr/world/20261115/air-travel-issues-to-persist-well-into-sunday-officials-say-with-thousands-of-flights-affected?utm_source=rss",
+        "summary": "WASHINGTON — The head of the FAA predicted that US air travel would not return to normal schedules until late Sunday as the aviation system gradually recovers from a nationwide flight shutdown that officials blamed on routine maintenance gone awry. As of 4:15 pm ET (2115 GMT), airlines on Saturday had canceled more than 5,300 US flights and delayed almost 6,300, according to FlightAware, an aviation website. That followed about 9,200 flights canceled and 7,500 delayed on Friday after the FAA ordered a nationwide ground stop because of disruptions to air traffic communications. Federal Aviation Administration head Bryan Bedford said on Saturday that he expected airline operations to largely return to normal by late Sunday. He also apologized for the disruption, adding that the system remains stable. The FAA issued a nationwide ground stop on Friday that halted nearly all departing flights...",
+        "fullText": [
+          "WASHINGTON — The head of the FAA predicted that US air travel would not return to normal schedules until late Sunday as the aviation system gradually recovers from a nationwide flight shutdown that officials blamed on routine maintenance gone awry. As of 4:15 pm ET (2115 GMT), airlines on Saturday had canceled more than 5,300 US flights and delayed almost 6,300, according to FlightAware, an aviation website.",
+          "That followed about 9,200 flights canceled and 7,500 delayed on Friday after the FAA ordered a nationwide ground stop because of disruptions to air traffic communications. Federal Aviation Administration head Bryan Bedford said on Saturday that he expected airline operations to largely return to normal by late Sunday.",
+          "He also apologized for the disruption, adding that the system remains stable. The FAA issued a nationwide ground stop on Friday that halted nearly all departing flights..."
+        ],
+        "words": [
+          "travel",
+          "issues",
+          "persist"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "[K-ART FOCUS] For Seok Chang-woo, painting opened world beyond his dreams",
+        "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20261115/k-art-focus-for-seok-chang-woo-painting-opened-world-beyond-his-dreams?utm_source=rss",
+        "summary": "It was lunchtime on Oct. 29, 1984. Seok Chang-woo, a 29-year-old electrical technician with a young daughter and a newborn son, was inspecting electrical equipment at work. He climbed up to clean one remaining spot, then everything went blank. When he regained consciousness, he was in intensive care. Electrocuted by an astonishing 22,900 volts, Seok was hospitalized for a year and a half and lost both of his arms and two toes. On Feb. 1, 1988, four years later, his son, who turned four, carried a drawing pad to his mother and asked her to draw a bird. Busy with housework, she told him to ask his father. Realizing what she had said, she hurried into his room. She saw Seok fitting a pencil into the hook of his prosthesis and was drawing an eagle from a bird guide. “Wow, Dad, it looks like a real bird,” his son exclaimed. Encouraged, Seok drew more: sparrows, magpies and swallows, then cart...",
+        "fullText": [
+          "It was lunchtime on Oct. 29, 1984.",
+          "Seok Chang-woo, a 29-year-old electrical technician with a young daughter and a newborn son, was inspecting electrical equipment at work. He climbed up to clean one remaining spot, then everything went blank.",
+          "When he regained consciousness, he was in intensive care. Electrocuted by an astonishing 22,900 volts, Seok was hospitalized for a year and a half and lost both of his arms and two toes.",
+          "On Feb. 1, 1988, four years later, his son, who turned four, carried a drawing pad to his mother and asked her to draw a bird.",
+          "Busy with housework, she told him to ask his father. Realizing what she had said, she hurried into his room.",
+          "She saw Seok fitting a pencil into the hook of his prosthesis and was drawing an eagle from a bird guide. “Wow, Dad, it looks like a real bird,” his son exclaimed.",
+          "Encouraged, Seok drew more: sparrows, magpies and swallows, then cart..."
+        ],
+        "words": [
+          "chang-woo",
+          "painting",
+          "opened"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Audi Korea accelerates recovery on solid sales of redesigned A6",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261115/audi-korea-accelerates-recovery-on-solid-sales-of-redesigned-a6?utm_source=rss",
+        "summary": "Audi Korea surpassed 10,000 units in cumulative sales early this month, driven by solid sales of its redesigned A6 flagship sedan and expanded vehicle lineups with diverse powertrains, the carmaker said. The sales figure was achieved a month earlier than last year, marking the second consecutive year that the German automaker has hit the 10,000-unit sales milestone in Korea. Audi Korea is on track for a rapid sales rebound here after it revamped its overall strategy with a focus on product portfolio expansion. The carmaker introduced 16 new models last year, including flagship all-electric models — the Q6 e-tron and A6 e-tron — as well as the A5 sports sedan and Q5 SUV with internal combustion engines. The A6 sedan is particularly the key sales driver for Audi Korea, with the model's sales reaching 2,241 between January and September here, according to the carmaker. The strategy is desig...",
+        "fullText": [
+          "Audi Korea surpassed 10,000 units in cumulative sales early this month, driven by solid sales of its redesigned A6 flagship sedan and expanded vehicle lineups with diverse powertrains, the carmaker said. The sales figure was achieved a month earlier than last year, marking the second consecutive year that the German automaker has hit the 10,000-unit sales milestone in Korea.",
+          "Audi Korea is on track for a rapid sales rebound here after it revamped its overall strategy with a focus on product portfolio expansion. The carmaker introduced 16 new models last year, including flagship all-electric models — the Q6 e-tron and A6 e-tron — as well as the A5 sports sedan and Q5 SUV with internal combustion engines.",
+          "The A6 sedan is particularly the key sales driver for Audi Korea, with the model's sales reaching 2,241 between January and September here, according to the carmaker. The strategy is desig..."
+        ],
+        "words": [
+          "accelerates",
+          "recovery",
+          "redesigned"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "label": "Saturday, November 14, 2026",
     "title": "Korea News Brief",
