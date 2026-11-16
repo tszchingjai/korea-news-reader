@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-16",
+    "label": "Monday, November 16, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Politics, Economy, Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "AI cheating : Why preemptive measures are essential",
+        "url": "https://www.koreatimes.co.kr/opinion/editorial/20261116/ed-ai-cheating-why-preemptive-measures-are-essential?utm_source=rss",
+        "summary": "A cheating scandal involving the national tax accountant certification exam has sent shockwaves throughout the nation. It highlights how vulnerable society can become when technological advances outpace the institutions designed to regulate them. Prime Minister Han Seong-sook called for thorough preparations to prevent AI-assisted cheating, citing growing public concerns over the integrity of state exams. “There are growing concerns among the public about state-administered exams,” she said at a meeting with officials from relevant ministries on Monday. “Those who have worked hard to prepare for these exams should not be disadvantaged by the cheating of others. Such misconduct should also not undermine public trust in competitive examinations.” Han called for comprehensive measures before and after exams to prevent AI-assisted cheating and ensure the fairness and credibility of public ex...",
+        "fullText": [
+          "A cheating scandal involving the national tax accountant certification exam has sent shockwaves throughout the nation. It highlights how vulnerable society can become when technological advances outpace the institutions designed to regulate them.",
+          "Prime Minister Han Seong-sook called for thorough preparations to prevent AI-assisted cheating, citing growing public concerns over the integrity of state exams. “There are growing concerns among the public about state-administered exams,” she said at a meeting with officials from relevant ministries on Monday.",
+          "“Those who have worked hard to prepare for these exams should not be disadvantaged by the cheating of others. Such misconduct should also not undermine public trust in competitive examinations.",
+          "” Han called for comprehensive measures before and after exams to prevent AI-assisted cheating and ensure the fairness and credibility of public ex..."
+        ],
+        "words": [
+          "cheating",
+          "preemptive",
+          "measures"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "PM vows to mobilize all national capabilities to prevent AI cheating on college entrance exam",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261116/pm-vows-to-mobilize-all-national-capabilities-to-prevent-ai-cheating-on-college-entrance-exam?utm_source=rss",
+        "summary": "Prime Minister Han Seong-sook pledged Monday to mobilize \"all national capabilities\" to prevent cheating using artificial intelligence (AI) during this week's college entrance exam, following the confession by the top scorer of this year's certified tax accountant exam that he cheated with the help of AI. The man admitted Sunday to using a miniature camera, a smartphone and generative AI in both rounds of the exam, confirming suspicions that the unrealistically high scores he received in the highly difficult test are impossible without the help of AI. He also said he had used the same method to cheat on a certified public accountant exam. The confession raised concerns that AI-assisted cheating could be more widespread than previously thought and could have gone unnoticed in other exams. It also deepened worries that such a method could be used in this year's nationwide College Scholasti...",
+        "fullText": [
+          "Prime Minister Han Seong-sook pledged Monday to mobilize \"all national capabilities\" to prevent cheating using artificial intelligence (AI) during this week's college entrance exam, following the confession by the top scorer of this year's certified tax accountant exam that he cheated with the help of AI. The man admitted Sunday to using a miniature camera, a smartphone and generative AI in both rounds of the exam, confirming suspicions that the unrealistically high scores he received in the highly difficult test are impossible without the help of AI.",
+          "He also said he had used the same method to cheat on a certified public accountant exam. The confession raised concerns that AI-assisted cheating could be more widespread than previously thought and could have gone unnoticed in other exams.",
+          "It also deepened worries that such a method could be used in this year's nationwide College Scholasti..."
+        ],
+        "words": [
+          "mobilize",
+          "national",
+          "capabilities"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Presidential envoy expresses Korea's commitment to green transformation at COP31",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/others/20261116/presidential-envoy-expresses-koreas-commitment-to-green-transformation-at-cop31?utm_source=rss",
+        "summary": "Korea's presidential envoy to the UN climate summit has called for joint international efforts to tackle the climate crisis and expressed the country's commitment to a green transformation, the foreign ministry said Monday. Kang Kum-sil, ambassador for global climate and environment, made the remarks in a speech at the leaders' summit of the 31st Conference of the Parties to the UN Framework Convention on Climate Change (COP31) in Turkey on Thursday, according to the ministry. Kang stressed the need for international cooperation on climate action and outlined Korea's 2035 nationally determined contribution (NDC) and K-GX strategy, which aims to turn the country into an \"electrostate\" through industrial decarbonization, renewable energy expansion and power grid development. Kang also voiced support for Turkey's \"35-by-35 Global Electrification Pledge,\" which aims to raise electricity's sh...",
+        "fullText": [
+          "Korea's presidential envoy to the UN climate summit has called for joint international efforts to tackle the climate crisis and expressed the country's commitment to a green transformation, the foreign ministry said Monday. Kang Kum-sil, ambassador for global climate and environment, made the remarks in a speech at the leaders' summit of the 31st Conference of the Parties to the UN Framework Convention on Climate Change (COP31) in Turkey on Thursday, according to the ministry.",
+          "Kang stressed the need for international cooperation on climate action and outlined Korea's 2035 nationally determined contribution (NDC) and K-GX strategy, which aims to turn the country into an \"electrostate\" through industrial decarbonization, renewable energy expansion and power grid development. Kang also voiced support for Turkey's \"35-by-35 Global Electrification Pledge,\" which aims to raise electricity's sh..."
+        ],
+        "words": [
+          "presidential",
+          "expresses",
+          "commitment"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul stocks open tad higher ahead of Nvidia earnings, key events",
+        "url": "https://www.koreatimes.co.kr/economy/20261116/seoul-stocks-open-tad-higher-ahead-of-nvidia-earnings-key-events?utm_source=rss",
+        "summary": "Korean shares opened slightly lower Monday as investors braced for a series of major U.S. events this week, including Anthropic's initial public offering and Nvidia Corp.'s earnings release, amid uncertainty over the artificial intelligence (AI) industry. After opening 0.28 percent higher, the benchmark Korea Composite Stock Price Index (KOSPI) turned lower, shedding 4.21 points, or 0.08 percent, to 5,286.32 as of 9:15 a.m. On Friday, the KOSPI plunged amid uncertainty over the future of the global artificial intelligence (AI) ecosystem following Nvidia CEO Jensen Huang's departure from the company. Huang has played a pivotal role in driving the current AI boom. On Wall Street, major stock indexes finished mixed on Friday. The Dow Jones Industrial Average edged up 0.1 percent, while the S&P 500 fell 0.4 percent and the Nasdaq Composite declined 0.91 percent. Nvidia shares fell 2.01 perce...",
+        "fullText": [
+          "Korean shares opened slightly lower Monday as investors braced for a series of major U. S.",
+          "events this week, including Anthropic's initial public offering and Nvidia Corp. 's earnings release, amid uncertainty over the artificial intelligence (AI) industry.",
+          "After opening 0. 28 percent higher, the benchmark Korea Composite Stock Price Index (KOSPI) turned lower, shedding 4.",
+          "21 points, or 0. 08 percent, to 5,286.",
+          "32 as of 9:15 a. m.",
+          "On Friday, the KOSPI plunged amid uncertainty over the future of the global artificial intelligence (AI) ecosystem following Nvidia CEO Jensen Huang's departure from the company. Huang has played a pivotal role in driving the current AI boom.",
+          "On Wall Street, major stock indexes finished mixed on Friday. The Dow Jones Industrial Average edged up 0.",
+          "1 percent, while the S&P 500 fell 0. 4 percent and the Nasdaq Composite declined 0.",
+          "91 percent. Nvidia shares fell 2.",
+          "01 perce..."
+        ],
+        "words": [
+          "stocks",
+          "higher",
+          "nvidia"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "BTS wins 2 grand prizes, 4 other awards at Melon Music Awards 2026",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261116/bts-wins-2-grand-prizes-4-other-awards-at-melon-music-awards-2026?utm_source=rss",
+        "summary": "K-pop juggernaut BTS has won six awards at the Melon Music Awards 2026 (MMA2026) in Seoul, including Artist of the Year and Album of the Year, making it the ceremony's biggest winner. BTS received Artist of the Year, Top 10 and Best Male Group on Sunday, the second day of the two-day event at Gocheok Sky Dome. The group had already won Album of the Year, Stage of the Year and Global Top 10 on the first day of the ceremony. BTS did not attend the awards show but delivered an acceptance message by video. \"2026 will probably be a year we will never forget, and I think it will be the same for ARMY as well,\" member Suga said, referring to the name of the group's fandom. Jimin said the group had returned to fans after three years and nine months with its album \"Arirang.\" \"It was such a joy to meet ARMY again, people we missed and are grateful for, and perform for them,\" he said. BTS topped the...",
+        "fullText": [
+          "K-pop juggernaut BTS has won six awards at the Melon Music Awards 2026 (MMA2026) in Seoul, including Artist of the Year and Album of the Year, making it the ceremony's biggest winner. BTS received Artist of the Year, Top 10 and Best Male Group on Sunday, the second day of the two-day event at Gocheok Sky Dome.",
+          "The group had already won Album of the Year, Stage of the Year and Global Top 10 on the first day of the ceremony. BTS did not attend the awards show but delivered an acceptance message by video.",
+          "\"2026 will probably be a year we will never forget, and I think it will be the same for ARMY as well,\" member Suga said, referring to the name of the group's fandom. Jimin said the group had returned to fans after three years and nine months with its album \"Arirang.",
+          "\" \"It was such a joy to meet ARMY again, people we missed and are grateful for, and perform for them,\" he said. BTS topped the..."
+        ],
+        "words": [
+          "prizes",
+          "awards",
+          "juggernaut"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
+        "url": "https://www.koreatimes.co.kr/world/20261116/thousands-of-flights-canceled-as-airlines-work-to-dig-out-from-nationwide-ground-stop?utm_source=rss",
+        "summary": "WASHINGTON — Airlines across the U.S. worked to recover from the longest nationwide ground stop in 25 years that canceled more than 2,500 flights Saturday, spread ripple effects around the world, stranded passengers and forced pro and college sports teams to scramble for alternate transportation. New technology being added to the nation’s air traffic control system overloaded antiquated equipment and caused “intermittent” communications and radar gaps, leading to the flight shutdown of more than four hours, Trump administration officials said. Airports were slowly returning to normal, Secretary of Transportation Sean Duffy said, with planes taking flight and landing. But the effects could be felt for days, with officials saying the system would likely return to normal in time to handle the Thanksgiving travel rush. The nationwide stop was the first since January 2023 , when another key F...",
+        "fullText": [
+          "WASHINGTON — Airlines across the U. S.",
+          "worked to recover from the longest nationwide ground stop in 25 years that canceled more than 2,500 flights Saturday, spread ripple effects around the world, stranded passengers and forced pro and college sports teams to scramble for alternate transportation. New technology being added to the nation’s air traffic control system overloaded antiquated equipment and caused “intermittent” communications and radar gaps, leading to the flight shutdown of more than four hours, Trump administration officials said.",
+          "Airports were slowly returning to normal, Secretary of Transportation Sean Duffy said, with planes taking flight and landing. But the effects could be felt for days, with officials saying the system would likely return to normal in time to handle the Thanksgiving travel rush.",
+          "The nationwide stop was the first since January 2023 , when another key F..."
+        ],
+        "words": [
+          "thousands",
+          "flights",
+          "canceled"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Cybertruck repurposed as raccoon dumpster",
+        "url": "https://www.koreatimes.co.kr/opinion/20261116/cybertruck-repurposed-as-raccoon-dumpster?utm_source=rss",
+        "summary": "Cybertruck repurposed as raccoon dumpster",
+        "fullText": [
+          "Cybertruck repurposed as raccoon dumpster"
+        ],
+        "words": [
+          "cybertruck",
+          "repurposed",
+          "raccoon"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "label": "Sunday, November 15, 2026",
     "title": "Korea News Brief",
