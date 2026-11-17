@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-17",
+    "label": "Tuesday, November 17, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Politics, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "AI usage spreads rapidly among S. Korean workers, but productivity gains remain limited: report",
+        "url": "https://www.koreatimes.co.kr/economy/20261117/ai-usage-spreads-rapidly-among-s-korean-workers-but-productivity-gains-remain-limited-report?utm_source=rss",
+        "summary": "Generative artificial intelligence (AI) tools have spread rapidly among South Korean workers in recent years but have had a limited impact on improving productivity, a central bank report said Tuesday. The report published by the Bank of Korea (BOK) said 66.5 percent of employees surveyed said they were using one of the available generative AI tools, including ChatGPT, Gemini and Claude, this year, up from 51.8 percent a year earlier, citing surveys of more than 16,000 people in 2025 and 2026. Their weekly AI usage rose to 8 hours from 5.9 hours over the one-year period, while 28.4 percent of AI users subscribed to paid AI services, spending an average of 49,000 won ($37) per month this year. The BOK report showed that the 2026 figure of 66.5 percent was higher than the corresponding rates in the United States (43 percent) and Germany (31.5 percent), citing separate research. Respondents...",
+        "fullText": [
+          "Generative artificial intelligence (AI) tools have spread rapidly among South Korean workers in recent years but have had a limited impact on improving productivity, a central bank report said Tuesday. The report published by the Bank of Korea (BOK) said 66.",
+          "5 percent of employees surveyed said they were using one of the available generative AI tools, including ChatGPT, Gemini and Claude, this year, up from 51. 8 percent a year earlier, citing surveys of more than 16,000 people in 2025 and 2026.",
+          "Their weekly AI usage rose to 8 hours from 5. 9 hours over the one-year period, while 28.",
+          "4 percent of AI users subscribed to paid AI services, spending an average of 49,000 won ($37) per month this year. The BOK report showed that the 2026 figure of 66.",
+          "5 percent was higher than the corresponding rates in the United States (43 percent) and Germany (31. 5 percent), citing separate research.",
+          "Respondents..."
+        ],
+        "words": [
+          "spreads",
+          "rapidly",
+          "workers"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Cute faces like Muse Charm are a Trojan horse for exploitative AI tech",
+        "url": "https://www.koreatimes.co.kr/opinion/20261117/cute-faces-like-muse-charm-are-a-trojan-horse-for-exploitative-ai-tech?utm_source=rss",
+        "summary": "Meta has rolled out its new artificial intelligence (AI) assistant, the Muse Charm. The marketing feels deliberately disarming. Charm is a keychain-size gadget that looks like something you’d find in a child’s bedroom, a distant cousin of Furby or a Pixar character. It’s soft and approachable. Nothing about its appearance suggests the power of the technology behind it, or the consequences of giving it access to our private lives. For years, companies selling potentially harmful products have understood that appearance can be as important as function. Tobacco companies used cartoon characters to appeal to younger consumers. Vaping companies have faced scrutiny over candy flavors and designs that attract children, and alcohol companies are increasingly relying on bright colors and playful packaging to make drinking seem harmless. With artificial intelligence, we’re watching a similar dynam...",
+        "fullText": [
+          "Meta has rolled out its new artificial intelligence (AI) assistant, the Muse Charm. The marketing feels deliberately disarming.",
+          "Charm is a keychain-size gadget that looks like something you’d find in a child’s bedroom, a distant cousin of Furby or a Pixar character. It’s soft and approachable.",
+          "Nothing about its appearance suggests the power of the technology behind it, or the consequences of giving it access to our private lives. For years, companies selling potentially harmful products have understood that appearance can be as important as function.",
+          "Tobacco companies used cartoon characters to appeal to younger consumers. Vaping companies have faced scrutiny over candy flavors and designs that attract children, and alcohol companies are increasingly relying on bright colors and playful packaging to make drinking seem harmless.",
+          "With artificial intelligence, we’re watching a similar dynam..."
+        ],
+        "words": [
+          "trojan",
+          "exploitative",
+          "rolled"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Policy loans eyed for key firms for regional development: regulator",
+        "url": "https://www.koreatimes.co.kr/economy/20261117/policy-loans-eyed-for-key-firms-for-regional-development-regulator?utm_source=rss",
+        "summary": "The country's financial regulator said Tuesday that policy lenders, as well as local governments, will provide 4.5 trillion won ($3.36 billion) worth of low interest loans to major firms based outside the capital region. The Financial Services Commission (FSC) said banks will provide 300 billion won over the next three years, and state-run guarantee agencies will provide up to 4.5 trillion won worth of guarantee services for loans extended to firms in 13 key regions and cities. According to the regulator, local governments will join the scheme by covering parts of loan payments. The loan extension is part of the government's push to support regional development and create more jobs in the regions.",
+        "fullText": [
+          "The country's financial regulator said Tuesday that policy lenders, as well as local governments, will provide 4. 5 trillion won ($3.",
+          "36 billion) worth of low interest loans to major firms based outside the capital region. The Financial Services Commission (FSC) said banks will provide 300 billion won over the next three years, and state-run guarantee agencies will provide up to 4.",
+          "5 trillion won worth of guarantee services for loans extended to firms in 13 key regions and cities. According to the regulator, local governments will join the scheme by covering parts of loan payments.",
+          "The loan extension is part of the government's push to support regional development and create more jobs in the regions."
+        ],
+        "words": [
+          "policy",
+          "regional",
+          "development"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Ruling party leader says will push for 10-year exam ban for AI-assisted cheating",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261117/ruling-party-leader-says-will-push-for-10-year-exam-ban-for-ai-assisted-cheating?utm_source=rss",
+        "summary": "The leader of the ruling Democratic Party of Korea (DPK) said Tuesday that the party will push for legislation to bar those caught using artificial intelligence (AI) to cheat on national exams from retaking the tests, including the annual college entrance exam, for up to 10 years. Rep. Kim Min-seok's remarks came after the top scorer on the country's national tax accountant exam admitted to having used a microcamera and AI-assisted devices to cheat, raising concerns ahead of Thursday's nationwide college entrance exam. \"We will prepare legislation to bar those caught cheating from taking the exam for up to 10 years,\" Kim said on the DPK's official YouTube channel. \"Currently, those caught cheating on national exams face a five-year ban, while those caught cheating on the College Scholastic Ability Test (CSAT) are barred from retaking the exam the following year,\" Kim said, referring to t...",
+        "fullText": [
+          "The leader of the ruling Democratic Party of Korea (DPK) said Tuesday that the party will push for legislation to bar those caught using artificial intelligence (AI) to cheat on national exams from retaking the tests, including the annual college entrance exam, for up to 10 years. Rep.",
+          "Kim Min-seok's remarks came after the top scorer on the country's national tax accountant exam admitted to having used a microcamera and AI-assisted devices to cheat, raising concerns ahead of Thursday's nationwide college entrance exam. \"We will prepare legislation to bar those caught cheating from taking the exam for up to 10 years,\" Kim said on the DPK's official YouTube channel.",
+          "\"Currently, those caught cheating on national exams face a five-year ban, while those caught cheating on the College Scholastic Ability Test (CSAT) are barred from retaking the exam the following year,\" Kim said, referring to t..."
+        ],
+        "words": [
+          "ruling",
+          "leader",
+          "ai-assisted"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Alibaba.com wins customer trust award in Korea",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261117/alibabacom-wins-customer-trust-award-in-korea?utm_source=rss",
+        "summary": "Alibaba.com has won a customer trust award in Korea, as growing numbers of local businesses turn to the global sourcing platform to find overseas suppliers, manage payments and expand manufacturing partnerships. The global business-to-business commerce platform said Tuesday it received the top award in the business-to-business platform category at Forbes Korea's 2026 Customer Trust No. 1 Premium Brand awards, organized by JoongAng Ilbo and Forbes Korea. The recognition followed evaluations of brand competitiveness and reliability by consumers and experts, according to the company. Alibaba.com attributed the award to services designed to make international transactions safer and more efficient, including Trade Assurance, its transaction protection system, and Accio, its artificial intelligence (AI)-powered business assistant. Accio, introduced in Korea in 2026, helps companies conduct mar...",
+        "fullText": [
+          "Alibaba. com has won a customer trust award in Korea, as growing numbers of local businesses turn to the global sourcing platform to find overseas suppliers, manage payments and expand manufacturing partnerships.",
+          "The global business-to-business commerce platform said Tuesday it received the top award in the business-to-business platform category at Forbes Korea's 2026 Customer Trust No. 1 Premium Brand awards, organized by JoongAng Ilbo and Forbes Korea.",
+          "The recognition followed evaluations of brand competitiveness and reliability by consumers and experts, according to the company. Alibaba.",
+          "com attributed the award to services designed to make international transactions safer and more efficient, including Trade Assurance, its transaction protection system, and Accio, its artificial intelligence (AI)-powered business assistant. Accio, introduced in Korea in 2026, helps companies conduct mar..."
+        ],
+        "words": [
+          "alibaba",
+          "customer",
+          "growing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Busan sees surge in repeat visitors from Taiwan",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261117/busan-sees-surge-in-repeat-visitors-from-taiwan?utm_source=rss",
+        "summary": "More than half of Taiwanese tourists visiting Busan are repeat travelers, underscoring the Korean port city’s growing appeal beyond first-time sightseers, according to a survey by municipal tourism officials. The Busan Metropolitan Government and Busan Tourism Organization said Monday that their promotional campaign at the 2026 Taiwan International Travel Fair, held Nov. 6-9 at Taipei Nangang Exhibition Center, attracted more than 8,000 visitors. Of the 4,987 people surveyed at the booth, 55.3 percent said they had previously visited Busan, while 23 percent had returned at least twice. Interest in future travel was even stronger, with 90.1 percent saying they intended to visit or return to Busan within the next year. The survey identified the city's beaches, local cuisine and distinctive attractions as its biggest draws. Haeundae and Gwangalli beaches topped the list, cited by 64.2 perce...",
+        "fullText": [
+          "More than half of Taiwanese tourists visiting Busan are repeat travelers, underscoring the Korean port city’s growing appeal beyond first-time sightseers, according to a survey by municipal tourism officials. The Busan Metropolitan Government and Busan Tourism Organization said Monday that their promotional campaign at the 2026 Taiwan International Travel Fair, held Nov.",
+          "6-9 at Taipei Nangang Exhibition Center, attracted more than 8,000 visitors. Of the 4,987 people surveyed at the booth, 55.",
+          "3 percent said they had previously visited Busan, while 23 percent had returned at least twice. Interest in future travel was even stronger, with 90.",
+          "1 percent saying they intended to visit or return to Busan within the next year. The survey identified the city's beaches, local cuisine and distinctive attractions as its biggest draws.",
+          "Haeundae and Gwangalli beaches topped the list, cited by 64. 2 perce..."
+        ],
+        "words": [
+          "repeat",
+          "visitors",
+          "taiwan"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "CJ CheilJedang introduces biodegradable pellets for artificial sports turf",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261117/cj-cheiljedang-introduces-biodegradable-pellets-for-artificial-sports-turf?utm_source=rss",
+        "summary": "CJ CheilJedang, Korea’s largest food and biotechnology company, introduced biodegradable artificial turf pellets made from plant-based materials at a Korean sports facility for the first time, marking a step toward reducing microplastic pollution on playing fields. The company said Tuesday it had completed installation of polyhydroxyalkanoate (PHA)-based infill at Korea Football Park Stadium in Cheonan, South Chungcheong Province, which houses training facilities for Korea's national soccer teams. Artificial turf infill helps support synthetic grass and absorb impact, reducing the risk of injuries among players, but conventional products are largely made from petroleum-based synthetic rubber. As these materials wear down or escape from playing surfaces, they can contribute to microplastic pollution, raising concerns about environmental damage. The European Union has classified artificial...",
+        "fullText": [
+          "CJ CheilJedang, Korea’s largest food and biotechnology company, introduced biodegradable artificial turf pellets made from plant-based materials at a Korean sports facility for the first time, marking a step toward reducing microplastic pollution on playing fields. The company said Tuesday it had completed installation of polyhydroxyalkanoate (PHA)-based infill at Korea Football Park Stadium in Cheonan, South Chungcheong Province, which houses training facilities for Korea's national soccer teams.",
+          "Artificial turf infill helps support synthetic grass and absorb impact, reducing the risk of injuries among players, but conventional products are largely made from petroleum-based synthetic rubber. As these materials wear down or escape from playing surfaces, they can contribute to microplastic pollution, raising concerns about environmental damage.",
+          "The European Union has classified artificial..."
+        ],
+        "words": [
+          "cheiljedang",
+          "introduces",
+          "biodegradable"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "label": "Monday, November 16, 2026",
     "title": "Korea News Brief",
