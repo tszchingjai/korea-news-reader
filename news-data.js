@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-18",
+    "label": "Wednesday, November 18, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "HUFS celebrates 60 years of Thai studies with international conference, cultural festival",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261118/hufs-celebrates-60-years-of-thai-studies-with-international-conference-cultural-festival?utm_source=rss",
+        "summary": "Hankuk University of Foreign Studies (HUFS) celebrated the 60th anniversary of its Department of Thai Studies with a series of events, including an international academic conference and a cultural festival, on Nov. 5–6, the university said. Founded in 1966, the department used the anniversary as an opportunity to review its achievements in education and research, explore future directions for Thai studies and discuss ways to expand academic and cultural exchanges between Korea and Thailand. The international conference, titled “Thai Studies Beyond Borders: Transitional Perspectives and Future Directions,” was held on Nov. 5–6 at the library on HUFS’ Seoul campus. Supported by the Korean Association of Thai Studies, HUFS’ Center for Southeast Asian Studies, the university’s Critical Foreign Language Education Program and the Royal Thai Embassy in Seoul, the conference brought together mor...",
+        "fullText": [
+          "Hankuk University of Foreign Studies (HUFS) celebrated the 60th anniversary of its Department of Thai Studies with a series of events, including an international academic conference and a cultural festival, on Nov. 5–6, the university said.",
+          "Founded in 1966, the department used the anniversary as an opportunity to review its achievements in education and research, explore future directions for Thai studies and discuss ways to expand academic and cultural exchanges between Korea and Thailand. The international conference, titled “Thai Studies Beyond Borders: Transitional Perspectives and Future Directions,” was held on Nov.",
+          "5–6 at the library on HUFS’ Seoul campus. Supported by the Korean Association of Thai Studies, HUFS’ Center for Southeast Asian Studies, the university’s Critical Foreign Language Education Program and the Royal Thai Embassy in Seoul, the conference brought together mor..."
+        ],
+        "words": [
+          "celebrates",
+          "studies",
+          "international"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "University of Seoul Korean history professor elected to ICOMOS board",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261118/university-of-seoul-korean-history-professor-elected-to-icomos-board?utm_source=rss",
+        "summary": "Shin Hee-kweon, a professor in the department of Korean history at the University of Seoul, has been elected to the board of the International Council on Monuments and Sites (ICOMOS), the university said. ICOMOS elected a new board at its 22nd General Assembly, held in Kuching, Malaysia, from Oct. 17-24. Shin was elected alongside experts from 11 other countries, including China, Japan, the Philippines, Nigeria and France. The assembly also elected key officers, including the president, secretary general and vice presidents. Shin is a prominent Korean cultural heritage expert. He currently serves as secretary general of ICOMOS Korea. While working for the Cultural Heritage Administration, now known as the Korea Heritage Service, he served as director of the Changdeok Palace Management Office and head of the Conservation Science Division at the National Palace Museum of Korea. Shin has le...",
+        "fullText": [
+          "Shin Hee-kweon, a professor in the department of Korean history at the University of Seoul, has been elected to the board of the International Council on Monuments and Sites (ICOMOS), the university said. ICOMOS elected a new board at its 22nd General Assembly, held in Kuching, Malaysia, from Oct.",
+          "17-24. Shin was elected alongside experts from 11 other countries, including China, Japan, the Philippines, Nigeria and France.",
+          "The assembly also elected key officers, including the president, secretary general and vice presidents. Shin is a prominent Korean cultural heritage expert.",
+          "He currently serves as secretary general of ICOMOS Korea. While working for the Cultural Heritage Administration, now known as the Korea Heritage Service, he served as director of the Changdeok Palace Management Office and head of the Conservation Science Division at the National Palace Museum of Korea.",
+          "Shin has le..."
+        ],
+        "words": [
+          "university",
+          "history",
+          "professor"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Taiwanese hit character CAPOO takes over Seoul tourism campaign",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261118/taiwanese-hit-character-capoo-takes-over-seoul-tourism-campaign?utm_source=rss",
+        "summary": "A six-legged cartoon cat-insect hybrid from Taiwan is taking on Seoul's biggest tourist attractions, as the city turns to an overseas character franchise to reach new audiences and draw more visitors from one of its key travel markets. The Seoul Tourism Organization said Tuesday it has partnered with CAPOO, a popular Taiwanese character, for Visit Seoul's first collaboration with an overseas character intellectual property brand. Running from Nov. 23–27, the campaign features three short videos following CAPOO on visits to some of Seoul's best-known attractions, combining Korean traditions, food and unusual travel experiences. In the first video, scheduled for Nov. 19, CAPOO wears traditional Korean hanbok while exploring Gyeongbok Palace and its architecture. A second installment, set for Nov. 23, follows the character through Gwangjang Market, where it samples Korean dishes and experie...",
+        "fullText": [
+          "A six-legged cartoon cat-insect hybrid from Taiwan is taking on Seoul's biggest tourist attractions, as the city turns to an overseas character franchise to reach new audiences and draw more visitors from one of its key travel markets. The Seoul Tourism Organization said Tuesday it has partnered with CAPOO, a popular Taiwanese character, for Visit Seoul's first collaboration with an overseas character intellectual property brand.",
+          "Running from Nov. 23–27, the campaign features three short videos following CAPOO on visits to some of Seoul's best-known attractions, combining Korean traditions, food and unusual travel experiences.",
+          "In the first video, scheduled for Nov. 19, CAPOO wears traditional Korean hanbok while exploring Gyeongbok Palace and its architecture.",
+          "A second installment, set for Nov. 23, follows the character through Gwangjang Market, where it samples Korean dishes and experie..."
+        ],
+        "words": [
+          "taiwanese",
+          "character",
+          "tourism"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Mom's Touch opens 2nd Japanese franchise, targets 11 stores by year-end",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261118/moms-touch-opens-2nd-japanese-franchise-targets-11-stores-by-year-end?utm_source=rss",
+        "summary": "Mom’s Touch is stepping up its expansion in Japan, opening its second locally franchised restaurant this week as the Korean burger and chicken chain aims to build a network of 11 outlets by the end of the year. The company said Wednesday that Mom’s Touch Itabashi Station will open Friday in Tokyo’s Kita ward, marking its seventh store in Japan and first franchise opening since relocating its Japanese corporate office to Shinjuku in September. Located near the east exit of Itabashi Station on the JR Saikyo Line, the restaurant targets neighborhood residents, office workers and commuters traveling into central Tokyo. Unlike existing company-operated outlets in commercial districts such as Shibuya and Harajuku, the new restaurant is designed to serve everyday dining needs, including casual meals and family outings, through its combination of burgers, chicken and pizza. The opening follows a...",
+        "fullText": [
+          "Mom’s Touch is stepping up its expansion in Japan, opening its second locally franchised restaurant this week as the Korean burger and chicken chain aims to build a network of 11 outlets by the end of the year. The company said Wednesday that Mom’s Touch Itabashi Station will open Friday in Tokyo’s Kita ward, marking its seventh store in Japan and first franchise opening since relocating its Japanese corporate office to Shinjuku in September.",
+          "Located near the east exit of Itabashi Station on the JR Saikyo Line, the restaurant targets neighborhood residents, office workers and commuters traveling into central Tokyo. Unlike existing company-operated outlets in commercial districts such as Shibuya and Harajuku, the new restaurant is designed to serve everyday dining needs, including casual meals and family outings, through its combination of burgers, chicken and pizza.",
+          "The opening follows a..."
+        ],
+        "words": [
+          "japanese",
+          "franchise",
+          "targets"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Kolmar Korea turns to AI to predict skin safety before cosmetics hit market",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261118/kolmar-korea-turns-to-ai-to-predict-skin-safety-before-cosmetics-hit-market?utm_source=rss",
+        "summary": "Kolmar Korea is developing artificial intelligence (AI) technology to predict how cosmetic ingredients affect the skin before products are manufactured, in a move aimed at speeding development and strengthening the global competitiveness of its clients. The cosmetics manufacturer said Wednesday that it signed a memorandum of understanding with the Korea Research Institute of Chemical Technology on Tuesday to jointly develop AI-based technology for predicting skin effects. The agreement was signed by Moon Byung-seok, head of technology research at Kolmar Holdings, and Shin Seok-min, president of the Korea Research Institute of Chemical Technology. The two organizations will collaborate on research, technical exchanges and performance assessments to develop AI models capable of predicting skin reactions and ingredient absorption. The technology is designed to assess not only individual ing...",
+        "fullText": [
+          "Kolmar Korea is developing artificial intelligence (AI) technology to predict how cosmetic ingredients affect the skin before products are manufactured, in a move aimed at speeding development and strengthening the global competitiveness of its clients. The cosmetics manufacturer said Wednesday that it signed a memorandum of understanding with the Korea Research Institute of Chemical Technology on Tuesday to jointly develop AI-based technology for predicting skin effects.",
+          "The agreement was signed by Moon Byung-seok, head of technology research at Kolmar Holdings, and Shin Seok-min, president of the Korea Research Institute of Chemical Technology. The two organizations will collaborate on research, technical exchanges and performance assessments to develop AI models capable of predicting skin reactions and ingredient absorption.",
+          "The technology is designed to assess not only individual ing..."
+        ],
+        "words": [
+          "kolmar",
+          "predict",
+          "safety"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "CJ OliveNetworks brings AI-powered inspections to pharmaceutical factory",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261118/cj-olivenetworks-brings-ai-powered-inspections-to-pharmaceutical-factory?utm_source=rss",
+        "summary": "CJ OliveNetworks is bringing artificial intelligence (AI) into pharmaceutical manufacturing, deploying automated inspection and equipment monitoring systems at WiseMedi’s second plant in Jincheon, North Chungcheong Province, in a push to improve production reliability and quality control. CJ OliveNetworks, led by CEO Yoo In-sang, said Wednesday it would build an AI-powered smart factory for WiseMedi, a subsidiary of Yuhan and a specialist manufacturer of intravenous fluids, under a government-backed initiative to accelerate AI transformation among smaller manufacturers. The project is part of the Ministry of SMEs and Startups’ Shared Growth AX (AI transformation) Leading Model Support Program, with CJ OliveNetworks serving as the lead organization. One of the central features will be AI-powered visual inspection, which will examine every product for packaging defects, including uneven se...",
+        "fullText": [
+          "CJ OliveNetworks is bringing artificial intelligence (AI) into pharmaceutical manufacturing, deploying automated inspection and equipment monitoring systems at WiseMedi’s second plant in Jincheon, North Chungcheong Province, in a push to improve production reliability and quality control. CJ OliveNetworks, led by CEO Yoo In-sang, said Wednesday it would build an AI-powered smart factory for WiseMedi, a subsidiary of Yuhan and a specialist manufacturer of intravenous fluids, under a government-backed initiative to accelerate AI transformation among smaller manufacturers.",
+          "The project is part of the Ministry of SMEs and Startups’ Shared Growth AX (AI transformation) Leading Model Support Program, with CJ OliveNetworks serving as the lead organization. One of the central features will be AI-powered visual inspection, which will examine every product for packaging defects, including uneven se..."
+        ],
+        "words": [
+          "olivenetworks",
+          "brings",
+          "ai-powered"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "K-culture gets festive makeover at Korea tourism souvenir fair",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261118/k-culture-gets-festive-makeover-at-korea-tourism-souvenir-fair?utm_source=rss",
+        "summary": "Korea is turning its souvenirs into a festive attraction, bringing 143 companies and institutions together for a three-day fair designed to connect the country's cultural products with visitors and global buyers. The Ministry of Culture, Sports and Tourism and the Korea Tourism Organization (KTO) will host the 2026 Korea Tourism Souvenir Fair from Nov. 20–22 at Dongdaemun Design Plaza in Seoul. Now in its fifth year, the event will be its largest yet, with participation up about 60 percent from last year and 145 exhibition booths showcasing products across design, crafts, fashion, beauty, food and lifestyle categories. This year's theme, “A K-Goods Village Covered in First Snow,” combines traditional Korean colors and patterns with Christmas decorations, with a character called Santa Daegam guiding visitors through the exhibition. A special exhibition will feature 25 winners of the Korea...",
+        "fullText": [
+          "Korea is turning its souvenirs into a festive attraction, bringing 143 companies and institutions together for a three-day fair designed to connect the country's cultural products with visitors and global buyers. The Ministry of Culture, Sports and Tourism and the Korea Tourism Organization (KTO) will host the 2026 Korea Tourism Souvenir Fair from Nov.",
+          "20–22 at Dongdaemun Design Plaza in Seoul. Now in its fifth year, the event will be its largest yet, with participation up about 60 percent from last year and 145 exhibition booths showcasing products across design, crafts, fashion, beauty, food and lifestyle categories.",
+          "This year's theme, “A K-Goods Village Covered in First Snow,” combines traditional Korean colors and patterns with Christmas decorations, with a character called Santa Daegam guiding visitors through the exhibition. A special exhibition will feature 25 winners of the Korea..."
+        ],
+        "words": [
+          "k-culture",
+          "festive",
+          "makeover"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "label": "Tuesday, November 17, 2026",
     "title": "Korea News Brief",
