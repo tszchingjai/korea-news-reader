@@ -1,5 +1,154 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-19",
+    "label": "Thursday, November 19, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Law, Weather, Korea, Economy, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Appeals court upholds prison term for singer Nam Tae-hyun over drunk driving",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261119/appeals-court-upholds-prison-term-for-singer-nam-tae-hyun-over-drunk-driving?utm_source=rss",
+        "summary": "An appellate court on Thursday upheld a one-year prison sentence for singer Nam Tae-hyun for drunk driving while serving a suspended prison term for a drug conviction. The Seoul Western District Court's appellate bench maintained a lower ruling sentencing Nam, formerly of K-pop group WINNER, to prison and a fine of 1 million won ($750) for driving drunk in Seoul in April last year. His blood alcohol level at the time measured at 0.122 percent, far surpassing the threshold of 0.08 percent for driver's license revocation. Nam was then serving a suspended prison term after a court sentenced him to one year in prison, suspended for two years, in January 2024 for purchasing and taking methamphetamine. The appellate bench placed him under immediate custody after the ruling, citing the risk of flight and concerns of drunk driving.",
+        "fullText": [
+          "An appellate court on Thursday upheld a one-year prison sentence for singer Nam Tae-hyun for drunk driving while serving a suspended prison term for a drug conviction. The Seoul Western District Court's appellate bench maintained a lower ruling sentencing Nam, formerly of K-pop group WINNER, to prison and a fine of 1 million won ($750) for driving drunk in Seoul in April last year.",
+          "His blood alcohol level at the time measured at 0. 122 percent, far surpassing the threshold of 0.",
+          "08 percent for driver's license revocation. Nam was then serving a suspended prison term after a court sentenced him to one year in prison, suspended for two years, in January 2024 for purchasing and taking methamphetamine.",
+          "The appellate bench placed him under immediate custody after the ruling, citing the risk of flight and concerns of drunk driving."
+        ],
+        "words": [
+          "appeals",
+          "upholds",
+          "prison"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Deep tech spin-offs need biz teams around scientists, says Origgin Capital CEO",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261119/deep-tech-spin-offs-need-biz-teams-around-scientists-says-origgin-capital-ceo?utm_source=rss",
+        "summary": "University patents lose value quickly if left unused, and turning them into businesses works best when commercial teams are built around researchers rather than when scientists are trained to be entrepreneurs, a Singapore venture investor said Thursday. Clarence Tan, founder and managing partner of Origgin Capital, spoke at the Times Higher Education Innovation & Impact Summit 2026, a three-day conference hosted by Korea University in Seoul. “Any patents or IPs (intellectual properties) are perishable items,” Tan said. He noted that the chances of commercializing a technology drop sharply two to three years after a patent is published, as competing technologies emerge. Origgin uses what it calls venture co-creation. Once a lab technology is proven to work, the firm forms a startup, provides pre-seed funding — the earliest stage of investment — and installs interim executives from its own...",
+        "fullText": [
+          "University patents lose value quickly if left unused, and turning them into businesses works best when commercial teams are built around researchers rather than when scientists are trained to be entrepreneurs, a Singapore venture investor said Thursday. Clarence Tan, founder and managing partner of Origgin Capital, spoke at the Times Higher Education Innovation & Impact Summit 2026, a three-day conference hosted by Korea University in Seoul.",
+          "“Any patents or IPs (intellectual properties) are perishable items,” Tan said. He noted that the chances of commercializing a technology drop sharply two to three years after a patent is published, as competing technologies emerge.",
+          "Origgin uses what it calls venture co-creation. Once a lab technology is proven to work, the firm forms a startup, provides pre-seed funding — the earliest stage of investment — and installs interim executives from its own..."
+        ],
+        "words": [
+          "spin-offs",
+          "around",
+          "scientists"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Korean national appointed to UN assistant secretary-general-level post",
+        "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261119/korean-national-appointed-to-un-assistant-secretary-general-level-post?utm_source=rss",
+        "summary": "A Korean U.N. official has been appointed to an assistant secretary-general post at the world body, becoming the first Korean national to rise to such a high-level position after starting a U.N. career as a rank-and-file staff member, according to the United Nations. In a press release last week, the U.N. said Secretary-General Antonio Guterres appointed Son Gwi-yeop as acting executive director of the U.N. Institute for Training and Research (UNITAR) to become acting executive director of the U.N. Institute for Capability and Learning Innovation (UNICLI). The announcement came as the U.N. General Assembly has endorsed the merger of the U.N. System Staff College into UNITAR to establish the UNICLI. Prior to the appointment, Son had served as the regional director for Europe and Central Asia at the U.N. Development Coordination Office in Istanbul since 2020. Koreans have previously held h...",
+        "fullText": [
+          "A Korean U. N.",
+          "official has been appointed to an assistant secretary-general post at the world body, becoming the first Korean national to rise to such a high-level position after starting a U. N.",
+          "career as a rank-and-file staff member, according to the United Nations. In a press release last week, the U.",
+          "N. said Secretary-General Antonio Guterres appointed Son Gwi-yeop as acting executive director of the U.",
+          "N. Institute for Training and Research (UNITAR) to become acting executive director of the U.",
+          "N. Institute for Capability and Learning Innovation (UNICLI).",
+          "The announcement came as the U. N.",
+          "General Assembly has endorsed the merger of the U. N.",
+          "System Staff College into UNITAR to establish the UNICLI. Prior to the appointment, Son had served as the regional director for Europe and Central Asia at the U.",
+          "N. Development Coordination Office in Istanbul since 2020.",
+          "Koreans have previously held h..."
+        ],
+        "words": [
+          "national",
+          "appointed",
+          "assistant"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea to set standards for small drone batteries to boost compatibility",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20261119/korea-to-set-standards-for-small-drone-batteries-to-boost-compatibility?utm_source=rss",
+        "summary": "Korea plans to establish standards for small drone batteries used in civilian and military sectors to make them compatible in size and performance with U.S. standards, the defense ministry said Thursday. The move comes as Seoul is working to establish uniform standards for batteries used in small drones, an emerging asset in modern warfare, to boost their compatibility and reliability while meeting both commercial and military demand. The rules will be drafted based on existing U.S. drone standards, covering the battery dimensions and performance testing methods for small drones, the ministry said in a release. The move reflects Seoul's efforts to better align with U.S. drone standards widely adopted by its allies and partner countries. The government plans to publish a public notice Friday to gather feedback from related industries and experts, aiming to enact the standards in the first...",
+        "fullText": [
+          "Korea plans to establish standards for small drone batteries used in civilian and military sectors to make them compatible in size and performance with U. S.",
+          "standards, the defense ministry said Thursday. The move comes as Seoul is working to establish uniform standards for batteries used in small drones, an emerging asset in modern warfare, to boost their compatibility and reliability while meeting both commercial and military demand.",
+          "The rules will be drafted based on existing U. S.",
+          "drone standards, covering the battery dimensions and performance testing methods for small drones, the ministry said in a release. The move reflects Seoul's efforts to better align with U.",
+          "S. drone standards widely adopted by its allies and partner countries.",
+          "The government plans to publish a public notice Friday to gather feedback from related industries and experts, aiming to enact the standards in the first..."
+        ],
+        "words": [
+          "standards",
+          "batteries",
+          "compatibility"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Europe's AI dreams exceed its grid",
+        "url": "https://www.koreatimes.co.kr/opinion/20261119/europes-ai-dreams-exceed-its-grid?utm_source=rss",
+        "summary": "BRATISLAVA — Europe is hallucinating a grand future of artificial intelligence (AI) sovereignty and digital independence. But its power grids are structurally incapable of supporting it. In her 2026 State of the Union address, European Commission President Ursula von der Leyen said the bloc’s technological-sovereignty agenda should focus on moving AI “from the screen to the real economy,” from automated factory floors to precision agriculture and smart energy grids. Capturing that real-world value, she added, hinges on expanding the underlying physical infrastructure “in a clean and efficient way.” With transatlantic relations strained by U.S. President Donald Trump’s antics, the EU’s push for tech sovereignty is vital for its security and economic competitiveness. So far, however, the EU has led on regulation through the AI Act, while making little headway on the actual infrastructure b...",
+        "fullText": [
+          "BRATISLAVA — Europe is hallucinating a grand future of artificial intelligence (AI) sovereignty and digital independence. But its power grids are structurally incapable of supporting it.",
+          "In her 2026 State of the Union address, European Commission President Ursula von der Leyen said the bloc’s technological-sovereignty agenda should focus on moving AI “from the screen to the real economy,” from automated factory floors to precision agriculture and smart energy grids. Capturing that real-world value, she added, hinges on expanding the underlying physical infrastructure “in a clean and efficient way.",
+          "” With transatlantic relations strained by U. S.",
+          "President Donald Trump’s antics, the EU’s push for tech sovereignty is vital for its security and economic competitiveness. So far, however, the EU has led on regulation through the AI Act, while making little headway on the actual infrastructure b..."
+        ],
+        "words": [
+          "europe",
+          "dreams",
+          "exceed"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Netflix's 'Physical Asia' to return in 2027 with fiercer int'l rivalries",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261119/netflixs-physical-asia-to-return-in-2027-with-fiercer-national-rivalries?utm_source=rss",
+        "summary": "Netflix is raising the stakes of its hit physical competition series, announcing a second season that promises fiercer international rivalries, more demanding challenges and a new generation of elite athletes competing under their national flags. Titled \"Physical: Asia Season 2 — Unbroken,\" the upcoming installment is scheduled to premiere globally in 2027, bringing back the national team format that turned the first season into an international competition phenomenon. The original \"Physical: Asia,\" released in October 2025, brought together athletes from across Asia to compete in large-scale challenges testing strength, endurance, teamwork and strategy. The series drew attention for its country-versus-country format, which combined intense physical contests with national pride, cultural elements and displays of sportsmanship. The new season will introduce an expanded scale and upgraded...",
+        "fullText": [
+          "Netflix is raising the stakes of its hit physical competition series, announcing a second season that promises fiercer international rivalries, more demanding challenges and a new generation of elite athletes competing under their national flags. Titled \"Physical: Asia Season 2 — Unbroken,\" the upcoming installment is scheduled to premiere globally in 2027, bringing back the national team format that turned the first season into an international competition phenomenon.",
+          "The original \"Physical: Asia,\" released in October 2025, brought together athletes from across Asia to compete in large-scale challenges testing strength, endurance, teamwork and strategy. The series drew attention for its country-versus-country format, which combined intense physical contests with national pride, cultural elements and displays of sportsmanship.",
+          "The new season will introduce an expanded scale and upgraded..."
+        ],
+        "words": [
+          "netflix",
+          "physical",
+          "return"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Kookmin University, United Nations University launch research hub on AI-driven digital governance",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261119/kookmin-university-united-nations-university-launch-research-hub-on-ai-driven-digital-governance?utm_source=rss",
+        "summary": "Kookmin University has partnered with the United Nations University (UNU) to launch Korea’s first UNU research hub, focusing on artificial intelligence (AI)-driven impactful digital governance (AI-DGOV). The university held an opening ceremony of the UNU Hub on AI-DGOV at its Seoul campus on Nov. 11, attended by Kookmin President Jeong Seung-ryul and UNU Rector Tshilidzi Marwala. The initiative aims to advance international research collaboration, nurture global talent and support digital transformation in developing countries by linking Kookmin’s expertise in AI and digital technologies with UNU’s global research and policy networks. “The establishment of the UNU Hub marks an important opportunity to connect Kookmin’s research capabilities in AI and digital technologies, as well as its experience in international development cooperation, with the U.N.’s global research and policy networ...",
+        "fullText": [
+          "Kookmin University has partnered with the United Nations University (UNU) to launch Korea’s first UNU research hub, focusing on artificial intelligence (AI)-driven impactful digital governance (AI-DGOV). The university held an opening ceremony of the UNU Hub on AI-DGOV at its Seoul campus on Nov.",
+          "11, attended by Kookmin President Jeong Seung-ryul and UNU Rector Tshilidzi Marwala. The initiative aims to advance international research collaboration, nurture global talent and support digital transformation in developing countries by linking Kookmin’s expertise in AI and digital technologies with UNU’s global research and policy networks.",
+          "“The establishment of the UNU Hub marks an important opportunity to connect Kookmin’s research capabilities in AI and digital technologies, as well as its experience in international development cooperation, with the U. N.",
+          "’s global research and policy networ..."
+        ],
+        "words": [
+          "kookmin",
+          "university",
+          "united"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "label": "Wednesday, November 18, 2026",
     "title": "Korea News Brief",
