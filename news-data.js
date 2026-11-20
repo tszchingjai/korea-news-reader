@@ -1,5 +1,152 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-20",
+    "label": "Friday, November 20, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Law. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Hanwha Solutions completes technical validation for 500kV-Class HVAC cable materials",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261120/hanwha-solutions-completes-technical-validation-for-500kv-class-hvac-cable-materials?utm_source=rss",
+        "summary": "Hanwha Solutions’ Wire & Cable division is expanding its extra-high-voltage cable materials portfolio after passing validation tests in the extra-high-voltage alternating current transmission (HVAC) segment. The company plans to diversify its global customer portfolio and broaden materials supply across a wide range of applications, including power plants, transmission networks and large-scale renewable energy projects. Hanwha Solutions announced on Sept. 29 that its cross-linked polyethylene (XLPE) insulation and semiconductive materials for 500-kilovolt HVAC cables passed a technical validation test, known as a Type Test, conducted in partnership with Chinese cable manufacturers Qingdao Hanhe and TBEA. The test was conducted under the supervision of the Shanghai National Center of Testing and Inspection for Electric Cable and Wire, a certification body affiliated with the Shanghai Elec...",
+        "fullText": [
+          "Hanwha Solutions’ Wire & Cable division is expanding its extra-high-voltage cable materials portfolio after passing validation tests in the extra-high-voltage alternating current transmission (HVAC) segment. The company plans to diversify its global customer portfolio and broaden materials supply across a wide range of applications, including power plants, transmission networks and large-scale renewable energy projects.",
+          "Hanwha Solutions announced on Sept. 29 that its cross-linked polyethylene (XLPE) insulation and semiconductive materials for 500-kilovolt HVAC cables passed a technical validation test, known as a Type Test, conducted in partnership with Chinese cable manufacturers Qingdao Hanhe and TBEA.",
+          "The test was conducted under the supervision of the Shanghai National Center of Testing and Inspection for Electric Cable and Wire, a certification body affiliated with the Shanghai Elec..."
+        ],
+        "words": [
+          "hanwha",
+          "solutions",
+          "completes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Samsung Electronics names new heads of memory, mobile businesses",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261120/samsung-electronics-names-new-heads-of-memory-mobile-businesses?utm_source=rss",
+        "summary": "Samsung Electronics on Friday promoted three executives to president in its chipmaking Device Solutions (DS) Division, signaling a generational shift in leadership by elevating executives who spearheaded record semiconductor earnings. The company said Friday it promoted Executive Vice President Hwang Sang-joon to head of its memory business unit and president. Jo Sang-yeon, executive vice president and head of Device Solutions America, was promoted to president and head of the System LSI Business, while Lee Jong-myung, executive vice president and head of process development at the Semiconductor Research Institute, was promoted to president and chief technology officer of the DS division. The company also named President Choi Won-joon, chief operating officer of its Mobile Experience (MX) business under the Device Experience (DX) Division, as the head of the business. Following the reshu...",
+        "fullText": [
+          "Samsung Electronics on Friday promoted three executives to president in its chipmaking Device Solutions (DS) Division, signaling a generational shift in leadership by elevating executives who spearheaded record semiconductor earnings. The company said Friday it promoted Executive Vice President Hwang Sang-joon to head of its memory business unit and president.",
+          "Jo Sang-yeon, executive vice president and head of Device Solutions America, was promoted to president and head of the System LSI Business, while Lee Jong-myung, executive vice president and head of process development at the Semiconductor Research Institute, was promoted to president and chief technology officer of the DS division. The company also named President Choi Won-joon, chief operating officer of its Mobile Experience (MX) business under the Device Experience (DX) Division, as the head of the business.",
+          "Following the reshu..."
+        ],
+        "words": [
+          "samsung",
+          "electronics",
+          "memory"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Musk still a friend despite backing away from MAGA, Trump says",
+        "url": "https://www.koreatimes.co.kr/world/20261120/musk-still-a-friend-despite-backing-away-from-maga-trump-says?utm_source=rss",
+        "summary": "Washington — US President Donald Trump has said he still considers Elon Musk a friend, despite the tech billionaire attempting to distance himself from Trump's Make America Great Again (MAGA) movement. Tesla and SpaceX chief executive Musk told The New York Times on Wednesday that he was \"not MAGA.\" Speaking to NBC News on Thursday, Trump said Elon was \"a friend of mine.\" \"MAGA, to me, means something very specific, and when people veer from it, they don't do very well,\" Trump said. \"But Elon is, Elon's got very good intentions. I mean, he was with me the whole, he traveled with me.\" Musk had said he was \"not sure\" what MAGA means. \"If that means sort of blind adherence to a set of policies by the Republican Party, then I certainly don't have that.\" He also expressed disappointment with his decision to donate almost $500 million to Republican candidates in the recent midterm elections. H...",
+        "fullText": [
+          "Washington — US President Donald Trump has said he still considers Elon Musk a friend, despite the tech billionaire attempting to distance himself from Trump's Make America Great Again (MAGA) movement. Tesla and SpaceX chief executive Musk told The New York Times on Wednesday that he was \"not MAGA.",
+          "\" Speaking to NBC News on Thursday, Trump said Elon was \"a friend of mine. \" \"MAGA, to me, means something very specific, and when people veer from it, they don't do very well,\" Trump said.",
+          "\"But Elon is, Elon's got very good intentions. I mean, he was with me the whole, he traveled with me.",
+          "\" Musk had said he was \"not sure\" what MAGA means. \"If that means sort of blind adherence to a set of policies by the Republican Party, then I certainly don't have that.",
+          "\" He also expressed disappointment with his decision to donate almost $500 million to Republican candidates in the recent midterm elections. H..."
+        ],
+        "words": [
+          "friend",
+          "despite",
+          "backing"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "KBO to hand out MVP, top rookie awards Nov. 26",
+        "url": "https://www.koreatimes.co.kr/sports/20261120/kbo-to-hand-out-mvp-top-rookie-awards-nov-26?utm_source=rss",
+        "summary": "The top baseball league announced Friday it will hold its annual awards ceremony next week in Seoul, to be highlighted by the regular-season MVP award and the top rookie prize. The Korea Baseball Organization (KBO) said the annual KBO Awards ceremony will take place at 2 p.m. next Thursday at Lotte Hotel World in Seoul. The KBO announced 14 candidates for the MVP award on Oct. 13, with leaders of major pitching and hitting categories earning automatic nominations. Nine players earned nominations for the Rookie of the Year. Those who had not accumulated 30 innings or 60 plate appearances over the past five years qualified as rookies, except those who had played pro ball overseas before coming to the KBO. Voting for both awards by members of the Korea Baseball Writers Association was completed after the end of the regular season on Oct. 12. Kim Do-yeong of the Kia Tigers is considered amon...",
+        "fullText": [
+          "The top baseball league announced Friday it will hold its annual awards ceremony next week in Seoul, to be highlighted by the regular-season MVP award and the top rookie prize. The Korea Baseball Organization (KBO) said the annual KBO Awards ceremony will take place at 2 p.",
+          "m. next Thursday at Lotte Hotel World in Seoul.",
+          "The KBO announced 14 candidates for the MVP award on Oct. 13, with leaders of major pitching and hitting categories earning automatic nominations.",
+          "Nine players earned nominations for the Rookie of the Year. Those who had not accumulated 30 innings or 60 plate appearances over the past five years qualified as rookies, except those who had played pro ball overseas before coming to the KBO.",
+          "Voting for both awards by members of the Korea Baseball Writers Association was completed after the end of the regular season on Oct. 12.",
+          "Kim Do-yeong of the Kia Tigers is considered amon..."
+        ],
+        "words": [
+          "rookie",
+          "awards",
+          "baseball"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Law",
+        "source": "The Korea Times",
+        "title": "Man referred to prosecution on suspicion of killing teen victim of son's alleged sex crime",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261120/man-referred-to-prosecution-on-suspicion-of-killing-teen-victim-of-sons-alleged-sex-crime?utm_source=rss",
+        "summary": "Police on Friday referred a man to the prosecution on suspicion of killing a teenage girl alleged to have been sexually assaulted by his son, officials said. The 59-year-old was referred to the Seoul Northern District Prosecutors Office, according to the Seoul Seongbuk Police Station. During questioning, the suspect said he killed the teenager on impulse out of anger while asking her to submit a written statement saying she did not wish for his son to be punished, the police said. Police placed the man under emergency arrest last week after finding the female victim dead at a house listed on Airbnb in Seoul's northeastern Seongbuk Ward. He was reportedly drunk at the time of his arrest. The victim's parents had filed a complaint in March against the murder suspect's son, accusing him of having sexual relations with their daughter in January. The son is currently in detention for another...",
+        "fullText": [
+          "Police on Friday referred a man to the prosecution on suspicion of killing a teenage girl alleged to have been sexually assaulted by his son, officials said. The 59-year-old was referred to the Seoul Northern District Prosecutors Office, according to the Seoul Seongbuk Police Station.",
+          "During questioning, the suspect said he killed the teenager on impulse out of anger while asking her to submit a written statement saying she did not wish for his son to be punished, the police said. Police placed the man under emergency arrest last week after finding the female victim dead at a house listed on Airbnb in Seoul's northeastern Seongbuk Ward.",
+          "He was reportedly drunk at the time of his arrest. The victim's parents had filed a complaint in March against the murder suspect's son, accusing him of having sexual relations with their daughter in January.",
+          "The son is currently in detention for another..."
+        ],
+        "words": [
+          "referred",
+          "prosecution",
+          "suspicion"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "HD Hyundai Heavy hosts US maritime delegation at Ulsan shipyard",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261120/hd-hyundai-heavy-hosts-us-maritime-delegation-at-ulsan-shipyard?utm_source=rss",
+        "summary": "HD Hyundai Heavy Industries said Friday a U.S. maritime delegation visited its shipyard to discuss cooperation in shipbuilding, military logistics and port infrastructure. The delegation, led by Mark D. Johnson, deputy administrator of the U.S. Maritime Administration (MARAD), toured the shipyard in Ulsan, about 360 kilometers southeast of Seoul, on Thursday. MARAD, an agency under the U.S. Department of Transportation, oversees maritime transport of military supplies during national emergencies and supports port infrastructure development. The visit came as Washington pushes to rebuild its domestic shipbuilding industry under its \"Bridge Strategy,\" which seeks to leverage the shipbuilding expertise and production capacity of allies while expanding its own industrial base. Last month, HD Hyundai signed an agreement with U.S. engineering and construction firm Kiewit to establish a joint v...",
+        "fullText": [
+          "HD Hyundai Heavy Industries said Friday a U. S.",
+          "maritime delegation visited its shipyard to discuss cooperation in shipbuilding, military logistics and port infrastructure. The delegation, led by Mark D.",
+          "Johnson, deputy administrator of the U. S.",
+          "Maritime Administration (MARAD), toured the shipyard in Ulsan, about 360 kilometers southeast of Seoul, on Thursday. MARAD, an agency under the U.",
+          "S. Department of Transportation, oversees maritime transport of military supplies during national emergencies and supports port infrastructure development.",
+          "The visit came as Washington pushes to rebuild its domestic shipbuilding industry under its \"Bridge Strategy,\" which seeks to leverage the shipbuilding expertise and production capacity of allies while expanding its own industrial base. Last month, HD Hyundai signed an agreement with U.",
+          "S. engineering and construction firm Kiewit to establish a joint v..."
+        ],
+        "words": [
+          "hyundai",
+          "maritime",
+          "delegation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Heroes bring back 3 foreign players from 2026 season, acquire new Japanese pitcher",
+        "url": "https://www.koreatimes.co.kr/sports/20261120/heroes-bring-back-3-foreign-players-from-2026-season-acquire-new-japanese-pitcher?utm_source=rss",
+        "summary": "The Kiwoom Heroes completed their foreign player signings Friday, as they re-signed three players for another season and acquired a new Japanese pitcher to fill their Asian quota. The Heroes said pitcher Raul Alcantara, infielder Matt Davidson and outfielder Keston Hiura all agreed to new one-year contracts. Former Nippon Professional Baseball (NPB) pitcher Koji Fukutani will be the Heroes' new Asian quota player, replacing closer Yuto Kanakubo. In the Korea Baseball Organization (KBO), clubs can each sign three non-Asian foreign players, with a maximum two pitchers. They typically carry two foreign pitchers and one position player. The Heroes were the only team in 2026 to end the year with one pitcher and two position players with Alcantara, Davidson and Hiura. Alcantara will be back for his third season with the Heroes at $1.1 million. The Dominican right-hander went 9-9 with a 3.87 ER...",
+        "fullText": [
+          "The Kiwoom Heroes completed their foreign player signings Friday, as they re-signed three players for another season and acquired a new Japanese pitcher to fill their Asian quota. The Heroes said pitcher Raul Alcantara, infielder Matt Davidson and outfielder Keston Hiura all agreed to new one-year contracts.",
+          "Former Nippon Professional Baseball (NPB) pitcher Koji Fukutani will be the Heroes' new Asian quota player, replacing closer Yuto Kanakubo. In the Korea Baseball Organization (KBO), clubs can each sign three non-Asian foreign players, with a maximum two pitchers.",
+          "They typically carry two foreign pitchers and one position player. The Heroes were the only team in 2026 to end the year with one pitcher and two position players with Alcantara, Davidson and Hiura.",
+          "Alcantara will be back for his third season with the Heroes at $1. 1 million.",
+          "The Dominican right-hander went 9-9 with a 3. 87 ER..."
+        ],
+        "words": [
+          "heroes",
+          "foreign",
+          "players"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "label": "Thursday, November 19, 2026",
     "title": "Korea News Brief",
