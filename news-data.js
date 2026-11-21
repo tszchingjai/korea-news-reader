@@ -1,5 +1,143 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-21",
+    "label": "Saturday, November 21, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Weather, Korea, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "From online mockery to addictive drama: 'The Remarried Empress' wins over viewers as finale nears",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261121/from-online-mockery-to-addictive-drama-the-remarried-empress-wins-over-viewers-as-finale-nears?utm_source=rss",
+        "summary": "What began as a wave of online ridicule over questionable styling and unusual visuals is turning into growing enthusiasm for Disney+'s Korean fantasy romance \"The Remarried Empress,\" as its fast-paced plot, tangled relationships and increasingly intense performances draw viewers deeper into the story. The Disney+ series released its seventh and eighth episodes on Wednesday, bringing the troubled marriage between Emperor Sovieshu (Ju Ji-hoon) and Empress Navier (Shin Min-a) closer to collapse. In the latest episodes, Sovieshu decides to divorce Navier, sending their already strained relationship into a downward spiral as the 10-part series approaches its conclusion. Based on a popular Korean web novel and webtoon, \"The Remarried Empress\" follows Navier, the seemingly perfect empress of the Eastern Empire, whose husband falls for Rashta (Lee Se-young), an escaped slave. When Sovieshu seeks...",
+        "fullText": [
+          "What began as a wave of online ridicule over questionable styling and unusual visuals is turning into growing enthusiasm for Disney+'s Korean fantasy romance \"The Remarried Empress,\" as its fast-paced plot, tangled relationships and increasingly intense performances draw viewers deeper into the story. The Disney+ series released its seventh and eighth episodes on Wednesday, bringing the troubled marriage between Emperor Sovieshu (Ju Ji-hoon) and Empress Navier (Shin Min-a) closer to collapse.",
+          "In the latest episodes, Sovieshu decides to divorce Navier, sending their already strained relationship into a downward spiral as the 10-part series approaches its conclusion. Based on a popular Korean web novel and webtoon, \"The Remarried Empress\" follows Navier, the seemingly perfect empress of the Eastern Empire, whose husband falls for Rashta (Lee Se-young), an escaped slave.",
+          "When Sovieshu seeks..."
+        ],
+        "words": [
+          "online",
+          "mockery",
+          "addictive"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Veteran actress criticizes younger actors but recalls why Park Bo-gum stood out",
+        "url": "https://www.koreatimes.co.kr/entertainment/20261121/veteran-actress-criticizes-younger-actors-but-recalls-why-park-bo-gum-stood-out?utm_source=rss",
+        "summary": "Veteran actress Bae Jong-ok, known for her blunt criticism of younger actors' attitudes on set, has once again taken aim at those who spend too much time in their vehicles instead of preparing for scenes. Yet her past praise for actor Park Bo-gum, who once became so emotional that he cried before the cameras even started rolling, offers a striking contrast. Bae criticized the work habits of some younger actors during a press screening for her film \"A Perfect Home\" at CGV Yongsan I'Park Mall in Seoul on Wednesday. \"Jang Gyu-ri and Kim Min-chul weren't like that, but sometimes when I visit sets, I wonder if young actors have honey smeared all over their cars because they never seem to leave them,\" Bae said. \"They stay in their cars until right before filming, and only come out when the staff tell them they have to start shooting. Sometimes I even ask younger actors, 'Is there something stu...",
+        "fullText": [
+          "Veteran actress Bae Jong-ok, known for her blunt criticism of younger actors' attitudes on set, has once again taken aim at those who spend too much time in their vehicles instead of preparing for scenes. Yet her past praise for actor Park Bo-gum, who once became so emotional that he cried before the cameras even started rolling, offers a striking contrast.",
+          "Bae criticized the work habits of some younger actors during a press screening for her film \"A Perfect Home\" at CGV Yongsan I'Park Mall in Seoul on Wednesday. \"Jang Gyu-ri and Kim Min-chul weren't like that, but sometimes when I visit sets, I wonder if young actors have honey smeared all over their cars because they never seem to leave them,\" Bae said.",
+          "\"They stay in their cars until right before filming, and only come out when the staff tell them they have to start shooting. Sometimes I even ask younger actors, 'Is there something stu..."
+        ],
+        "words": [
+          "veteran",
+          "actress",
+          "criticizes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "NewJeans' Haerin steps into spotlight again as other members remain largely out of sight",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261121/newjeans-haerin-steps-into-spotlight-again-as-other-members-remain-largely-out-of-sight?utm_source=rss",
+        "summary": "Haerin of K-pop girl group NewJeans is emerging as the group's most publicly active member following her return to agency Ador, making her second official appearance in two months while her bandmates have largely stayed out of the spotlight. On Friday, Haerin attended a photo call for a cosmetics brand at Shinsegae Department Store's Gangnam branch in southern Seoul, drawing attention with her elegant styling and signature catlike features. The singer wore a black dress featuring a ribbon detail at the waist, paired with a distinctive clutch from luxury fashion house Dior. Her large eyes, delicate facial features and subtle smile gave her a doll-like appearance, combining an innocent charm with an air of mystery. Haerin waved to cameras and posed with finger hearts pressed against her cheeks, showing a playful side during the event. The appearance marked her first public event in about t...",
+        "fullText": [
+          "Haerin of K-pop girl group NewJeans is emerging as the group's most publicly active member following her return to agency Ador, making her second official appearance in two months while her bandmates have largely stayed out of the spotlight. On Friday, Haerin attended a photo call for a cosmetics brand at Shinsegae Department Store's Gangnam branch in southern Seoul, drawing attention with her elegant styling and signature catlike features.",
+          "The singer wore a black dress featuring a ribbon detail at the waist, paired with a distinctive clutch from luxury fashion house Dior. Her large eyes, delicate facial features and subtle smile gave her a doll-like appearance, combining an innocent charm with an air of mystery.",
+          "Haerin waved to cameras and posed with finger hearts pressed against her cheeks, showing a playful side during the event. The appearance marked her first public event in about t..."
+        ],
+        "words": [
+          "newjeans",
+          "haerin",
+          "spotlight"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Actor Kim Min turns real-life hero as he helps battle rapidly spreading wildfire",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261121/actor-kim-min-turns-real-life-hero-as-he-helps-battle-rapidly-spreading-wildfire?utm_source=rss",
+        "summary": "Actor Kim Min helped contain a rapidly spreading wildfire in Gangwon Province, risking his own safety as flames scorched his jacket during an emergency firefighting effort. According to JTBC on Friday, Kim spotted a fire in Goseong, Gangwon Province, on Thursday while returning to his accommodation after filming the upcoming Netflix series \"The Twilight Between Us.\" Kim initially planned to report the fire and continue to his accommodation. But when he saw how quickly the flames were spreading, he stopped his vehicle and rushed to the scene to help extinguish them. The fire reportedly grew from about 16 square meters to roughly 165 square meters in just five minutes. With strong winds blowing from a nearby resort toward the mountains, there were concerns that the blaze could develop into a major wildfire. Kim joined a resort employee in tackling the flames with fire extinguishers availab...",
+        "fullText": [
+          "Actor Kim Min helped contain a rapidly spreading wildfire in Gangwon Province, risking his own safety as flames scorched his jacket during an emergency firefighting effort. According to JTBC on Friday, Kim spotted a fire in Goseong, Gangwon Province, on Thursday while returning to his accommodation after filming the upcoming Netflix series \"The Twilight Between Us.",
+          "\" Kim initially planned to report the fire and continue to his accommodation. But when he saw how quickly the flames were spreading, he stopped his vehicle and rushed to the scene to help extinguish them.",
+          "The fire reportedly grew from about 16 square meters to roughly 165 square meters in just five minutes. With strong winds blowing from a nearby resort toward the mountains, there were concerns that the blaze could develop into a major wildfire.",
+          "Kim joined a resort employee in tackling the flames with fire extinguishers availab..."
+        ],
+        "words": [
+          "real-life",
+          "battle",
+          "rapidly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261121/trump-says-confronting-dangers-on-korean-peninsula-discussed-at-3-way-summit-with-xi-putin?utm_source=rss",
+        "summary": "WASHINGTON — U.S. President Donald Trump said Friday that \"confronting dangers\" on the Korean Peninsula was discussed when he held three-way summit talks with Chinese President Xi Jinping and Russian President Vladimir Putin this week. \"We also talked about confronting dangers on the Korean Peninsula and stopping the killing in Ukraine,\" Trump said during a press conference at the White House. He did not elaborate on what the \"dangers on the Korean Peninsula\" mean. The historic talks took place Thursday in the southern Chinese city of Shenzhen on the sidelines of the annual Asia-Pacific Economic Cooperation (APEC) forum.",
+        "fullText": [
+          "WASHINGTON — U. S.",
+          "President Donald Trump said Friday that \"confronting dangers\" on the Korean Peninsula was discussed when he held three-way summit talks with Chinese President Xi Jinping and Russian President Vladimir Putin this week. \"We also talked about confronting dangers on the Korean Peninsula and stopping the killing in Ukraine,\" Trump said during a press conference at the White House.",
+          "He did not elaborate on what the \"dangers on the Korean Peninsula\" mean. The historic talks took place Thursday in the southern Chinese city of Shenzhen on the sidelines of the annual Asia-Pacific Economic Cooperation (APEC) forum."
+        ],
+        "words": [
+          "confronting",
+          "dangers",
+          "peninsula"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Freight train derails near Sejong, leaving Saemaeul, Mugunghwa services suspended",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261121/freight-train-derails-near-sejong-leaving-saemaeul-mugunghwa-services-suspended?utm_source=rss",
+        "summary": "PYEONGTAEK/SEJONG — Five cars of a freight train derailed near the central administrative city of Sejong early Saturday, leaving Saemaeul and Mugunghwa train services between the cities of Daejeon and Cheonan suspended. High-speed KTX services were unaffected, and no human casualties were reported. The 21-car train went off the rails after an automatic emergency brake system activated as it entered Sojeong-ri Station in Sejong, some 120 kilometers south of Seoul, at 5:37 a.m. When the train went off the tracks, it hit and broke a steel support pole, snapping the overhead power lines and causing a power outage between Cheonan and Jeonui stations. The accident initially delayed Saemaeul and Mugunghwa passenger trains before services were suspended. KTX bullet trains, which run on separate tracks, were not affected. Korea Railroad Corp. (KORAIL) plans to look into what caused the derailment...",
+        "fullText": [
+          "PYEONGTAEK/SEJONG — Five cars of a freight train derailed near the central administrative city of Sejong early Saturday, leaving Saemaeul and Mugunghwa train services between the cities of Daejeon and Cheonan suspended. High-speed KTX services were unaffected, and no human casualties were reported.",
+          "The 21-car train went off the rails after an automatic emergency brake system activated as it entered Sojeong-ri Station in Sejong, some 120 kilometers south of Seoul, at 5:37 a. m.",
+          "When the train went off the tracks, it hit and broke a steel support pole, snapping the overhead power lines and causing a power outage between Cheonan and Jeonui stations. The accident initially delayed Saemaeul and Mugunghwa passenger trains before services were suspended.",
+          "KTX bullet trains, which run on separate tracks, were not affected. Korea Railroad Corp.",
+          "(KORAIL) plans to look into what caused the derailment..."
+        ],
+        "words": [
+          "freight",
+          "derails",
+          "sejong"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Araqchi says Iran wants diplomacy to end war; Trump says terms unacceptable",
+        "url": "https://www.koreatimes.co.kr/world/20261121/araqchi-says-iran-wants-diplomacy-to-end-war-trump-says-terms-unacceptable?utm_source=rss",
+        "summary": "Iran's Foreign Minister Abbas Araqchi said Tehran still hoped diplomacy could end its war with the United States, while US President Donald Trump said Iran wanted a deal but one that was not acceptable to him. Araqchi told the state-owned Iran newspaper that Tehran was seeking \"an agreement that would ensure there was no further war\" and wanted guarantees that Washington was serious about negotiations before proceeding further, adding that Iran had discussed with mediators the form and nature of confidence-building measures. The remarks came as diplomatic efforts continued to try to end a conflict that has destabilized the Middle East, disrupted shipping, driven up global energy prices and drawn in countries across the region. The foreign minister said Iran's red lines included keeping enriched uranium in the country, though he added that he believed \"a fair solution\" could be reached. \"...",
+        "fullText": [
+          "Iran's Foreign Minister Abbas Araqchi said Tehran still hoped diplomacy could end its war with the United States, while US President Donald Trump said Iran wanted a deal but one that was not acceptable to him. Araqchi told the state-owned Iran newspaper that Tehran was seeking \"an agreement that would ensure there was no further war\" and wanted guarantees that Washington was serious about negotiations before proceeding further, adding that Iran had discussed with mediators the form and nature of confidence-building measures.",
+          "The remarks came as diplomatic efforts continued to try to end a conflict that has destabilized the Middle East, disrupted shipping, driven up global energy prices and drawn in countries across the region. The foreign minister said Iran's red lines included keeping enriched uranium in the country, though he added that he believed \"a fair solution\" could be reached.",
+          "\"..."
+        ],
+        "words": [
+          "araqchi",
+          "diplomacy",
+          "unacceptable"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "label": "Friday, November 20, 2026",
     "title": "Korea News Brief",
