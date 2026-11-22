@@ -1,5 +1,150 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-22",
+    "label": "Sunday, November 22, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Politics, Weather. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Can Brexit be reversed?",
+        "url": "https://www.koreatimes.co.kr/opinion/20261122/can-brexit-be-reversed?utm_source=rss",
+        "summary": "NOTTINGHAM — At the U.K. Labour Party’s conference in Liverpool in late September, Prime Minister Andy Burnham went where no British prime minister had dared since the United Kingdom left the European Union: “Brexit has done more harm than good” he told the delegates. The next day, he went further: Britain could stay as it is, join the customs union or the single market, or “go all the way.” And now he says he wants an “honest discussion” about freedom of movement. With an EU-U.K. summit set for Nov. 20, Burnham — whose own constituency, Makerfield, gave Brexit an estimated 65 percent of its vote — has opened the door to fighting the next British general election on a promise to rejoin. But can the U.K. really undo its populist rupture? Brexit won because of a mechanism I call “dynamic democracy.” First, there was a movement: Nigel Farage’s U.K. Independence Party, built patiently over t...",
+        "fullText": [
+          "NOTTINGHAM — At the U. K.",
+          "Labour Party’s conference in Liverpool in late September, Prime Minister Andy Burnham went where no British prime minister had dared since the United Kingdom left the European Union: “Brexit has done more harm than good” he told the delegates. The next day, he went further: Britain could stay as it is, join the customs union or the single market, or “go all the way.",
+          "” And now he says he wants an “honest discussion” about freedom of movement. With an EU-U.",
+          "K. summit set for Nov.",
+          "20, Burnham — whose own constituency, Makerfield, gave Brexit an estimated 65 percent of its vote — has opened the door to fighting the next British general election on a promise to rejoin. But can the U.",
+          "K. really undo its populist rupture?",
+          "Brexit won because of a mechanism I call “dynamic democracy. ” First, there was a movement: Nigel Farage’s U.",
+          "K. Independence Party, built patiently over t..."
+        ],
+        "words": [
+          "brexit",
+          "reversed",
+          "nottingham"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Virginia reports young child is the state's first measles death in 2026",
+        "url": "https://www.koreatimes.co.kr/world/20261122/virginia-reports-young-child-is-the-states-first-measles-death-in-2026?utm_source=rss",
+        "summary": "A young child has died in Virginia after testing positive for measles, officials said, the first deadly case in the state this year. The Virginia Department of Health reported the death Friday, saying only that the child was under 5 years old. Just days earlier the U.S., along with Mexico and Bolivia, lost its designation as having eliminated the highly contagious virus. States have reported at least 12 measles-linked deaths in 2026. Eight of them, including one last week, have been in Pennsylvania, one was in New York and two were in Wisconsin. Virginia has reported 220 cases overall this year, most of them in the central part of the state, and the vast majority were among people not vaccinated against the virus. The U.S. Centers for Disease Control and Prevention has tracked more than 5,800 cases nationally in 2026, by far the most of any year since 1991. There has been some concern ab...",
+        "fullText": [
+          "A young child has died in Virginia after testing positive for measles, officials said, the first deadly case in the state this year. The Virginia Department of Health reported the death Friday, saying only that the child was under 5 years old.",
+          "Just days earlier the U. S.",
+          ", along with Mexico and Bolivia, lost its designation as having eliminated the highly contagious virus. States have reported at least 12 measles-linked deaths in 2026.",
+          "Eight of them, including one last week, have been in Pennsylvania, one was in New York and two were in Wisconsin. Virginia has reported 220 cases overall this year, most of them in the central part of the state, and the vast majority were among people not vaccinated against the virus.",
+          "The U. S.",
+          "Centers for Disease Control and Prevention has tracked more than 5,800 cases nationally in 2026, by far the most of any year since 1991. There has been some concern ab..."
+        ],
+        "words": [
+          "virginia",
+          "reports",
+          "measles"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+        "url": "https://www.koreatimes.co.kr/world/20261122/mexico-captures-top-drug-lord-el-chapo-isidro-latest-in-string-of-arrests?utm_source=rss",
+        "summary": "MEXICO CITY — Mexican military forces captured Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" one of the FBI's 10 most wanted fugitives, and two other leaders of his drug-trafficking organization in Sinaloa state on Friday night, Mexico's security chief said on Saturday. For over 20 years, according to the US State Department, Meza Flores and his criminal organization smuggled vast amounts of heroin, methamphetamine, cocaine and marijuana into the United States. He was considered one of the leaders of the Beltran Leyva cartel, previously a rival of the Sinaloa cartel. After Sinaloa cartel founder Ismael “El Mayo” Zambada was taken into US custody in 2024, infighting began between two factions for control of the cartel, Los Chapitos and Los Mayos. Meza Flores' Beltran Leyva had recently allied with the Los Mayos faction, security experts say. The arrest is the latest in a string o...",
+        "fullText": [
+          "MEXICO CITY — Mexican military forces captured Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" one of the FBI's 10 most wanted fugitives, and two other leaders of his drug-trafficking organization in Sinaloa state on Friday night, Mexico's security chief said on Saturday. For over 20 years, according to the US State Department, Meza Flores and his criminal organization smuggled vast amounts of heroin, methamphetamine, cocaine and marijuana into the United States.",
+          "He was considered one of the leaders of the Beltran Leyva cartel, previously a rival of the Sinaloa cartel. After Sinaloa cartel founder Ismael “El Mayo” Zambada was taken into US custody in 2024, infighting began between two factions for control of the cartel, Los Chapitos and Los Mayos.",
+          "Meza Flores' Beltran Leyva had recently allied with the Los Mayos faction, security experts say. The arrest is the latest in a string o..."
+        ],
+        "words": [
+          "mexico",
+          "captures",
+          "isidro"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+        "url": "https://www.koreatimes.co.kr/world/20261122/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming?utm_source=rss",
+        "summary": "ANTALYA, Turkey — Work crews boxed up the venue for this year’s United Nations climate talks in Turkey, as negotiators went into overtime on Saturday in an attempt to reach a final agreement on global warming. But hopes are slim that additional discussions will produce concrete plans to slash fossil fuel use. The added day of talks came as the two-week annual summit, or COP31 , drew strong condemnation for failing to mention fossil fuels in a draft of the final agreement. The document is meant to address how the world will deal with climate change, which drives heat waves, floods and other disasters. To avert the most catastrophic effects of warming, experts said the world needs to urgently and drastically cut emissions from the use of coal, oil and gas. In a letter sent on Saturday to this year's co-hosts , Turkey and Australia, 100 civil society groups warned that they were “on course...",
+        "fullText": [
+          "ANTALYA, Turkey — Work crews boxed up the venue for this year’s United Nations climate talks in Turkey, as negotiators went into overtime on Saturday in an attempt to reach a final agreement on global warming. But hopes are slim that additional discussions will produce concrete plans to slash fossil fuel use.",
+          "The added day of talks came as the two-week annual summit, or COP31 , drew strong condemnation for failing to mention fossil fuels in a draft of the final agreement. The document is meant to address how the world will deal with climate change, which drives heat waves, floods and other disasters.",
+          "To avert the most catastrophic effects of warming, experts said the world needs to urgently and drastically cut emissions from the use of coal, oil and gas. In a letter sent on Saturday to this year's co-hosts , Turkey and Australia, 100 civil society groups warned that they were “on course..."
+        ],
+        "words": [
+          "climate",
+          "overtime",
+          "nations"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Trump downplays FBI data breach of NCIC, adds 'positive spin'",
+        "url": "https://www.koreatimes.co.kr/world/20261122/trump-downplays-fbi-data-breach-of-ncic-adds-positive-spin?utm_source=rss",
+        "summary": "An FBI database that police all over the country use was hacked in the second major security breach in two months, and President Donald Trump downplayed it Saturday. The FBI's National Crime Information Center, which police use constantly, was hacked, CNN and NBC reported Friday night. The NCIC includes FBI fingerprint records, wanted persons, violent felons, missing persons and related information. Its use is restricted to law enforcement but is not classified. On Saturday, Trump said the breach is \"not good,\" but that it could be helpful to him. We could \"learn things that we would have never learned otherwise,\" he said. \"I always like to put things in a positive spin,\" Trump said during a phone interview with Fox News when asked about the reports. \"You had the Russia, Russia, Russia hoax. You had all of these other hoaxes. We call it Ukraine, the Ukraine, Ukraine, Ukraine hoax ... the...",
+        "fullText": [
+          "An FBI database that police all over the country use was hacked in the second major security breach in two months, and President Donald Trump downplayed it Saturday. The FBI's National Crime Information Center, which police use constantly, was hacked, CNN and NBC reported Friday night.",
+          "The NCIC includes FBI fingerprint records, wanted persons, violent felons, missing persons and related information. Its use is restricted to law enforcement but is not classified.",
+          "On Saturday, Trump said the breach is \"not good,\" but that it could be helpful to him. We could \"learn things that we would have never learned otherwise,\" he said.",
+          "\"I always like to put things in a positive spin,\" Trump said during a phone interview with Fox News when asked about the reports. \"You had the Russia, Russia, Russia hoax.",
+          "You had all of these other hoaxes. We call it Ukraine, the Ukraine, Ukraine, Ukraine hoax ...",
+          "the..."
+        ],
+        "words": [
+          "downplays",
+          "breach",
+          "positive"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+        "url": "https://www.koreatimes.co.kr/world/20261122/russian-cargo-ship-ablaze-in-baltic-sea-after-drone-strike-crew-evacuates?utm_source=rss",
+        "summary": "HELSINKI — A Russian cargo ship with links to the military was hit by drones and caught fire in the Baltic Sea on Saturday in what Finland said was likely an attack by Ukraine, and the vessel later drifted into Finnish waters. The 16-member crew of the Sparta II evacuated onto lifeboats, then to a nearby Russian ship, and is on its way back to Russia, Finnish Border Guard Commander Ilja Iljin told public broadcaster Yle late on Saturday. Ukraine has sent waves of military drones towards Russia's northwest Leningrad region this year, including some that strayed into the airspace of the Baltic region, leading to fears that the war was affecting NATO territory. \"It is likely that Ukraine... is behind (the attack),\" Finnish armed forces spokesperson Aki-Mauri Huhtinen told a press conference, adding it was not clear why the vessel had been targeted. The ship, bound for Russian exclave Kalini...",
+        "fullText": [
+          "HELSINKI — A Russian cargo ship with links to the military was hit by drones and caught fire in the Baltic Sea on Saturday in what Finland said was likely an attack by Ukraine, and the vessel later drifted into Finnish waters. The 16-member crew of the Sparta II evacuated onto lifeboats, then to a nearby Russian ship, and is on its way back to Russia, Finnish Border Guard Commander Ilja Iljin told public broadcaster Yle late on Saturday.",
+          "Ukraine has sent waves of military drones towards Russia's northwest Leningrad region this year, including some that strayed into the airspace of the Baltic region, leading to fears that the war was affecting NATO territory. \"It is likely that Ukraine...",
+          "is behind (the attack),\" Finnish armed forces spokesperson Aki-Mauri Huhtinen told a press conference, adding it was not clear why the vessel had been targeted. The ship, bound for Russian exclave Kalini..."
+        ],
+        "words": [
+          "russian",
+          "ablaze",
+          "baltic"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Seoul district prepares to bring pet funerals directly to residents' doors",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20261122/seoul-district-prepares-to-bring-pet-funerals-directly-to-residents-doors?utm_source=rss",
+        "summary": "Courier scooters in Seoul deliver everything from midnight kimchi stew to designer handbags in under an hour, and soon grieving pet owners in the city's east will be able to summon a hearse just as easily. Starting in December, Seongdong District, located just east of downtown Seoul, will roll out a municipal mobile pet funeral service, dispatching specialized vans to residents' homes to collect deceased pets, hold a memorial ceremony and perform odorless, smoke-free cremations before returning the ashes in an urn. The initiative, finalized through a partnership signed earlier this month between the district office and local pet funeral operator Petmoon, tackles a thorny urban dilemma in Korea’s densely packed capital. While roughly 1 in 4 Korean households — an estimated 15 million people nationwide — now lives with a companion animal, strict zoning rules have pushed licensed pet cremat...",
+        "fullText": [
+          "Courier scooters in Seoul deliver everything from midnight kimchi stew to designer handbags in under an hour, and soon grieving pet owners in the city's east will be able to summon a hearse just as easily. Starting in December, Seongdong District, located just east of downtown Seoul, will roll out a municipal mobile pet funeral service, dispatching specialized vans to residents' homes to collect deceased pets, hold a memorial ceremony and perform odorless, smoke-free cremations before returning the ashes in an urn.",
+          "The initiative, finalized through a partnership signed earlier this month between the district office and local pet funeral operator Petmoon, tackles a thorny urban dilemma in Korea’s densely packed capital. While roughly 1 in 4 Korean households — an estimated 15 million people nationwide — now lives with a companion animal, strict zoning rules have pushed licensed pet cremat..."
+        ],
+        "words": [
+          "district",
+          "prepares",
+          "funerals"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-21",
     "label": "Saturday, November 21, 2026",
     "title": "Korea News Brief",
