@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-23",
+    "label": "Monday, November 23, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea asks Qatar to prioritize LNG supplies once production, shipping normalize",
+        "url": "https://www.koreatimes.co.kr/economy/others/20261123/korea-asks-qatar-to-prioritize-lng-supplies-once-production-shipping-normalize?utm_source=rss",
+        "summary": "Industry Minister Kim Jung-kwan on Monday requested that Qatar give priority to supplying liquefied natural gas (LNG) to Korea when Qatari LNG production and navigation through the Strait of Hormuz return to normal, the ministry said. During a meeting with Qatari Minister of State for Energy Affairs Saad Sherida al-Kaabi in Seoul, Kim stressed that the Middle Eastern country is a key partner for Korea in the LNG sector and that cooperation between the two countries is crucial to ensuring a stable energy supply, according to the Ministry of Trade, Industry and Resources. He asked Qatar to prioritize Korea in LNG supplies once conditions return to normal. Qatar, which was the world's second-largest LNG exporter after the United States prior to the outbreak of the U.S.-Iran war in late February, declared force majeure and suspended LNG supplies in March after its Ras Laffan facility, the wo...",
+        "fullText": [
+          "Industry Minister Kim Jung-kwan on Monday requested that Qatar give priority to supplying liquefied natural gas (LNG) to Korea when Qatari LNG production and navigation through the Strait of Hormuz return to normal, the ministry said. During a meeting with Qatari Minister of State for Energy Affairs Saad Sherida al-Kaabi in Seoul, Kim stressed that the Middle Eastern country is a key partner for Korea in the LNG sector and that cooperation between the two countries is crucial to ensuring a stable energy supply, according to the Ministry of Trade, Industry and Resources.",
+          "He asked Qatar to prioritize Korea in LNG supplies once conditions return to normal. Qatar, which was the world's second-largest LNG exporter after the United States prior to the outbreak of the U.",
+          "S. -Iran war in late February, declared force majeure and suspended LNG supplies in March after its Ras Laffan facility, the wo..."
+        ],
+        "words": [
+          "prioritize",
+          "supplies",
+          "production"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Zerobaseone to release new album in January",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261123/zerobaseone-to-release-new-album-in-january?utm_source=rss",
+        "summary": "K-pop boy group Zerobaseone will return with a new album on Jan. 18, 2027. The group revealed the release date at the end of its performance at the 2026 MAMA Awards in Osaka, Japan, on Saturday, displaying a sign reading \"Jan. 18, 2027.\" The upcoming release will be Zerobaseone's first full-group album in eight months, following its sixth EP, \"Ascend-,\" released in May. The album's title and tracklist have not yet been disclosed. Zerobaseone, now a five-member group, has balanced group activities with unit and solo projects both at home and in Japan this year.",
+        "fullText": [
+          "K-pop boy group Zerobaseone will return with a new album on Jan. 18, 2027.",
+          "The group revealed the release date at the end of its performance at the 2026 MAMA Awards in Osaka, Japan, on Saturday, displaying a sign reading \"Jan. 18, 2027.",
+          "\" The upcoming release will be Zerobaseone's first full-group album in eight months, following its sixth EP, \"Ascend-,\" released in May. The album's title and tracklist have not yet been disclosed.",
+          "Zerobaseone, now a five-member group, has balanced group activities with unit and solo projects both at home and in Japan this year."
+        ],
+        "words": [
+          "zerobaseone",
+          "release",
+          "january"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Stray Kids' Felix fronts Korea's global hanbok campaign",
+        "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261123/stray-kids-felix-fronts-koreas-global-hanbok-campaign?utm_source=rss",
+        "summary": "The culture ministry on Monday released pictorial images of boy group Stray Kids' Felix wearing hanbok created by five Korean designers as part of efforts to promote traditional Korean clothing worldwide. The Ministry of Culture, Sports and Tourism said the annual \"Hanbok Wave\" project pairs artists at the forefront of the Korean Wave, also known as \"hallyu,\" with domestic hanbok brands to raise global awareness of hanbok and help Korean brands expand overseas. The campaign previously featured actor Park Bo-gum last year, actor Kim Tae-ri in 2024, actor Suzy in 2023 and former figure skater Kim Yuna in 2022. This year's campaign showcases designs that highlight the beauty of traditional hanbok through layered garments in bold red and blue colors. Other pieces reinterpret the deep blue scenery of traditional Korean landscape paintings on outer garments, presenting nature in a contemporary...",
+        "fullText": [
+          "The culture ministry on Monday released pictorial images of boy group Stray Kids' Felix wearing hanbok created by five Korean designers as part of efforts to promote traditional Korean clothing worldwide. The Ministry of Culture, Sports and Tourism said the annual \"Hanbok Wave\" project pairs artists at the forefront of the Korean Wave, also known as \"hallyu,\" with domestic hanbok brands to raise global awareness of hanbok and help Korean brands expand overseas.",
+          "The campaign previously featured actor Park Bo-gum last year, actor Kim Tae-ri in 2024, actor Suzy in 2023 and former figure skater Kim Yuna in 2022. This year's campaign showcases designs that highlight the beauty of traditional hanbok through layered garments in bold red and blue colors.",
+          "Other pieces reinterpret the deep blue scenery of traditional Korean landscape paintings on outer garments, presenting nature in a contemporary..."
+        ],
+        "words": [
+          "fronts",
+          "global",
+          "hanbok"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Portfolio regime change?",
+        "url": "https://www.koreatimes.co.kr/opinion/20261123/portfolio-regime-change?utm_source=rss",
+        "summary": "NEW YORK — Recent political and asset market developments have given investors hope that we may be reverting to a more familiar and comforting landscape in which stock-market gains are no longer dependent on a single sector, and diversification into United States Treasury bonds provides reassuring risk mitigation. But this judgment seems premature. Rather than assuming that traditional asset-allocation guidelines apply again to current conditions, investors should position themselves for more volatility, significant variations in returns across asset classes and sectors, and opportunities stemming from thematic market moves. The conventional wisdom on portfolio diversification has been fundamentally challenged by two major developments: the dramatic dominance of tech stocks in delivering equity market performance, and the inadequacy of U.S. Treasuries as risk mitigators. Although these a...",
+        "fullText": [
+          "NEW YORK — Recent political and asset market developments have given investors hope that we may be reverting to a more familiar and comforting landscape in which stock-market gains are no longer dependent on a single sector, and diversification into United States Treasury bonds provides reassuring risk mitigation. But this judgment seems premature.",
+          "Rather than assuming that traditional asset-allocation guidelines apply again to current conditions, investors should position themselves for more volatility, significant variations in returns across asset classes and sectors, and opportunities stemming from thematic market moves. The conventional wisdom on portfolio diversification has been fundamentally challenged by two major developments: the dramatic dominance of tech stocks in delivering equity market performance, and the inadequacy of U.",
+          "S. Treasuries as risk mitigators.",
+          "Although these a..."
+        ],
+        "words": [
+          "portfolio",
+          "regime",
+          "change"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism",
+        "url": "https://www.koreatimes.co.kr/world/20261123/lawyer-father-and-daughter-detained-by-ice-at-seattle-airport-were-traveling-to-family-baptism?utm_source=rss",
+        "summary": "A father and daughter detained by masked immigration officers on an airport jet bridge in Seattle , causing chaos in front of other passengers, were heading to a family baptism ceremony in California, their lawyer said Sunday. Other passengers boarding the Alaska Airlines flight at Seattle-Tacoma International Airport on Saturday used their cellphones to film the father and daughter being detained by the officers, who were wearing unmarked jackets and khaki pants. The recordings were widely viewed on social media. The videos show the officers struggling with someone on the ground. The flight, bound for Los Angeles, was delayed. The father and daughter were traveling to attend a baptism ceremony in California and are seeking asylum in the U.S., where they have lived since 2015, their lawyer, Olia Catala, told The Associated Press in a telephone interview. They have no criminal record, Cat...",
+        "fullText": [
+          "A father and daughter detained by masked immigration officers on an airport jet bridge in Seattle , causing chaos in front of other passengers, were heading to a family baptism ceremony in California, their lawyer said Sunday. Other passengers boarding the Alaska Airlines flight at Seattle-Tacoma International Airport on Saturday used their cellphones to film the father and daughter being detained by the officers, who were wearing unmarked jackets and khaki pants.",
+          "The recordings were widely viewed on social media. The videos show the officers struggling with someone on the ground.",
+          "The flight, bound for Los Angeles, was delayed. The father and daughter were traveling to attend a baptism ceremony in California and are seeking asylum in the U.",
+          "S. , where they have lived since 2015, their lawyer, Olia Catala, told The Associated Press in a telephone interview.",
+          "They have no criminal record, Cat..."
+        ],
+        "words": [
+          "lawyer",
+          "father",
+          "daughter"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Exports more than double in 1st 20 days of November, with chip shipments surging to new high",
+        "url": "https://www.koreatimes.co.kr/economy/others/20261123/exports-more-than-double-in-1st-20-days-of-november-with-chip-shipments-surging-to-new-high?utm_source=rss",
+        "summary": "Korea's exports more than doubled during the first 20 days of November, with shipments of semiconductors surging to a record high, customs data showed Monday. Outbound shipments reached $77.4 billion in the Nov. 1-20 period, up from $38.4 billion a year ago, according to the data from the Korea Customs Service. It marked the highest figure for the first 20 days of any month. The daily average export value in terms of business days also reached $4.84 billion, the highest for the first 20 days of any month. The combined exports from Jan. 1 through Friday came to $1.01 trillion, up 63.2 percent from a year earlier. Imports also jumped 39.4 percent on-year to $50.3 billion over the cited period, resulting in a trade surplus of $27.1 billion. By sector, exports of chips nearly quadrupled to $38.5 billion, setting a fresh record for the 20-day period. As a result, chip exports accounted for 49...",
+        "fullText": [
+          "Korea's exports more than doubled during the first 20 days of November, with shipments of semiconductors surging to a record high, customs data showed Monday. Outbound shipments reached $77.",
+          "4 billion in the Nov. 1-20 period, up from $38.",
+          "4 billion a year ago, according to the data from the Korea Customs Service. It marked the highest figure for the first 20 days of any month.",
+          "The daily average export value in terms of business days also reached $4. 84 billion, the highest for the first 20 days of any month.",
+          "The combined exports from Jan. 1 through Friday came to $1.",
+          "01 trillion, up 63. 2 percent from a year earlier.",
+          "Imports also jumped 39. 4 percent on-year to $50.",
+          "3 billion over the cited period, resulting in a trade surplus of $27. 1 billion.",
+          "By sector, exports of chips nearly quadrupled to $38. 5 billion, setting a fresh record for the 20-day period.",
+          "As a result, chip exports accounted for 49..."
+        ],
+        "words": [
+          "exports",
+          "double",
+          "november"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Is human progress leaving humans behind?",
+        "url": "https://www.koreatimes.co.kr/opinion/20261123/is-human-progress-leaving-humans-behind?utm_source=rss",
+        "summary": "After the recent worldwide Microsoft outage, grounding of domestic air travel and this week’s online banking failure, what exactly can we count on in these times of massive technological change? Each other. Maybe not all of us, all the time. We see that some people are better at running governments and introducing new technology than others. But all of us, holding each other accountable, honing the everyday skills that make the world work, can rise to any occasion. Agents of progress would be well served to remember the human element in change. For me, this story started a few weeks ago when Verizon announced it wanted to end the legacy landline service provided by its recent acquisition, Frontier Communications. Customers in Scandia, Minn., and on the North Shore of Lake Superior complained that cell coverage just wasn’t good enough to rely on for primary phone service. Having spent tim...",
+        "fullText": [
+          "After the recent worldwide Microsoft outage, grounding of domestic air travel and this week’s online banking failure, what exactly can we count on in these times of massive technological change? Each other.",
+          "Maybe not all of us, all the time. We see that some people are better at running governments and introducing new technology than others.",
+          "But all of us, holding each other accountable, honing the everyday skills that make the world work, can rise to any occasion. Agents of progress would be well served to remember the human element in change.",
+          "For me, this story started a few weeks ago when Verizon announced it wanted to end the legacy landline service provided by its recent acquisition, Frontier Communications. Customers in Scandia, Minn.",
+          ", and on the North Shore of Lake Superior complained that cell coverage just wasn’t good enough to rely on for primary phone service. Having spent tim..."
+        ],
+        "words": [
+          "progress",
+          "leaving",
+          "humans"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "label": "Sunday, November 22, 2026",
     "title": "Korea News Brief",
