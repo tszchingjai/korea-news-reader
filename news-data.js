@@ -1,5 +1,153 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-24",
+    "label": "Tuesday, November 24, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Weather, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "SME exports account for 23.9% of Korea's shipments in January-October",
+        "url": "https://www.koreatimes.co.kr/economy/others/20261124/sme-exports-account-for-239-of-koreas-shipments-in-january-october?utm_source=rss",
+        "summary": "Exports by small and midsized enterprises (SMEs) accounted for nearly 24 percent of Korea's total outbound shipments in the first 10 months of the year as the country's exports surpassed $1 trillion for the first time, customs data showed Tuesday. Korean SMEs exported $222.3 billion worth of goods in the January-October period, accounting for 23.9 percent of the country's total exports of $930.2 billion, according to data from the Korea Customs Service. The figure represents a 35.1 percent increase from $164.5 billion recorded in the same period of 2011, when the country first achieved $500 billion in annual exports. After nearly 15 years, Korea's annual exports surpassed the $1 trillion mark Thursday, making it the fourth country in the world to achieve the milestone after the United States, Germany and China. The number of exporting SMEs rose 22.2 percent to 96,286 in the January-Octob...",
+        "fullText": [
+          "Exports by small and midsized enterprises (SMEs) accounted for nearly 24 percent of Korea's total outbound shipments in the first 10 months of the year as the country's exports surpassed $1 trillion for the first time, customs data showed Tuesday. Korean SMEs exported $222.",
+          "3 billion worth of goods in the January-October period, accounting for 23. 9 percent of the country's total exports of $930.",
+          "2 billion, according to data from the Korea Customs Service. The figure represents a 35.",
+          "1 percent increase from $164. 5 billion recorded in the same period of 2011, when the country first achieved $500 billion in annual exports.",
+          "After nearly 15 years, Korea's annual exports surpassed the $1 trillion mark Thursday, making it the fourth country in the world to achieve the milestone after the United States, Germany and China. The number of exporting SMEs rose 22.",
+          "2 percent to 96,286 in the January-Octob..."
+        ],
+        "words": [
+          "exports",
+          "account",
+          "shipments"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Weather",
+        "source": "The Korea Times",
+        "title": "Air Force deploys early warning, forecast system for space weather observation",
+        "url": "https://www.koreatimes.co.kr/southkorea/defense/20261124/air-force-deploys-early-warning-forecast-system-for-space-weather-observation?utm_source=rss",
+        "summary": "The Air Force said Tuesday it has deployed an early warning and forecast system to better observe changes in \"space weather\" in a bid to help enhance stable military operations in space. Space weather refers to changes in the space environment caused by solar activities, such as flares near sunspots. The Air Force held an event to mark the deployment of the early warning and forecast system for space weather in Gyeryong, some 145 kilometers south of Seoul, attended by some 60 personnel, according to the armed service. The Air Force has sought to develop systems to observe and analyze any changes in space weather in advance to better prepare the military for potential disruptions in its operations. For instance, an explosion near the sunspots may interfere with the ionosphere in the Earth's upper atmosphere, thereby disrupting aviation radio communications or causing errors in navigation...",
+        "fullText": [
+          "The Air Force said Tuesday it has deployed an early warning and forecast system to better observe changes in \"space weather\" in a bid to help enhance stable military operations in space. Space weather refers to changes in the space environment caused by solar activities, such as flares near sunspots.",
+          "The Air Force held an event to mark the deployment of the early warning and forecast system for space weather in Gyeryong, some 145 kilometers south of Seoul, attended by some 60 personnel, according to the armed service. The Air Force has sought to develop systems to observe and analyze any changes in space weather in advance to better prepare the military for potential disruptions in its operations.",
+          "For instance, an explosion near the sunspots may interfere with the ionosphere in the Earth's upper atmosphere, thereby disrupting aviation radio communications or causing errors in navigation..."
+        ],
+        "words": [
+          "deploys",
+          "warning",
+          "forecast"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "POSCO International secures 1st US shale gas assets in $550 mil. deal",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261124/posco-international-secures-1st-us-shale-gas-assets-in-550-mil-deal?utm_source=rss",
+        "summary": "POSCO International has completed its $550 million acquisition of a shale gas field in Pennsylvania, marking the company's entry into U.S. natural gas production and its first overseas energy asset acquisition since POSCO Group announced its Triple Core growth strategy in July. The group's trading and energy subsidiary said Tuesday that it had acquired all of U.S. energy company Chord Energy's stake in the Appalachian shale gas assets in Pennsylvania. The acquisition comes about two months after the companies signed a definitive agreement on Sept. 14. The company held a ceremony marking the completion of the acquisition Monday (local time) in Houston, Texas, with POSCO Group Chairman Chang In-hwa, POSCO International CEO Lee Kye-in, Chord Energy CEO Michael Lou and other senior executives from both companies in attendance. “The acquisition marks a milestone in securing overseas energy re...",
+        "fullText": [
+          "POSCO International has completed its $550 million acquisition of a shale gas field in Pennsylvania, marking the company's entry into U. S.",
+          "natural gas production and its first overseas energy asset acquisition since POSCO Group announced its Triple Core growth strategy in July. The group's trading and energy subsidiary said Tuesday that it had acquired all of U.",
+          "S. energy company Chord Energy's stake in the Appalachian shale gas assets in Pennsylvania.",
+          "The acquisition comes about two months after the companies signed a definitive agreement on Sept. 14.",
+          "The company held a ceremony marking the completion of the acquisition Monday (local time) in Houston, Texas, with POSCO Group Chairman Chang In-hwa, POSCO International CEO Lee Kye-in, Chord Energy CEO Michael Lou and other senior executives from both companies in attendance. “The acquisition marks a milestone in securing overseas energy re..."
+        ],
+        "words": [
+          "international",
+          "secures",
+          "assets"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Jeong, St. Louis prevail over Son, LAFC in Korean derby in MLS playoffs",
+        "url": "https://www.koreatimes.co.kr/sports/20261124/jeong-st-louis-prevail-over-son-lafc-in-korean-derby-in-mls-playoffs?utm_source=rss",
+        "summary": "Jeong Sang-bin of St. Louis City SC has come out on top over Son Heung-min and his Los Angeles Football Club (LAFC) in their Korean derby in Major League Soccer (MLS) Cup Playoffs. Jeong had a goal and an assist, while Son was held off the scoresheet as St. Louis defeated LAFC 3-2 in the opening match of their best-of-three Western Conference playoff series at Energizer Park in St. Louis on Monday (local time). The second match will be at BMO Stadium in Los Angeles at 5:30 p.m. Saturday (local time), or 10:30 a.m. Sunday (Korean time). St. Louis opened the scoring in the 35th minute on Daniel Edelman's goal, set up by a cutback from Rafael Navarro. Jeong, who had made the initial pass to Navarro, was credited with a secondary assist. Jeong then doubled his side's lead in the 51st minute, as he fired a shot from the top of the box that went in off the left post. It was Jeong's first caree...",
+        "fullText": [
+          "Jeong Sang-bin of St. Louis City SC has come out on top over Son Heung-min and his Los Angeles Football Club (LAFC) in their Korean derby in Major League Soccer (MLS) Cup Playoffs.",
+          "Jeong had a goal and an assist, while Son was held off the scoresheet as St. Louis defeated LAFC 3-2 in the opening match of their best-of-three Western Conference playoff series at Energizer Park in St.",
+          "Louis on Monday (local time). The second match will be at BMO Stadium in Los Angeles at 5:30 p.",
+          "m. Saturday (local time), or 10:30 a.",
+          "m. Sunday (Korean time).",
+          "St. Louis opened the scoring in the 35th minute on Daniel Edelman's goal, set up by a cutback from Rafael Navarro.",
+          "Jeong, who had made the initial pass to Navarro, was credited with a secondary assist. Jeong then doubled his side's lead in the 51st minute, as he fired a shot from the top of the box that went in off the left post.",
+          "It was Jeong's first caree..."
+        ],
+        "words": [
+          "prevail",
+          "playoffs",
+          "sang-bin"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Medical breakthroughs shouldn't take decades",
+        "url": "https://www.koreatimes.co.kr/opinion/20261124/medical-breakthroughs-shouldnt-take-decades?utm_source=rss",
+        "summary": "In 2004, California voters authorized $3 billion to create the California Institute for Regenerative Medicine. In 2026, the institute released its first therapy, a treatment for children with a rare immune disorder. For those children and their families, that achievement was life-changing. But it took too long. I have ALS. Twenty-two years is a time horizon I cannot reasonably plan around. Neither can people facing cancer, Alzheimer’s or other deadly diseases. Now, Proposition 38 will invest another $8.4 billion in medical research. With those billions, California must ask for faster results. It’s a reasonable request, in light of advancements in medical research. Remember “Operation Warp Speed” to develop, manufacture and distribute COVID-19 vaccines? In January 2020, scientists began working with the virus. In December, the Food and Drug Administration rolled out a vaccine to the publi...",
+        "fullText": [
+          "In 2004, California voters authorized $3 billion to create the California Institute for Regenerative Medicine. In 2026, the institute released its first therapy, a treatment for children with a rare immune disorder.",
+          "For those children and their families, that achievement was life-changing. But it took too long.",
+          "I have ALS. Twenty-two years is a time horizon I cannot reasonably plan around.",
+          "Neither can people facing cancer, Alzheimer’s or other deadly diseases. Now, Proposition 38 will invest another $8.",
+          "4 billion in medical research. With those billions, California must ask for faster results.",
+          "It’s a reasonable request, in light of advancements in medical research. Remember “Operation Warp Speed” to develop, manufacture and distribute COVID-19 vaccines?",
+          "In January 2020, scientists began working with the virus. In December, the Food and Drug Administration rolled out a vaccine to the publi..."
+        ],
+        "words": [
+          "medical",
+          "breakthroughs",
+          "shouldn"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Kookmin University earns recognition for managing Global Korea Scholarship program",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261124/kookmin-university-earns-recognition-for-managing-global-korea-scholarship-program?utm_source=rss",
+        "summary": "Kookmin University has been named an “outstanding university” in a government evaluation of institutions hosting Global Korea Scholarship (GKS) recipients, the university said. The results, announced on Wednesday, were based on an evaluation of how 91 universities across Korea manage and support GKS students. Ten universities, including Kookmin, Korea University and Sogang University, were recognized for their outstanding performance. The GKS is a government scholarship program designed to attract talented international students to Korea and support them in pursuing degrees at Korean universities. Kookmin University President Chung Seung-ryul said the recognition reflects the university’s continued efforts to provide systematic support and ensure that GKS students can focus on their studies in a stable environment. “We will continue to strengthen our educational and support systems to he...",
+        "fullText": [
+          "Kookmin University has been named an “outstanding university” in a government evaluation of institutions hosting Global Korea Scholarship (GKS) recipients, the university said. The results, announced on Wednesday, were based on an evaluation of how 91 universities across Korea manage and support GKS students.",
+          "Ten universities, including Kookmin, Korea University and Sogang University, were recognized for their outstanding performance. The GKS is a government scholarship program designed to attract talented international students to Korea and support them in pursuing degrees at Korean universities.",
+          "Kookmin University President Chung Seung-ryul said the recognition reflects the university’s continued efforts to provide systematic support and ensure that GKS students can focus on their studies in a stable environment. “We will continue to strengthen our educational and support systems to he..."
+        ],
+        "words": [
+          "kookmin",
+          "university",
+          "recognition"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea's crude oil supply remains stable: industry ministry",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20261124/koreas-crude-oil-supply-remains-stable-industry-ministry?utm_source=rss",
+        "summary": "Korea's crude oil supply remains stable despite the ongoing standoff in the Middle East, the industry ministry said Tuesday. The country has secured crude oil for January that's equivalent to over 75 percent of last year's level, up from more than 50 percent a week earlier, according to the Ministry of Trade, Industry and Resources. The crude oil supply for the November-December period stood at the 90 percent level compared with last year's level, and the naphtha supply for the two-month period reached 100 percent, it added. Last week, the country kept its price caps on fuel products unchanged for the fifth consecutive period amid elevated international oil prices and continued geopolitical tensions.",
+        "fullText": [
+          "Korea's crude oil supply remains stable despite the ongoing standoff in the Middle East, the industry ministry said Tuesday. The country has secured crude oil for January that's equivalent to over 75 percent of last year's level, up from more than 50 percent a week earlier, according to the Ministry of Trade, Industry and Resources.",
+          "The crude oil supply for the November-December period stood at the 90 percent level compared with last year's level, and the naphtha supply for the two-month period reached 100 percent, it added. Last week, the country kept its price caps on fuel products unchanged for the fifth consecutive period amid elevated international oil prices and continued geopolitical tensions."
+        ],
+        "words": [
+          "supply",
+          "remains",
+          "stable"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "label": "Monday, November 23, 2026",
     "title": "Korea News Brief",
