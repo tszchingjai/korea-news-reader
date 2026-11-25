@@ -1,5 +1,142 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-25",
+    "label": "Wednesday, November 25, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Economy, Korea, Inter-Korea. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Global disaster misinfo fuels panic-buying at chain stores",
+        "url": "https://www.koreatimes.co.kr/world/20261125/global-disaster-misinfo-fuels-panic-buying-at-chain-stores?utm_source=rss",
+        "summary": "Photos of bottled water, canned foods and spare batteries have flooded social media as consumers around the world stockpile emergency supplies in response to a wave of doomsday theories about an impending world war. To prepare for the intensifying strain of extreme weather and prolonged conflicts in Ukraine and Iran, countries such as the United Kingdom and Japan have recently advised households to check their cupboards to make sure they have at least three days' worth of essentials, from non-perishable foods to baby formula and first-aid kits. But the guidelines, which seek to prepare people for all kinds of hazards, have been embroiled in online rumour-mongering that has stoked public anxiety and panic-buying. Scores of social media users in the United States, Europe and Asia linked the updates to a spate of tech outages that disrupted flights and banking apps, speculating that another...",
+        "fullText": [
+          "Photos of bottled water, canned foods and spare batteries have flooded social media as consumers around the world stockpile emergency supplies in response to a wave of doomsday theories about an impending world war. To prepare for the intensifying strain of extreme weather and prolonged conflicts in Ukraine and Iran, countries such as the United Kingdom and Japan have recently advised households to check their cupboards to make sure they have at least three days' worth of essentials, from non-perishable foods to baby formula and first-aid kits.",
+          "But the guidelines, which seek to prepare people for all kinds of hazards, have been embroiled in online rumour-mongering that has stoked public anxiety and panic-buying. Scores of social media users in the United States, Europe and Asia linked the updates to a spate of tech outages that disrupted flights and banking apps, speculating that another..."
+        ],
+        "words": [
+          "global",
+          "disaster",
+          "misinfo"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Sejong University team assesses potential, limits of generative AI in crop breeding",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261125/sejong-university-team-assesses-potential-limits-of-generative-ai-in-crop-breeding?utm_source=rss",
+        "summary": "A Sejong University research team has called for rigorous validation of artificial intelligence (AI) technologies in crop breeding, saying evidence of their effectiveness in real-world applications remains limited despite growing expectations for AI-assisted agriculture. The team’s review, published online Nov. 4 in Molecular Plant, the world’s top-ranked plant science journal, examines the capabilities and limitations of generative AI and other AI-based breeding technologies. Led by Kim Kyung-do, a professor in the university’s Department of Integrative biological Sciences and Industry, the team conducted the study with researchers from the University of Georgia in the United States. The paper, titled “Large language and foundation models in predictive plant breeding: Capabilities, evidence, and challenges,” was co-authored by Han Ji-heon, a Sejong doctoral student, who served as first...",
+        "fullText": [
+          "A Sejong University research team has called for rigorous validation of artificial intelligence (AI) technologies in crop breeding, saying evidence of their effectiveness in real-world applications remains limited despite growing expectations for AI-assisted agriculture. The team’s review, published online Nov.",
+          "4 in Molecular Plant, the world’s top-ranked plant science journal, examines the capabilities and limitations of generative AI and other AI-based breeding technologies. Led by Kim Kyung-do, a professor in the university’s Department of Integrative biological Sciences and Industry, the team conducted the study with researchers from the University of Georgia in the United States.",
+          "The paper, titled “Large language and foundation models in predictive plant breeding: Capabilities, evidence, and challenges,” was co-authored by Han Ji-heon, a Sejong doctoral student, who served as first..."
+        ],
+        "words": [
+          "sejong",
+          "university",
+          "assesses"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "North Korea declares Swiss diplomat persona non grata, orders him to leave",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261125/north-korea-declares-swiss-diplomat-persona-non-grata-orders-him-to-leave?utm_source=rss",
+        "summary": "North Korea on Wednesday declared a senior Swiss diplomat heading the country’s newly opened diplomatic office in Pyongyang persona non grata and ordered him to leave the country within 48 hours. The move came a day after Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, threatened to close the office. She condemned Switzerland for imposing sanctions on a youth camp in eastern North Korea over its alleged role in the transfer of children from Russia-occupied areas of Ukraine. The Korean Central News Agency said a senior Foreign Ministry official summoned Astier Sylvain, who heads the Swiss diplomatic office that opened in Pyongyang last month, and handed him a notice demanding the office’s closure and his departure, in protest of the Swiss sanctions on the Songdowon International Children’s Camp in Wonsan.",
+        "fullText": [
+          "North Korea on Wednesday declared a senior Swiss diplomat heading the country’s newly opened diplomatic office in Pyongyang persona non grata and ordered him to leave the country within 48 hours. The move came a day after Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, threatened to close the office.",
+          "She condemned Switzerland for imposing sanctions on a youth camp in eastern North Korea over its alleged role in the transfer of children from Russia-occupied areas of Ukraine. The Korean Central News Agency said a senior Foreign Ministry official summoned Astier Sylvain, who heads the Swiss diplomatic office that opened in Pyongyang last month, and handed him a notice demanding the office’s closure and his departure, in protest of the Swiss sanctions on the Songdowon International Children’s Camp in Wonsan."
+        ],
+        "words": [
+          "declares",
+          "diplomat",
+          "persona"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Population mobility up slightly in October on base effect",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261125/population-mobility-up-slightly-in-october-on-base-effect?utm_source=rss",
+        "summary": "The number of Koreans who moved to new residences rose slightly in October from a year earlier due to a low base effect, but the downside trend continued, government data showed Wednesday. Around 453,000 people changed residences to other administrative districts in October, up 2.6 percent, or 11,000, from a year earlier, according to the monthly tally from the Ministry of Data and Statistics. The ministry attributed the on-year increase to a base effect as the number fell sharply in October last year amid the Chuseok holiday season. This year's Chuseok fell in September based on the lunar calendar that changes from year to year. However, the ministry said the country's population mobility is in a steady decline from a long-term perspective amid a rapidly aging and decreasing population. The monthly figure dropped to 378,000 people in September, marking the lowest level since 1973. By re...",
+        "fullText": [
+          "The number of Koreans who moved to new residences rose slightly in October from a year earlier due to a low base effect, but the downside trend continued, government data showed Wednesday. Around 453,000 people changed residences to other administrative districts in October, up 2.",
+          "6 percent, or 11,000, from a year earlier, according to the monthly tally from the Ministry of Data and Statistics. The ministry attributed the on-year increase to a base effect as the number fell sharply in October last year amid the Chuseok holiday season.",
+          "This year's Chuseok fell in September based on the lunar calendar that changes from year to year. However, the ministry said the country's population mobility is in a steady decline from a long-term perspective amid a rapidly aging and decreasing population.",
+          "The monthly figure dropped to 378,000 people in September, marking the lowest level since 1973. By re..."
+        ],
+        "words": [
+          "population",
+          "mobility",
+          "slightly"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Births in Korea jump 12.2% in September, fastest nine-month growth on record",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261125/births-in-korea-jump-122-in-september-fastest-nine-month-growth-on-record?utm_source=rss",
+        "summary": "The number of babies born in Korea rose 12.2 percent in September from a year earlier, with the cumulative nine-month tally increasing at the fastest pace on record, government data showed Wednesday. A total of 25,113 babies were born in September, up 12.2 percent, or 2,731, from a year earlier, rising for the 27th consecutive month, according to the Ministry of Data and Statistics. It marked the largest figure for any September in eight years, while the year-on-year growth rate was the second highest for the month, following the 16.6 percent rise recorded in 2007. For the first nine months of the year, the number of newborns totaled 218,896, up 14.3 percent from 191,593 a year earlier, marking the sharpest year-on-year growth since the ministry began compiling related data in 1981. The recent increase in births came amid a growing number of marriages, a rise in the population in their 3...",
+        "fullText": [
+          "The number of babies born in Korea rose 12. 2 percent in September from a year earlier, with the cumulative nine-month tally increasing at the fastest pace on record, government data showed Wednesday.",
+          "A total of 25,113 babies were born in September, up 12. 2 percent, or 2,731, from a year earlier, rising for the 27th consecutive month, according to the Ministry of Data and Statistics.",
+          "It marked the largest figure for any September in eight years, while the year-on-year growth rate was the second highest for the month, following the 16. 6 percent rise recorded in 2007.",
+          "For the first nine months of the year, the number of newborns totaled 218,896, up 14. 3 percent from 191,593 a year earlier, marking the sharpest year-on-year growth since the ministry began compiling related data in 1981.",
+          "The recent increase in births came amid a growing number of marriages, a rise in the population in their 3..."
+        ],
+        "words": [
+          "births",
+          "september",
+          "fastest"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea, UN agree to set up working group on peacekeeping contributions",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261125/korea-un-agree-to-set-up-working-group-on-peacekeeping-contributions?utm_source=rss",
+        "summary": "Korea and the United Nations have agreed to establish a joint working group to discuss ways to expand Seoul's contributions to U.N. peacekeeping operations (PKO) following the planned withdrawal of its troops from Lebanon next year, the foreign ministry said Wednesday. The agreement was reached during separate meetings in New York on Monday (local time) between Chang Wook-jin, the ministry's coordinator-general for international organizations and global affairs, and Mohamed Khaled Khiari, U.N. assistant secretary-general for the Department of Peace Operations, and Atul Khare, under-secretary-general for the Department of Operational Support, according to the ministry. The working group will coordinate the safe withdrawal of the Dongmyeong unit from Lebanon and discuss ways to strengthen Korea's contributions to peacekeeping efforts. The unit is scheduled to withdraw next year following t...",
+        "fullText": [
+          "Korea and the United Nations have agreed to establish a joint working group to discuss ways to expand Seoul's contributions to U. N.",
+          "peacekeeping operations (PKO) following the planned withdrawal of its troops from Lebanon next year, the foreign ministry said Wednesday. The agreement was reached during separate meetings in New York on Monday (local time) between Chang Wook-jin, the ministry's coordinator-general for international organizations and global affairs, and Mohamed Khaled Khiari, U.",
+          "N. assistant secretary-general for the Department of Peace Operations, and Atul Khare, under-secretary-general for the Department of Operational Support, according to the ministry.",
+          "The working group will coordinate the safe withdrawal of the Dongmyeong unit from Lebanon and discuss ways to strengthen Korea's contributions to peacekeeping efforts. The unit is scheduled to withdraw next year following t..."
+        ],
+        "words": [
+          "working",
+          "peacekeeping",
+          "contributions"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Virtual, AI acts crowd K-pop debut week",
+        "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261125/virtual-ai-acts-crowd-k-pop-debut-week?utm_source=rss",
+        "summary": "Late November is usually a busy stretch for K-pop rookies hoping to make their mark before the year ends, but four of this season's newcomers are joining the race without a human face on screen. The last full week of the month is seeing a HYBE-backed VTuber project, an artificial intelligence (AI)-generated boy group and two virtual idol acts release their first music, a cluster that shows how quickly nonhuman acts are becoming a regular part of the industry's release calendar. Though often lumped together, the four fall into two distinct camps. Virtual idols, a category led by boy band PLAVE, are fronted by real performers who sing, dance and talk with fans through animated avatars. AI idols, on the other hand, have their looks and videos generated by AI with no single performer behind each member, even if human creatives still shape much of the music and direction. That difference has...",
+        "fullText": [
+          "Late November is usually a busy stretch for K-pop rookies hoping to make their mark before the year ends, but four of this season's newcomers are joining the race without a human face on screen. The last full week of the month is seeing a HYBE-backed VTuber project, an artificial intelligence (AI)-generated boy group and two virtual idol acts release their first music, a cluster that shows how quickly nonhuman acts are becoming a regular part of the industry's release calendar.",
+          "Though often lumped together, the four fall into two distinct camps. Virtual idols, a category led by boy band PLAVE, are fronted by real performers who sing, dance and talk with fans through animated avatars.",
+          "AI idols, on the other hand, have their looks and videos generated by AI with no single performer behind each member, even if human creatives still shape much of the music and direction. That difference has..."
+        ],
+        "words": [
+          "virtual",
+          "november",
+          "usually"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "label": "Tuesday, November 24, 2026",
     "title": "Korea News Brief",
