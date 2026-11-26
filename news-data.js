@@ -1,5 +1,147 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-26",
+    "label": "Thursday, November 26, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Lotte holds investor briefing at Lotte Biologics' new Songdo plant",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261126/lotte-holds-investor-briefing-at-lotte-biologics-new-songdo-plant?utm_source=rss",
+        "summary": "Lotte Corp., the holding company of Lotte Group, held an investor relations event Wednesday at Lotte Biologics' Songdo Bio Campus in Incheon to present its performance and growth strategy for its biopharmaceutical subsidiary. Securities analysts and institutional investors attended the briefing, along with Lotte Corp.'s chief financial officer and senior Lotte Biologics executives, the company said Thursday. After the session, participants toured the campus's first plant, which was completed Nov. 18. Lotte Corp. is the largest shareholder of Lotte Biologics with a 61 percent stake and has invested a total of 883 billion won ($601 million) in the company. As of the end of September, Lotte Biologics accounted for 17 percent of the value of Lotte Corp.'s equity investments, making it the group's second-largest asset after Lotte Shopping. The company said Lotte Biologics is currently recorde...",
+        "fullText": [
+          "Lotte Corp. , the holding company of Lotte Group, held an investor relations event Wednesday at Lotte Biologics' Songdo Bio Campus in Incheon to present its performance and growth strategy for its biopharmaceutical subsidiary.",
+          "Securities analysts and institutional investors attended the briefing, along with Lotte Corp. 's chief financial officer and senior Lotte Biologics executives, the company said Thursday.",
+          "After the session, participants toured the campus's first plant, which was completed Nov. 18.",
+          "Lotte Corp. is the largest shareholder of Lotte Biologics with a 61 percent stake and has invested a total of 883 billion won ($601 million) in the company.",
+          "As of the end of September, Lotte Biologics accounted for 17 percent of the value of Lotte Corp. 's equity investments, making it the group's second-largest asset after Lotte Shopping.",
+          "The company said Lotte Biologics is currently recorde..."
+        ],
+        "words": [
+          "investor",
+          "briefing",
+          "biologics"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Minister nominee says investigative independence must meet public expectations",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261126/minister-nominee-says-investigative-independence-must-meet-public-expectations?utm_source=rss",
+        "summary": "Interior Minister nominee Han Jun-ho said Thursday that if appointed, he would address the issue of investigative agencies' independence in a way that meets public expectations. Han, a two-term lawmaker of the ruling Democratic Party of Korea, made the remarks to reporters as he arrived at an office in downtown Seoul to prepare for his parliamentary confirmation hearing. \"The way powerful state institutions exercise their authority can lead to incidents like the Dec. 3, 2024, martial law declaration. Given that this administration was born out of such an experience, I will perform my duties in a manner that aligns with public expectations,\" Han said, when asked how he would ensure the independence of investigative agencies, including the police and the Serious Crime Investigation Agency, both of which are overseen by the ministry. \"The interior ministry plays a role in allocating financi...",
+        "fullText": [
+          "Interior Minister nominee Han Jun-ho said Thursday that if appointed, he would address the issue of investigative agencies' independence in a way that meets public expectations. Han, a two-term lawmaker of the ruling Democratic Party of Korea, made the remarks to reporters as he arrived at an office in downtown Seoul to prepare for his parliamentary confirmation hearing.",
+          "\"The way powerful state institutions exercise their authority can lead to incidents like the Dec. 3, 2024, martial law declaration.",
+          "Given that this administration was born out of such an experience, I will perform my duties in a manner that aligns with public expectations,\" Han said, when asked how he would ensure the independence of investigative agencies, including the police and the Serious Crime Investigation Agency, both of which are overseen by the ministry. \"The interior ministry plays a role in allocating financi..."
+        ],
+        "words": [
+          "minister",
+          "nominee",
+          "investigative"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Incheon airport becomes first Asian airport to win ACI innovation leader award",
+        "url": "https://www.koreatimes.co.kr/southkorea/20261126/incheon-airport-becomes-first-asian-airport-to-win-aci-innovation-leader-award?utm_source=rss",
+        "summary": "Incheon International Airport Corp. said Thursday it has won the best airport innovation leader award at the 2026 ACI World Airport Innovation Awards. It is the first time an Asian airport has won the award. The award was presented Wednesday (local time) at Airports Innovate 2026 in Barcelona, Spain. The annual conference brings together airports and industry companies from around the world to discuss future airport technologies. It is organized by the Airports Council International, a global trade association of airport operators, which has used the event since 2021 to recognize airports that lead innovation in the industry. The head of the corporation's new business division won the award for leading its Aviation AI Innovation Hub project from the initial concept to its business structure. The project will bring an artificial intelligence data center, a research and development center...",
+        "fullText": [
+          "Incheon International Airport Corp. said Thursday it has won the best airport innovation leader award at the 2026 ACI World Airport Innovation Awards.",
+          "It is the first time an Asian airport has won the award. The award was presented Wednesday (local time) at Airports Innovate 2026 in Barcelona, Spain.",
+          "The annual conference brings together airports and industry companies from around the world to discuss future airport technologies. It is organized by the Airports Council International, a global trade association of airport operators, which has used the event since 2021 to recognize airports that lead innovation in the industry.",
+          "The head of the corporation's new business division won the award for leading its Aviation AI Innovation Hub project from the initial concept to its business structure. The project will bring an artificial intelligence data center, a research and development center..."
+        ],
+        "words": [
+          "incheon",
+          "airport",
+          "becomes"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Lee vows to ease financial burden on patients with rare diseases",
+        "url": "https://www.koreatimes.co.kr/southkorea/politics/20261126/lee-vows-to-ease-financial-burden-on-patients-with-rare-diseases?utm_source=rss",
+        "summary": "President Lee Jae Myung on Thursday vowed to ease the financial burden on seriously ill patients and those with rare diseases, giving them greater hope of receiving treatment. Lee made the pledge in a post on his X account, citing a news report on the Cabinet's approval of a plan to reduce the health insurance copayment rate for seriously ill patients and those with rare or incurable diseases from the current 10 percent to 7 percent starting next month. \"Around 370,000 people are expected to benefit (from the measure) which will reduce their annual costs by an average 220,000 won ($164.2) per person,\" he noted. \"This would help ease concerns over treatment costs among patients with rare diseases and those who are seriously ill, giving them greater hope of receiving treatment,\" the president said. He said the government has been working on measures to ease the financial burden on patients...",
+        "fullText": [
+          "President Lee Jae Myung on Thursday vowed to ease the financial burden on seriously ill patients and those with rare diseases, giving them greater hope of receiving treatment. Lee made the pledge in a post on his X account, citing a news report on the Cabinet's approval of a plan to reduce the health insurance copayment rate for seriously ill patients and those with rare or incurable diseases from the current 10 percent to 7 percent starting next month.",
+          "\"Around 370,000 people are expected to benefit (from the measure) which will reduce their annual costs by an average 220,000 won ($164. 2) per person,\" he noted.",
+          "\"This would help ease concerns over treatment costs among patients with rare diseases and those who are seriously ill, giving them greater hope of receiving treatment,\" the president said. He said the government has been working on measures to ease the financial burden on patients..."
+        ],
+        "words": [
+          "financial",
+          "burden",
+          "patients"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Seoul science museum turns humble snacks into hands-on lessons in science",
+        "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261126/seoul-science-museum-turns-humble-snacks-into-hands-on-lessons-in-science?utm_source=rss",
+        "summary": "From the crunch of a potato chip to the technology that keeps cookies fresh, an ordinary snack can reveal a surprising amount about science — and Seoul Science Center is inviting visitors to explore what goes into every bite. The museum will open a special exhibition, \"Crispy on Outside, Science on Inside,\" on Friday, which will run through May 30, 2027. It offers an interactive look at the science behind snack development, manufacturing, packaging and distribution. Designed around familiar foods, the exhibition takes visitors through a series of settings modeled on a snack research laboratory, manufacturing plant and supermarket, tracing how products make their way from the first stages of development all the way to consumers' stomachs. The first section, \"Memories and Records of Snacks,\" explores how snacks have changed over generations, encouraging visitors to share memories associate...",
+        "fullText": [
+          "From the crunch of a potato chip to the technology that keeps cookies fresh, an ordinary snack can reveal a surprising amount about science — and Seoul Science Center is inviting visitors to explore what goes into every bite. The museum will open a special exhibition, \"Crispy on Outside, Science on Inside,\" on Friday, which will run through May 30, 2027.",
+          "It offers an interactive look at the science behind snack development, manufacturing, packaging and distribution. Designed around familiar foods, the exhibition takes visitors through a series of settings modeled on a snack research laboratory, manufacturing plant and supermarket, tracing how products make their way from the first stages of development all the way to consumers' stomachs.",
+          "The first section, \"Memories and Records of Snacks,\" explores how snacks have changed over generations, encouraging visitors to share memories associate..."
+        ],
+        "words": [
+          "science",
+          "museum",
+          "humble"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "US expected to maintain agreed-upon 15% tariff rate for Korea, issues warning on chips",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261126/us-expected-to-maintain-agreed-upon-15-tariff-rate-for-korea-issues-warning-on-chips?utm_source=rss",
+        "summary": "The United States announced its plan to slap new tariffs against trading partners for alleged overcapacity, but rates for Korea are expected to remain unchanged at the agreed-upon 15 percent rate. Washington, however, warned that the tariffs could rise if concerns over Seoul's new chip plant projects are not addressed. The Office of the U.S. Trade Representative (USTR) announced the proposed measures following investigations into 16 economies, including Korea, under Section 301 of the 1974 Trade Act to uncover trade practices related to \"structural\" excess capacity and production. The move came after the USTR announced new tariffs of up to 12.5 percent on Korea and other countries in July following its so-called forced labor investigation. Washington's latest tariff decision would bring the combined rate of the Section 301 tariffs on Korean goods to 15 percent — the same rate agreed on u...",
+        "fullText": [
+          "The United States announced its plan to slap new tariffs against trading partners for alleged overcapacity, but rates for Korea are expected to remain unchanged at the agreed-upon 15 percent rate. Washington, however, warned that the tariffs could rise if concerns over Seoul's new chip plant projects are not addressed.",
+          "The Office of the U. S.",
+          "Trade Representative (USTR) announced the proposed measures following investigations into 16 economies, including Korea, under Section 301 of the 1974 Trade Act to uncover trade practices related to \"structural\" excess capacity and production. The move came after the USTR announced new tariffs of up to 12.",
+          "5 percent on Korea and other countries in July following its so-called forced labor investigation. Washington's latest tariff decision would bring the combined rate of the Section 301 tariffs on Korean goods to 15 percent — the same rate agreed on u..."
+        ],
+        "words": [
+          "expected",
+          "maintain",
+          "agreed-upon"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Lotte Giants re-sign outfielder Victor Reyes for 4th season",
+        "url": "https://www.koreatimes.co.kr/sports/20261126/lotte-giants-re-sign-outfielder-victor-reyes-for-4th-season?utm_source=rss",
+        "summary": "The Lotte Giants announced Thursday they have re-signed outfielder Victor Reyes for his fourth season in Korea. Reyes, who holds the record for the most hits in a Korea Baseball Organization (KBO) season, will make $1.8 million in his new one-year pact, the Giants added. Reyes, 32, has yet to miss a game in the KBO since first joining the Giants before the 2024 season. In 432 games, Reyes has batted .347 with 600 hits, 46 home runs and 327 RBIs. Over the past three seasons, no KBO player has recorded more hits or posted a higher batting average than Reyes, who ranks second overall in the RBI during that 2024-2026 period. Reyes set a KBO single-season record with 202 hits in 2024 and then broke his own mark with 211 hits this year. The Giants praised Reyes' production and work ethic, and added the Venezuelan has also been an exemplary leader in the clubhouse.",
+        "fullText": [
+          "The Lotte Giants announced Thursday they have re-signed outfielder Victor Reyes for his fourth season in Korea. Reyes, who holds the record for the most hits in a Korea Baseball Organization (KBO) season, will make $1.",
+          "8 million in his new one-year pact, the Giants added. Reyes, 32, has yet to miss a game in the KBO since first joining the Giants before the 2024 season.",
+          "In 432 games, Reyes has batted . 347 with 600 hits, 46 home runs and 327 RBIs.",
+          "Over the past three seasons, no KBO player has recorded more hits or posted a higher batting average than Reyes, who ranks second overall in the RBI during that 2024-2026 period. Reyes set a KBO single-season record with 202 hits in 2024 and then broke his own mark with 211 hits this year.",
+          "The Giants praised Reyes' production and work ethic, and added the Venezuelan has also been an exemplary leader in the clubhouse."
+        ],
+        "words": [
+          "giants",
+          "re-sign",
+          "outfielder"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "label": "Wednesday, November 25, 2026",
     "title": "Korea News Brief",
