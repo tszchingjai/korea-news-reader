@@ -1,5 +1,149 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-27",
+    "label": "Friday, November 27, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Economy, Politics. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Overseas card spending hits record high in Q3",
+        "url": "https://www.koreatimes.co.kr/economy/20261127/overseas-card-spending-hits-record-high-in-q3?utm_source=rss",
+        "summary": "South Koreans' overseas card spending hit the highest-ever amount in the third quarter of the year on the back of an increase in outbound travelers, data showed Friday. The amount of money spent overseas by South Koreans with credit and debit cards came to $6.63 billion in the July-September period, up 13.3 percent from three months earlier, according to data from the Bank of Korea (BOK). The on-quarter rise marks the sharpest since the first quarter of 2023, when the reading spiked 14.8 percent, and also is the largest-ever. The central bank said more South Koreans traveled overseas, although direct purchases from abroad declined. The number of overseas travelers came to 7.12 million in the third quarter of the year, up 7.4 percent from the previous quarter. The combined amount of purchases made through overseas shopping malls, on the other hand, fell 0.8 percent to $1.4 billion.",
+        "fullText": [
+          "South Koreans' overseas card spending hit the highest-ever amount in the third quarter of the year on the back of an increase in outbound travelers, data showed Friday. The amount of money spent overseas by South Koreans with credit and debit cards came to $6.",
+          "63 billion in the July-September period, up 13. 3 percent from three months earlier, according to data from the Bank of Korea (BOK).",
+          "The on-quarter rise marks the sharpest since the first quarter of 2023, when the reading spiked 14. 8 percent, and also is the largest-ever.",
+          "The central bank said more South Koreans traveled overseas, although direct purchases from abroad declined. The number of overseas travelers came to 7.",
+          "12 million in the third quarter of the year, up 7. 4 percent from the previous quarter.",
+          "The combined amount of purchases made through overseas shopping malls, on the other hand, fell 0. 8 percent to $1.",
+          "4 billion."
+        ],
+        "words": [
+          "overseas",
+          "spending",
+          "record"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Pay-TV subscribers continue to decline; IPTV subscribers slightly up in H1: data",
+        "url": "https://www.koreatimes.co.kr/business/20261127/pay-tv-subscribers-continue-to-decline-iptv-subscribers-slightly-up-in-h1-data?utm_source=rss",
+        "summary": "The number of pay-TV subscribers has declined for the past two years, while the number of people using Internet Protocol TV (IPTV) services has maintained a steady uptrend, data from the country's media watchdog showed Friday. The number of people subscribed to pay-TV services in South Korea fell 0.29 percent from the second half of 2025 to 36 million as of June this year, according to findings by the Korea Media and Communications Commission (KMCC). The number has been dropping since the second half of 2024, the KMCC said. In contrast, IPTV service subscribers inched up 0.47 percent from six months earlier to 21.6 million, accounting for over 60 percent of the market, according to the data. By company, KT Corp. accounted for the most with 25.39 percent, followed by SK Broadband Co. with 18.67 percent and LG Uplus Corp. with 15.96 percent. The three companies are major fixed-line operato...",
+        "fullText": [
+          "The number of pay-TV subscribers has declined for the past two years, while the number of people using Internet Protocol TV (IPTV) services has maintained a steady uptrend, data from the country's media watchdog showed Friday. The number of people subscribed to pay-TV services in South Korea fell 0.",
+          "29 percent from the second half of 2025 to 36 million as of June this year, according to findings by the Korea Media and Communications Commission (KMCC). The number has been dropping since the second half of 2024, the KMCC said.",
+          "In contrast, IPTV service subscribers inched up 0. 47 percent from six months earlier to 21.",
+          "6 million, accounting for over 60 percent of the market, according to the data. By company, KT Corp.",
+          "accounted for the most with 25. 39 percent, followed by SK Broadband Co.",
+          "with 18. 67 percent and LG Uplus Corp.",
+          "with 15. 96 percent.",
+          "The three companies are major fixed-line operato..."
+        ],
+        "words": [
+          "pay-tv",
+          "subscribers",
+          "continue"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Market volatility expanding amid AI uncertainties: financial authorities",
+        "url": "https://www.koreatimes.co.kr/economy/20261127/market-volatility-expanding-amid-ai-uncertainties-financial-authorities?utm_source=rss",
+        "summary": "Global stocks are experiencing increasing volatility due to artificial intelligence (AI)-linked uncertainties, and there is a need to guard against the deepening ties between the chipmaking sector's cycle and the financial market, South Korean authorities said Friday. Earlier in the day, Finance Minister Lee Hyoung-il held a meeting with heads of the Bank of Korea, the Financial Services Commission (FSC) and other related agencies to check market conditions. The policymakers echoed views that the local stock market's volatility is growing due to uncertainties surrounding the AI sector and changes in the global trade environment. In particular, they said it needs to closely check the risks related to the correlation of the chip sector and the stock market. Last week, the financial authorities unveiled a set of steps to respond to stock market volatility, including lifting the limit of sha...",
+        "fullText": [
+          "Global stocks are experiencing increasing volatility due to artificial intelligence (AI)-linked uncertainties, and there is a need to guard against the deepening ties between the chipmaking sector's cycle and the financial market, South Korean authorities said Friday. Earlier in the day, Finance Minister Lee Hyoung-il held a meeting with heads of the Bank of Korea, the Financial Services Commission (FSC) and other related agencies to check market conditions.",
+          "The policymakers echoed views that the local stock market's volatility is growing due to uncertainties surrounding the AI sector and changes in the global trade environment. In particular, they said it needs to closely check the risks related to the correlation of the chip sector and the stock market.",
+          "Last week, the financial authorities unveiled a set of steps to respond to stock market volatility, including lifting the limit of sha..."
+        ],
+        "words": [
+          "market",
+          "volatility",
+          "expanding"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Ex-President Yoon's senior aide gets suspended prison term over presidential residence relocation",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261127/ex-president-yoons-senior-aide-gets-suspended-prison-term-over-presidential-residence-relocation?utm_source=rss",
+        "summary": "A Seoul district court on Friday sentenced a former senior aide to former President Yoon Suk Yeol to a suspended prison term over irregularities in the 2022 relocation of the presidential residence. The Seoul Central District Court handed down a two-year prison sentence, suspended for three years, for former presidential chief of staff Kim Dae-ki after finding him guilty of abusing his power in connection with the case. It also sentenced former presidential secretary for administrative affairs Yoon Jae-soon and former presidential secretary for general affairs Kim Oh-jin to one-year prison terms, both suspended for two years. The officials were indicted on charges of illegally diverting 2.09 billion won ($1.56 million) from the interior ministry's budget to pay an interior design company for the renovation of the presidential residence following its relocation from Cheong Wa Dae to the c...",
+        "fullText": [
+          "A Seoul district court on Friday sentenced a former senior aide to former President Yoon Suk Yeol to a suspended prison term over irregularities in the 2022 relocation of the presidential residence. The Seoul Central District Court handed down a two-year prison sentence, suspended for three years, for former presidential chief of staff Kim Dae-ki after finding him guilty of abusing his power in connection with the case.",
+          "It also sentenced former presidential secretary for administrative affairs Yoon Jae-soon and former presidential secretary for general affairs Kim Oh-jin to one-year prison terms, both suspended for two years. The officials were indicted on charges of illegally diverting 2.",
+          "09 billion won ($1. 56 million) from the interior ministry's budget to pay an interior design company for the renovation of the presidential residence following its relocation from Cheong Wa Dae to the c..."
+        ],
+        "words": [
+          "ex-president",
+          "senior",
+          "suspended"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Lee Jong-suk proves he's still the romance king in 'The Remarried Empress'",
+        "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261127/lee-jong-suk-proves-hes-still-the-romance-king-in-the-remarried-empress?utm_source=rss",
+        "summary": "Despite early criticism surrounding Disney+'s fantasy romance series \"The Remarried Empress,\" Lee Jong-suk emerged as one of its biggest winners, winning over viewers with his romantic chemistry with Shin Min-a and reaffirming his reputation as a master of on-screen romance. The 10-episode series concluded with a happy ending as Empress Navier (Shin Min-a), after divorcing Emperor Sovieshu (Ju Ji-hoon), marries Heinrey (Lee Jong-suk) and embarks on a new chapter in her love life. Based on the popular web novel and webtoon of the same name, \"The Remarried Empress\" generated considerable anticipation ahead of its release for bringing romance fantasy, a genre widely popular in Korean digital comics and fiction but relatively uncommon in live-action K-dramas, to the screen. Its star-studded cast, including Ju, Shin, Lee Jong-suk and Lee Se-young, further heightened expectations, particularly...",
+        "fullText": [
+          "Despite early criticism surrounding Disney+'s fantasy romance series \"The Remarried Empress,\" Lee Jong-suk emerged as one of its biggest winners, winning over viewers with his romantic chemistry with Shin Min-a and reaffirming his reputation as a master of on-screen romance. The 10-episode series concluded with a happy ending as Empress Navier (Shin Min-a), after divorcing Emperor Sovieshu (Ju Ji-hoon), marries Heinrey (Lee Jong-suk) and embarks on a new chapter in her love life.",
+          "Based on the popular web novel and webtoon of the same name, \"The Remarried Empress\" generated considerable anticipation ahead of its release for bringing romance fantasy, a genre widely popular in Korean digital comics and fiction but relatively uncommon in live-action K-dramas, to the screen. Its star-studded cast, including Ju, Shin, Lee Jong-suk and Lee Se-young, further heightened expectations, particularly..."
+        ],
+        "words": [
+          "jong-suk",
+          "proves",
+          "romance"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "Korea expands customs tech footprint with Guatemala's launch of UNI-PASS system",
+        "url": "https://www.koreatimes.co.kr/southkorea/others/20261127/korea-expands-customs-tech-footprint-with-guatemalas-launch-of-uni-pass-system?utm_source=rss",
+        "summary": "Korea is extending its digital customs network into Central America, with Guatemala launching an electronic clearance system developed through a five-year cooperation project designed to speed up trade and strengthen customs enforcement. The Korea Customs Service said Friday that Guatemala officially opened its upgraded electronic customs system, known as UNI-PASS, at the headquarters of its tax authority, the Superintendency of Tax Administration, in Guatemala City on Thursday (local time). The ceremony was attended by Kim Ki-dong, director-general for information and data policy at the Korea Customs Service, Korean Ambassador to Guatemala Kim Deuk-hwan and Guatemalan tax chief Werner Ovalle, along with officials from both countries. The project, launched in 2022 as part of Korea’s official development assistance program, involved 6.9 billion won ($4.8 million) in support over five year...",
+        "fullText": [
+          "Korea is extending its digital customs network into Central America, with Guatemala launching an electronic clearance system developed through a five-year cooperation project designed to speed up trade and strengthen customs enforcement. The Korea Customs Service said Friday that Guatemala officially opened its upgraded electronic customs system, known as UNI-PASS, at the headquarters of its tax authority, the Superintendency of Tax Administration, in Guatemala City on Thursday (local time).",
+          "The ceremony was attended by Kim Ki-dong, director-general for information and data policy at the Korea Customs Service, Korean Ambassador to Guatemala Kim Deuk-hwan and Guatemalan tax chief Werner Ovalle, along with officials from both countries. The project, launched in 2022 as part of Korea’s official development assistance program, involved 6.",
+          "9 billion won ($4. 8 million) in support over five year..."
+        ],
+        "words": [
+          "expands",
+          "customs",
+          "footprint"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "Sungkyunkwan University ranks 24th worldwide in THE Interdisciplinary Science Rankings",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261127/sungkyunkwan-university-ranks-24th-worldwide-in-the-interdisciplinary-science-rankings?utm_source=rss",
+        "summary": "Sungkyunkwan University (SKKU) ranked 24th worldwide in the Times Higher Education (THE) Interdisciplinary Science Rankings 2027, highlighting its growing strength in interdisciplinary research. SKKU climbed 19 places from last year’s ranking of 43rd to become the top-ranked university in Korea. “This achievement reflects international recognition of our university members’ efforts to tackle societal challenges beyond disciplinary boundaries,” SKKU President Yoo Ji-beom said. “We will continue to advance as a global research-oriented university at the forefront of interdisciplinary research,” he added. A total of 1,058 universities worldwide were ranked in this year’s assessment, released by THE, a U.K.-based higher education ranking organization. Launched in 2024 by THE in partnership with Schmidt Science Fellows, the rankings assess universities’ contributions and commitment to interdi...",
+        "fullText": [
+          "Sungkyunkwan University (SKKU) ranked 24th worldwide in the Times Higher Education (THE) Interdisciplinary Science Rankings 2027, highlighting its growing strength in interdisciplinary research. SKKU climbed 19 places from last year’s ranking of 43rd to become the top-ranked university in Korea.",
+          "“This achievement reflects international recognition of our university members’ efforts to tackle societal challenges beyond disciplinary boundaries,” SKKU President Yoo Ji-beom said. “We will continue to advance as a global research-oriented university at the forefront of interdisciplinary research,” he added.",
+          "A total of 1,058 universities worldwide were ranked in this year’s assessment, released by THE, a U. K.",
+          "-based higher education ranking organization. Launched in 2024 by THE in partnership with Schmidt Science Fellows, the rankings assess universities’ contributions and commitment to interdi..."
+        ],
+        "words": [
+          "sungkyunkwan",
+          "university",
+          "worldwide"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "label": "Thursday, November 26, 2026",
     "title": "Korea News Brief",
