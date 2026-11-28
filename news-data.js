@@ -1,5 +1,144 @@
 window.NEWS_ARCHIVE = [
   {
+    "date": "2026-11-28",
+    "label": "Saturday, November 28, 2026",
+    "title": "Korea News Brief",
+    "primarySource": "https://world.kbs.co.kr/service/news_main.htm?lang=e",
+    "summary": "Today’s Korea news covers Korea, Inter-Korea, Politics, Economy. This free edition uses public news feeds, so it updates without paid API credits.",
+    "stories": [
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "'Sea of Whales' asks whether Jeju waters can be home for dolphins",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20261128/sea-of-whales-asks-whether-jeju-waters-can-be-home-for-dolphins?utm_source=rss",
+        "summary": "A filmmaker who spent a decade documenting dolphins off Jeju Island asks whether the sea can be a home where humans and whales live together. “Sea of Whales” began as a search for the gray whale, which has not been seen in Korean waters since 1977. Despite having the word \"whales\" in its title, director Lee Jeong-joon’s Sea of Whales actually chronicles the lives of roughly 120 Indo-Pacific bottlenose dolphins living off the coast of Jeju Island. The species has been protected by the Ministry of Oceans and Fisheries since 2012. The director said the project grew out of curiosity. “As a documentary director, I realized how little information there was about the whales living in our own waters,” he said after a press screening in Seoul on Thursday. “I moved to Jeju in 2015 to document how they live. It took longer than I expected, but I’m glad and grateful to meet audiences.” Instead of wa...",
+        "fullText": [
+          "A filmmaker who spent a decade documenting dolphins off Jeju Island asks whether the sea can be a home where humans and whales live together. “Sea of Whales” began as a search for the gray whale, which has not been seen in Korean waters since 1977.",
+          "Despite having the word \"whales\" in its title, director Lee Jeong-joon’s Sea of Whales actually chronicles the lives of roughly 120 Indo-Pacific bottlenose dolphins living off the coast of Jeju Island. The species has been protected by the Ministry of Oceans and Fisheries since 2012.",
+          "The director said the project grew out of curiosity. “As a documentary director, I realized how little information there was about the whales living in our own waters,” he said after a press screening in Seoul on Thursday.",
+          "“I moved to Jeju in 2015 to document how they live. It took longer than I expected, but I’m glad and grateful to meet audiences.",
+          "” Instead of wa..."
+        ],
+        "words": [
+          "whales",
+          "whether",
+          "waters"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Korea",
+        "source": "The Korea Times",
+        "title": "More than a decade after pilot dream, Global Korea Awards winner defends Korea's skies in F-16s",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261128/more-than-a-decade-after-pilot-dream-global-korea-awards-winner-defends-koreas-skies-in-f-16s?utm_source=rss",
+        "summary": "Lee Seung-jin won the Model High School Student award at the second Korea Multicultural Youth Award — now known as the Global Korea Award — in 2013. Three years later, he told The Korea Times his dream was to become an Air Force pilot. A decade on, the 29-year-old is living that dream. As a captain with the 19th Fighter Wing, Lee leads a flight of four F-16 fighter jets and helps defend Korea’s airspace every day. “I take pride in every mission because this is a job that not just anyone can do or is trusted with, and because I longed to be in this position,” Lee said in an interview with The Korea Times. Born to a Korean father and a Japanese mother, Lee grew up navigating two cultures — and it was that dual heritage that planted the seed of his ambition. “Flying to see my maternal grandparents in Japan was always thrilling, so I grew even more interested in airplanes. The hope of one da...",
+        "fullText": [
+          "Lee Seung-jin won the Model High School Student award at the second Korea Multicultural Youth Award — now known as the Global Korea Award — in 2013. Three years later, he told The Korea Times his dream was to become an Air Force pilot.",
+          "A decade on, the 29-year-old is living that dream. As a captain with the 19th Fighter Wing, Lee leads a flight of four F-16 fighter jets and helps defend Korea’s airspace every day.",
+          "“I take pride in every mission because this is a job that not just anyone can do or is trusted with, and because I longed to be in this position,” Lee said in an interview with The Korea Times. Born to a Korean father and a Japanese mother, Lee grew up navigating two cultures — and it was that dual heritage that planted the seed of his ambition.",
+          "“Flying to see my maternal grandparents in Japan was always thrilling, so I grew even more interested in airplanes. The hope of one da..."
+        ],
+        "words": [
+          "decade",
+          "global",
+          "awards"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Internet Post Office hacking leaks personal data of at least 113,000 customers",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261128/internet-post-office-hacking-leaks-personal-data-of-at-least-113000-customers?utm_source=rss",
+        "summary": "A hacking attack on the Internet Post Office has exposed the personal information of at least 113,855 customers, with the full scope of the breach still under investigation, the postal service said Saturday. The Korea Post, under the Ministry of Science and ICT, said it has confirmed that hackers had accessed mailing records containing customers' personal information and is working to determine the full scope of the breach. The attackers accessed the mobile Internet Post Office's delivery location change service and viewed the names, addresses and phone numbers of recipients of registered mail being delivered between Nov. 17 and 24. An analysis of data from a single day alone found that 113,855 people had their information exposed. Korea Post said it became aware of signs of the breach on Wednesday and requested a police investigation. Korea Post temporarily suspended some services, incl...",
+        "fullText": [
+          "A hacking attack on the Internet Post Office has exposed the personal information of at least 113,855 customers, with the full scope of the breach still under investigation, the postal service said Saturday. The Korea Post, under the Ministry of Science and ICT, said it has confirmed that hackers had accessed mailing records containing customers' personal information and is working to determine the full scope of the breach.",
+          "The attackers accessed the mobile Internet Post Office's delivery location change service and viewed the names, addresses and phone numbers of recipients of registered mail being delivered between Nov. 17 and 24.",
+          "An analysis of data from a single day alone found that 113,855 people had their information exposed. Korea Post said it became aware of signs of the breach on Wednesday and requested a police investigation.",
+          "Korea Post temporarily suspended some services, incl..."
+        ],
+        "words": [
+          "internet",
+          "office",
+          "hacking"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Politics",
+        "source": "The Korea Times",
+        "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+        "url": "https://www.koreatimes.co.kr/world/20261128/el-nino-linked-deluges-flood-cities-in-peru-ecuador?utm_source=rss",
+        "summary": "PIURA, Peru — Several cities in Peru and Ecuador faced major flooding on Friday after downpours in the region linked to the exceptionally strong El Nino phenomenon. In Piura, capital of the eponymous region in northern Peru, waist-high water filled city streets following 12 hours of heavy rains that began on Thursday. Some 2,000 families have been impacted by the rains in Piura, according to preliminary reports, National Institute of Civil Defense chief Luis Vasquez told the RPP radio station. At the home of Pierre Garavito in Piura's Santa Margarita neighborhood, a refrigerator bobbed in the water. \"This is just the first heavy rain from the El Nino phenomenon and look at how it's treating us. Everything, I've lost everything ... This is how all the residents in the neighborhood are,\" he said. Peruvian President Keiko Fujimori postponed a trip to Colombia due to the crisis and said she...",
+        "fullText": [
+          "PIURA, Peru — Several cities in Peru and Ecuador faced major flooding on Friday after downpours in the region linked to the exceptionally strong El Nino phenomenon. In Piura, capital of the eponymous region in northern Peru, waist-high water filled city streets following 12 hours of heavy rains that began on Thursday.",
+          "Some 2,000 families have been impacted by the rains in Piura, according to preliminary reports, National Institute of Civil Defense chief Luis Vasquez told the RPP radio station. At the home of Pierre Garavito in Piura's Santa Margarita neighborhood, a refrigerator bobbed in the water.",
+          "\"This is just the first heavy rain from the El Nino phenomenon and look at how it's treating us. Everything, I've lost everything ...",
+          "This is how all the residents in the neighborhood are,\" he said. Peruvian President Keiko Fujimori postponed a trip to Colombia due to the crisis and said she..."
+        ],
+        "words": [
+          "nino-linked",
+          "deluges",
+          "cities"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "Stock loans fall to 13-month low amid wild volatility",
+        "url": "https://www.koreatimes.co.kr/economy/20261128/stock-loans-fall-to-13-month-low-amid-wild-volatility?utm_source=rss",
+        "summary": "Stock loans in Korea fell to a 13-month low this week amid increased volatility in stock markets, industry data showed Saturday. The amount of outstanding margin loans came to 25.04 trillion won ($18.7 billion) on Friday, marking the lowest level since Oct. 28 last year, according to the data compiled by the Korea Financial Investment Association. The tally came as volatility heightened in local stock markets this week. After hitting a record peak in June, the benchmark KOSPI has slumped, mainly due to investment fears over artificial intelligence. This week alone, trading curbs on the stock markets were activated four times due to wild swings.",
+        "fullText": [
+          "Stock loans in Korea fell to a 13-month low this week amid increased volatility in stock markets, industry data showed Saturday. The amount of outstanding margin loans came to 25.",
+          "04 trillion won ($18. 7 billion) on Friday, marking the lowest level since Oct.",
+          "28 last year, according to the data compiled by the Korea Financial Investment Association. The tally came as volatility heightened in local stock markets this week.",
+          "After hitting a record peak in June, the benchmark KOSPI has slumped, mainly due to investment fears over artificial intelligence. This week alone, trading curbs on the stock markets were activated four times due to wild swings."
+        ],
+        "words": [
+          "-month",
+          "volatility",
+          "increased"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Economy",
+        "source": "The Korea Times",
+        "title": "N. Korea, Russia hold economic cooperation meeting, agree to boost joint projects",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261128/n-korea-russia-hold-economic-cooperation-meeting-agree-to-boost-joint-projects?utm_source=rss",
+        "summary": "North Korea and Russia have held a committee meeting on economic cooperation in Pyongyang and agreed to step up joint projects in various economic fields, the North's state media reported Saturday. The 13th meeting of the bilateral intergovernmental committee for cooperation in trade, economy, science and technology was held at the Pyongyang Assembly Hall on Friday, according to the Korean Central News Agency (KCNA). Yun Jong-Ho, North Korea's minister of external economic relations and chairman of the committee on the North Korean side, and Russian Natural Resources and Ecology Minister Alexandr Kozlov, who heads the Russian side, attended the meeting, along with Russian Ambassador to the DPRK Andrey Podelyshev and other officials, it added. During the meeting, the two sides \"reaffirmed their will to firmly consolidate the militant fraternity, friendship and alliance between the two cou...",
+        "fullText": [
+          "North Korea and Russia have held a committee meeting on economic cooperation in Pyongyang and agreed to step up joint projects in various economic fields, the North's state media reported Saturday. The 13th meeting of the bilateral intergovernmental committee for cooperation in trade, economy, science and technology was held at the Pyongyang Assembly Hall on Friday, according to the Korean Central News Agency (KCNA).",
+          "Yun Jong-Ho, North Korea's minister of external economic relations and chairman of the committee on the North Korean side, and Russian Natural Resources and Ecology Minister Alexandr Kozlov, who heads the Russian side, attended the meeting, along with Russian Ambassador to the DPRK Andrey Podelyshev and other officials, it added. During the meeting, the two sides \"reaffirmed their will to firmly consolidate the militant fraternity, friendship and alliance between the two cou..."
+        ],
+        "words": [
+          "russia",
+          "economic",
+          "cooperation"
+        ],
+        "question": "What is the main point of this story?"
+      },
+      {
+        "category": "Inter-Korea",
+        "source": "The Korea Times",
+        "title": "Spy agency says monitoring developments amid speculation over NK leader's possible China visit",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261128/spy-agency-says-monitoring-developments-amid-speculation-over-nk-leaders-possible-china-visit?utm_source=rss",
+        "summary": "South Korea's spy agency said Saturday it is closely monitoring developments amid speculation that North Korean leader Kim Jong-un could make another visit to China. \"We are monitoring various developments,\" the National Intelligence Service said in response to a Yonhap News Agency inquiry about media reports that Kim's visit to China could be imminent. Speculation over a possible visit gained traction after Chinese President Xi Jinping reportedly gave President Lee Jae Myung indications that could be interpreted as suggesting the possibility of a visit to China by a senior North Korean official, during their summit in Shenzhen last week on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit. In response to media reports that Xi had mentioned the possibility of a visit by Kim, Cheong Wa Dae said Friday that there was \"no mention to the effect reported by the media,\" addi...",
+        "fullText": [
+          "South Korea's spy agency said Saturday it is closely monitoring developments amid speculation that North Korean leader Kim Jong-un could make another visit to China. \"We are monitoring various developments,\" the National Intelligence Service said in response to a Yonhap News Agency inquiry about media reports that Kim's visit to China could be imminent.",
+          "Speculation over a possible visit gained traction after Chinese President Xi Jinping reportedly gave President Lee Jae Myung indications that could be interpreted as suggesting the possibility of a visit to China by a senior North Korean official, during their summit in Shenzhen last week on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit. In response to media reports that Xi had mentioned the possibility of a visit by Kim, Cheong Wa Dae said Friday that there was \"no mention to the effect reported by the media,\" addi..."
+        ],
+        "words": [
+          "agency",
+          "monitoring",
+          "developments"
+        ],
+        "question": "What is the main point of this story?"
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "label": "Friday, November 27, 2026",
     "title": "Korea News Brief",
